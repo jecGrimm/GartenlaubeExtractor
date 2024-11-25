@@ -5,7 +5,7 @@ This script extracts the Gartenlaube articles from wikisource, splits them up in
 ### CLI
 `python3 extract.py`
 
-The optional argument `-m (test|run)` specifies whether the texts and metadata should be extracted from wikisource from scratch (modus `run`). If the modus `test` is activated, the already extracted texts and metadata are drawn from the file `test_dicts.json`. In this case, you need to specify yourself which functions you want to test.
+The optional argument `-m (test|run)` specifies whether the texts and metadata should be extracted from wikisource from scratch (modus `run`). If the modus `test` is activated, the already extracted texts and metadata are drawn from the file `test_dicts.json` (if available). In this case, please specify which functions should be tested.
 
 ### Environment
 The packages needed to run the script are stored in the file `gartenlaube_environment.yml`. To create your own environment for this script, follow these steps:
@@ -13,15 +13,6 @@ The packages needed to run the script are stored in the file `gartenlaube_enviro
 1. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 2. Run `conda env create -f environment.yml` in your terminal to create the `gartenlaube` environment used to run this script.
 3. Run `conda activate gartenlaube` to activate the environment before running the script.
-
-### Output structure
-The output is stored in the `output`-directory. This directory contains to sub-directories `episodes` and `whole_texts`.<br> 
-
-`episodes` contains the split up text files for serial publications. The filename has the following structure:<br> <document_raw_id>-<episode_id>\_\<title>\_\<year>\_\<journal><br> 
-
-`whole_texts` contains the whole text files for all publications regardeless of their seriality. The filename has the following structure:<br> <document_raw_id>-00\_\<title>\_\<year>\_\<journal><br>
-
-The metadata is appended at the end of to the existing file `Bibliographie.csv`.
 
 ## Structure
 ### extract.py
@@ -31,7 +22,15 @@ Script with the class GartenlaubeExtractor containing all of the needed methods 
 List containing the last extracted text_dicts and meta_dicts. This file can be used for testing purposes.
 
 ### output
-Directory containing the extracted text files.
+The output is stored in the `output`-directory. This directory contains to sub-directories `episodes` and `whole_texts`.<br> 
+
+#### texts
+`episodes` contains the split up text files for serial publications. The filename has the following structure:<br> <document_raw_id>-<episode_id>\_\<title>\_\<year>\_\<journal><br> 
+
+`whole_texts` contains the whole text files for all publications regardeless of their seriality. The filename has the following structure:<br> <document_raw_id>-00\_\<title>\_\<year>\_\<journal><br>
+
+#### metadata
+The metadata is appended at the end of to the existing file `Bibliographie.csv`.
 
 ### resources
 #### black_list
@@ -77,6 +76,9 @@ The gender is assumed by checking in which list of firstnames (male or female) t
 #### Position in the journal
 The field `Nummer im Heft (ab 00797: 1 erste Position. 0 nicht erste Position)` is true if the text occurs at the first position of the journal. However, this script only returns true if the text is printed on the first page of the journal.
 
+#### Pages
+The field `Seiten` marks the pages of the text in the journal. Unfortunately, wikisource does not always provide the page numbers for each episode. In these cases, the field is filled with the page numbers for the whole article. 
+
 ## Limitations
 ### Text
 #### Quality
@@ -86,7 +88,26 @@ As the texts are automatically collected from wikisource, we cannot account for 
 The Gartenlaube is a journal containing texts from the 19th century. Many of these texts might contain bias and discriminative ideas. Please be aware of that and read these texts with a critical mind. 
 
 ### Metadata
-TODO: fehlende Felder
+The following fields are not automatically filled in the metadata table:
+- `Pseudonym`
+- `Untertitel im Text`
+- `Untertitel im Inhaltsverzeichnis`
+- `Gattungslabel_ED`
+- `Gattungslabel_ED_normalisiert`
+- `Medium_Zweitdruck`
+- `Jahr_Zweitdruck`
+- `Label_Zweitdruck`
+- `Medium_Drittdruck`
+- `Jahr_Drittdruck`
+- `Label_Drittdruck`
+- `in_Pantheon`
+- `in_RUB_Sammlung`
+- `in_B-v-Wiese`
+- `Verantwortlich_Erfassung`
+- `falls_andere_Quelle`
+- `Herkunft_Prätext_lt_Paratext`
+- `Wahrheitsbeglaubigung_lt_Paratext`
+- `ist_spätere_Fassung_von`
 
 ### Future Work
 - Extract missing fields in the metadata. 
