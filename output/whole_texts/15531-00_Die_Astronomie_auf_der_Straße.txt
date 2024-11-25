@@ -1,0 +1,132 @@
+[674] Die Astronomie auf der Straße.[1]
+Dem Leser dürfte bekannt sein, daß die meisten größeren Tageszeitungen 
+regelmäßig etwa zu Anfang eines Monats den Stand der Hauptplaneten 
+mitzutheilen pflegen. Dies ist deshalb nothwendig, weil die 
+Planeten in einer gewissen komplizierten Weise ihren Ort unter den 
+übrigen Sternen fortwährend wechseln. Die Mittheilung ihres jeweiligen 
+Orts geschieht durch Angabe ihrer „Rektascension“ (gerade Aufsteigung) 
+und „Deklination“ (Abweichung); es handelt sich also nur darum, erstens 
+die Bedeutung der Rektascension und Deklination zu erklären und
+zweitens zu erläutern, weshalb die Mittheilung gerade dieser beiden Größen 
+zur Sternbestimmung nothwendig ist und ausreicht.
+Betrachten wir zur Nachtzeit irgend einen Stern, z. B. den „Arktur“, 
+und fragen uns, wie seine Lage am Himmel am einfachsten bestimmt 
+werden kann, so liegt bei oberflächlicher Ueberlegung der Gedanke am
+nächsten: durch seine Höhe über dem Horizont und den auf seinem 
+Höhenkreis gemessenen Abstand von einem festen Anfangspunkt, z. B. 
+vom Meridianpunkt. Aber bald leuchtet ein, daß diese Angabe 
+nur für eine bestimmte Zeit der Nacht und für 
+einen bestimmten Ort des Beobachters Geltung 
+hätte; sie wäre – wenigstens aus dem zweiten 
+Grunde – für eine allgemeine Mittheilung 
+ebenso ungeeignet wie die folgende: Frankfurt a. M. 
+liegt fünfzig Kilometer nordöstlich. 
+Wir haben also zwei die Sternorte 
+bestimmende Größen aufzusuchen, welche 
+für jede Zeit und für jeden Standort 
+auf der Erdoberfläche dieselben bleiben.
+
+
+Nun wird auf der Erdoberfläche 
+ein Punkt bekanntlich durch seine 
+geographischen „Koordinaten“, seine 
+geographische Länge und Breite 
+festgelegt; die Länge wird von einem 
+vereinbarten ersten Meridian aus 
+in einer ebenfalls vereinbarten 
+Richtung, nämlich von Westen nach 
+Osten, gezählt; die Breite vom 
+Aequator aus nach Norden oder 
+Süden abgemessen. Als Einheit für 
+die Längen wird entweder der Grad 
+oder die Stunde gewählt, also der 
+Aequator entweder nach 360 Graden 
+oder nach 24 Stunden eingetheilt; die 
+geographische Breite wird nach Graden 
+gemessen, indem man vom Aequator aus 
+südlich und nördlich vom nullten bis zum 
+neunzigsten Grade fortschreitet.
+Analog ist für die Himmelskugel, das scheinbare 
+Himmelsgewölbe, die Rektascension und Deklination 
+genau dasselbe, was für die Erdkugel geographische Länge 
+und Breite ist.
+Die Erdachse, die Verbindungslinie des Nordpols und Südpols, 
+schneidet verlängert die Himmelskugel in deren Polen; der eine, der 
+Nordpol des Himmels, fällt nahezu mit dem Polarstern zusammen. Denkt 
+man sich ebenso die Ebene des Erdäquators erweitert, so schneidet sie die 
+Himmelskugel in einem größten Kreise, dem Himmelsäquator. Wie jeder 
+Punkt der Erdoberfläche so beschreibt auch jeder Stern der Himmelskugel 
+täglich einen Kreis um die Himmelsachse; einen um so kleineren, je näher 
+der Stern dem Polarstern liegt (z. B. die Sterne des Großen Bären, die 
+für uns niemals untergehen), einen um so größeren, je näher er dem 
+Aequator liegt. Entsprechend der geographischen Länge wird die
+Rektascension auf dem Himmelsäquator gemessen, entsprechend der
+geographischen Breite die Deklination vom Aequator aus nördlich oder südlich 
+nach den Himmelspolen zu.
+Um uns also am Himmelsgewölbe den Himmelsäquator vorstellen zu 
+können, haben wir uns an demselben einen Kreis zu denken, der vom 
+Polarstern überall um einen Viertelskreisbogen absteht; folglich wird 
+für einen Beobachter am Nordpol, wo der Polarstern im Zenith steht, 
+der Himmelsäquator mit dem Horizont zusammenfallen, während in 
+unseren Breiten der Himmelsäquator ein Kreis sein wird, der zur Hälfte 
+schief über dem Horizont aufsteigt, zur Hälfte unter dem Horizont liegt. 
+Nur für einen Beobachter auf dem Erdäquator selbst ist der Himmelsäquator 
+ein senkrechter Kreis, also die Rektascension in Wahrheit eine 
+„gerade“ Aufsteigung. Ein sehr bequemes Mittel kommt der Vorstellung 
+des Aequators am Himmel zu Hilfe: der Himmelsäquator
+geht durch den Gürtel des Orion, den „Jakobsstab“, dessen 
+Lage aus dem beigegebenen Sternkärtchen wie aus dem früheren in 
+Halbheft 24 des Jahrgangs 1891 zu ersehen ist.
+Jetzt haben wir nur noch einen Anfangspunkt für die 
+Bemessung der Rektascension (entsprechend dem Anfangspunkt 
+auf dem Erdäquator mittels des ersten Meridians 
+durch Ferro oder Greenwich) zu gewinnen. Als 
+solcher ist der sogenannte Frühlingspunkt 
+vereinbart. Aus guten Gründen möge 
+derselbe nicht weiter astronomisch definiert, 
+sondern nur seine ungefähre Lage am Himmel 
+angegeben werden. Am zweckmäßigsten 
+findet man ihn, wenn man in Gedanken 
+den Stern 4 des Großen Bären mit 
+dem Polarstern durch eine gerade 
+Linie, oder besser gesagt durch einen 
+größten Kreisbogen, verbindet und 
+diese Linie bis zum Himmelsäquator 
+fortsetzt; sie geht ziemlich genau durch 
+den äußersten Stern in dem W der 
+Cassiopeia. Der Schnittpunkt dieser 
+Linie mit dem Aequator stellt 
+gegenwärtig den Frühlingspunkt dar, und 
+von hier aus werden also die 
+Rektascensionen in einer vereinbarten 
+Richtung, nämlich in der Richtung von 
+West über Süd nach Ost, gezählt, nach 
+Einheiten von 0 bis zu 360 Graden 
+auch von 0 bis 24 Stunden. Als 
+„gegenwärtiger“ Frühlingspunkt muß 
+jener Punkt des Aequators deshalb bezeichnet 
+werden, weil der Frühlingspunkt im Laufe 
+der Zeit stetig wandert; in dem Zeitraum eines 
+sogenannten „platonischen“ Jahres, d. h. 
+während beiläufig 26000 Jahren, vollendet er einen 
+ganzen Umlauf am Himmel. – Für ein Beispiel zur 
+Auffindung eines Sternes durch Rektascension und 
+Deklination wurde in dem Kärtchen der Stern Algol gewählt; die dort 
+angegebenen Bezeichnungen machen weitere Bemerkungen unnöthig. –
+Wenn diese Aufsätze, die wir nun schließen, dazu beigetragen haben, 
+dem einen oder anderen unserer Leser die doch uns allen gemeinschaftliche 
+Liebe zur Betrachtung des gestirnten Himmels zu erhöhen, wenn sie dem 
+einen oder anderen zum Hilfsmittel geworden sind, sich einigermaßen am 
+Sternenhimmel zurechtzufinden, so haben sie ihren Zweck erreicht. Was 
+könnte es auch Erhebenderes geben, als in einer klaren Herbst- oder 
+Winternacht aufzublicken zu den Wundern des in fleckenloser Reinheit erstrahlenden 
+Firmaments und in seiner Anschauung einige Augenblicke alles Kleine und
+Enge im Menschendasein zu vergessen! Und wenn dann unter den Legionen
+von Himmelslichtern dies oder jenes wie ein guter Bekannter herabgrüßt,
+dann ergreift auch den bescheidenen Betrachter ein Gefühl der Befriedigung,
+das die Schauer der Unendlichkeit mildert. Dr. C. Cranz.     
+0
+
+
+
+1. ↑ Vergl. Halbheft 17 dieses Jahrgangs.

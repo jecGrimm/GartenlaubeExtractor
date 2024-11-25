@@ -1,0 +1,7 @@
+[544] Schach.
+Aufgabe Nr. 5.
+Stellung: Weiß. K g 6. D b 7. S c 4, d 7. B c 2. Schwarz.
+K e 6. T c 6. B g 7.  Matt in drei Zügen; vom Anonymus von Lille.
+
+Briefwechsel.
+Plauen M–r. Das Problem ist richtig unter der Bedingung eines Bauermattes, welche freilich die Lösung leichter errathen läßt. Ohne solche Bedingung kann Weiß auch durch 3. S b 6 † S b 6 : 4. T c 5 † nebst 5. T c 5 † das Ziel erreichen. Mit nachträglichem S a 6 bleibt 3. S e 3. 4. T c 3 – c 5. 5 c 4 † möglich. — Leipzig. H. F.  Richtig; wie aber lösen Sie die Aufgabe, wenn noch ein weißer Bauer auf g 5 steht? – Altona. J. H. E. Nicht richtig, da Schwarz T a 8 — a 1 †  entgegnen kann. – Sebnitz. J. G. W. Das Zeichen o — o bedeutet die Rochade.

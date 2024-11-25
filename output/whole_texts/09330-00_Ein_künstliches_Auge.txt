@@ -1,0 +1,79 @@
+[780] Ein künstliches Auge. Bekanntlich ist das menschliche Auge zunächst
+nur ein physikalischer Apparat, und zwar ein Apparat von großer Vollkommenheit,
+wenn auch nicht so durchaus allen Anforderungen entsprechend,
+wie man ihn, mit Helmholtz zu reden, von einem geschickten Optiker
+verlangen würde. Die Camera obscura das dunkle Kästchen, in welchem
+der Photograph seine Bilder erzeugt, ist ein vergrößertes Abbild des
+Auges, und das Bild der Außendinge, welches sich durch die chemische
+Wirkung des Lichtes auf der in diese Kammer eingeschobenen Platte
+fixirt, ist ein vollkommenes Gegenstück zu dem ebenfalls verkehrten Bilde,
+welches sich auf dem Hintergrunde unseres Auges abmalt. Damit sind
+aber die Aehnlichkeiten mit dem physikalischen Apparate zu Ende, denn
+in und hinter der Netzhaut, die den als Bildplatte dienenden Augenhintergrund 
+bedeckt, beginnt erst das eigentliche Sehen, das heißt die
+Empfindung und Deutung des in dem physikalischen Apparate erzeugten
+Bildes der Außendinge. Ein in London lebender deutscher Physiker,
+Herr C. William Siemens, hat indessen kürzlich gezeigt, daß man
+die Analogie noch weiter treiben kann, und ein künstliches Auge mit empfindlicher Netzhaut hergestellt, welches nicht nur Licht und
+Dunkelheit, sondern auch die einzelnen Farben unterscheidet, ja wie ein
+lebendes Auge bei längerem Betrachten einer Farbe ermüdet und, von
+plötzlicher Helligkeit geblendet, die Wimpern schließt. Die empfindliche
+Netzhaut desselben ist aus einer dünnen Schicht von Selen, einem dem
+Schwefel und Phosphor ähnlichen Elementarstoffe, gebildet, wobei an
+Stelle der Nerven, die sich in der Netzhaut verzweigen, zwei galvanische
+Leitungsdrähte spiralig oder im Zickzack parallel neben einander in derselben 
+verlaufen, sodaß überall Selenmasse zwischen ihnen liegt. Das
+Selen zeigt nämlich nach den in den letzten Jahren angestellten Beobachtungen 
+mehrerer englischer Ingenieure und Physiker, wenn es bis
+zu einem gewissen Punkte erhitzt und dann erkaltet ist, bleibend die höchst
+merkwürdige Eigenschaft, vom Lichte derartig beeinflußt zu werden, daß
+es den galvanischen Strom um so besser leitet, je stärker[WS 1] es beleuchtet
+wird. Dr. Werner Siemens, der Chef der weltberühmten Telegraphen-Bauanstalt 
+in Berlin, hat diese Eigenschaft des Selens am genauesten
+studirt und einen sinnreichen Apparat darauf begründet, um die Stärke
+irgend einer auf die Selenplatte fallenden Lichtquelle direct nach dem
+Widerstande zu messen, den ein galvanischer Strom in der beleuchteten
+Selenschicht findet. Der Apparat seines Bruders, das künstliche Auge,
+beansprucht nicht die Wichtigkeit, welche dieser Lichtmesser als wissenschaftliches 
+Instrument möglicher Weise gewinnen kann, er ist dafür um
+so lehrreicher. Das gläserne Auge wird von zwei Wimpern beschattet,
+die nach ihrer Oeffnung das durch eine Glaslinse gebrochene Licht auf die
+künstliche Netzhaut werfen. Die in derselben, ohne sich zu berühren,
+Parallellinien beschreibenden Drähte gehen von einem galvanischen
+Elemente aus und umkreisen, ehe sie in die Netzhaut eintreten, der eine
+einen Elektromagneten, der andere eine Magnetnadel, die hier den Beweis
+liefern soll, daß wirklich, wie Thales lehrte, in ihr eine empfindende
+Seele wohnt. Wird nun vor das künstliche Auge eine weiße Tafel
+gebracht, die man vermittelst eines schwarzen Tuches bald in Dunkelheit
+hüllen, bald mit dem farbigen Schimmer des durch bunte Gläser gegangenen 
+elektrischen oder des Sonnenlichtes betrachten kann, so gewahrt
+man mehr oder minder starke Ablenkungen der Nadel aus ihrer sonst
+mehr oder weniger bestimmten Richtung auf den Nordpol.
+Die kleinste Ablenkung erzeugt das blaue Licht, welches auch dem
+Menschen als das mildeste und ruhigste erscheint. Eine lebhaftere Bewegung 
+der Nadel bewirkt das grüne, eine noch stärkere das gelbe und
+die stärkste das rothe Licht, welches so auch auf Thiere – man denke
+nur an die durch rothe Tücher gereizten Truthähne und Stiere! – die
+stärkste Wirkung ausübt. Läßt man dieses rothe oder andersfarbige
+Licht alsdann anhaltend wirken, so ermüdet die künstliche Netzhaut ebenso
+wie die natürliche und der anfangs stärkere Ausschlag der Nadel nimmt
+allmählich ab. Sie bedarf der Erholung im Dunklen, des Schlafes.
+Man sieht, es entspricht hier die Magnetnadel dem Gehirne, in welchem
+die Eindrücke zur Wirkung kommen, und die Leitungsdrähte den
+Empfindungsnerven, mit denen sie so oft verglichen worden sind. Ja, es
+lassen sich mit diesem Apparate sogar die Reflexbewegungen des Auges
+darstellen, das heißt das unwillkürliche Schließen der Wimpern, wenn
+das Auge durch ein ungewohntes Licht geblendet wird. Es ist zu diesem
+Zwecke nur erforderlich, daß ein Elektromagnet, der durch Anziehung
+eines Ankers die Schließung der Wimpern in Folge des bei intensivem
+Lichte stärkeren Stromes hervorbringt, in die Leitung eingeschaltet werde.
+So roh eine solche Nachahmung sein mag, und so wenig sie geeignet ist,
+unserer wohlbegründeten Bewunderung des Baues der thierischen Sinneswerkzeuge 
+Abbruch zu thun, sicher wird dieses künstliche Auge zu den
+sinnreichsten Lehrapparaten gerechnet werden müssen, die es giebt.
+
+C. St.
+
+
+Anmerkungen (Wikisource)
+↑ Vorlage: je seltener. Vergl. Berichtigung in  Das Bild im Auge sterbender Tiere, Jg. 1877, Heft 10, S. 172

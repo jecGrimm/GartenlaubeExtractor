@@ -1,0 +1,77 @@
+[708] Harder's Jahresuhr. In der Ausstellung der deutschen Kunstgewerbehalle 
+im „Rothen Schloß“ in Berlin, wo sich die sogenannten
+„kleinen Künste“ ein für die Augen der Besucher berückendes und für ihre
+Geldbeutel oft gefährliches Stelldichein geben, zieht seit längerer Zeit
+eine neuere deutsche Erfindung, die sogenannte „Schwesteruhr“, die
+Aufmerksamkeit der Kenner auf sich. Sie ist eine fast unhörbar gehende
+Standuhr, die im Jahre nur ein einziges Mal, also etwa in der
+Silvesternacht, aufgezogen zu werden braucht, und deren Regelung auf
+einer neuen Art von Pendel beruht, von dessen allgemeinerer Einführung
+kundige Beurtheiler einen neuen Aufschwung der Uhrmacherkunst erwartet.
+Die Gleichmäßigkeit des Ganges unserer Zimmeruhren beruht bekanntlich
+auf einer Anwendung der Pendelgesetze, welche Galileo Galilei vor drei
+Jahrhunderten entdeckte, als er im Dome von Pisa, augenscheinlich etwas
+zerstreut, die Schwingungen der Kronleuchter beobachtete, welche an
+längeren Ketten vom Gewölbe herabhingen. Sein erstes für die Verbesserung 
+der Uhren wichtig gewordenes Gesetz lautet, daß die Schwingungen 
+eines und desselben Pendels gleichlangzeitig (isochron) ausfallen,
+wenn auch der Ausschlag (in gewissen Grenzen) größer oder kleiner ist,
+so lange sich weder die Länge des Pendels noch die Anziehungskraft der
+Erde verändert.
+Galilei bereits bediente sich deshalb des Pendels als eines Zeitmessers
+bei astronomischen Beobachtungen, und dem berühmten niederländischen
+Physiker und Mathematiker Christian Huygens gelang es 1657 zuerst,
+durch die Verbindung mit dem Pendel den Gang einer Uhr gleichmäßig
+zu machen, was Galileis Sohn Vincenzo angeblich lange ohne Erfolg
+angestrebt haben soll. Die Wirkung des Pendels auf die Uhr, wie sie sich
+in späteren Verbesserungen herangebildet hat, ist bekanntlich die eines
+Tactschlägers von unbestechlicher Genauigkeit, der bei jedem Ausschlage
+nach rechts und links in das von Gewichten oder Federn getriebene Zahnrad 
+einfällt und es zwingt, sich ganz gleichmäßig zu bewegen. Nun verlangt 
+aber ein solcher Pendel von der Triebkraft der Uhr eine erhebliche
+Nachhülfe, um im Gange zu bleiben, da der Widerstand der Luft und die
+Reibung am Aufhängungspunkt des Pendels beständig die ihm mitgetheilte
+Kraft vermindern, und daher kommt es, daß man solchen Uhren durch
+Federn oder Gewichte höchstens auf acht bis vierzehn Tage den ihnen erforderlichen 
+Kraftvorrath mitzutheilen im Stande ist.
+Nun ist aber gerade das häufige Aufziehen, sowie das damit verbundene 
+Vergessenwerden und Nachstellen der Pendeluhren die gewöhnliche 
+Gelegenheitsursache zur Beschädigung des Mechanismus, und schon
+mancher Uhrmacher mag darüber gegrübelt haben, wie ein weniger Kraft
+verbrauchendes Pendel hergestellt werden könnte. Um so überraschender
+ist es, daß eine befriedigende Lösung dieses Problems nicht einem Uhrmacher 
+von Fach, sondern einem sogenannten Dilettanten, der sich aus
+bloßer Liebhaberei mit mechanischen Problemen beschäftigte, gelungen ist,
+nämlich dem Rittergutsbesitzer Harder auf Ransen bei Steinau an der
+Oder. Seine Erfindung besteht in dem sogenannten rotirenden Pendel,
+richtiger: Torsionspendel oder rotirende Scheibe genannt, einer wagerechten
+Scheibe, die in ihrem Mittelpunkte an einer dünnen und schmalen, senkrecht
+von einem festen Punkte herabhängenden Feder befestigt ist und, ohne ihre
+Lage zu verändern, vorwärts und rückwärts schwingt. Da diese Scheibe
+bei ihrer immer gleichbleibenden Lage keine Luft verdrängt und nicht
+gehoben wird, so ist es begreiflich, daß sie durch denselben Kraftaufwand
+unter sonst ähnlichen Verhältnissen fünfzig Mal länger im Gange erhalten
+wird als ein Pendel, also statt einer Woche ein ganzes Jahr.
+Natürlich bestand die Hauptaufgabe zunächst darin, festzustellen, ob
+die Schwingungen des Torsionspendels wirklich ebenso gleichlangzeitig
+(isochron) sind, wie die eines gewöhnlichen Pendels, und nachdem die
+dahingehende Vermuthung sich bestätigt hatte, mit Hülfe der netten Erfindung 
+eine Uhr zu construiren. Der auf dem Gebiete der Uhrmacherkunst 
+völlig unbewanderte Dilettant brauchte nun allerdings Jahre,
+bevor es ihm gelang, eine Uhr von befriedigender Leistung herzustellen,
+und als ihm dies im Jahre 1871 wirklich gelungen war und er auf
+Drängen seiner Freunde um ein Reichspatent nachsuchen wollte, da ereignete 
+sich der in der Geschichte der Entdeckungen und Erfindungen nicht
+seltene Zufall, daß ein badischer Uhrmacher denselben Gedanken gehabt
+und bereits ein Patent darauf erhalten hatte. Die Ausführung dieses
+Patentes geschah indessen in so unvollkommener Weise, daß sie sich als
+verfehlt erwies. Herr Harder hat daher neuerdings das damals verdrängte 
+Kind seiner langjährigen Studien wieder hervorgesucht und
+nunmehr auf dem Wege der Vereinbarung den Patentschutz des
+deutschen Reiches und der österreichisch-ungarischen Monarchie für seine
+Uhr ohne weitere Schwierigkeiten erlangt. Man darf dem Erfinder diesen
+schließlichen Erfolg von Herzen gönnen, denn eine Standuhr, die bei gleich
+genauer Arbeit nicht theurer ist als die bisherigen, dagegen den Vorzug
+besitzt, alle Jahre nur einmal aufgezogen und deshalb nicht so leicht vergessen 
+zu werden, ist sicher eine der allgemeinen Anerkennung würdige Errungenschaft, 
+falls sie sich so bewährt, wie es den Anschein hat.

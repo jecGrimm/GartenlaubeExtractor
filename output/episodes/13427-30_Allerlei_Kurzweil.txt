@@ -1,0 +1,42 @@
+[532] Auflösung der Skat-Aufgabe Nr. 10 auf S. 484.
+Vorhand gewinnt Grünsolo mit Schneider bei folgender Kartenvertheilung: Skat: sZ, sK.
+
+Mittelhand: ew, gW, gO, eZ, rK, rO, r9, r8, r7, sO.
+Hinterhand: rW, sW, gD, eK, eO, rZ, sD, s9, s8, s7,
+denn es folgt z. B.
+
+
+
+1. g7, gO, gD (− 14),
+5. g9, eW, rW (− 4),
+
+
+2. sD, gZ, O (+ 24),
+6. eZ, eO, eD (+ 24),
+
+
+3. g8, gW, sW (− 4),
+7. e7, rK, eK (− 8),
+
+
+4. r7, rZ, rD (+21),
+die übrigen Stiche gehören dem Spieler.
+
+Dasselbe Resultat tritt ein, wenn Mittelhand im 6. Stich ein leeres r vorspielt oder bereits im 4. Stich eZ anbringt. – Dürften jedoch die Gegner eZ und rZ mit einander tauschen, so verliert Vorhand das Grünsolo mit Schneider, denn es folgt:
+
+
+
+1. g7, gO, gD (− 14)
+4. eZ, e7, sO (− 13)
+
+
+2. eO! eD, gW (− 16)
+5. eK! e8, rK (− 8)
+
+
+3. rZ, sW, rD (− 23)
+6. sD! gK, eW (− 17)
+
+und Hinterhand macht überdies noch einen Stich auf rW.
+
+Heft 33[Bearbeiten]

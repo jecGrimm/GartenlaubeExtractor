@@ -1,0 +1,18 @@
+[628] Auflösung der Aufgabe „Zum Kopfzerbrechen“ in Nr. 36: Das folgende Zahlenbild giebt die Veränderungen an, welche gemacht werden müssen, bis das Ziel erreicht ist.
+
+
+In Nr. I ist jeder Platz durch ein Geldstück besetzt. Man ergreift zuvörderst das Geldstück, das sich auf dem sechsten Platze, von links nach rechts gezählt, befindet, und legt es über das fünfte, vierte, dritte hinweg auf das zweite. So entsteht die Position II. Alsdann legt man das siebente auf das elfte, wodurch Position III entsteht etc.
+
+
+Auflösung der Schachaufgabe 4 in Nr. 36.
+
+
+ Weiß:   Schwarz: 
+1. D a 8 – h 8   K d 5 – c 6: (e 6:) 
+2. D h 8 – a 8 † (g 8 †)       beliebig 
+3. S oder L setzt matt.
+
+
+Varianten: a) 1. ..., K d 5 – c 4; 2. S c 6 – a 5 †, K c 4 – d 5; 3. S e 6 – c 7 matt. – b) 1. ..., beliebig anders; 2. D h 8 – d 4 †, K d t – c 6: oder e 6:; 3. S setzt matt.
+
+Heft 43[Bearbeiten]

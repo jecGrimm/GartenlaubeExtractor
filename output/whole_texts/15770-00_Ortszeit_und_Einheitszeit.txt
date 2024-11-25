@@ -1,0 +1,624 @@
+[142] Ortszeit und Einheitszeit.
+In seiner letzten Reichstagsrede am 16. März v. J. hat der
+verstorbene Generalfeldmarschall Graf Moltke noch eine Lanze
+für eine deutsche Einheitszeit gebrochen. Der greise Stratege, der
+zwar einer der fleißigsten Besucher der Reichstagssitzungen war,
+aber seine gewichtige Stimme fast nur zu erheben pflegte, wenn
+es sich um militärische Fragen handelte, ist mit diesem Eingreifen
+bei einem seinem Wirkungskreis anscheinend ferner liegenden Gegenstand dennoch seiner Gepflogenheit nicht untreu geworden, denn es
+waren militärische Gründe, welche ihn dazu bewogen.
+Er ging von den Schwierigkeiten aus, welche dem Personenverkehr auf den deutschen Eisenbahnen aus dem Fortbestand der
+verschiedenen Ortszeiten erwachsen, und wies darauf hin, wie leicht
+es sei, daß bei den nothwendigen Umrechnungen dieser Ortszeiten
+ein Fehler sich einschleiche, der verhängnißvoll werden könnte,
+wenn es sich bei einer Mobilmachung darum handle, die vornehmsten Reisenden, d. h. die zur Vertheidigung des Vaterlands
+bestimmten Truppen, an die bedrohten Grenzen zu befördern.
+Graf Moltke ist nun nicht der erste gewesen, welcher die
+Einführung einer deutschen Einheitszeit verlangte. Vor ihm haben
+schon verschiedene Leute, besonders Eisenbahnfachmänner, sich mit
+der Frage befaßt, ob es nicht für den täglich sich mehrenden
+Eisenbahnverkehr besser wäre, wenn die bis jetzt noch üblichen
+verschiedenen deutschen Ortszeiten, „eine Ruine, die aus der Zeit
+der Zersplitterung stehen geblieben ist“, abgeschafft und durch eine
+deutsche Einheitszeit ersetzt würden. Neuerdings hat sich auch der
+Deutsche Handelstag in diesem Sinne ausgesprochen. Freilich
+sind dagegen von zwei Seiten Bedenken aufgetaucht. Einmal
+sind es die Herren von den Sternwarten, welche mit einer deutschen
+Einheitszeit sich nicht begnügen wollen, sondern verlangen, daß,
+wenn überhaupt mit dem herrschenden System der Ortszeiten
+gebrochen werde, sogleich die Weltzeit zur Einführung gelange.
+Doch scheint dieser fromme Wunsch noch weit bis zu seiner Erfüllung 
+zu haben, denn die Gelehrten streiten sich noch darüber,
+welchem Meridian die Ehre zu theil werden solle, der neuen
+Weltzeit zu Grunde gelegt zu werden, und – „wenn die Gelehrten streiten, ist eine Lösung in fernen Weiten“!
+Von nicht gelehrter Seite dagegen ward die Befürchtung
+geäußert, daß die Einführung einer deutschen Einheitszeit Störungen
+im bürgerlichen Leben veranlassen könnte, sofern die Eisenbahn
+Uhren derjenigen Punkte, welche am weitesten von dem der Einheitszeit zu Grunde zu legenden Meridian entfernt wären, bis
+um eine halbe Stunde und darüber von den entsprechenden Ortszeiten abweichen würden. Doch darf man wohl annehmen, daß
+diese Störungen nicht so häufig oder überhaupt nur im Anfang
+eintreten werden. Empfindet ja doch auch heutzutage niemand
+mehr die Differenz zwischen der wahren Sonnenzeit und der
+mittleren Zeit eines Ortes, welche viermal im Jahre allerdings
+gleich Null ist, aber im Februar über 14 und im November über
+16 Minuten beträgt!
+Würde nun, wie Moltke vorgeschlagen, z. B. der Meridian
+von Stargard 15° östlich von Greenwich, 32,7° östlich von
+Ferro), welcher Deutschland ebenso wie Schweden, Oesterreich und
+Italien durchschneidet und welchen der Verein deutscher Eisenbahnverwaltungen zunächst für den inneren Dienst seiner „mitteleuropäischen Eisenbahnzeit“ zu Grunde gelegt hat, als Richtschnur
+für die zu schaffende deutsche Einheitszeit genommen, so ergäbe
+das eine Zeitverschiedenheit im Osten von 31, im Westen von
+36 Minuten gegen die Sonnenzeit. Solche, ja noch größere
+Abweichungen sind aber in Amerika kein Hinderniß für den Verkehr und das Publikum geworden.
+Ein Ausweg ist nicht wohl zu finden. Es kann sich nur darum
+handeln, zwischen zwei Uebeln zu entscheiden und das kleinere
+zu wählen. Denn so lange die Erde um die Sonne sich dreht,
+wird es verschiedene Ortszeiten geben, d. h. im Osten wird man
+früher Mittag haben und zählen als im Westen. Der dadurch
+entstehende Unterschied zwischen der Ortszeit zweier Punkte wächst
+mit der Entfernung ihrer Meridiane. Die Erde dreht sich in
+24 Stunden um ihre Achse, was auf uns, die wir die Drehung
+der Erde sinnlich nicht wahrnehmen, den Eindrnck macht, als ob
+die Sonne den Weg rund um die Erdkugel in jener Zeit zurücklegte. Da nun die Erde in 360 Grade (Meridiane) eingetheilt ist,
+so wird die Sonne, um scheinbar von der Höhe eines Meridians
+bis zu der des nächsten vorzurücken, 24/360 Stunden, d. h. 4 Minuten
+brauchen. Es wird also ein Ort, der unter dem 31,1. Grade liegt,
+wie Berlin, Mittag haben, wenn der um einen Grad westlicher
+gelegene Ort, also ungefähr Leipzig, erst 11 Uhr 56 hat.
+Diese Differenz der Ortszeiten ist natürlich unbedeutend und
+fällt im bürgerlichen Leben nicht ins Gewicht in solchen Ländern,
+welche keine besonders große Ausdehnung von Ost nach West
+haben. Deutschland erstreckt sich über etwa 17 Längengrade, was
+zur Folge hat, daß der Unterschied zwischen der Ortszeit im
+äußersten Osten und derjenigen im äußersten Westen 17x4 Minuten,
+d. h. etwas über eine Stunde, beträgt.
+Wenn nun auch, wie Moltke richtig bemerkte, ein derartiger
+Zeitunterschied im bürgerlichen Leben keinerlei Störungen hervorruft, 
+so giebt er doch zu unangenehmen Rechnungen Anlaß in
+allen den Einrichtungen, welche die Verbindung der fernsten
+Punkte unter einander zum Zwecke haben, wie Eisenbahnen und
+Telegraphen, oder welche mit Minuten und Sekunden, ja sogar
+mit Tausendstelsekunden rechnen müssen, wie die Sternwarten.
+Handelt es sich aber erst einmal um den internationalen Verkehr,
+wo Entfernungen von 17 Längengraden eine Kleinigkeit sind, dann
+wächst der Zeitunterschied ins große und mit ihm wachsen die
+Schwierigkeiten der Umrechnung und die Möglichkeiten von Irrthümern. Zur Veranschaulichung dieses zunehmenden Abstandes
+der Ortszeiten auf der Erde dient folgende Tabelle, welche die
+Zeit angiebt, welche die Ortsuhren der verschiedenen Punkte östlich und westlich von Berlin zeigen in dem Augenblicke, wann es
+in Berlin 12 Uhr mittags ist.
+Wenn es in Berlin 12 Uhr mittags ist, ist es
+
+
+
+in
+
+erst
+
+die Berliner Uhrgeht also vor um
+
+in
+
+schon
+
+die Berliner Uhrgeht also nach um
+
+
+Uhr
+
+Min.
+
+Sek.
+
+Std.
+
+Min.
+
+Sek.
+
+Uhr
+
+Min.
+
+Sek.
+
+Std.
+
+Min.
+
+Sek.
+
+
+Rom
+11
+56
+21
+–
+3
+39
+Stockholm
+12
+18
+39
+–
+18
+39
+
+
+Kamerun
+11
+43
+25
+–
+16
+35
+Kapstadt
+12
+20
+20
+–
+20
+20
+
+
+Paris
+11
+15
+46
+–
+44
+14
+Konstantinopel
+1
+2
+21
+1
+2
+21
+
+
+London
+11
+6
+2
+–
+53
+58
+St. Petersburg
+1
+7
+39
+1
+7
+39
+
+
+Lissabon
+10
+30
+2
+1
+29
+58
+Moskau
+1
+36
+42
+1
+36
+42
+
+
+Madeira
+9
+58
+43
+2
+1
+17
+Sansibar
+1
+43
+12
+1
+43
+12
+
+
+Reykjawik (Island)
+9
+38
+43
+2
+21
+17
+Teheran
+2
+32
+15
+2
+32
+15
+
+
+Rio de Janeiro
+8
+13
+51
+3
+46
+9
+Bombay
+3
+57
+42
+3
+57
+42
+
+
+Boston
+7
+22
+10
+4
+37
+50
+Tomsk
+4
+56
+16
+4
+56
+16
+
+
+Montevideo
+7
+21
+41
+4
+38
+19
+Kalkutta
+4
+59
+46
+4
+59
+46
+
+
+Valparaiso
+6
+19
+56
+5
+40
+4
+Padang (Sumatra)
+5
+47
+46
+5
+47
+46
+
+
+New York
+6
+10
+28
+5
+49
+32
+Peking
+6
+52
+20
+6
+52
+20
+
+
+Havana
+5
+36
+55
+6
+23
+5
+Jakutsk
+7
+45
+23
+7
+45
+23
+
+
+Mexiko
+40
+30
+4
+7
+29
+56
+Jeddo
+8
+25
+24
+8
+25
+24
+
+
+San Francisko
+2
+56
+45
+9
+3
+15
+Sydney
+9
+11
+25
+9
+11
+25
+
+
+Tahiti
+1
+8
+28
+10
+51
+32
+Auckland
+10
+45
+33
+10
+45
+33
+
+
+Honolulu
+12
+35
+4
+11
+24
+56
+Samoa
+11
+47
+25
+11
+47
+25
+
+Dank diesen verschiedenen Ortszeiten ist es möglich, daß eine
+in der Richtung von Ost nach West verlaufende Bewegung in
+ihrem Endpunkt im Westen scheinbar früher wahrgenommen
+wird, als sie an ihrem Ausgangspunkt im Osten überhaupt angefangen 
+hat, vorausgesetzt, daß die Schnelligkeit der Bewegung
+größer ist als die scheinbare der Sonne, d. h. der Erde.
+Nun legt aber in einer Minute zurück:
+
+
+
+ein Mensch (im höchsten Laufen)
+etwa
+¼
+Kilometer
+
+
+ein Schnelldampfer
+„
+½
+     „
+
+
+ein Rennpferd (im Mittel)
+„
+1   
+     „
+
+
+eine Brieftaube
+„
+1¼
+     „
+
+
+ein Sturmwind
+„
+1½
+     „
+
+
+ein Blitzzug
+„
+1¾
+     „
+
+
+der Schall in der Luft bei 0° Temperatur
+„
+26½
+     „
+
+
+die Erde am Aequator
+„
+26¾
+     „
+
+
+ein Geschoß der d. Küstenartillerie
+„
+30½
+     „
+
+
+ein Geschoß des Infanteriegewehrs 88  
+„
+36   
+     „
+
+
+der elektrische Strom
+„
+10¾
+Mill. „
+
+
+das Licht
+„
+18   
+Mill. „
+
+[143] Es ist also klar, daß nur die mit größerer Schnelligkeit als
+die Erde sich bewegenden Kräfte, d. h. die Geschosse, die Elektricität 
+und das Licht, für unsere Betrachtung herangezogen werden
+können. Da aber die Intensität des Lichtes mit dem Quadrat der
+Entfernung abnimmt und die Tragweite der Geschosse eine verhältnißmäßig 
+beschränkte ist, so kann ihre Bewegung trotz ihrer hohen
+Geschwindigkeit auf größere Entfernungen für menschliche Zwecke
+nicht verwendet werden, und es bleibt uns nur die Elektricität als
+diejenige Kraft übrig, welche sich andauernd schneller fortbewegt als
+die Erde. Eine mittels der Elektricität von Ost nach West gesandte
+Nachricht kann sich also scheinbar selbst überholen, d. h. im Westen
+anlangen, bevor sie im Osten aufgegeben wurde, weil derselbe
+Augenblick auf jedem Punkte der Erde einen andern Namen hat,
+oder mit anderen Worten, weil wir keine allgemeine Weltzeit,
+sondern ebenso viele verschiedene Ortszeiten haben als es Punkte
+giebt, die unter verschiedenen Längegraden, Meridianen, liegen.
+Welch drastische Verwicklungen aus dem Gebrauche der verschiedenen 
+Ortszeiten entspringen können, dafür will ich in folgendem 
+einige besonders bezeichnende Beispiele anführen. Wir haben
+uns dabei nicht auf die Grenzen des Reiches beschränkt, weil die
+Wirkung der Zeitunterschiede bei großen Entfernungen am besten
+ins Auge fällt.
+Am frühen Morgen des 22. November besetzte eine
+englische Division unter General Samuel Browne die afghanische
+Festung Ali Musdschid. Der Korrespondent der „Daily News“,
+Archibald Forbes, ritt sofort nach der Besetzung der Festung nach
+dem zehn englische Meilen entfernten Dschumrud, wo sich der
+Feldtelegraph befand, und sandte die freudige Nachricht in einer
+kurzen Depesche an seine Zeitung. Das Telegramm war datiert
+von 10 Uhr morgens. Der Zeitunterschied zwischen Indien und
+England beträgt ungefähr fünf Stunden. Das um 10 Uhr indischer 
+Zeit aufgegebene Telegramm langte deshalb noch so zeitig
+in der Frühe in London an, daß es in die Morgenausgabe der
+Zeitung aufgenommen werden konnte und um 9 Uhr morgens
+zur Kenntniß der Londoner gelangte, während doch das Telegramm 
+erst um 10 Uhr (aber eben indischer Zeit!) aufgegeben
+war. Dieses scheinbare Ueberholen der Zeit ging noch weiter.
+Zwischen London und New-York beträgt der Zeitunterschied ebenfalls 
+rund fünf Stunden, so daß dieselbe Depesche, von den Londoner 
+Korrespondenten der New-Yorcker Blätter den „Daily News“
+entnommen und über den Ocean telegraphiert, auch in der gewöhnlichen 
+Morgenausgabe der New-Yorker Zeitungen am selben
+Tage erscheinen konnte. Hier beeilten sich wiederum die Korrespondenteu 
+der amerikanischen Provinzialzeitungen, sie über den
+amerikanischen Kontinent zu telegraphieren, und so waren die
+frühen Zeitungsleser in San Francisko, das ein Zeitunterschied
+von ungefähr dreieinviertel Stunden von New-York trennt, in
+der Lage, von einem Ereigniß zu lesen, das sich nach ihrer örtlichen
+Zeitrechnung erst zwei Stunden später in einer Entfernung von
+13000 englischen Meilen auf der andern Seite des Erdballs zugetragen 
+hatte.
+Ein zweites Beispiel, welches nicht weniger drastisch ist, möge
+hier folgen:
+Als anfangs der achtziger Jahre der Nil in Aegypten infolge 
+andauernden Regens im Hochlande unerwartet rasch stieg,
+so daß eine vorzeitige Ueberschwemmung eintrat und in den ersten
+Morgenstunden des Juli ein Damm oberhalb Kairo unerwartet 
+eingerissen wurde, da ward dieses Ereigniß, das eine üble
+Vorbedeutung für die Ernte war, sofort in die Welt telegraphiert,
+um auf die Getreidebörsen zu wirken. Die Depesche nach London
+ging um 6 Uhr morgens in Kairo ab, gelangte nach London
+und von hier nach New-York, wo sie nach ägyptischer Zeit um
+8 Uhr vormittags, nach New-Yorker Zeit jedoch kurz nach Mitternacht 
+in den Händen der neuigkeitslüsternen Zeitungsberichterstatter
+war. Sei es nun, daß die Hitze der Hundstage oder der bereits
+sich geltend machende Schlaf ihren unheilvollen Einfluß ausübten 
+– genug, der New-Yorker Korrespondent einer Zeitung
+von Memphis, einer aufblühenden Handelsstadt im Staate Tennessee
+am Mississippi, beeilte sich, mit amerikanischer Kürze seiner
+Zeitung die wichtige Nachricht sofort mitzutheilen, so daß in der
+frischgebackenen Morgenausgabe der Zeitung die Memphiser Bürger
+mit großem Erstaunen lasen: „Kairo, den 25. Juli, morgens
+6 Uhr. Der Fluß hat in der Nacht einen Damm eingerissen.
+Wasser steigt rasch; Schaden und Gefahr groß.“
+Was war nun natürlicher, als daß die Memphiser glaubten, es
+handle sich um ihren Fluß, den Mississippi, sintemalen außerdem
+etwa 30 geographische Meilen stromaufwärts im Staate Illinois
+an der Mündung des Ohio in den Mississippi eine Stadt liegt,
+welche mit ihrem verhängnißvollen Namen „Kairo“ das fatale
+Mißverständniß heraufbeschwor und in den Köpfen eine ägyptische
+Finsterniß verursachte! Denn hätten die Memphiser bedacht, daß
+ein um 6 Uhr morgens im amerikanischen Kairo abgegebenes
+Telegramm bei aller erdenklichen Hochachtung vor der amerikanischeu 
+Fixigkeit unmöglich um dieselbe Stunde auch schon in ihrem
+Lokalblatt schwarz auf weiß zu lesen sein konnte, so wären sie
+nicht kopflos mit Uebergehung des dampfenden Frühstücks an das
+Ufer ihres Flusses gerannt, der ruhig seine gelben Wogen daherwälzte 
+und trotz allen Wartens eben nicht gefahrdrohend steigen,
+auch keine Trümmer des Kairoer Dammbruches ihnen zutragen
+wollte. Wer denkt aber auch soweit, wenn das Gute, in diesem
+Falle das amerikanische Kairo, so nahe liegt!
+Bei dem dritten Beispiel handelt es sich nicht um so große
+Entfernungen, und doch spielt dabei die Ortszeit eine hochwichtige 
+Rolle.
+Ein Engländer, Mister Fox, hatte seine Frau böslich verlassen. 
+Er reiste einige Zeit in Italien herum und verliebte sich
+schließlich in Messina in eine schöne Tochter des Aetna. Um sie
+heirathen zu können, gab er sich kurzweg für ledig aus. Das
+zweifelhafte Ehebündniß ward eines Tages auf einem im Hafen
+von Messina ankernden englischen Kriegsschiffe geschlossen und der
+Trauungsakt als um 11 Uhr vollzogen protokolliert. Und Mister
+Fox hatte mehr Glück, als er verdiente. Denn kurze Zeit danach
+erhielt er von London die Nachricht, daß seine verlassene Frau daselbst 
+an einem gewissen Tage um 10 Uhr morgens verstorben sei. Das geheime Bangen, das Mister Fox wegen seiner Vielweiberei 
+immer empfunden, löste sich in die seligste Ruhe auf, als
+der saubere Ehemann bei näherer Betrachtung des Datums gewahrte, 
+daß der Todestag seiner ersten Frau der Tag der Hochzeit 
+mit der zweiten gewesen, und daß ihm, da er somit ja eine
+Stunde nach dem Tode der ersten Frau die zweite geheirathet,
+die Ehegesetze seines Landes nichts mehr anhaben könnten.
+Er sandte daher das Protokoll des Trauungsaktes nach
+London, um sich daselbst als neuvermählt in das Standesamts-Register 
+eintragen zu lassen. Aber die englischen Behörden dachten
+nicht wie Mister Fox. Die Sache kam ihnen etwas verdächtig
+vor, und sie verfielen endlich darauf, die Ortszeit von Messina
+mit derjenigen von London zu vergleichen. Der Vergleich ergab,
+daß in dem Augenblick, als die erste Frau in London starb,
+d. h. um 10 Uhr morgens, die Uhr in Messina bereits 11 Uhr
+2 Minuten 42 Sekunden zeigte. Mister Fox hatte also seine
+zweite Frau 2 Minuten 42 Sekunden zu früh geheirathet und
+war demgemäß des Vergehens der Vielweiberei schuldig, weil das
+Protokoll des Marinepfarrers die Trauung als um 11 Uhr in
+Messina vollzogen angab. So groß wie anfangs die Genugthuung
+über das unerhörte Glück wäre jetzt Mister Foxens Niedergeschlagenheit 
+über diesen unerwarteten Ausgang gewesen, hätte nicht
+ein guter Freund ihn darauf aufmerksam gemacht, daß die Uhr
+in Messina nicht die Messinaer, sondern die mittlere Römer Zeit
+zeigt, und daß nach dieser seine erste Frau um 10 Uhr 50 Minuten
+19 Sekunden, d. h. vor seiner Trauung mit der zweiten, gestorben war.
+Die beiden großen Prinzipien, Ortszeit und Einheitszeit,
+werden im Deutschen Reiche am 1. April d. J. zum ersten Male
+äußerlich aufeinander stoßen. Einige süddeutsche Bahnverwaltungen
+haben beschlossen, von diesem Zeitpunkt ab die sogenannte M. E.
+Z., d. h. die mitteleuropäische Eisenbahnzeit, auch in die für das
+Publikum bestimmten Fahrpläne einzuführen, nachdem Oesterreich
+damit bereits vorangegangen ist. Es wird sich bald zeigen, ob das
+bürgerliche Leben sich anschließt, oder ob es an seiner althergebrachten 
+Ortszeit festhält. Nach den Nachrichten, welche bis jetzt
+z. B. aus Württemberg vorliegen, scheint das erstere der Fall
+zu sein. 
+
+H. Gauß.

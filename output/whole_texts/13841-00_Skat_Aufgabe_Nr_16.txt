@@ -1,0 +1,81 @@
+[772] Skat-Aufgabe Nr. 16.
+Von K. Buhle.
+Der Spieler, welcher nach den ersten 4 Stichen:
+
+
+
+1.
+
+V.
+
+M.
+
+H.
+
+ 
+
+3.
+
+M.
+
+H.
+
+V.
+
+
+
+
+
+
+
+(tr. 8.)
+
+(tr. As.)
+
+(tr. Z.)
+
+(c. 7.)
+
+(c. 9.)
+
+(c. 8.)
+
+
+2.
+
+M.
+
+H.
+
+V.
+
+
+
+4.
+
+H.
+
+V.
+
+M.
+
+
+
+
+
+
+
+(p. B.)
+
+(p. Z.)
+
+(p. 9.)
+
+(c. Z.)
+
+(tr. K.)
+
+(c. B.)
+
+keinen Stich mehr erhält, gewinnt das Spiel.
+Welcher von den Dreien ist der Spieler? Was spielte er und wie sitzen die Karten?

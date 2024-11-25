@@ -1,0 +1,8 @@
+[340] Auflösung der Skat-Aufgabe Nr. 2 auf S. 308:
+Die Hinterhand fängt den Ramsch mit zwei Jungfern, wenn die übrigen Karten so vertheilt sind:
+
+Vorhand: sW, eZ, e7, gZ, gO, g8, sD, sZ, s8, s7;
+Mittelhand: eD, eK, eO, e8, gD, g7, rD, rK, r9, rz,
+Skat: gW, sK, denn Vorhand wird am besten sW anziehen und Mittelhand gD darauf abwerfen. Hinterhand kann dann ausspielen, was sie will, die Mitspieler werden immer durch niedrigere Karten ausweichen können. Vorhand hat 46 Augen und Mittelhand 44 Augen in der Hand.
+
+Heft 24[Bearbeiten]

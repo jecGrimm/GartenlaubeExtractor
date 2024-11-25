@@ -1,0 +1,28 @@
+[292] 
+
+
+Auflösung der Schach-Aufgabe Nr. 2 auf S. 276:
+
+
+Weiß:
+
+Schwarz:
+
+
+1. S d 7 — c 5
+
+L g 1 — h 2!
+
+
+2. D f 3 — f 6 †
+
+beliebig.
+
+
+3. D, S oder B setzt matt.
+
+1. . . . K d 4 — e 5 oder c 5:  2. D f 3 — f 6 (†)  beliebig (K : D)  3. S b 6 — d 7 resp. b 2 – b 4  matt.   Es droht:  2. D f 6 †  nebst 3. S c 4 resp- b 2 — b 4  matt. Auf 1. . . . S e 2 zieht, setzt 2. D c 3 gleich matt.
+
+Auflösung des Räthsels auf Seite 276: 0 Stern – Ostern.
+
+Heft 17[Bearbeiten]

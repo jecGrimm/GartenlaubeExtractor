@@ -1,0 +1,27 @@
+[628] Skat-Aufgabe Nr. 13.
+Von Dr. Rietzsch in Dresden.
+Die Vorhand verliert auf folgende Karte:
+
+ein Eichel (tr.)-Solo; denn die Gegner erhalten 60 Augen. Wie sitzen die Karten und wie ist der Gang des Spiels?
+
+Auflösung der Skat-Aufgabe Nr. 12 auf S. 564.
+Wie sich aus dem 3. und 5. Stiche der Aufgabe ergiebt, besaß die Hinterhand nur einen Trumpf (e8), und da sie herauf sicherlich keinen Stich machen konnte, so hätte sie denselben schon im 2. Stiche anstatt der s7 wegwerfen sollen, um später eventuell wimmeln zu können. Wäre z. B. die Sitzung folgende gewesen: Skat: gK, rZ,
+
+Vorhand: gW, rW, sW, gD, gZ, gO, g8, rO, r7, sK,
+Spieler: eW, eD, eZ, eK, eO, e9, e7, g9, sO, r8,
+Hinterhand: e8, g7, rD, rK, r9, sD, sZ, s9, s8, s7,
+so folgte nach den 6 Stichen der Aufgabe noch
+
+7. sK, sO, sZ (−17) und 8. rD, rO, r8 (−14),
+so daß die Gegner nur 57 Augen bekommen. – Dagegen wäre bei fehlerloser Spielführung der Gang des Spieles so gewesen:
+
+1. gD, g9, g7 (−11)
+2. gZ, eO, e8 !! (+13)
+3. e9, sD, sW. (−13)
+4. sK, sO, sZ. (−17)
+5. rD, rO, r8 (−14)
+6. s9, r7, eD. (+11)
+worauf die Gegner noch 6 Augen, also zusammen 61 Augen erhalten müssen.
+
+Auflösung des Scherz-Räthsels auf S. 612:Burgunderwein.
+Heft 39[Bearbeiten]

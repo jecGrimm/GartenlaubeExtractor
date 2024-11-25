@@ -1,0 +1,352 @@
+[105] Vorlesungen über nützliche, verkannte und verleumdete Thiere.Gehalten in Genf während des Winters 1860-61.Von Carl Vogt.[1]
+Seit längeren Jahren schon werden in Genf allwinterlich öffentliche Vorlesungen verschiedenen Inhaltes für Leute aller Stände 
+in dem Saale des großen Rathes gehalten, zu welchen beide Geschlechter Zutritt haben. Auf den Antrag eines seiner Mitglieder, des 
+Herrn A. Carteret, den das demokratische Genf mit Liebe als einen seiner Vorkämpfer nennt, beschloß der große Rath einstimmig, der 
+Regierung alljährlich einen Credit zu solchen Vorlesungen zu eröffnen, der genügend sei, die Professoren für ihre Mühe und Aufwand 
+zu entschädigen. Den Unterzeichneten traf im Winter 1855–56 das Loos, diese Vorlesungen mit Vortragen über die Geologie zu 
+eröffnen. Die Stunde wurde so gewählt, daß die Arbeiter nach Schluß ihrer Werkstätten, die Geschäftsleute nach Beendigung ihrer 
+Tagesarbeit sich in den Hörsal begeben konnten. Der Anfangs gewählte Saal, die Aula, war bald zu klein – die erste Serie der 
+Vorlesungen mußte schon in einem größeren Locale, dem jetzt gewählten Saale des großen Rathes, in welchem 5–600 Personen 
+Raum finden, wiederholt werden.
+Die Einrichtung dieser Vorlesungen ist anders, als in den meisten deutschen Universitätsstädten, wo einzelne akademische Vorträge 
+über einen isolirten Gegenstand, meist sogar gegen Eintrittsgeld, Statt finden. In Genf werden dem Vortragenden zehn bis 
+zwölf Vorlesungen eingeräumt – er kann also einen Gegenstand erschöpfend behandeln und dem Zuhörer nicht nur ein einzelnes
+[106] wissenschaftliches Portrait, sondern ein ganzes compenirtes Bild vorführen. Das Programm dieser Vorträge wird mit der Direction 
+des öffentlichen Unterrichts vereinbart, von welcher auch meist die Initiative ausgeht; man sorgt dafür, daß jeden Abend von 8–9 Uhr 
+eine Vorlesung Statt habe und daß in der Wahl der Stoffe naturwissenschaftlichen, politischen und literarischen Inhaltes die nöthige 
+Abwechslung gegeben sei. Zum Verständniß dieser Einrichtung erlaube ich mir hier, das Programm der diesjährigen Vorlesungen mitzutheilen 
+– vielleicht, daß auch anderwärts das Streben Genfs Nacheiferung findet.
+Erste Serie. Vom 10. November bis 22. December 1860 Montags und Donnerstags. Professor Privat über Experimentalchemie. Zehn Vorlesungen. Dienstags und Freitags. Professor Dameth, Geschichte des Handels. Zehn Vorlesungen. Mittwochs und Samstags. Doctor Claparède. Physiologie des Menschen. Zehn Vorlesungen.
+Zweite Serie. Vom 7. Januar bis 9. Februar 1861. Montags und Donnerstags. Professor Vogt über nützliche und schädliche 
+Thiere. Zehn Vorlesungen. Dienstags und Freitags. Professor Amiel über Philosophie der Muttersprache. Zehn Vorlesungen. Mittwochs 
+und Samstags. Professor Humbert über die französischen Moralisten. Zehn Vorlesungen.
+Man kann sagen, daß diese Vorlesungen jetzt, nach mehrjähriger Uebung, eine Gewohnheit des Volkes, der höheren Stände 
+wie der Arbeiterclassen, geworden sind. Das durch Maueranschläge, Anzeigen in allen Journalen und besonderen Blättern veröffentlichte 
+Programm detaillirt den Gegenstand jeder einzelnen Vorlesungsstunde und läßt Jeden zum Voraus wissen, worüber der Vortragende 
+sprechen wird. Man bemerkt sehr bald, daß sich für jeden Vertrag ein besonderes Publicum bildet, welches für den besprochenen Gegenstand 
+ein specielles Interesse zeigt und häufig durch Briefe und Anfragen nach der Vorlesung seine Sympathie oder seinen Widerspruch 
+zu erkennen giebt. Der Eifer, womit man sich zu den Vorlesungen drängt, das Interesse, womit dieselben in der Presse, in 
+öffentlichen und Privatcirkeln besprochen werden, zeigen jedenfalls, daß die Einrichtung an und für sich keine verfehlte, der Einfluß 
+derselben ein bedeutender sei.
+Die ersten Vorlesungen, welche ich vor einigen Jahren über allgemeine Geologie hielt, liegen schon seit längerer Zeit gedruckt 
+vor mir in Gestalt eines elegant ausgestatteten Buches in französischer Sprache, dessen Erscheinen leider durch widrige Verhältnisse 
+bis jetzt verhindert wurde. Zur Bearbeitung der nachfolgenden Vorlesungen in deutscher Sprache, also in Uebersetzung (denn trotzdem, 
+daß Genf denselben Reichsadler im Wappen führt, ist es doch in Sitten, Leben und Sprache eine französische Stadt), gab der Verleger 
+und Herausgeber der Gartenlaube, durch eine Freundes-Aeußerung bestimmt, die Veranlassung. Wenn auch das Niederschreiben eines 
+durchaus frei gehaltenen Vortrages einige Schwierigkeiten haben mag und das Fehlen der Illustrationen, die in den Vorlesungen 
+selbst durch große Wandmalereien ersetzt sind, einen Reiz weniger veranlassen mag, so hoffe ich doch für die Vorträge in dieser Gestalt 
+eine eben so vortheilhafte Aufnahme, als die gesprochenen Vorlesungen bis jetzt in der freilich sehr zu ihrem Vortheil geänderten Stadt 
+Calvin’s gefunden zu haben scheinen.
+Genf den 22. Januar 1861. 
+
+Carl Vogt.
+
+
+
+
+
+Erste Vorlesung.
+Meine Herren!
+Vor etwa zehn Jahren wurde ich in Nizza von einem befreundeten 
+Abbé gebeten, die Verwüstungen eines großen Artischockenfeldes 
+zu untersuchen, das von einem Raupenheere auf die jämmerlichste 
+Weise zugerichtet wurde. Wir fanden den Besitzer mit seinem 
+ganzen Hausstande in einer Art von Verzweiflung; die Hälfte der 
+Ernte eines wenigstens vier Morgen großen Feldes war schon 
+unrettbar verloren! Ich erkannte die Raupe auf den ersten Blick 
+an ihrer braungrauen Farbe und den weißen verästelten Dornen 
+als diejenige des Distelfalters (Vanessa cardui), die ich in meiner 
+Jugend öfters zum Schmetterlinge erzogen hatte. Auf der einen 
+Seite eines trockenen Grabens, der das Feld in der Mitte durchschnitt, 
+standen nur noch die Rippen der verdorrenden Artischocken 
+empor, von Tausenden emsig fressender Raupen besetzt; über den 
+Graben hinüber waren die Raupen noch nicht gelangt. Ich rieth, 
+denselben sogleich voll Wasser zu pumpen, um auf diese Weise dem 
+Weitergreifen der Verwüstung ein Ende setzen und dann sich mit 
+der Vertilgung des Geschmeißes im angegriffenen Theile beschäftigen 
+zu können. Mit Achselzucken erklärte der Landwirth, man 
+könne wohl nichts Verkehrteres ersinnen; – die Würmer seien vor
+acht Tagen etwa als ganz kleine Dinger mit einem starken Südwinde 
+über das Meer aus Afrika herübergekommen und würden 
+sich also nicht durch einen Wassergraben, der einige Fuß breit sei, 
+abhalten lassen. Ich gab mir vergebliche Mühe, dem Manne den 
+Zusammenhang zwischen einigen verblaßten Distelfaltern, die noch 
+umher flogen, und diesen Würmern klar zu machen. Er blieb 
+hartnäckig bei seiner Ansicht von der afrikanischen Abstammung 
+und der Unmöglichkeit der Eingrenzung durch Wasser, ließ einige 
+Messen gegen die teuflische Wirthschaft der Würmer lesen und sah 
+mit der gläubigen Ergebung des duldenden Christen der Verwüstung 
+der zweiten Hälfte des Gutes ruhig zu, ohne irgend welche Gegenmaßregeln 
+zu ergreifen.
+Ich muß gestehen, daß dieser Vorfall mich aufmerksam machte. 
+Die Unkenntniß des italienischen Landmanns ist allerdings bedauernswerth; 
+allein können wir, die wir uns höherer Civilisation 
+rühmen, jenem Nizzarden gegenüber unser Haupt so stolz erheben? 
+Leben nicht unzählige Vorurtheile überall, unter dem Volke, wie 
+unter den Gebildeten fort, und thut nicht der Landmann, der mit 
+höchster Befriedigung einen Bussard oder eine Eule an sein Scheunenthor 
+nagelt und dem Maulwurfsfänger einige Groschen für 
+jeden gefangenen Maulwurf bezahlt, sich noch obenein einen directen 
+Schaden an, indem er den Feind seiner Feinde aus dem Leben 
+schafft, während der Italiener doch nur einem wirklichen Uebel 
+gegenüber eine ohnmächtige Hülfe anrief, die er in seinem naiven 
+Glauben für wirksam hielt?
+Indem ich hier von den schädlichen und nützlichen Thieren 
+reden will, fasse ich diese Begriffe ganz im Sinne des hausbackenen 
+menschlichen Egoismus, ohne mich weiter um die große Frage des 
+Guten und Bösen in der Natur in irgend einer Weise zu bekümmern. 
+Ich beschränke mich durchaus auf die Beziehung der 
+Thiere zu dem Menschen, den ich als unbeschränkten Tyrannen 
+der Schöpfung de facto anerkenne und sage: die Feinde unserer 
+Feinde sind unsere Freunde – die Freunde unserer Feinde unsere 
+Feinde – die Freunde unserer Freunde unsere Freunde – wie 
+das alte französische Sprüchwort sagt: Alles was uns zuwider ist, 
+ist schädlich; Alles was uns direct oder indirect durch Vertilgung 
+unserer Feinde Beistand leistet, nützlich.
+Auf diesen letzteren Punkt möchte ich namentlich aufmerksam 
+machen. Die wirkliche Natur ist ein beständiger Kriegszustand, 
+ein unablässiger Kampf um das Dasein gegen Feinde und Concurrenten, 
+dem nur stellenweise durch den Winter das beschränkte 
+Halt! eines zeitlichen Waffenstillstandes zugerufen wird. Wenn 
+wir vom Frieden in der Natur sprechen, so tragen wir nur unsere 
+augenblicklichen Gefühle in dieselbe über und geben uns einer durch 
+unsere innere Stimmung motivirten Täuschung hin. Es mag uns 
+sehr friedlich und behaglich stimmen, im frischen Waldesgrün, am 
+Ufer eines murmelnden Baches, im schwellenden Moose zu lagern; 
+aber nichtsdestoweniger lauert überall um uns her, in der Luft, in 
+dem Grase, in der Erde und in dem Wasser, die Vernichtung und 
+spinnt sich der beständige Krieg um die Existenz zwischen all’ den 
+großen und kleinen Thieren fort, deren Bewegungen unser Auge 
+mit Wohlgefallen folgt. Jenes Vögelchen, das so graziös von 
+Zweig zu Zweig hüpft und zuweilen seinen Gesang ertönen läßt, 
+hegt während seiner scheinbar friedlichen Beschäftigung nur Mordgedanken 
+gegen die Fliegen, die sich auf den Blättern des Baumes 
+sonnen; der Specht, den wir in der Ferne hämmern hören, klopft 
+Käfer und Larven zu seinem Mittagsmahle hervor; die Schlupfwespe, 
+welche von Blume zu Blume wippt, sucht ein unglückliches 
+Opfer, auf dessen Kosten sich ihre Nachkommenschaft ernähren soll. 
+Der Mensch steht mit seinen Culturen, mir seiner Sorge um die 
+eigene Existenz, die er nur auf Kosten der übrigen Geschöpfe erhalten 
+kann, mitten in diesem Kampfe, und wer darin sein Bundesgenosse 
+ist, wenn auch diese Bundesgenossenschaft nur aus rein 
+egoistischen Absichten hervorgeht – den nimmt er nicht nur an, 
+[107] sondern schützt und verehrt ihn sogar, je nach der Culturstufe, auf 
+der er sich befindet, ohne Rücksicht auf die sonstigen moralischen 
+Eigenschaften, die man dem Bundesgenossen etwa zuschreiben könnte. 
+Ist der Ibis, den die alten Aegypter verehrten, oder der Storch 
+und die Schwalbe, die wir in Deutschland und der Schweiz 
+schützen, sind diese nützlichen Thiere, die sich nur von anderen 
+lebenden Thieren nähren, etwa weniger grausam, als der Hühner- 
+und Taubenhabicht, die wir in jeder Weise verfolgen?
+Ich beschränke also den Gegenstand dieser Vorlesungen durchaus 
+auf die dem Menschen nützlichen und schädlichen Thiere; aber 
+auch hier muß ich den Stoff, der über die Kürze der zugemessenen 
+Zeit weit hinaus gehen würde, noch weit enger umgrenzen. Ich 
+schließe die Schmarotzerthiere des Menschen, sowie die sämmtlichen 
+Hausthiere aus; ich beschäftige mich nicht mit den jagdbaren Thieren; 
+ich überlasse diejenigen Bestien, welche im Walde hauptsächlich 
+ihr Wesen treiben, den Forstmännern, welche ihr Beruf zwingt, 
+sich damit abzugeben. Ich fasse hauptsächlich nur diejenigen Thiere 
+in das Ange, die für Feld- und Gartenwirthschaft im weitesten 
+Sinne Interesse haben.
+Selbst in so enge Grenzen eingeschlossen, ist der Gegenstand 
+noch außerordentlich weitschichtig und erlaubt nur mehr aphoristische 
+und willkürliche Behandlung. Es ist unmöglich, in dem Raume 
+weniger Vorlesungen alle großen und kleinen Freunde und Feinde 
+der Landwirthschaft auch nur zu nennen und kurz zu charakterisiren. 
+Ich bin also genöthigt, eine Auswahl zu treffen, welche 
+mir, auch abgesehen von den speciellen Verhältnissen unserer Umgegend, 
+noch wesentlich durch einige besondere Betrachtungen aufgenöthigt wird.
+Es geht in der Thierwelt wie in der menschlichen Gesellschaft: 
+es giebt Thiere, welche besser sind, als ihr Ruf; es giebt andere, 
+welche mit Unrecht geschätzt und geschützt werden und die Pflege 
+oder Schonung nicht verdienen, welche der Mensch ihnen angedeihen 
+läßt. Ich werde ganz besonders auf die verleumdeten Thiere 
+Rücksicht nehmen, welchen ihr geheimnißvolles nächtliches Treiben, 
+ihre häßliche Gestalt, ihr unangenehmer Geruch oder selbst die 
+Fortspinnung alter, aus anderen Ländern und von anderen Arten 
+übertragener Legenden und Sagen grundlosen Abscheu und unberechtigte 
+Verfolgung zugezogen hat. Ich werde nicht minder das 
+Vorurtheil des Guten zu zerstören suchen, das andere Thiere unverdienter 
+Weise sich zu erwerben das Glück hatten. Trotz aller 
+Belehrungen, die seit Jahrzehnten ausgestreut wurden, ist hier 
+dennoch stets fort ein reiches Feld für denjenigen, der sich bemüht, 
+die Thatsachen, welche die Wissenschaft beobachtet hat, in das Volksbewußtsein 
+überzuführen.
+Es gilt mir mehr darum, die Selbstbeobachtung zu wecken, 
+als Beobachtetes mitzutheilen. Wer einmal den eigenthümlichen 
+Reiz kennen gelernt hat, welchen Beobachtungen über das Leben 
+und Weben der kleinen Geschöpfe gewähren, die im Feld und Garten 
+sich umhertreiben, der wird nicht leicht von solcher Beschäftigung 
+sich wieder abwenden, wenn sie gleich schwierig und zeitraubend ist. 
+Geduld ist hier die erste Eigenschaft, mit welcher sich der Beobachter 
+waffnen muß; Geduld, um stundenlang regungslos in glühender 
+Sonnenhitze dem rastlosen Treiben eines unmherschwirrenden Insectes 
+zu lauschen; Geduld, um ein Käferchen, das sein Ei in die 
+Schosse einer Pflanze unterzubringen sucht, bei der Beobachtung 
+mit der Lupe nicht zu stören; Geduld und kritische Sichtung des 
+Beobachteten, das durch Vernachlässigung scheinbar geringfügiger 
+Nebenumstände zu einem der Wirklichkeit gerade entgegengesetzten 
+Resultate führen kann.
+Die größte Gewissenhaftigkeit des Beobachters kann selbst 
+solche Fehler nicht verhindern, die aus der mangelhaften Kenntniß 
+der Naturgeschichte hervorgehn. Ein eifriger Landwirth findet an 
+gewissen Gartengewächsen, die ihm lieb sind, Auswüchse und Knollen, 
+die von Larven und Würmchen bewohnt sind. Um das Uebel in 
+seinem ganzen Umfange kennen zu lernen, pflegt er seine Knollen 
+sorgfältig bis zur Verpuppung der Würmchen und hat endlich die 
+Freude, ein herrliches, goldschimmerndes Wespchen aus diesen 
+Puppen zu erzielen. Welcher Schluß ist gerechtfertigter, als der, 
+daß dieses Wespchen es gewesen sein müsse, welches durch seinen 
+Stich den Auswuchs erzeugt und in das Innere desselben seine zu 
+Würmchen und Püppchen entwickelten Eier abgelegt habe? Und 
+dennoch ist dieser Schluß durchaus falsch in dem speciellen Falle. 
+Das erzogene Wespchen gehört in die Gattung der Schlupfwespen, 
+welche ihre Eier in die Eier und Larven anderer Insecten legen, 
+damit sie sich auf deren Kosten schmarotzend ernähren. Die Mutter 
+des erzogenen Wespchens hat mittelst ihres langen Legestachels, von 
+unserem Beobachter unbemerkt, nicht nur den von einer wirklichen 
+Gallwespe erzeugten Auswuchs, sondern auch die darin lebende 
+Larve des rechtmäßigen Besitzers angebohrt, in die sie ihr Ei gelegt, 
+und so ihre Nachkommen statt derjenigen der Gallwespe zur 
+Entwicklung gebracht.
+Darf man sich bei solchen nur allzu häufig unterlaufenden 
+Verwicklungen noch wundern, wenn selbst die Lebensgeschichte ganz 
+gewöhnlich vorkommender Insecten, die durch ihre Verwüstungen 
+bedeutenden Schaden anrichten, nur unzureichend gekannt ist, und 
+wenn aus dieser Unkenntniß als nothwendige Folge für den Menschen 
+die Ohnmacht hervorgeht, diesen Feind zu bekämpfen? Von 
+hundert und aber hundert Arten kennt man hier nur die Larve, 
+dort nur das vollkommene Insect oder selbst nur eines der verschieden 
+gestalteten Geschlechter. Die Lebensbedingungen der meisten 
+Arten in diesem oder jenem Zustande ihrer Verwandlung sind durchaus 
+nur unvollständig gekannt. Von dem gemeinsten unserer kleinen 
+Feinde, dem Maikäfer, weiß man an dem heutigen Tage noch nicht 
+mit vollständiger Gewißheit, ob der ganze Umlauf seines Lebens 
+eine Periode von drei oder vier Jahren umfaßt, oder ob er in 
+der republikanischen Schweiz ein Jahr früher zur Reife und 
+Zeugungsthätigkeit gelangt, als in dem monarchischen Deutschland, 
+wo seine Entwicklung unter hoher obrigkeitlicher Vormundschaft 
+vielleicht längerer Zeit bedarf.
+Sie sehen also, es ist noch viel zu thun auf diesem Gebiete, 
+und jeder Einzelne, der ein Stückchen Feld oder Garten begehen 
+kann oder auch nur einige bescheidene Topfgewächse an seinem 
+Fenster cultivirt, ist im Stande, wenn er nur Zeit und Mühe 
+daran wenden will, seinen Beitrag zur Bereicherung der Wissenschaft 
+zu liefern.
+Ich habe für meine Vorträge die Reihenfolge der zoologischen 
+Classification gewählt und setze die bekanntesten Thatsachen derselben 
+auch in der That als bekannt voraus, indem es bei dem beschränkten 
+Raume, der mir zugemessen ist, unmöglich wäre, in die 
+naturgeschichtlichen Einzelnheiten einzugehen, welche ja ohnedem in 
+jedem Handbuche zu finden sind. Indem aber das natürliche 
+System, auf die Gesammtorganisation gegründet, diejenigen Thiere 
+als verwandte zusammenstellt, welche die größte Summe von Eigenthümlichkeiten 
+mit einander gemein haben, nähert es auch nothwendiger 
+Weise diejenigen Thiere, deren Leben und Treiben in 
+seinen allgemeinen Zügen mit einander übereinkommt. Denn 
+dieses Leben ist ja nur ein Resultat der gesammten Organisation, 
+nur der Ausdruck derselben in der Ausübung der verschiedenen 
+Thätigkeiten. Was also in den Einzelheiten des Körperbau’s mit 
+einander übereinstimmt, muß auch nothwendiger Weise übereinstimmende 
+Lebensweise und gemeinsame Züge der geistigen Functionen 
+besitzen. Ich gestehe zu, daß es für Manchen vielleicht angenehmer 
+wäre, den Stoff vielleicht nach den verschiedenen Pflanzen, 
+die man cultivirt, oder nach besonderen vorstechenden Gewohnheiten 
+der Thiere vertheilt zu sehen. Allein dieser Eintheilung 
+stellen sich um so mehr Schwierigkeiten entgegen, als einerseits 
+sehr verschiedene Thierarten auf einer und derselben Pflanze 
+hausen können und wiederum dieselbe Thierart einen höchst mannigfaltigen 
+Wirkungskreis besitzen kann. Die Werre und der Engerling 
+nagen alle Pflanzenwurzeln ohne Unterschied an, und die 
+deutsche Eiche, dieser knorrige Sumpfbaum, hat mehr Schmarotzer, 
+als alle übrigen Gewächse unserer Zone zusammengenommen.
+Ich werde nur wenig von den zahlreichen Vorbeugungs- und 
+Vertilgungsmitteln reden, mit welchen häufig ein unbegreiflicher 
+Köhlerglaube die Welt beglückt hat. Kennt man die Thiere und 
+die Eigenthümlichkeiten ihres Lebens einmal genau bis in die kleinsten 
+Einzelheiten, so ergeben sich die Vertilgungs- und Pfegemittel 
+gegen Feinde und für Freunde bei einigem Nachdenken ganz von 
+selbst. Kennt man dieselben nicht, so wird man stets mit der 
+Stange im Nebel herumfahren und bester thun, sich zu resigniren, 
+als ungeschickte Mittel anzuwenden. Es ist unglaublich, wieviel in 
+dieser Hinsicht schon gesündigt wurde und noch täglich gesündigt 
+wird. Man wird einen Landwirth, der Maulwurfsfallen an den 
+Aesten der Bäume befestigte, in der Hoffnung, daß die Maulwürfe 
+dem dort aufgehängten Köder nachfliegen würden, unbedenklich für 
+einen Narren erklären. Aber man macht mit großem Ernste den 
+Vorschlag, die Erdflöhe dadurch von den jungen Saaten abzuhalten, 
+daß man die Beete mitten in Grasplätzen anlegt, in welchen
+[108] die Erdflöhe sich verirren und, durch die Grashalme aufgehalten, 
+nicht weiter kommen sollen; während die einfachste Beobachtung 
+uns zeigen kann, daß die Thierchen nach dem Zerfressen eines 
+Beetes in Schaaren ausfliegen, um sich ein anderes Feld zur Befriedigung 
+ihres Appetites zu suchen. Eine Menge von solchen 
+Mitteln sind auch unwillkürlich der menschlichen Natur angepaßt 
+und sehen gerade darnach aus, wie wenn man Schmeißfliegen, 
+Aaskäfer und Raben durch den Geruch faulenden Aases verjagen 
+wollte.
+In den wenigsten Fällen nur kann der Mensch durch seine 
+Arbeit allein wirksam den Verheerungen entgegen treten, welche 
+seine Feinde sich zu Schulden kommen lassen. Meist muß er sich im 
+Gegentheile darauf beschränken, die Hülfsquellen, welche die Natur 
+bietet, entweder nicht muthwillig zu zerstören oder durch sorgsame 
+Pflege selbst zu erhöhen. Sämmtliche Kammerjäger Deutschlands 
+fangen in einem Jahre nicht so viel Feldmäuse, als die Eulen 
+Thüringens in einem Monate, und die Kammerjäger lassen sich 
+bezahlen, während die Nachtvögel es ganz umsonst thun. Wäre 
+es da nicht bester, die Eulen zu hegen, statt sie zu verfolgen, und 
+nöthigen Falls das Geld, welches die Rattenfänger kosten, zur Erziehung 
+der natürlichen Mausjäger zu verwenden?
+Bei dem Beispiele, welches ich hier anführe, handelt es sich 
+noch um verhältnißmäßig kolossale Feinde. Wie aber, wenn wir 
+es mit jenen kleinen Feinden zu thun haben, die sich unserem 
+Auge fast entziehen und die wir nur mit größter Anstrengung 
+und nach langem Suchen in unseren Besitz bringen können? Bei 
+jeder Gelegenheit tritt uns hier die Unzulänglichkeit unserer Mittel 
+entgegen. Ein Beispiel. Professor Fabre in Avignon, der mit 
+bewundernswürdiger Geduld das Treiben einer Grabwespe verfolgt 
+hat, und den ich später noch Gelegenheit haben werde anzuführen, 
+hatte beobachtet, daß dieselbe sich stets einen großen Rüsselkäfer, 
+der durch seine schwarze Farbe und seine Länge von 5 bis 6 
+Linien leicht in die Augen fällt, zum Opfer erkor. Eine Wespe, 
+welcher er ihren Käfer abgenommen hatte, brauchte im Durchschnitte 
+zehn Minuten, um einen frischen Käfer herbeizuschleppen. Er 
+wünscht, um seine Beobachtungen durch Versuche zu vervollständigen, 
+einige lebende Käfer zu haben, welche noch von keiner Wespe 
+gestochen sind. „Weinberge, Kleefelder, Getreidefelder, Hecken, 
+Steinhaufen, Wegränder – Alles habe ich durchsucht,“ erzählt er, 
+„und nach zwei tödtlich langen Tagen, die ich zu diesen Untersuchungen 
+verwandte, war ich im Besitze (kaum wage ich es zu 
+sagen) von drei bestaubten enthaarten Rüsselkäfern, die zum Theil 
+Fühlhörner oder Beine verloren hatten, wahrhaft verstümmelte 
+Veteranen, welche die Wespen vielleickt nicht einmal angreifen 
+werden. In derselben Zeit hätten unsere Wespen Hunderte jener 
+unauffindbaren Rüsselkäfer herbeigeschleppt; sie hätten sie gefunden 
+an denselben Orten, wo ich suchte, frisch, glänzend, ohne 
+Zweifel unmittelbar nach ihrem Ausschlüpfen aus ihren Puppen.“
+Dies eine Beispiel mag genügen, Ihnen zu zeigen, wie ohnmächtig 
+meistens der Mensch allein seinen kleinen Feinden gegenüber 
+steht. Handelt es sich um die Zerstörung einzelner Thiere, 
+so ist meistens die aufgewendete Mühe und Zeit nicht im Verhältniß 
+zu dem hervorgebrachten Schaden; gilt es Vertilgung von 
+Massen, wie z. B. bei Maikäferschaden oder Raupenfraß, so gelingt 
+es freilich besser, die verhältnißmäßig groben und plumpen 
+Mittel, über die wir gebieten, in ihrem ganzen Umfange wirken 
+zu lassen – aber dann tritt auch der Uebelstand ein, daß bei der 
+ungeheuern Zahl des zu vertilgenden Ungeziefers eine Menge desselben 
+der Vertilgung entgeht und so den Keim neuen Verderbens 
+durch seine Fortpflanzung legt. Man glaubt dann oft großartige 
+Erfolge erzielt zu haben, sieht in dem Ausbleiben der Plage im 
+nächsten Jahre den deutlichsten Beweis für die Wirksamkeit der getroffenen 
+Vorkehrungen und vergißt, daß der Feind einen dreijährigen 
+Entwicklungskreis in seinem Leben durchmacht und daß erst 
+in drei Jahren eine neue Plage uns zeigen wird, wie viele Eltern 
+der zerstörenden Nachkommen unseren Nachstellungen entgingen.
+Doch ich wende mich ab von diesen allgemeinen Betrachtungen, 
+die sich später, wenn wir der sie stützenden Thatsachen Meister geworden 
+sind, von selbst ergeben werten, um zu der speciellen Betrachtung 
+der einzelnen Classen des Thierreiches überzugehen und 
+mit den Säugethieren zu beginnen.
+
+

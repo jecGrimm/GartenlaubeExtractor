@@ -1,0 +1,131 @@
+[234] Etwas über Geheimschrift.
+Wie nach einer bekannten Aussage die Sprache nur dazu dienen soll, die Gedanken des Sprechenden zu verheimlichen, so suchte man auch schon sehr früh nach Mitteln, Geschriebenes vor Unbefugten zu verbergen. So erzählt Plutarch im „Leben des Lysander“: „Wenn ein griechischer Staat einen Feldherrn aussandte, so ließ er zwei cylindrische hölzerne Stäbe mit solcher Genauigkeit anfertigen, daß sie in Länge und Dicke vollständig gleich waren; einen von diesen behielt man daheim, den andern gab man dem Feldherrn. Hatte man nun irgend ein Geheimniß diesem mitzutheilen, so nahm man einen langen schmalen Streifen Pergament, rollte ihn spiralförmig derartig an den Stab, daß die Ränder des Streifens genau an einander paßten, und schrieb die geheime Mittheilung quer darüber. Sodann wurde der Streifen abgenommen, aufgerollt und dem Feldherrn überschickt. Da nur er allein den passenden Stab besaß, so waren für jeden Anderen die Zeichen unverständlich.“
+Diese Art von Geheimschrift nannten die Griechen Scytale.
+Aeneas Taktikus, der zur Zeit des Aristoteles lebte, theilt uns in einem seiner Commentare eine andere damals übliche Art von Geheimschrift mit, bei der die Vocale durch Punkte bezeichnet wurden; das Wort „Dionysios“ z. B. sollte geschrieben werden: 
+
+
+
+D
+:
+⋅
+::
+n
+:::
+s
+:
+⋅
+::
+s
+
+
+{\displaystyle D:\cdot ::n:::s:\cdot ::s}
+
+Freilich war dies eine sehr naive Verheimlichungsmethode, deren Geheimniß leicht gelüftet werden konnte. Gab es doch im Alterthum Völker, wie z. B. die Hebräer, welche stets nur die Consonanten niederschrieben und es dem Leser überließen, die fehlenden Vocale aus dem Sinn der einzelnen Worte zu errathen.
+Wie nun den Völkern des Alterthums verschiedene Arten geheimer Mittheilungen bekannt waren, so soll man sich auch am Hofe Karl’s des Großen und Alfred’s von England öfter der Kryptographie, d. h. der Geheimschrift, bedient haben, und im fünfzehnten und sechszehnten Jahrhunderte gab es viele Gelehrte, die hiermit sich eingehend beschäftigten. Mit unermüdlichem Scharfsinne wurden schon in der damaligen Zeit neue Methoden erfunden, mit ebenso großem etwa aufgefangene diplomatische Schriftstücke entziffert.
+Bis in die jüngste Zeit hinein wurde die Kunst des Chiffrirens fast ausschließlich von Diplomaten, den Generalstäben der Armeen, sowie revolutionären Verschwörern oder auch gemeinen Verbrechern ausgeübt. Da es aber gegenwärtig bei der Verwendung der offenen Postkarten und der Telegramme Jedem gestattet ist, seine kleinen oder großen Geheimnisse in Räthselzeichen abzufassen, und auch von Handelshäusern, Banquiers etc. die Geheimschrift vielfach zu discreten Mittheilungen benutzt wird, so dürfte eine Erklärung derselben auf allgemeineres Interesse Anspruch erheben.
+Für den telegraphischen Verkehr sind diejenigen Geheimschriften am meisten geeignet, die entweder nur aus Buchstaben oder nur aus Zahlen bestehen. Es werden zwar auch aus Zahlen und Buchstaben gemischte Depeschen von den Telegraphenämtern angenommen, doch sind die Gebühren für derartige erheblich größer; denn in Folge der internationalen Bestimmungen werden Zahlen- oder Buchstaben-Telegramme für so viele Wörter gezählt, wie sie Gruppen aus je fünf Buchstaben oder Zahlen bilden. Deshalb ist es auch praktisch, sie sogleich in solchen Gruppen niederzuschreiben, und sei hier nur noch bemerkt, daß für genaue Collationirung der Geheimschriften regelmäßig die Hälfte der Gebühren für das ganze Telegramm bei der Bezahlung hinzugerechnet wird.
+Sehen wir uns nunmehr, nach diesen einleitenden Bemerkungen, einige der so überaus mannigfachen Methoden der Geheimschreibekunst genauer an!
+Die einfache Buchstaben-Geheimschrift besteht darin, daß die Zeichen unserer gewöhnlichen Buchstaben eine andere, als die sonst ihnen zukommende Bedeutung erhalten. Diese Methode ist überaus einfach; sie wurde schon im Alterthum und im Mittelalter häufig angewendet und ist auch jetzt noch vielfach in Gebrauch; ohne alle Kenntniß der Kryptographie vermag jeder sich einen Schlüssel zu dieser Art von Geheimschrift zu bilden.
+Es wird uns erzählt, daß jüdische Gelehrte, um gewisse Mittheilungen nur Auserwählten zukommen zu lassen, den Kunstgriff gebrauchten, die einzelnen Buchstaben zu versetzen. Auch Cäsar und der Kaiser Augustus bedienten sich dieser Art von geheimer Correspondenz; Cäsar setzte, wie wir bei Suetonius lesen, statt des a ein d, statt des b ein e, statt des c ein f etc., Augustus aber für a ein b, für b ein c, für c ein d etc. Ob jedoch durch diese einfache Art der Buchstabenversetzung jetzt noch das Geheimniß gehörig gewahrt werden mag, steht dahin.
+Wenn wir mit noch größerer Willkür, als jene beiden Römer, die Buchstaben derartig ändern wollten, daß
+a b c d e f g h i j k l m n o p q r s t u v w x y z bezeichnet würde durch:
+n h j e r m b y k v q a s i x z f t o c w l g u p d, so würde z. B. die geheime Depesche: „Die Armee wird Frontveränderung morgen vornehmen“, folgendermaßen lauten: Ekr Ntsrr gkte Mtxiclrtniertwib sxtbri lxtirysri. Da hier aber die großen Buchstaben leicht etwaige Eigennamen und Hauptwörter verrathen würden, so bedient man sich nur kleiner und zwar lateinischer Buchstaben und schreibt entweder alles als ein Wort, oder verbindet immer je fünf Buchstaben, ganz abgesehen davon, ob sie zu einem Worte oder zu mehreren gehören; man würde also in diesem Falle schreiben: ekrnt srrgk temtx iclrt niert wibsx tbril xtiry sri.
+Das Dechiffriren solcher Geheimschrift geschieht dadurch am leichtesten, daß man die Chiffres, das heißt die geheimen Zeichen, nach dem Alphabet schreibt und darunter die gewöhnliche Bedeutung, also:
+das a b c d etc. der Geheimschrift bedeutet
+ein l g t z etc. nach dem gewöhnlichen Alphabet. Setzt man dann Buchstabe für Buchstabe die gewöhnlichen Zeichen, so lüftet sich der Schleier des Geheimnisses.
+Die im elften Jahrhundert beliebte Geheimschrift, deren sich auch der Cleriker Reginpold bediente, statt der Vocale immer den im Alphabet folgenden Consonanten zu setzen, ist nur eine Abart obiger einfacher Methode der Buchstabenversetzung. Reginpold würde statt „Gartenlaube“ geschrieben haben: Gbrtfnlbvbf.
+Zu den einfachen Buchstabenchiffren gehört auch die geheime Vocalschrift. Man theilt ein großes Quadrat durch fünf senkrechte
+[235] und fünf wagerechte Linien in sechsunddreißig kleine Quadrate, schreibt in die ersten fünf oberen Quadrate die fünf Vocale a e i o u und in die von links an gerechneten ersten fünf senkrechten Quadrate dieselben Vocale in umgekehrter Reihenfolge. Die noch leeren fünfundzwanzig Quadrate werden dann ohne jegliche Reihenfolge durch die fünfundzwanzig Buchstaben unseres Alphabets ausgefüllt.
+
+
+
+*
+
+a
+
+e
+
+i
+
+o
+
+u
+
+
+u
+
+c
+h
+u
+b
+
+o
+
+
+o
+
+n
+v
+i
+f
+
+r
+
+
+i
+
+t
+a
+m
+x
+
+g
+
+
+e
+
+k
+w
+p
+d
+
+z
+
+
+a
+
+e
+
+s
+
+q
+
+y
+
+l
+
+Soll nun in Geheimschrift geschrieben werden: „Der heimliche Gast“, so suche man den ersten Buchstaben der Klarschrift, das heißt der ursprünglichen Schrift, die in die geheime umgeändert werden soll, also den Buchstaben D in den fünfundzwanzig kleinen, durch die feinen Linien begrenzten Quadrate auf (in dieser Tabelle in der vorletzten Reihe der vorletzte Buchstabe) und setze statt desselben als Chiffres die zwei Vocale, welche in der nämlichen Horizontal- und Verticalreihe ganz nach links und nach oben hinter den dicken Strichen stehen, hier also eo. Der zweite Buchstabe der Klarschrift, das e, wird auf dieselbe Art gefunden und chiffrirt durch aa. Ebenso verfährt man mit den übrigen Buchstaben, sodaß also die Geheimschrift von „Der heimliche Gast“ lauten würde:
+
+eoaaouueaaoiiiauoiuaueaaiuieaeia.
+Um nun diesen bestimmten Charakter der Geheimschrift nicht sogleich zu verrathen, kann man beliebige Consonanten dazwischen setzen oder auch Wörter bilden, die mehr oder weniger Sinn und Zusammenhang haben, z. B. „Der Vocal hat noch um uns“ etc., oder: „Geograph anno Unruh der Anna oft ihr Irrlicht aus“ etc.
+Bei dem Dechiffriren streicht der Empfänger zuerst alle Consonanten fort, schreibt dann je zwei und zwei Vocale zusammen und findet auf der Schlüsseltabelle, indem er jedesmal vom ersten Vocal nach rechts, vom zweiten nach unten geht, an dem Kreuzungspunkte die einzelnen Buchstaben der Klarschrift.
+Eine Geheimschrift, die sehr schwer zu dechiffriren ist, ist die Kartenschrift. Um sie herzustellen, nimmt man ein Spiel Karten mit weißem Rande, legt die Karten nach einer vorher vereinbarten Ordnung, bringt sie dann in die Kartenpresse und schreibt die Depesche auf den Rand aller Karten. Werden diese dann gehörig gemischt, so kann der Empfänger nur dann die Depesche lesen, wenn er zuvor alle Karten in die nur ihm und dem Absender bekannte Reihenfolge gelegt hat. Soll der Rand der Karten durchaus undeutlich erscheinen, so bedient man sich der sogenannten sympathetischen Tinte, einer Flüssigkeit, mit der man schreiben kann, ohne daß die Buchstaben sichtbar hervortreten. Erst ein bestimmtes, für die verschiedenen Flüssigkeiten verschiedenes Mittel zaubert die Schrift hervor. Auch die Anwendung solcher Tinten für geheime Mittheilungen reicht in das Alterthum hinauf. Der römische Dichter Ovid räth schon, Briefe an die Geliebte mit Milch zu schreiben. Die unsichtbare Schrift tritt erst durch Aufstreuen von Kohlenstaub oder Ruß hervor, und die Fettkügelchen der Milch lassen den Kohlenstaub an den beschriebenen Stellen gerade so haften, wie wenn mit einem Streichhölzchen und Zuckerwasser auf dem Handrücken geschrieben und dann, nachdem die Schrift getrocknet, jene Stelle mit verkohltem Papier gerieben wird.
+Der Major Kasiski theilt in seinem Schriftchen über die Dechiffrirkunst die Recepte zu sechs verschiedenen sympathetischen Tinten mit und beschreibt die Anfertigung eines magischen Streusandes. Auch Stöckhardt erwähnt in seiner „Schule der Chemie“, daß, wenn man mit einer schwachen Lösung von Kobaltchlorür auf Papier schreibt, die getrocknete, schwarz-röthliche Schrift nicht zu erkennen ist, sie kommt aber mit blauer Farbe zum Vorschein, wenn man das Papier behutsam erwärmt, und verschwindet wieder nach dem Erkalten (durch Anziehen von Feuchtigkeit). Nimmt man zum Schreiben aber eine verdünnte Lösung von Kupferchlorid, so tritt nach dem Erwärmen die Schrift mit gelber Farbe hervor.
+Die Zahlenchiffre ist diejenige Art von Geheimschrift, in der alle Buchstaben, Interpunctionen, auch wohl Worte und ganze Sätze der Klarschrift durch Ziffern ausgedrückt werden. Sie ist jetzt die gebräuchlichste, weil Zahlen zur telegraphischen Mittheilung sich besser eignen als Buchstaben außer Zusammenhang. Die einfachste Art, jeden der 26 Buchstaben mit den Zahlen von 1 bis 26 zu bezeichnen, ist aber als Geheimschrift völlig unbrauchbar; bedient man sich jedoch der Zahlen von 27 bis 99 zur Bezeichnung der Interpunction, der Ziffern, der Wechsel-, Sprachen- und anderer Zeichen, einiger auch als Nieten, die keine Bedeutung haben und Uneingeweihte beim Dechiffriren irre führen sollen, so erhält man eine zwar einfache, aber doch sehr verwendbare Geheimschrift. Vortheilhaft ist es, diese Art so zu bilden, daß jeder Buchstabe, jedes Zeichen durch eine gleichstellige Zahl bezeichnet wird, weil dann alle Zahlen ohne Trennung geschrieben werden können. Bezeichnet man z. B. die 26 Buchstaben durch 01, 02 … 10, 11, 12 etc. bis 26, Punkt, Komma, Fragezeichen, Ausrufungszeichen durch 27, 28, 29, 30, die Zahlen von 0 bis 9 durch 31 bis 40, Nieten durch 81, 85, 90, 96 etc., so würde: „Die ‚Gartenlaube‘, 1882. Begründet von Ernst Keil 1853.“ lauten:
+
+85990409040780011820041412012102042831383832270204900718211404052022151404181419201104099912313835332796.
+Beim Dechiffriren werden zuerst die Nieten fortgestrichen, sodann aus der Tabelle die Buchstaben etc. für die übrigen Ziffern gesetzt. Eine Unsicherheit wegen Zusammengehörigkeit der Ziffern kann hier nicht eintreten, weil der Dechiffreur weiß, daß alle Zahlen zweistellig sind.
+In neuerer Zeit verwendet die Diplomatie fast aller Staaten bei ihren Depeschen Chiffrirsysteme, die aus eigens zu diesem Zwecke angefertigten Wörterbüchern bestehen.
+Schon im Jahre 1856 ließ der preußische Minister für die auswärtigen Angelegenheiten eine entsprechend große Anzahl Bände durch Buchdruck herstellen, in denen die Wörter wie in einem Wörterbuche folgen und ebenso die Ziffern in natürlicher Reihe bei jedem Worte, doch gab von diesen letzteren nur die am Colonnenkopf stehende die volle Zahl durch Zehntausende, Tausende und Hunderte hindurch, während von der zweiten Stelle der Colonnen an bis nach deren Ende nur die Zehner und Einer aufgeführt waren.
+Diese Exemplare, „Chiffres“ genannt, stimmten zu zwei und zwei in ihren Zifferwerthen für ein und dieselben Wörter überein, jede Gruppe von zweien unterschied sich aber von der folgenden durch stetes Fortschreiten um eine gewisse Zahl. Ein Exemplar jeder Gruppe blieb im auswärtigen Ministerium, das andere der Gruppe A aber erhielt z. B. der Botschafter in Paris, das zweite Exemplar der Gruppe B der Gesandte in Madrid etc. So konnten die einzelnen preußischen Gesandschaften zwar mit der Centralstelle, aber nicht unter sich mit Hülfe dieser Wörterbücher chiffriren. Als jedoch in Folge der Veröffentlichung jener bekannten geheimen preußischen Staatsdepesche durch das vom österreichischen Generalstabe 1869 herausgegebene Werk über den Feldzug von 1866 das preußische Ministerium andere Verbesserungsvorschläge „für den amtlichen Gebrauch“ prüfen mußte, entschied es sich endlich, statt der früheren vielen Bände nur ein einziges Buch mit fingirten Ziffern zu verwenden, das an allen Orten, zu allen Zwecken und für alle Correspondenten mit gleicher Sicherheit zu verwerthen wäre.
+Der Buchdruckereibesitzer M. Niethe in Berlin, der das Studium der Kryptographie zu seiner Lebensaufgabe gemacht hatte, gab 1874 ein solches Werk heraus, das dann bei der Chiffrirabtheilung des deutschen Reichskanzleramtes „als telegraphisches Chiffrirsystem für den allgemein praktischen Gebrauch und mit besonderer Berücksichtigung der diplomatischen, militärischen und Börsen-Depeschen“ eingeführt wurde. Dieses Buch wurde auch von England prämiirt mit der durch Parlamentsacte für Leistungen im Gebiete der „neuen wissenschaftlichen Erfindungen“ ausgesetzten Medaille. Das Buch ist von der Größe eines gewöhnlichen französischen
+[236] Taschenwörterbuches und besteht aus zwei Abtheilungen. In der ersteren folgen auf den zweispaltigen Seiten die Wörter wie in einem Lexikon, und vor jedem Worte steht, mit 5001 beginnend, in fast ununterbrochener Reihenfolge eine Zahl, also 5001 Aal, 5002 aal–, 5003 Aar, 5004 A(a)as, 5005 aasen etc., 5014 verlorene Chiffre, 5228 neuer Schlüssel + 11, 7088 Baake etc., 31,514 zwitschern, 31,519 zwölfte. Da die Anwendung der zur Substitution für die Worte gewählten und neben sie gestellten Chiffres jegliches chiffrirte Correspondenzstück der Gefahr des Verrathes an Unberufene aussetzen würde, so sind die Chiffres im Allgemeinen nicht natürlich, sondern fingirt zu gebrauchen. Sollte also nach diesem trefflichen Buche chiffrirt abgesendet werden die Depesche: „Abonnement auf Garten–laube“ mit den im Buche daneben stehenden Zahlen 5355 6859 14,294 18,360, so brauchte ja nur jeder diese Zahlen aufzusuchen, und das Geheimniß wäre gehoben. Nun haben aber zwei Correspondenten eine gewisse positive oder negative Zahl (± x) unter sich als Geheimniß vereinbart. Diese Zahl nennt man den Hauptschlüssel (H S), und sie wird je nach ihrem ± Charakter zu den im Lexikon gefundenen Chiffren addirt oder von ihnen abgezogen. Wäre also die Einigung dahin erfolgt, daß in diesem Monate der Hauptschlüssel + 201 sein sollte, so würde ich zu jeder der obigen vier Zahlen 201 addiren und depeschiren: 5556 7060 14,495 18,561. Sähe nun wirklich ein Unberufener diese Zahlen und schlüge sie im Buche auf, so fände er: „abspielen aufsammeln Gegenuntersuchung Lerngegenstand“ und erführe dadurch nichts. Da der Correspondent weiß, daß in diesem Monate der Absender 201 zu jeder Zahl hinzugezählt hat, so wird er zuerst von jeder Zahl 201 subtrahiren und erst dann die erhaltenen Reste im Buche aufsuchen.
+Die zweite Abtheilung des Niethe’schen Buches besteht aus einer Tabelle für Declination und Conjugation und Silbenzusammensetzungen für Eigennamen. Eine bestimmte Zahl bedeutet z. B.: nimm vom folgenden Worte den Dativ oder den Pluralis, nimm vom folgenden Verbum diese oder jene Zeit, diese oder jene Person! Wollte ich sodann aus der Silbentabelle den Namen des berühmten asiatischen Reisenden, des russischen Oberst Przewalski chiffriren, so finde ich neben der Verbindung prz: 28,665, neben ew: 23531, neben al: 17,550, und neben ski: 29,502, und alle diese Zahlen werden mit dem Schlüssel gerade so wie die anderen behandelt. Natürlich sind auf dieser Tabelle auch bestimmte Chiffres für die Interpunktionen angegeben. Es würde uns jedoch zu weit führen, auf alle Einzelheiten dieses höchst interessanten Buches einzugehen, umsomehr als wir unseren Lesern noch einige andere Arten der Geheimschrift vorführen möchten.
+Bei der Anwendung der ziemlich alten Faden-Punktir-Methode nahm man als Schlüssel zwei gleich lange vierkantige Stäbchen, auf denen man sechsundzwanzig gleiche Theile markirte, und bezeichnete jeden Theilstrich mit einem Buchstaben. Das eine Stäbchen behielt der Absender, das andere wurde dem Correspondenten zugesandt. Zur Anfertigung der Geheimschrift nahm man einen Zwirnfaden, legte das eine Ende desselben an den Anfang des Stäbchens und maß bis zum Strich des ersten Buchstabens der Depesche; an dieser Stelle markirte man mit Tinte auf dem Faden einen Punkt, legte diese Stelle an den Anfang des Stäbchens und markirte ähnlich den zweiten und die folgenden Buchstaben, bis ein Wort zu Ende war; hier wurde hinter den schwarzen Punkt noch ein rother gesetzt. War derartig nun die ganze Depesche punktirt, so wurde der Faden zu einem Knäuel zusammengerollt und dem Correspondenten überschickt. Mit Hülfe seines Stäbchens konnte er dann leicht dechiffriren.
+
+
+Als Schlüssel zu der Linien-Geheimschrift dient gewöhnlich ein Quadratnetz auf dickem Papier. In jedem Quadrat steht ein Buchstabe. Zum Zweck des Chiffrirens legt man hierüber ein durchscheinendes Stück Papier und zeichnet da auf dem Papier, wo in dem darunter liegenden Netze der erste Buchstabe der Depesche verzeichnet ist, ein Ringelchen, damit der Empfänger wisse, daß mit diesem Buchstaben die Geheimschrift beginnt. Von dort zieht man dann eine gerade Linie nach dem Quadrat, das den zweiten Buchstaben enthält, dann nach dem dritten etc., bis alle Worte chiffrirt sind. Am Ende der Linien, bei dem letzten Buchstaben, zeichnet man einen kleinen Pfeil als Schlußzeichen. Wäre nun die Mittheilung zu machen. „Losung ist Grenoble“, so würden der Schlüssel auf dem Quadratnetze und die Geheimschrift das Aussehen haben, wie hier angegeben worden ist.
+Der Dechiffreur legt dieses Liniengewirr auf seinen Schlüssel, verfolgt, vom Ringelchen anfangend, die Linien, bis sie einen Winkel bilden, und liest an dieser Stelle den betreffenden Buchstaben des Schlüssels ab. Solche Linienchiffres können auf vielerlei Art gebildet werden und bieten der Phantasie des Erfinders einen großen Spielraum.
+In weitem Sinne ließen sich zu der Kryptographie auch noch die geheime Polizeischrift und die Blumensprache der Morgenländer rechnen; doch sind diese Methoden theils zu complicirt und künstlich, ohne die nöthige Sicherheit zu gewähren, theils, wie die Blumensprache, nicht so sehr zu allgemeinen Mittheilungen als zur Sprache sehnsuchtsvoller Liebe verwendbar. Im Orient, wo das schöne Geschlecht zur Einsamkeit des Herzens verurtheilt ist, soll zuerst der Gebrauch entstanden sein, natürliche Blumen zum Ausdruck der Gedanken und Empfindungen, zum beredten Liebesboten zu wählen.
+Diese orientalische Blumensprache, Selam, ist aber sehr verschieden von der unserigen, da sie sich fast ausschließlich auf die Namen der Pflanzen gründet, unsere Blumensprache aber manches noch aus gewissen andern Eigenschaften der Pflanzen hernimmt. Uebrigens giebt es, so weit die deutsche Zunge klingt, wohl nur wenige Blumen, die überall dieselbe Deutung haben. So versinnbildlicht, ob Nord oder Süd, West oder Ost, den Abend die Mohnblume, den Aerger das blaue Leberblümchen, die Beruhigung die Camille, die Armuth die leere Aehre, den Kummer die Aster und die hellen Thränen der Rosmarin. Diese Blumen, die wir Deutsche seit Jahrhunderten zu Trägern unserer Gefühle erkoren, sie werden es immerdar bleiben.
+C–f. Dr. B. L.

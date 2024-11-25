@@ -1,0 +1,4 @@
+[100] Schach-Aufgabe Nr. 3.
+Von Karl Höppner in Königstein (Sachsen).
+
+Weiß zieht an und setzt mit dem dritten Zuge matt.

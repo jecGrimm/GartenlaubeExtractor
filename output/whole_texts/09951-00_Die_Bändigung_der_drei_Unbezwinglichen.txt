@@ -1,0 +1,332 @@
+[080] Die Bändigung der drei „Unbezwinglichen“.
+Nicht in die geräuschvolle Ringbahn, wie die Ueberschrift
+anzudeuten scheint, soll uns unsere heutige Plauderei geleiten,
+sondern in die stillen Laboratorien der Chemiker, in denen
+während der letzten Tage des Jahres drei große Triumphe
+über die träge Materie errungen worden sind: man hat daselbst
+die letzten drei Gase, welche den stolzen Namen der „Incoërciblen“,
+das heißt der Unbezwinglichen führten, Sauerstoff, Stickstoff und
+Wasserftoff, sowohl für sich, wie in dem Gemenge, in welchem
+die ersteren beiden unsere atmosphärische Luft darstellen, dergestalt
+in die Enge getrieben, daß sie sich in tropfbare Flüssigkeiten verwandelt 
+haben. Das große Interesse, welches sich an diese neueste
+Errungenschaft der physikalischen Chemie knüpft, ist ein vorwiegend
+theoretisches, aber doch auch von allgemeiner philosophischer Bedeutung, 
+sofern es die Allgemeingültigkeit gewisser Grundgesetze
+bestätigt, wie die Auseinandersetzungen alsbald zeigen werden, die
+wir der Beschreibung jener Experimente vorausschicken müssen.
+Die Erfahrungswissenschaft hatte längst gelehrt, daß im Allgemeinen 
+alle Stoffe in drei Zuständen erhalten werden
+können, die man ihre Aggregatzustände nennt, nämlich: fest, flüssig
+und gasförmig. Bei dem festen Zustande der Körper nimmt man
+an, daß ihre kleinsten Theile eine beziehungsweise gleichbleibende
+Lagerung gegen einander behaupten, wenn man aber fortdauernd
+Wärme zuführt, so werden jene Theilchen gegen einander verschiebbar, 
+der Körper schmilzt, und wenn die Wärmezufuhr
+fortdauert, so gelangen die Theilchen dahin, sich gegenseitig abzustoßen, 
+die geschmolzene Masse siedet und verwandelt sich in
+classischen Dampf, und zwar wird dieses Abstoßungsbestreben der
+Theilchen, welches wir als Dampfkraft benützen, am schnellsten
+zur Geltung kommen, wenn der auf der Flüssigkeit ruhende Luftdruck 
+hinweggenommen wird. Es bringt somit im Allgemeinen
+Abkühlung und Druck Verdichtung der Massen, Wärmezufuhr
+und Druckabnahme Verdünnung hervor.
+Natürlich läßt sich der skizzirte Wandlungsproceß nur bei
+einfachen und solchen zusammengesetzten Stoffen durch alle drei
+Stufen hindurchführen, welche die zu ihrer Verflüssigung oder Verflüchtigung 
+erforderliche Hitze ohne chemische Zersetzung vertragen;
+organische Producte, wie Holz oder Fleisch, lassen sich nicht ohne
+Zersetzung schmelzen, geschweige denn in Dampf verwandeln. Auch
+chemische Verbindungen, wie z. B. der kohlensaure Kalk unserer
+Kalkgebirge, zersetzen sich oft schon vor ihrem Schmelzen in ihre
+näheren Bestandteile, hier also in Kohlensäure und gebrannten
+Kalk, aber in einem luftdicht verschlossenen Flintenlaufe kann man
+jene beiden Bestandtheile zwingen, bei einander zu bleiben, und
+den kohlensauren Kalk wirklich schmelzen, um eine Art künstlichen
+Marmors zu erhalten, denn auch der natürliche Marmor ist anscheinend 
+nichts anderes, als unter dem starken Druck darüber
+liegender Erdschichten durch vulcanisches Feuer halbgeschmolzener
+kohlensaurer Kalk.
+Bei manchen Körpern, wie z. B. der Kohle und den edlen
+Metallen, gehört eine sehr gewaltige Hitze dazu, um sie zu
+schmelzen, allein man hat nicht nur die erstere mit Hülfe starker
+elektrischer Ströme geschmolzen und dabei künstliche schwarze
+Diamanten erhalten, sondern die edlen Metalle durch die in
+großen Brennspiegeln verdichtete Sonnenwärme oder durch den
+elektrischen Strom sogar in Dampf verwandelt. Der amerikanische
+Physiker A. W. Wright hat erst kürzlich eine Methode entdeckt,
+um selbst die am schwersten schmelzbaren Metalle, wie z. B. Platin,
+durch den elektrischen Funken im luftverdünnten Raume zu verflüchtigen, 
+um diesen Metalldampf auf andere Flächen niederzuschlagen 
+und so z. B. Platinspiegel für Fernröhre zu erzeugen,
+die an Politurfähigkeit und damit auch an unveränderlicher
+Leistungsfähigkeit alle früheren Teleskopspiegel weit hinter sich
+lassen dürften. Von manchen Stoffen, wie z. B. dem metallischen
+Arsenik, schien es eine Zeitlang, als ob sie sich nicht schmelzen
+ließen, weil sie sich bei starker Erhitzung ohne Schmelzung verflüchtigen. 
+Das liegt aber, wie man bald fand, nur daran, daß
+ihr Schmelz- und Siedepunkt allzunahe bei einander liegen, in
+einer luftdicht verschlossenen Glasröhre, in welcher sich der Siedepunkt 
+unter dem eigenen Dampfdrucke erhöht, läßt sich Arsenik
+sehr leicht schmelzen.
+Ebensowohl nun, wie sich alle festen, feuerbeständigen Körper
+endlich schmelzen und verflüchtigen lassen, wenn man nur den erforderlichen 
+Hitzegrad zu seiner Verfügung hat, so müssen natürlich
+auch alle flüssigen Körper zur Erstarrung gebracht werden können,
+was zuweilen schwerer ist, als das Verdampfen derselben. Quecksilber, 
+ein bereits bei circa vierzig Grad unter Null schmelzendes
+Metall, verdampft schon bei gewöhnlicher Temperatur und mittlerem 
+Atmosphärendruck merklich; die „Fixirung“ dieses beweglichsten 
+aller Körper, bei dem daher der rührigste Gott des
+griechischen Olympes, Mercur, Pathe stehen mußte, war ehemals
+ein Bravourstück der alten Physiker; mit den Mitteln der Neuzeit
+gelingt es – wie wir weiterhin sehen werden – sogar, dasselbe
+in einem rotglühenden Platintiegel in ein hämmerbares Metall
+zu verwandeln. Auch die Schwierigkeiten, die man früher fand,
+ätherische und alkoholartige Flüssigkeiten zum Erstarren zu bringen,
+sind mit jenen Mitteln gehoben worden, und die Herstellung
+eines gefrorenen Cognacs oder sonstiger Liqueure bietet keine
+unüberwindlichen Schwierigkeiten mehr. Vor einigen Jahren haben
+die Physiker Melsens und Horvath Branntwein von fünfzig
+Procent Alkoholgehalt bei vierzig bis fünfzig Grad Kälte in Eis
+verwandelt, welches ganz angenehm schmeckte, während Wassereis
+von ähnlich niedriger Temperatur[WS 1] Blasen auf der Zunge ziehen
+dürfte. Erst auf siebenzig Grad abgekühltes Branntweineis schmeckte
+etwas empfindlich, etwa wie ein Eßlöffel heißer Suppe. Dreißig
+Grad kalter Branntwein, der wie dicker Syrup fließt, zeigte sich
+sogar als ein sehr wohlschmeckendes Getränk, man mußte es aber
+aus hölzernen Bechern probiren, weil an einen Metallbecher die
+Lippen alsbald anfrieren würden.
+Wenn nun alle festen und flüssigen Körper mit unwesentlichen 
+Ausnahmen in die drei Zustände gebracht werden können,
+wie steht es nun in diesem Punkte mit denjenigen Stoffen,
+die unter mittleren Druck- und Temperaturverhältnissen nur im
+luftförmigen Zustande bekannt sind? Ist der Sauerstoff, ohne
+den wir keine zwei Minuten bestehen können, auch nur der
+Dampf eines festen Körpers? Ist selbst der dünnste und leichteste
+aller Stoffe, das Wasserstoffgas, mit welchem man die ersten
+Luftballons füllte, der Dampf eines erst bei unerhörter Kälte
+erstarrenden Metalles, wie das Quecksilber ein gewöhnlich flüssiges
+Metall? Diese Fragen sind theoretisch sehr interessant, und Diejenigen, 
+welche überzeugt sind, daß die Gesammt-Natur von festen
+und unwandelbaren Gesetzen beherrscht wird, zweifelten schon
+lange nicht mehr daran, daß auch sämmtlichen Gasen, wie eben
+allen Stoffen, ihre drei Zustände zukommen. Der große Chemiker,
+welcher in der französischen Revolution sein Leben auf der Guillotine
+endigen mußte, Lavoisier, schrieb bereits vor einem Jahrhundert:
+„Betrachten wir einen Augenblick, was mit den verschiedenen
+Stoffen unseres Erdballes geschehen würde, wenn seine Temperatur
+eine gewaltsame Aendernung erführe! Nehmen wir zum Beispiel
+an, daß die Erde sich plötzlich in eine viel heißere Region des
+Sonnensystems versetzt fände, in eine Gegend, wo die gewöhnliche
+Wärme bedeutend diejenige des siedenden Wassers überstiege, so
+würden bald das Wasser und alle bei ähnlicher Temperatur siedenden
+Flüssigkeiten, ja sogar mehrere Metalle verdampfen und Theile
+der Atmosphäre bilden. Wenn durch eine entgegengesetzte
+Wirkung die Erde sich plötzlich in sehr kalte Regionen, zum
+Beispiel in diejenigen des Jupiter oder Saturn versetzt fände,
+so würde das Wasser, welches heute unsere Flüsse und Meere
+bildet, sowie wahrscheinlich der größte Theil der Flüssigkeiten,
+welche wir kennen, sich in feste Berge verwandeln. Die Luft,
+oder wenigstens ein Theil der luftförmigen Substanzen, welche
+unsere Atmosphäre zusammensetzen, würde wegen des Mangels
+eines hinreichenden Wärmegrades aufhören, im Zustande einer
+unsichtbaren Flüssigkeit zu verharren und tropfbar flüssig werden,
+und dieser Wechsel würde neue Flüssigkeiten erzeugen, von denen
+wir heute keine Idee haben.“
+Der Seherblick Lavoisier’s hat seit lange, und auf eine
+weniger das Menschenleben in Frage stellende Weise, seine Bestätigung 
+erhalten. Sechs Jahre nach seinem Tode, um die
+Wende des Jahrhunderts, gelang es bereits den Naturforschern
+Monge unnd Clouët, eines jener Gase, welche sich häufig der
+Atmosphäre beimischen, den stechend riechenden Dampf des
+brennenden Schwefels, zu einer Flüssigkeit zu verdichten. Im
+[081] Jahre 1805 verdichtete Northmore das Chlorgas zu einer
+grüngelben Flüssigkeit, und dies war der erste einfache Stoff,
+der, bis dahin nur in luftförmiger Gestalt bekannt, in die flüssige
+Form gebracht wurde. In den nächsten Jahrzehnten folgten
+Ammoniakgas, Kohlensäure und andere Gase.
+In den vierziger Jahren erregte die Verflüssigung des
+moussirenden Gases unserer Mineralwässer, Biere und Champagner,
+der Kohlensäure, großes und allgemeines Aufsehen, namentlich
+seitdem der französische Naturforscher Thilorier (1834) einen
+Apparat construirt hatte, in welchem die Verflüssigung größerer
+Massen leicht und schnell bewerkstelligt werden konnte. Es ist
+eine dem Apparate der Selterwasserfabriken ganz ähnliche Vorrichtung, 
+die, wie dieser, aus zwei starkwandigen, durch eine
+Röhrenleitung verbundenen Behältern besteht, dem Generator
+und dem Recipienten. In dem ersteren werden durch eine
+brausepulverartige Mischung große Massen Kohlensäure erzeugt,
+die sich in dem zweiten bei mittlerer Temperatur (fünfzehn Grad)
+zu einer wasserhellen Flüssigkeit verdichten, sobald der Gasdruck 
+auf fünfzig Atmosphären gestiegen ist. Natürlich erfordert
+dieses Verfahren, wenn es gefahrlos sein soll, einen weit über
+jenen Druck erprobten sicheren Apparat, wie man sie jetzt in
+voller Zuverlässigkeit construirt, nachdem eine schlimme Explosion,
+die einem Assistenten des Herrn Thilorier das Leben kostete,
+auf die Gefährlichkeit unzureichender Vorrichtungen aufmerksam
+gemacht hatte.
+Man hat die flüssige Kohlensäure seitdem sehr oft dargestellt, 
+weil sie äußerst merkwürdige und schätzbare Eigenschaften
+besitzt. Sie verdampft, der freien Luft ausgesetzt, so schnell,
+daß sie in Folge der dabei stattfindenden Wärmebindung Kältegrade 
+erzeugt, wie man sie bis dahin noch gar nicht kannte.
+Läßt man einen Strahl derselben aus dem Herstellungsapparate
+in ein vorgehaltenes offenes Gefäß strömen, so entsteht eine
+Temperaturerniedrigung von achtzig bis neunzig Grad, und der
+nachfolgenden Flüssigkeit wird soviel Wärme entzogen, daß diese
+in dem offenen Gefäße zu fester Kohlensäure – einem weißen
+Schnee – gefriert. Was man nur schwierig mit andern Mitteln
+erreicht hätte, besorgt die einmal flüssig gewordene Kohlensäure 
+selbst, als wollte sie das alte Sprüchwort bestätigen: „Nur der
+erste Schritt in einer Sache ist mühsam.“ Die „fixe Luft“, wie
+die alten Chemiker die Kohlensäure nannten, weil sie in so
+vielen harten Körpern – Kreide, Magnesia, Potasche, Soda etc. –
+festgebannt liegt, ist damit wirklich fix geworden und verdampft
+nunmehr in diesem neuen Zustande verhältnißmäßig langsam,
+nämlich wegen ihres schlechten Wärmeleitungsvermögens. Man
+kann sich ein Flöckchen der lockern Masse in die offene Hand
+legen lassen, ohne daß es schmilzt und ohne daß man eine besondere 
+Kälte empfindet. Würde man aber mit der Fingerspitze
+das Flöckchen zusammendrücken, so würde man einen brennenden
+Schmerz empfinden, und eine augenblicklich entstehende Frostblase
+würde das unvergleichliche Wärmeentziehungsvermögen dieser
+Substanz an Ort und Stelle besiegeln.
+Gießt man auf diese schneeförmige Masse eine Flüssigkeit,
+die sich mit derselben nicht verbindet, und an sich eine starke
+Kälte ertragen kann, ohne zu gefrieren, z. B. Aether, so kann
+man durch die beschleunigte Verdunstung dieses Breies Kältegrade 
+erzeugen, die noch unter hundert Grad hinausgehen,
+namentlich, wenn man das Gemisch unter eine Luftpumpe bringt
+und durch schnelles Auspumpen die Verdunstung noch beschleunigt.
+Dieses einfache Mittel ist in den Laboratorien sehr häufig angewendet 
+worden, um schwer gefrierbare Flüssigkeiten (wie z. B.
+die oben erwähnnten Spirituosen) zum Erstarren zu bringen oder
+ihren Gefrierpunkt für wissenschaftliche Zwecke zu bestimmen.
+Wenn man in einen rothglühenden Platintiegel eine Quantität
+jenes Breies und schnell darauf ein bis zwei Loth Quecksilber
+hineinschüttet, so gefriert das Letztere, wie Faraday zeigte, inmitten 
+einer fußhoch aus dem Tiegel emporschlagenden Aetherflamme 
+und kann bei einiger Geschicklichkeit jedesmal als fester
+Klumpen, wie eine Silbermünze, auf eine bereitstehende Schale
+geworfen werden, woselbst es allerdings in einigen Secunden
+wieder schmilzt. In Parenthese mag erwähnt werden, daß die
+flüssige Kohlensäure in den letzten Jahren von den amerikanischen
+Technikern Barber und Hill als das zuverlässigste Mittel zur
+Löschung von Schiffsbränden empfohlen worden ist. Sie verlangen, 
+daß jedes Schiff einige Stahlflaschen voll dieser im Großen
+zu mäßigen Preisen herstellbaren Flüssigkeit immer mit sich führen
+solle, um den Inhalt durch eine verzweigte Röhrenleitung sofort
+in den gefährdeten Raum spritzen zu lassen. Die dort verdampfende 
+Kohlensäure würde nicht nur fabelhaft abkühlend wirken,
+sondern auch die Flammen sofort ersticken, weil sie aus dem geschlossenen 
+Raume – um den es sich bei Schiffsbränden zunächst
+immer handelt – die der Flamme Nahrung spendende Luft
+verdrängt.
+Da man mit Hülfe dieser Gemische nunmehr stärkere Kältegrade 
+erzeugen lernte, als jemals vorher, so hat man damit Gase
+verflüssigen und Flüssigkeiten gefrieren lassen können, welche bis
+dahin allen Versuchen dieser Richtung Trotz geboten hatten.
+Allein mit einzelnen hartnäckigen Gasarten war dies bisher trotz
+alledem nicht gelungen, und bis vor etlichen Wochen mußte man
+immer noch die Gase eintheilen in solche, die sich bezwingen
+lassen, und unbezwungene (coërcible und incoërcible Gase). Erst
+in jüngster Zeit war es dem französischen Chemiker Cailletet
+gelungen, einige der ausdehnungslustigsten Gase, wie das giftige
+Kohlenoxyd unserer Oefen, ferner den Hauptbestandtheil der
+schlagenden Wetter und des Leuchtgases (Methylenwasserstoff),
+Stickstoffoxyd und ähnliche Gase in Fesseln zu schlagen. Das
+letztgenannte Gas blieb noch unter dem Drucke von zweihundertundsiebenzig 
+Atmosphären bei acht Grad Wärme, was es war, aber
+auf elf Grad unter Null abgekühlt, genügte ein Druck von hundertsechsundvierzig 
+Atmosphären, um es zu verflüssigen. Im Anfange
+des December 1877 bestand das Häuflein der Unbezwungenen
+nur noch aus den drei Gasen, welche die Hauptrolle im lebenden
+Körper spielen: Sauerstoff, Stickstoff und Wasserstoff. Der Sauerstoff 
+sollte sein Kränzlein zuerst verlieren; am 3. December übergab 
+Herr Cailletet der Pariser Akademie ein versiegeltes Schriftpaket, 
+in welchem, wie sich nun herausgestellt hat, die Bewältigung
+auch dieser letzten Spröden als, wenn nicht bereits gelungen, so
+doch nahe bevorstehend verkündigt wurde.
+Dennoch sollte ihm ein völlig unabhängig mit demselben
+Problem beschäftigter Chemiker, Herr Raoul Pictet in Genf,
+in der wirklichen Verflüssigung des Sauerstoffes zuvorkommen.
+Der Letztere hatte sozusagen alle Schrauben und Hebel in Bewegung 
+gesetzt, um dieses Ziel zu erreichen. Ein mit flüssigem
+Schwefeldampfe (schwefliger Säure) gefüllter Cylinder wurde
+beständig durch eine Luftpumpe von dem verdampfenden Gase
+befreit (welches, von Neuem verdichtet, dem Cylinder immer wieder
+zugeführt wurde), um damit eine Kälte von fünfundsechszig
+bis siebenzig Grad Celsius in diesem Cylinder zu erzeugen.
+Derselbe diente nur zur Kühlung eines zweiten inneren Cylinders,
+in welchem feste Kohlensäure durch eine Verdampfung unter der
+Luftpumpe eine Kälte von hundertundvierzig Grad Celsius
+erzeugte. Durch diesen Raum endlich war das starke Glasrohr
+gezogen, in welchem Sauerstoffgas unter einem Drucke von fünfhundertundsechszig 
+Atmosphären hindurchströmen konnte. Am
+22. December, als man dieses Experiment in den Laboratorien
+der Gesellschaft für die Fabrikation physikalischer Instrumente zu
+Genf anstellte, sah man aus dem innersten mit gefrorener Kohlensäure 
+umgebenen Rohre einen dünnen Strahl flüssigen Sauerstoffs 
+hervortreten, als man das unter einem Drucke von dreihundert 
+Atmosphären befindliche, stark abgekühlte Sauerstoffgas
+frei ausströmen ließ. Wie die Kohlensäure in dem früher beschriebenen 
+Versuche nur durch ihre eigene Wärmebindung den
+zurückbleibenden Theil zum Erstarren bringt, so verflüssigte sich
+auch der Sauerstoff nur erst in Folge der eigenen Ausdehnung;
+auch er kann sich mithin rühmen, nur durch sich selber besiegt
+worden zu sein.
+Acht Tage später, am Sylvester des scheidenden Jahres,
+versammelten sich in dem Laboratorium der Pariser Normalschule
+die berühmtesten Chemiker Frankreichs, Berthelot, Boussingault, St. Claire-Deville, Maskart und viele Andere,
+um der Verflüssigung der beiden letzten Gase (Stickstoff und
+Wasserstoff) durch Cailletet beizuwohnen. Seine Methode
+beruht auf denselben Principien, aber sie geht einfacher auf ihr
+Ziel los. Die Gase werden mittelst einer hydraulischen Presse
+einem Drucke bis zu dreihundert Atmosphären ausgesetzt, dabei durch
+verdampfende, flüssige, schweflige Säure auf neunundzwanzig Grad
+unter Null abgekühlt und dann plötzlich in Freiheit gesetzt. Der
+Apparat wurde zuerst mit Stickstoffgas gefüllt, ein Druck von zweihundert 
+Atmosphären ausgeübt und dann, nach vollendeter Kühlung
+[082] des durch den Druck erhitzten Gases der Cylinder geöffnet. Man
+sah eine Anzahl von Tröpfchen flüssigen Stickstoffs sich bilden.
+Nach diesem gelungenen Versuche kam auch das Wasserstoffgas
+an die Reihe, und ihm als dem dünnsten und leichtesten aller
+Körper wurde ein noch stärkerer Druck (zweihundertundachtzig
+Atmosphären) zu Theil. Es bildete beim Ausströmen einen
+Nebel, dessen Kälte die anwesenden Gelehrten auf dreihundert
+Grad schätzten.
+Obwohl nun Sauerstoff und Stickstoff, jeder für sich in eine
+Flüssigkeit verwandelt worden waren, blieb es doch nicht ohne
+Interesse, in einem dritten Experimente auch ihre Mischung, die
+atmosphärische Luft, zu einer Flüssigkeit zu verdichten. Vorher
+sorgsam getrocknet und von Kohlensäure befreit, entströmte sie
+dem Apparate als ein dünner Flüssigkeitsstrahl, vergleichbar
+demjenigen der mit Parfüms gefüllten Refraicheure. Der Traum
+der alten griechischen Philosophen von der Verwandlung des einen 
+ihrer Elemente in das andere, die Verdichtung der Luft zu einer
+wasserähnlichen Flüssigkeit war hiermit erfüllt, freilich in anderer
+Weise, als sie es gemeint haben.
+Es ließ sich erwarten, daß man bei den denkwürdigen Erfolgen 
+des December 1877 sich nicht beruhigen würde. Schon
+am 11. Januar 1878 konnte Pictet an den berühmten Chemiker
+Dumas in Paris telegraphisch melden, daß er jenen dünnsten
+aller Stoffe, welchen Dumas trotz dessen seiner chemischen Eigenschaften 
+halber vor vierzig Jahren ein gasförmiges Metall
+genannt hatte, daß er das einem Drucke von sechshundertundfünfzig
+Atmosphären ausgesetzte Wasserstoffgas als stahlblaue Flüssigkeit 
+seinem Apparate entströmen gesehen habe. Ja dem Flüssigkeitsstrahle 
+folgte ein Hagel fester Stücke, und die Gegenwart
+ähnlicher fester Körperchen ermittelte Pictet auch in einem mit
+elektrischem Lichte beleuchteten Strahle flüssigen Sauerstoffs, indem
+er ihn durch eine besondere optische Vorrichtung genau betrachtete.
+So ist also bald nach dem ersten Anlauf, mit der unsere Zeit
+charakterisirenden Schnelligkeit, das letzte Ziel auf diesem Wege
+erreicht worden, die Verdichtung der Luftarten zu festen Massen,
+mit denen Immermann’s Münchhausen einst „Luftschlösser“ bauen
+wollte.
+
+Carus Sterne.
+
+Anmerkungen (Wikisource)
+↑ Vorlage: Temepratur

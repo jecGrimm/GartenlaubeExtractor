@@ -1,0 +1,464 @@
+[90] Der Accumulator.
+ Von Franz Bendt.
+Wie allbekannt, beginnt der Aufschwung der neueren Technik 
+mit der Erfindung und der Ausgestaltung der Dampfmaschinen.
+Auch schon vordem besaß der Mensch Arbeitsvorrichtungen der 
+verschiedensten Art, und geschickt verstand er die Fallkraft des Wassers 
+und den Druck der Luft seinen Zwecken dienstbar zu machen.
+Aber erst durch die Dampfkraft ist die Maschine unabhängig von 
+den zufälligen Kraftquellen, die sich am Orte befinden, gemacht 
+worden. Die kondensierten Sonnenstrahlen, die im Boden der
+Erde als Kohlen schlummern, bergen unermeßliche Kräfte in sich, 
+die beliebig fortbewegt werden können und ihre Energie jederzeit 
+zur Verfügung stellen. Durch die Kraft der Kohle wurden daher 
+Bewegungsmaschinen, wie es z. B. die Lokomotive ist, möglich.
+Jedoch die Kohle – dieser natürliche Accumulator, d. h. Aufsammler – 
+hat in ihrer Fülle eine Grenze, und die Zeit wird kommen, 
+wo die Kohlenlager der Erde erschöpft sein werden! Doch auch 
+abgesehen von dieser Gefahr haftet der Dampftechnik eine große 
+Zahl von Übelständen an, von denen die Verbreitung von Ruß, 
+Rauch und Hitze nicht die einzigen sind.
+Mit der Entwicklung der Elektrotechnik während des letzten 
+Viertels unseres Jahrhunderts hat sich die Technik von neuem verjüngt. 
+Vermittelst der Methode der elektrischen 
+Kraftübertragung, unter Benutzung der 
+Dynamomaschine, können nunmehr alle Bewegungskräfte 
+in der weiten Welt gebrauchstüchtig gemacht werden, 
+gleichgültig, ob sie sich in der Kraft des 
+Wasserfalles, im Stoß des Windes oder im Auf- 
+und Niederstrom von Flut und Ebbe offenbaren.
+Man ist imstande, die mechanischen Kräfte, die 
+die Natur uns zumeist direkt bietet, in Elektricität 
+zu verwandeln. Und diese wiederum ist fähig, 
+Wärme, Licht und mechanische und chemische 
+Kraftäußerungen zu veranlassen; überhaupt jede 
+Energieform anzunehmen, welche wünschenswert 
+erscheint. Die Elektrotechnik geht in ihren Wirkungen 
+also weit über die Dampftechnik hinaus; 
+sie giebt dem Menschen Gewalt über alle Kräfte, 
+die unsere Erde birgt, und macht ihn erst wirklich
+zum Herrn des Planeten.
+Auch die Strom-Erzeugerin, die Dynamomaschine, bedarf zu ihrer Bewegung einer 
+Betriebskraft. Die Elektrotechnik kann dann erst allen Anforderungen 
+genügen, wenn sie über ein der Kohle entsprechendes Kraftreservoir 
+verfügt, das die elektrische Energie gleichsam beweglich macht und 
+unabhängig vom Orte. Das Genie der modernen Techniker hat 
+einen solchen Apparat in den Accumulatoren geschaffen!
+Ein Accumulator ist ein Mechanismus, in dem elektrische 
+Kräfte aufgespeichert und für beliebige Zeit bewahrt werden können.
+Wenn man bedenkt, daß alle Energie, die auf der Erde wirkt, ein 
+Geschenk der Sonne ist, so können die Accumulatoren als Vorrichtungen 
+betrachtet werden, die mit Sonnenstrahlen geladen sind.
+
+Auch der Accumulator ist nicht unvorbereitet dem Menschengeschlecht 
+geschenkt worden. Aus einer großen Anzahl von Apparaten 
+hat sich dieser moderne Zauberkasten nach und nach entwickelt.
+Seine unmittelbaren Vorfahren besitzt man seit lange in den allbekannten 
+galvanischen Elementen, welche bisher die Ströme für 
+die Telegraphen lieferten, die sich in unseren Klingelapparaten 
+befinden und sonst so mannigfache Verwendung gefunden haben.
+Wir erinnern nur an die galvanischen Batterien von Daniel, 
+Bunsen und Leclanchez. In diesen wird zumeist durch die 
+Berührung von Metallen und Säuren ein chemischer Zustand erzeugt, 
+der sich in Form elektrischer Ströme äußert. Ist auch der 
+Accumulator, wie wir bemerkten, eine naturgemäße Folge dieser 
+Einrichtungen, so war es doch auch hier, wie so häufig bei ähnlichen 
+Erfindungen, eine zufällige Beobachtung, die, von kundigem Auge 
+verfolgt, den Anstoß zu dem neuen Apparate gab. Bei einem 
+gelegentlichen Versuche hatte Sinsteden bemerkt, daß Bleiplatten, 
+die in einer Säurelösung stehen und die ein elektrischer Strom 
+längere Zeit durchfließt, selbst die Fähigkeit erhalten, Strom zu 
+spenden, wenn man sie durch einen Kupferdraht verbindet. Auf 
+den unbefangenen Beobachter wirkt dieser Vorgang, als ob die 
+erzeugenden Ströme sich in die Platten festgesaugt hätten, dort ruhen 
+und durch den Zwang einer neuen Verbindung wieder zum thätigen 
+Leben erweckt würden. Es bedurfte vieler Arbeit, ehe die merkwürdige 
+Erscheinung unter der Hand genialer Experimentatoren 
+zu einer praktischen Schöpfung ausgebildet wurde.
+Der Ruhm der Erfindung wirksamer Accumulatoren gebührt 
+dem französischen Physiker Planté, der schon im Jahre 1860 einen 
+praktischen Apparat herstellte, aber erst 1879 mit der vollendeten 
+Erfindung vor die Oeffentlichkeit trat, nachdem durch unseren Werner 
+von Siemens die Dynamomaschine erfunden worden war, und sich 
+damit die Möglichkeit ergab, auf billige Weise elektrische Ströme 
+von beliebiger Stärke aller Orten zu erzeugen. Wie unsere Zeichnung 
+veranschaulicht, besteht solch ein elektrischer Kraftsammler aus 
+einem Glasgefäß, in dem sich eine Anzahl Bleiplatten aufgestellt 
+findet. Der übrige Raum ist ganz mit Säure ausgefüllt.
+Als Planté sich um die Konstruktion und Verbesserung der 
+Accumulatoren bemühte, trug er sich mit der Absicht, eine bessere 
+Stromquelle für die Telegraphie zu schaffen, als man sie in den 
+oben erwähnten galvanischen Batterien bereits besaß, Aber erst 
+in jüngster Zeit wurden die genannten Apparate für diesen 
+wichtigen Teil der Technik bedeutungsvoll; und das 
+verdankt man hauptsächlich den Ingenieuren der
+deutschen Reichspost. Es sind ökonomische und
+praktische Vorteile, welche die Einführung der 
+„Sammler“ in den Telegraphenbetrieb 
+wünschenswert gemacht haben. So bedurfte man 
+beispielsweise früher zum Betrieb des 
+Haupttelegraphenamtes in Berlin 12770 der alten
+Kupferelemente, deren Preis etwa 14000 Mark 
+beträgt. Die Aufstellung einer so bedeutenden 
+Anzahl von Batterien erforderte einen sehr großen 
+Raum und ihre Wartung ein umfangreiches 
+Beamtenpersonal. Dieselbe Leistung wird jetzt im 
+Haupttelegraphenamte mit 170 relativ kleinen 
+Accumulatoren erzielt, zu deren Wartung ein Mann 
+ausreicht. Auch zur Strombeschickung der 
+Klingelapparate im Telephonverkehr ging man vielfach 
+mit Vorteil zu den Plantéschen Apparaten über.
+Von großer Bedeutung ist die Verwendung 
+des Sammlers in der elektrischen Beleuchtung. 
+Das Licht, das der Accumulator erzeugt, zeichnet sich durch große 
+Ruhe aus, was nicht verwunderlich ist, wenn man bedenkt, daß ein so 
+hervorgerufener Strom nicht von den Schwankungen der Maschine 
+abhängt. Durch den Accumulator wird es möglich, allüberall, auch 
+dort wo keine elektrischen Centralen sich vorfinden, das elektrische 
+Licht einzuführen. So hat z. B. die Firma Siemens und Halske 
+in Wien ein Institut geschaffen, welches geladene Accumulatoren 
+an Villenbesitzer in der Wiener Vorstadt gegen ein Billiges 
+versendet und somit einem jeden die elektrische Beleuchtung innerhalb 
+seiner Häuslichkeit zugänglich macht.
+Einen bemerkenswerten ökonomischen Vorteil bieten in den 
+Weltstädten die Accumulatoren den großen elektrischen Centralen, 
+die zum Zwecke der Beleuchtung begründet wurden. Am 
+interessantesten und bedeutungsvollsten sind die Anlagen in der deutschen 
+Reichshauptstadt. Sie besitzt fünf Centralen größter Form. In vier 
+derselben sind riesige Dynamomaschinen aufgestellt, die die Ströme 
+erzeugen, welche Berlin mit Licht versorgen. Die fünfte Station 
+wurde erst vor einem Jahre im Tiergartenviertel errichtet, und sie 
+dient dazu, die Privatwohnungen jener Gegend elektrisch zu 
+erleuchten. Der Bedarf beschränkt sich hier im allgemeinen auf 
+wenige Stunden täglich. Es wäre daher wenig vorteilhaft 
+gewesen, wenn man auch diese Station mit Dynamomaschinen 
+ausgerüstet hätte. Großmaschinen sind nur ökonomisch, wenn sie sich 
+möglichst ununterbrochen in Thätigkeit befinden. Die Station 
+ist daher mit Accumulatoren ausgerüstet. Hier stehen in drei 
+mächtigen Sälen 138 Elemente der größten Form. Am Tage, 
+wenn auch die übrigen Stationen nur wenig belastet sind, 
+verwenden sie einen Teil ihrer überflüssigen Kraft, um die 
+Accumulatoren der fünften Station zu laden. Und am Abend, wenn 
+das Lichtbedürfnis beginnt, senden nunmehr die merkwürdigen
+[91] Zauberkräften ihre aufgespeicherten Ströme in die Leitungen und
+schaffen Licht.
+So unscheinbar äußerlich eine Accumulatorenanstalt auch
+ausschaut, ein merkwürdiges Ding ist sie doch bei näherer 
+Betrachtung. Rauscht und klappert es auf den mit Dynamomaschinen
+ausgestatteten Centralen wie in der Werkstatt Vulkans, herrscht
+überall Leben, so stellt eine Accumulatorenstation dagegen ein Bild
+vollkommener Ruhe dar. In langen Reihen sind hier die mit
+Säuren und Platten gefüllten Gefäße aufgestellt. In einigen Elementen 
+kocht es, aber auch nur ruhig und gesetzt. Die Zelle ist
+geladen, in der die Gasblasen aufsteigen. Sonst aber hört man
+nur den Schlag irgend eines Hebels, der sich selbständig einstellt.
+Zur Wartung des sechsstöckigen Hauses dient ein Beamter. Doch
+auch er ist für den Betrieb des Ganzen nicht notwendig, denn alles
+wirkt hier automatisch. Das Genie des Technikers hat jedes 
+Ereignis voraus berechnet und dafür gesorgt, daß es selbstthätig 
+erfüllt wird. Und dennoch, was für Kräfte schlummern hier! Die
+erzeugte elektrische Energie ist auf der Station im Tiergartenviertel 
+von Berlin imstande, allein 4800 gleichzeitig brennende
+Lampen, deren jede einer Lichtstärke von 16 Kerzen entspricht, mit
+Strom zu beschicken. Man bezeichnet die technische Wissenschaft
+zuweilen als kalt und nüchtern; liegt aber nicht ein eigentümlich
+geheimnisvoller Zauber über der Accumulatorenstation mit ihren
+still wirkenden und doch so mächtigen Kraftäußerungen? – 
+Zu den Unglücksfällen, welche die unentbehrlichen neuen
+Kulturmittel leider auch im Gefolge haben, gehören neuerdings
+vielfach die Zugbrände. Sie werden zumeist durch die bisher 
+verwendeten Beleuchtungsquellen veranlaßt oder doch vermehrt. 
+Bekanntlich verwendet man auf fast allen Bahnstrecken augenblicklich 
+noch die Fettgaslampe. Neben ihren gefahrbringenden Eigenschaften 
+entspricht diese Methode auch nicht mehr den Anforderungen, 
+die der moderne Mensch an die Beleuchtung stellt; ist
+es doch fast unmöglich, längere Zeit bei der jetzigen Beleuchtung
+ohne starke Anstrengung der Augen zu lesen. Schon oft ist daher
+wiederholt der Wunsch nach elektrischer Zugbeleuchtung 
+ausgesprochen worden. Mit unseren neuen vortrefflichen Accumulatoren 
+ist man in der That fähig, diesem Wunsche leicht gerecht
+zu werden, und auf mehreren Bahnstrecken haben sich die Versuche
+vortrefflich bewährt. Es bedient sich beispielsweise seit etwa einem
+Jahre die Kaiser Ferdinand-Nordbahn in Oesterreich der Accumulatoren 
+zur elektrischen Beleuchtung, und seit fünf Jahren erfreut
+sich die Strecke Savona-Navarra in Italien elektrisch erleuchteter
+Züge. Auch im kleinen Dänemark wird seit zwei Jahren in acht
+Schnellzügen das elektrische Licht angewendet. Die Einrichtung dürfte
+aus dem Grunde allgemein leicht einführbar sein, daß die Kosten
+nicht höher sind als die der alten Fettgasbeleuchtung. Nach den
+kürzlich veröffentlichten Betriebsergebnissen der 
+Dortmund–Gronau–Enscheder Bahnverwaltung in den Wintermonaten 1893 bis 1894
+hat die elektrische Beleuchtung gegen die Fettgasbeleuchtung sogar
+eine Ersparnis von 34 Prozent ergeben. Die Reichspostverwaltung
+entschloß sich daher, ihren Dienstwagen das elektrische Licht zu
+geben. Die Passagierwagen scheinen vorläufig noch in der Düsternis
+verharren zu sollen.
+Auch die Bergingenieure sind durch die Gefahr, welche die älteren
+Beleuchtungsarten in sich bergen, dem elektrischen Lichte zugeführt
+worden. Bekanntlich tritt die Zündung der schlagenden Wetter
+zumeist dadurch ein, daß der Bergmann den schützenden Mantel
+seiner Lampe – der sogenannten Davylampe – löst und dadurch
+die gefährlichen Gase mit der Flamme in Berührung bringt. In
+englischen und amerikanischen Gruben hat man die unterirdischen
+Räume mit Glühlicht versehen. Solche Anlagen sind aber immerhin 
+nicht wohlfeil und übersteigen für viele kleine Gruben in
+Deutschland die Grenzen, welche einem wirtschaftlichen Betrieb 
+gezogen sind. Auch hier hat der Accumulator sich als Retter in der
+Not eingestellt. Der Elektrotechniker Vorster in Jena konstruierte
+vor kurzem Grubenlampen, die hauptsächlich aus einem kleinen
+leichten Accumulator von praktischer Form bestehen. In seiner
+Höhlung befindet sich eine Glühlampe, die der Accumulator speist;
+wird durch einen Zufall die Glasbirne zerschmettert, dann erlischt,
+wie bekannt, im Augenblick die Lampe, und die Gefahr einer 
+Zündung ist somit ausgeschlossen.
+Noch auf einem anderen Gebiete zeigt sich der Accumulator
+als ein Hilfsmittel in Unglücksfällen. Ein jedes größere Schiff
+führt bekanntlich sogenannte Rettungsbojen mit sich, um „dem
+Mann über Bord“ die Möglichkeit zu geben, sicher und schnell
+dem nassen Elemente zu entfliehen. In der Regel besteht eine
+solche Vorrichtung aus einem größeren Balle, der an einer
+Leine befestigt und fähig ist, einen Mann zu tragen. In dunklen
+Nächten waren diese Rettungsapparate, wie begreiflich, nur
+wenig verwendbar. Man versieht jetzt die Rettungsbojen mit
+einer Glühlampe größter Form, nebst einem Accumulator, und
+hat die Schaltung so vollzogen, daß die Glühlampe in dem
+Augenblick, wo die Boje den Wasserspiegel berührt, ihre Thätigkeit 
+von selbst beginnt und mit ihren Strahlen weithin das Meer
+erhellt.
+Wo elektrische Ströme zur Verfügung stehen, da sind auch
+Kräfte aller Art zu erwecken. Der stromerzeugende Accumulator 
+kann somit nicht allein Licht, sondern auch mechanische
+Arbeit veranlassen. Er ist denn auch vielfach zur Bewegung von
+Maschinen der verschiedensten Art verwendet worden. – Eine
+Dynamomaschine besteht hauptsächlich aus einer Anzahl großer
+Elektromagnete, zwischen denen sich ein beweglicher Teil, der 
+sogenannte Anker, dreht. Schickt man nun elektrische Ströme – 
+wie sie beispielsweise unser Accumulator entwickelt – in die 
+Elektromagnete, dann rotiert der Anker und ist imstande, Räder zu drehen
+und Maschinen in Bewegung zu setzen. Eine Dynamomaschine, 
+die dieses vermag, nennt man einen Motor.
+Von den durch Motoren bewirkten Betriebsanstalten stehen
+augenblicklich die elektrischen Eisenbahnen im Vordergrunde
+des Interesses. Zum größten Teil – wie man es in Halle, Bremen,
+Hamburg und an vielen anderen Orten beobachten kann – wird
+der Motor, der sich immer unterhalb eines elektrisch betriebenen
+Wagens vorfindet, dadurch bewegt, daß man durch oberirdische
+oder unterirdische Drähte ihm Strom von irgend einer elektrischen
+Centrale aus zuleitet. Diese modernen Transportmittel haben sich
+vortrefflich bewährt. Sie können aber deshalb nicht als technisch
+vollendet betrachtet werden, weil die stromführenden Leitungsdrähte 
+das architektonische Bild der Straße stören und überhaupt
+dem ganzen System etwas Schwerfälliges verleihen. Das war
+u. a. der Grund, weshalb man in der Vaterstadt der elektrischen
+Bahnen, in Berlin selbst, sich nicht zur Einführung derselben
+entschließen konnte, so dringend auch dafür der Bedarf des 
+Verkehres spricht. Seit längerer Zeit hat man sich nun mit dem
+Plane getragen, die elektrischen Bahnen mit Accumulatoren zu
+betreiben. Es ist dabei nur erforderlich, eine entsprechende 
+Anzahl unserer Kraftkästen unter die Sitzbänke der Wagen 
+einzustellen und sie mit dem Bewegungsmechanismus zu verbinden.
+Dann rollt der Wagen als ein selbständiges Ganzes dahin, ohne
+Draht und ohne Rückleitung! Bis vor kurzem waren die 
+Accumulatoren zu schwer und auch in ihrem ganzen Gefüge nicht 
+genügend technisch durchgebildet, um diesen Zwecken mit Vorteil
+dienen zu können. Die Accumulatorentechniker sind aber nunmehr
+zu Formen gelangt, denen die Uebelstände nicht mehr anhaften,
+und damit ist das Kapitel „elektrische Bahnen“ in ein neues
+Stadium getreten. Auf verschiedene Weise hat man versucht, 
+bewegliche Accumulatoren zu schaffen. Man ersetzte z. B. die flüssige
+Masse durch einen gelatinösen Körper, der aus Wasserglas,
+Schwefelsäure und Asbest besteht. Vortreffliche Erfahrungen mit
+Accumulatoren für Bahnen erzielte man in New York. Dort
+wurde von der Stadtverwaltung die oberirdische Stromzuführung
+verboten, und die Bahngesellschaften mußten sich notgedrungen der
+Accumulatoren bedienen. Der Zwang hat, wie so oft, auch hier
+zu vortrefflichen Neuerungen geführt. Die amerikanischen 
+Accumulatoren bestehen aus verzinktem Eisenblech und Platten aus
+Kupferdrähten, die gemeinsam in einer Alkalilösung stehen. Sie
+sind hinreichend leicht und leistungsfähig und entsprechen durchaus
+den Anfordernden der Bahntechniker.
+Nunmehr regt’s sich allüberall in den Kreisen der Elektriker,
+und ein heftiger Kampf ist entbrannt zwischen den Vertretern der
+alten Methoden der oberirdischen Stromzuführung und den 
+Verehrern der Accumulatoren. Ein Kampf, aus dem vermutlich die
+letzteren als Sieger hervorgehen werden. Eine elektrische Bahn
+in großem Maßstabe, die ihren Antrieb durch Accumulatoren 
+empfängt, wurde vor einiger Zeit in Paris eingerichtet. Sie geht
+von Paris nach St. Denis. Ihre Wagen fassen, wie die größten
+Pferdebahnfahrzeuge, 52 Personen. Sie bewegen sich innerhalb
+der Stadt mit 12 Kilometern und außerhalb der Stadtgrenzen mit
+16 Kilometern Geschwindigkeit in der Stunde.  Außerhalb der
+[92] Stadt hängt man ihnen zudem noch einen zweiten Wagen an.
+Während eines Tages durchläuft der Wagen 135 Kilometer. 
+Unterhalb der Sitze eines vollständig mit den Bewegungsmaschinen 
+ausgerüsteten Fahrzeuges befindet sich eine Accumulatorenbatterie, die
+aus 108 Zellen besteht. Sie wiegt mit allem Zubehör 2760 Kilogramm. 
+Die Anlage in Paris ist deshalb besonders bemerkenswert, 
+weil sich die Strecke bald senkt und bald hebt, also ungünstigen
+Bedingungen zu genügen hat.
+Der Spürsinn der Elektriker hat übrigens versucht, aus dieser
+Schwierigkeit wiederum einen Vorteil zu gewinnen. Rollt der
+Wagen einen Berg hinunter, dann ist die Dynamomaschine 
+unbeschäftigt. Sie empfängt durch die Drehung der Triebräder 
+Bewegung, kann also Strom erzeugen und hierdurch wiederum die
+Accumulatoren laden. Doch das ist vorläufig noch Projekt! Am
+bedeutungsvollsten bei allen Neueinführungen dieser Art ist ihre
+wirtschaftliche Seite. Bei der Pariser Bahn ist das finanzielle
+Ergebnis ein sehr günstiges. Für den Kilometer betragen die
+Kosten im elektrischen Betriebe 4,24 Mark gegen 4,48 Mark
+beim Pferdebetrieb. Der Pferdebetrieb der Allgemeinen 
+Omnibusgesellschaft in Paris beträgt sogar 4,8 Mark für den Kilometer.
+Die Folge ist, daß der Fahrpreis für die mit Accumulatoren
+betriebenen Fahrzeuge sich verhältnismäßig sehr niedrig stellt, und
+zwar 8,8 Pfennig für den Kilometer und die Person. Die Pferdebahn 
+nimmt für die gleiche Strecke 12 Pfennig. Innerhalb der
+französischen Hauptstadt werden jährlich durch die Pferdebahn
+etwa 50 Millionen Kilometer befahren. Mit Accumulatorenbetrieb
+würden sich die Jahreseinnahmen somit um zwei Millionen Mark
+erhöhen.
+Auch in Berlin ist man gegenwärtig mit Versuchen 
+beschäftigt, um zu ermitteln, ob sich der Accumulatorenbetrieb für
+deutsche Verhältnisse eignet. Die Versuche sind gut ausgefallen;
+hoffentlich wird die Reichshauptstadt mit der Einführung von
+Accumulatorenbahnen den deutschen Städten mit gutem Beispiel
+vorangehen.
+Durch den Accumulator ist das Fahrzeug von der den 
+elektrischen Strom erzeugenden Station gelöst und es wird nunmehr
+auch möglich sein, einzelne Wagen, die etwa unseren Droschken, dem
+Omnibus, dem Kremser ähneln, den Antrieb durch Accumulatoren
+zu verleihen und sie damit unseren Wünschen entsprechend in ein
+mechanisch getriebenes Fahrzeug umzugestalten. In der That sind
+denn auch bereits in London und anderen Städten elektrisch 
+betriebene Omnibusse in Betrieb.
+Von ähnlicher Bedeutung wie die elektrischen Eisenbahnen
+sind die elektrisch betriebenen Boote. Diese Fahrzeuge, welche
+in größerer Menge auf der Weltausstellung in Chicago, aber auch
+schon auf der Elektrischen Ausstellung in Frankfurt a. M. vorgeführt
+wurden, haben gezeigt, daß sie reif sind, jede Konkurrenz auszuhalten.
+Die Einrichtung eines solchen Fahrzeuges weicht nicht viel von 
+derjenigen der elektrisch bewegten Wagen ab. Auch hier haben wir eine
+Dynamomaschine, die als Motor wirkt und deren Anker direkt mit
+der Schiffsschraube in Verbindung steht.  Eine entsprechend große
+Batterie von Accumulatoren liefert den Strom zur Bewegung des
+Motors. Genau betrachtet, sind die „Sammler“ für den Bootsbetrieb 
+ganz besonders geeignet. Sie dienen zugleich als Ballast
+und können in jeder gewünschten Form Aufstellung finden. Ihre
+Last wirkt also nicht störend wie bei den elektrischen Bahnen. Eine
+andere vortreffliche technische Eigenschaft ist es ferner, daß die
+Achse des Ankers direkt mit der Schiffsschraube in Verbindung
+stehen kann. Dadurch wird die Bewegung sehr regelmäßig und
+fast geräuschlos. Und damit sind die Vorteile der elektrischen 
+Betriebsart den anderen Methoden gegenüber noch. keineswegs 
+erschöpft: das elektrische Boot ist frei von Dampf, Ruß und Hitze,
+die Maschinenteile bedürfen keiner Schmiermittel und der üble 
+Dunst von Petroleum oder Benzin beleidigt nicht die 
+Geruchsorgane der Fahrgäste. Die von dem hervorragendsten Ingenieur
+auf diesem Felde, Reckenzaun, erbauten Boote zu Chicago bewegten
+sich mit einer. Geschwindigkeit von 10 bis 13 Kilometern in der
+Stunde. Sie können aber doppelt so große Geschwindigkeit erreichen.
+Sie haben eine Länge von 11 Metern, eine Breite von fast 2 Metern
+und einen Tiefgang von etwa 66 Centimetern. Unter den 
+Sitzplätzen der Fahrgäste befinden sich 72 stromerzeugende 
+Accumulatoren, die ein Gesamtgewicht von 1300 Kilogramm darstellen.
+Ein solches Boot kann 32 Personen und 2 Mann Bedienung 
+aufnehmen. Neuestens hat man sich bemüht, die Geschwindigkeit der
+neuen Fahrzeuge durch genaueste Anpassung an das neue 
+Betriebsmittel zu erhöhen. So besitzt die Accumulatoren-Gesellschaft
+zu Hagen ein kleines elektrisches Probeboot, das wie ein Pfeil
+dahinschnellt und allen übrigen mit Dampf betriebenen Schiffen
+den Rang abläuft.
+Daß sich ein Fahrzeug mit solchen Eigenschaften vortrefflich
+für Kriegszwecke eignet, ist wohl nicht nötig, des weiteren 
+auseinanderzusetzen. In der That hat man denn auch bereits vielfach
+Versuche gemacht, Torpedobooten, die sich möglichst geräuschlos
+und schnell bewegen sollen, auf elektrischem Wege, d. h. durch
+Accumulatoren, ihren Antrieb zu verleihen. Es wurden dabei
+Konstruktionen ausgeführt, die das höchste Interesse verdienen.
+Eigentümliche Kriegsfahrzeuge sind beispielsweise die in 
+verschiedenen Typen entworfenen Unterseeboote, welche sich je nach
+Belieben oberhalb oder unterhalb des Wasserspiegels bewegen
+können. Am bekanntesten von ihnen ist der in England erbaute
+„Nautilus“ und das ganz elektrisch eingerichtete französische 
+Kriegsboot „Gymnote“. Der Mangel aller dieser Fahrzeuge liegt bisher
+darin, daß ihre Geschwindigkeit nur eine relativ geringe ist. Es
+werden fortdauernd von den Marineverwaltungen aller Staaten
+Experimente mit Unterseebooten angestellt, deren Ergebnisse jedoch
+aus guten Gründen nicht veröffentlicht werden. Neben den ganz
+versenkbaren Kriegsbooten hat man halb versenkbare konstruiert,
+die gleichfalls durch Accumulatoren ihren Antrieb erhalten und
+sich vortrefflich zu Torpedoschleuderern eignen.
+Auch in anderen Zweigen der Kriegstechnik bedient man sich
+jetzt mit Vorliebe der Accumulatoren. Man gab ihnen aus diesem
+Grunde eine möglichst handliche und bequeme Form, so daß sie der
+Fußsoldat im Tornister und der Kavallerist auf dem Pferde bequem
+mit sich führen kann. So hat man eine kriegstüchtige Batterie für
+den Telegraphen und zur Beschickung von Signallichtern und
+Scheinwerfern, wie sie jetzt allüberall bei den Manövern zur 
+Verwendung gelangen.
+Wir möchten noch einer Anwendung des „Sammlers“ gedenken, 
+die allerdings einem etwas phantastischen Gebiete zugehört.
+Die Erfinder, die sich mit der Konstruktion lenkbarer Luftschiffe
+beschäftigen, pflegen bei ihren Plänen als zukünftige Betriebskraft
+sich auf den Accumulator zu berufen. Er könnte allerdings in 
+Verbindung mit einem leichten Motor zur Lösung des vielumworbenen
+Problems viel beitragen. Leider ist an eine Erfüllung dieses
+Wunsches vorläufig nicht zu denken.
+Nachdem wir nunmehr in großen Zügen die verschiedenen
+Anwendungsformen des Accumulators betrachtet haben, ist es
+Zeit, zum Schluß noch seine Technik selbst uns in Kürze zu 
+veranschaulichen. Gewiß ist die Beschäftigung mit einer so wertvollen
+und für die Zukunft so bedeutungsvollen Vorrichtung den Lesern
+der „Gartenlaube“ interessant genug, um auch die Dürre einer
+technischen Schilderung mit in Kauf zu nehmen.
+In seiner einfachsten Konstruktion besteht ein Accumulator aus
+zwei Bleiplatten, die sich in einer Lösung von verdünnter 
+Schwefelsäure befinden. Man verbindet die beiden Platten mit den Polen
+einer Dynamomaschine oder einer galvanischen Batterie und
+schickt den Strom durch die Vorrichtung. Der elektrische Strom
+zerreißt die Bestandteile der Flüssigkeit und zwingt sie sodann
+wiederum, sich mit dem Blei innig zu verbinden. Ist die Ladung
+des Sammlers vollendet, dann erscheint die eine Platte mit einer
+blauschwarzen Masse überzogen, die der Chemiker als Bleiüberoxyd
+bezeichnet. Die andere Platte hat sich mit einer schwammartigen
+Masse bedeckt, die Bleischwamm genannt wird. So einfach 
+verläuft jedoch der Vorgang nicht, wie wir ihn hier schildern,
+sondern Planté mußte, um die Ladung zu erzielen, sich einer
+ganzen Reihe eigentümlicher Kunstgriffe bedienen. Hatte der
+Strom einige Wochen hindurch den zukünftigen Accumulator in
+einer bestimmten Richtung durchflossen, dann schaltete der Erfinder
+den Strom aus und ließ die Vorrichtung ruhen. Nach dieser
+Pause wurde der Strom von neuem durch die Kombination 
+gesendet, aber in der entgegengesetzten Richtung wie vordem. In
+dieser Weise muß mehrere Jahre hindurch in dauerndem 
+Richtungswechsel und entsprechenden Pausen der Apparat beschickt werden.
+Ist das geschehen, hat der Apparat das oben geschilderte Aussehen
+erhalten, dann ist er zum  Gebrauche fertig und giebt nunmehr
+einen sehr gleichmäßigen Strom, der nur noch nach einer Richtung
+fließt. Der Vorgang bei der Ladung von Accumulatoren besteht
+somit darin, daß auf den Bleiplatten chemische Veränderungen
+[93] hervorgerufen werden. Die chemische Arbeit erzeugt bei der 
+Entladung Elektrizität.
+Der „Sammler“ wurde erst industriell verwertbar, als es Camille 
+Faure gelang, eine neue vermittelnde Methode zu entdecken. Faure 
+trägt die Masse, die sich langsam beim Planté-Prozesse bildet, 
+schon fast vollendet auf die Platten auf. Er verwendet hierfür 
+Mennige, eine technisch vielgebrauchte Sauerstoffverbindung des 
+Bleis. Ueberzieht man die Bleiplatten mit dieser Masse und 
+sendet den Strom durch die Batterien, dann vollzieht sich 
+die Ladung in einigen Stunden. Der Fehler des Faureschen Accumulators 
+liegt wiederum darin, daß er relativ leicht beschädigt werden 
+kann, da die aufgetragene Masse schon bei geringen Erschütterungen 
+abfällt. Durch die mannigfaltigsten Kunstgriffe ist es aber 
+gelungen, diesen Fehler zu heben. Sämtliche gegenwärtig zur 
+Verwendung gelangenden Accumulatoren beruhen auf dem Faureschen 
+Verfahren. 
+Eine der interessantesten Abänderungen des Faureschen Accumulators 
+wurde im Jahre 1882 Tudor patentiert. Der Erfinder 
+verbindet das Planté- und Faure-Verfahren in sehr glücklicher 
+Weise. Er läßt zunächst den Strom 2–3 Monate durch die 
+Platten hindurchgehen. Das so behandelte Metall wird nunmehr 
+mit Mennige bestrichen und von neuem mit Strom beschickt.
+Nach etwa einem Vierteljahr ist der „Sammler“ betriebsfähig.
+Die Tudor-Accumulatoren sind diejenigen, die allen Ansprüchen 
+bisher am meisten gerecht werden, und sie haben sich daher, 
+besonders auch in Deutschland, bereits allgemein eingebürgert.

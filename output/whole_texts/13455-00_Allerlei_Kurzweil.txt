@@ -1,0 +1,96 @@
+[896] Neujahrsglocken-Räthsel.
+Auflösung der Schach-Aufgabe auf S. 788:
+
+
+
+
+
+Weiß:
+
+Schwarz:
+
+
+1.
+
+L h 6 – g 7
+
+K d6 – d 5 :
+
+
+2.
+
+D g 1 – g 5
+
+d 7 – d 6
+
+
+3.
+
+L g 7 – e 5 :
+
+d 6 – e 5 : a. B.
+
+
+4.
+
+D 6 5 – d 8 matt.
+
+
+
+
+Weiß:
+
+Schwarz:
+
+
+1.
+
+…
+
+L b 7 – d 5 :
+
+
+2.
+
+L g 7 – e 5 : †
+
+K d 6 – e 5 :
+
+
+3.
+
+D g 1 – g 5 †
+
+K e 5 – d 6 (d 4 :)
+
+
+4.
+
+D 6 5 – f 4 (f 6) matt.
+
+
+Varianten: a) 1. … e 5 – d 4 :, 2. D g 1 – h 2 †, K d 6 – d 5:, 3. D h 2 – e 5 † etc. oder 2. … K d 6 – c 6, 3. D h 2 – c 7 † etc. – b) 1. … S b 1 – d 2 (a 3), 2. D g 1 – g 5, S d 2 – c 4 !, 3. d 3 – c 4 : etc. oder 2. … S d 2 – f 3, 3. D g 5 – e 7 † etc. oder 2. … e 5 – d 4 :, 3. D g 5 – e 5 † etc. – c) 1. … a 7 – a 5 2. D g 1 – g 5, a 5 – b 4 :, 3. D g 5 – e 7 † etc. – d) 1. … beliebig anders, 2. D g 1 – h 2 nebst 3. D h 2 – e 5 : matt. – Eine vorzügliche Arbeit! Der Ideenreichthum und die Formgewandtheit K. Erlin’s sind überraschend.
+
+
+Auflösung der Skat-Aufgabe Nr. 17 auf S. 880.
+Der Spieler gewinnt sein Schellensolo, obwohl nur 2 Sieben liegen und keine Zehn blank sitzt, mit Schneider bei folgender Kartenvertheilung: Skat: e7, r7.
+
+Vorhand: gW, rW, sK, eZ, e9, rZ, r9, g9, g8, g7,
+Hinterhand: eW, sW, s9, eK, eO, rK, rO, gZ, gK, gO,
+denn der Gang des Spiels wird folgender sein:
+
+
+ 1. g9, gD, gO (+14),
+ 2. s7, s9, sK (−4),
+ 3. g8, r8! gZ (−10),
+ 4. eK,[1] e9, e8! (−4),
+ 5. gK, g7, sD (+15),
+ 6. 8, sW, rW (−4),
+ 7. eZ, eD, eO (+24),
+ 8. sO, eW, gW (−7),
+ 9. rK, r9, rD (+15),
+ 10. sZ, rO, rZ (+23).
+
+
+
+1. ↑ Spielt Hinterhand sofort gK nach, so wirft der Spieler auch die e8 ab und das Resultat ist dasselbe.

@@ -1,0 +1,41 @@
+[368] Allerlei Kurzweil.
+Schach.
+Von John Field in London.
+SCHWARZWEISS
+Weiß zieht an und setzt mit dem dritten Zuge matt.
+
+
+Auflösung der Schach-Aufgabe auf S. 336.
+
+
+Weiß:
+
+Schwarz:
+
+
+1. D a 1 – e 1
+
+K e 5 – d 4 :
+
+
+2. L e 4 – g 2
+
+L h 2 – g 1 ! A)
+
+
+3. D e 1 – g 3 : !
+
+L g 1 – e 3 (oder beliebig)
+
+
+4. D g 3 – g 7 : (resp. c 2 – c 3) matt.
+
+A) 2. … beliebig anders, 3. c 2 – c 3 +, K d 4 – d 3, 4. L g 2 – e 4 matt. – Auf 1. … L g 1 folgt 2. D g 3 : + und falls K : T so 3. L g 2 (h 1) etc. Auf 1. … S e 6 geschieht 2. L d 3 aufged. +, K : T, 3. L c 4 ! nebst 4. c 2 – c 3 matt. Dies ist zugleich die Drohvariante. Das Problem bekundet in Anlage und Durchführung die Hand des Meisters.
+
+
+Auflösung der „Räthselhaften Inschrift“ auf S. 352:
+
+A Glaesle gut’n Wein,
+A Trum von a Wurst,
+Ist gut für den Hunger
+Und stillt a den Durst!

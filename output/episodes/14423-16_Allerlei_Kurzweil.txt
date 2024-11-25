@@ -1,0 +1,15 @@
+[628] Auflösung der Schachaufgabe auf S. 468:
+1. T g 6 – b 6   h 4 – h 3
+2. L f 1 × b 5   Zugzwang.
+3. L h 2 – g 1 oder d 6 matt.
+1. …   beliebig.
+2. L h 2 – d 6 † nebst
+3. L f 1 × b 5 matt.
+1. …   K c 5 × b 6
+2. L h 2 – g 1 †   K beliebig.
+3. L f 1 × b 5 matt.
+Auf 1. …   L a 5 × b 4 folgt
+2. L h 2 – g 1 matt.
+
+
+Heft 38[Bearbeiten]

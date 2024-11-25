@@ -1,0 +1,30 @@
+[124] Auflösung des Kreuzräthsels in Nr. 5:  
+Scataufgabe.
+Sie sind Vorhand und haben die folgenden Karten: Treff-Bube, Coeur-Bube, Carreau-Bube, Carreau-König, Carreau-Neun, Carreau-Acht,
+Carreau-Sieben, Coeur-Aß, Coeur-Zehn und Treff-Aß.
+Sie sagen darauf Grand an. – Zuerst spielen Sie den Treff-Buben. Im Scat liegen Pique-Bube und Pique-König. Sie verlieren das Spiel.
+Wie sind die Karten vertheilt und wie ist der Gang des Spiels?
+
+Auflösung der Schachaufgabe Nr. 2:
+
+
+
+Weiß:
+Schwarz:
+
+
+1. c 6 – c 7
+K e 8 – f 7
+
+
+2. c 7 – c 8 D
+S h 8 – g 6 oder S h 7 – f 8, g 5
+
+
+3. f 5 : S g 6 resp. D c 8 – f 8 (:) matt.
+
+
+Varianten. a) 1. ..., K d 7; 2. c 8 D †, K : D; 3. d 7 matt.
+Varianten b) 1. .., S f 7; 2. d 7 †, K e 7; 3. c 8 S matt.
+
+Heft 8[Bearbeiten]

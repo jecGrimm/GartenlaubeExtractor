@@ -1,0 +1,19 @@
+[532] Skat-Aufgabe Nr. 11.[5]
+Von K. Buhle.
+Ein ängstlicher Spieler tournirt auf folgende Karte:
+
+und zwar die  (car. 7.) und findet noch das  (p. As)
+Ist sein Spiel unverlierbar?
+
+
+↑ Wenn Spieler mit eZ sticht, so gewinnen die Gegner sofort mit 60 Augen, da Hinterhand mit eD übernimmt.
+
+↑ Die Hinterhand darf jetzt noch nicht einstechen, weil der Partner klein r haben muß und daher nicht wimmeln kann, während ihr die eZ des Spielers außerdem doch nicht entgehen kann und hierbei sicher auf eine Wimmelung zu rechnen ist.
+
+↑ Für die Werthberechnung gelten die vom Altenburger Skatkongreß angenommenen Grundsätze.
+
+↑ Vergl. Allg. Deutsche Skatordnung, § 12. Anmerkung.
+
+↑ Diese gar nicht schwere Aufgabe ist im Lösungsturnier des Leipziger Skatkongresses gestellt, aber nur von wenig Bewerbern richtig gelöst worden.
+
+

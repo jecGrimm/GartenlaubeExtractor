@@ -1,0 +1,44 @@
+[68] Skat-Aufgabe Nr. 1. Von K. Buhle.
+Nach den folgenden 4 Stichen:
+
+
+
+1.
+
+
+
+3.
+
+
+
+
+
+
+(car. K.) (car. As) (tr. As)
+
+
+
+(car. Z.) (car. 7) (p. 7.)
+
+
+2.
+
+
+
+4.
+
+
+
+
+
+
+(c. Z.) (tr. Z.) (c. As)
+
+
+
+(p. Z.) (p. As) (car. B.)
+
+giebt der Spieler keinen Stich mehr ab, er hat aber, obwohl noch ein 
+Trumpf im Skat liegt, sein Spiel mit Schneider verloren.
+Welcher von den Dreien ist der Spieler? Was spielt er und wie 
+sind die Karten vertheilt?

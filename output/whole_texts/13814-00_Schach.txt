@@ -1,0 +1,27 @@
+[596] Schach.
+Von Georg Chocholous in Bodenbach.
+SCHWARZWEISS
+Weiß zieht an und setzt mit dem dritten Zuge matt.
+Auflösung der Schach-Aufgabe auf S. 548.
+
+
+Weiß:
+
+Schwarz:
+
+
+1. S g 2 – e 1
+
+T h 6 – g 6:!
+
+
+2. T f 3 – e 3
+
+beliebig.
+
+
+3. S resp. D setzt matt.
+
+
+
+Varianten: a) 1. … S a 6, 2. D c 6 etc. – b) 1. … d 3, 2. D d 3: etc. – c) 1. … d 5, 2. D c 7 + etc. – d) 1. … S g 3:, 2. D a 2 etc. – Weiß droht nach dem ersten Zuge mit 2. T e 3 oder 2. T f 4; der Gegenzug T g 6: erzwingt 2. T e 3, denn auf T f 4 würde T g 3:! folgen.

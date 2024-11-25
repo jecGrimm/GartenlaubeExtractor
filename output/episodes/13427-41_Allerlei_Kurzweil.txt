@@ -1,0 +1,47 @@
+[740] Schach.
+Von W. Steinmann in Parchim.
+SCHWARZWEISS
+Weiß zieht an und setzt mit dem dritten Zuge matt.
+
+
+Auflösung der Schach-Aufgabe auf S. 708.
+
+
+Weiß:
+
+Schwarz:
+
+Weiß:
+
+Schwarz:
+
+
+1. D g 7 – h 7 !
+
+S b 6 – c 4 :
+
+1. …
+
+K d 6 – c 6
+
+
+2. D h 7 – d 7 †
+
+K d 6 – c 5
+
+2. T c 4 – c 6 †
+
+beliebig.
+
+
+3. L f 6 – d 4 matt.
+
+
+
+3. D setzt matt.
+
+
+
+Varianten. a) 1. … K d 5, 2. D f 5 : †, K c 4 :, 3. d 3 matt. – b) 1. … L c 5 (a 5, c 3, d 2 :), 2. D c 7 †, K d 5 (c 6), 3. T c 5 (:) matt. – c) 1. … f 4, 2. L e 7 †, K zieht, 3. D e 4 matt. – d) 1. … S c 7 †, 2. D c 7 : † nebst 3. D setzt matt. – Es scheitert: 1. D b 7 an K e 6 ! oder 1. D f 7 an f 4 oder 1. d 3 ! an K d 5 ! – Ein Meisterstückchen! Der Zugzwang ist in feinsinnigster Weise angelegt.
+
+Heft 46[Bearbeiten]

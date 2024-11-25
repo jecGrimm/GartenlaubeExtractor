@@ -1,0 +1,3 @@
+[548] Hieroglyphen.
+
+In dieser Aufgabe stellt jedes Bild den Anfangsbuchstaben seines Namens dar (Nagel = N, Säbel = S u. s. w.). Es sind nur die Konsonanten durch Bilder bezeichnet; werden dieselben aber durch die richtigen Vokale ergänzt, so ergiebt die Lösung eine bekannte Sentenz.

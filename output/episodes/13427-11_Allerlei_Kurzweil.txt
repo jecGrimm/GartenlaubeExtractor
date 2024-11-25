@@ -1,0 +1,106 @@
+[216] Allerlei Kurzweil.
+Schach.
+Von Fritz Hofmann in München.
+SCHWARZWEISS
+Weiß zieht an und setzt mit dem dritten Zuge matt.
+Auflösung der Schach-Aufgabe auf S. 116.
+
+
+
+
+Weiß:
+
+Schwarz:
+
+
+
+Weiß:
+
+Schwarz:
+
+
+1.
+
+D f 2 – c 2
+
+K b 5 – c 4
+
+1.
+
+…
+
+c 5 – c 4
+
+
+2.
+
+K c 1 – d 2
+
+K c 4 – d 5 (b 5)
+
+2.
+
+D c 2 – a 4 †
+
+K b 5 – c 5 ! A)
+
+
+3.
+
+D c 2 – e 4 (a 4) †
+
+beliebig.
+
+3.
+
+L c 8 – b 7 !
+
+beliebig.
+
+
+4.
+
+L L setzt matt.
+
+
+
+4.
+
+D setzt matt.
+
+
+
+A) Auf 2. … K b 5 – b 6 folgt 3. L c 3 – d 4 † nebst 4. D a 4 – d 7 matt. – Zieht Schwarz 1. … K c 6 so folgt 2. D e 4 † etc. Sonstige Varianten werden mit 2. D a 4 † oder D b 3 † erledigt. Der Versuch 1. D d 2 ! scheitert an T g 6 ! (2. D d 7 †, K c 4 !!) Gegen 1. L d 7 † schützt nur K b 6 !, 2. L a 5 †, K b 7 ! Sehr gute Konstruktion!
+
+Schach-Briefkasten.
+P. M. in O. Ihr Problemversuch ist recht niedlich, für unser Blatt aber leider nicht geeignet.
+Auflösung des Räthsels auf S. 164: „Bremse.“
+
+Auflösung der Damespiel-Aufgabe auf S. 164.
+
+
+1. g 3 – f 4
+
+1. e 5 – g 3
+
+
+2. h 4 – g 5
+
+2. h 6 – f 4
+
+
+3. f 2 – h 4
+
+3. d 4 – f 2
+
+
+4. c 1 – c 7
+
+4. d 8 – b 6
+
+
+5. b 4 – h 6 gewinnt.
+
+
+
+Heft 14[Bearbeiten]

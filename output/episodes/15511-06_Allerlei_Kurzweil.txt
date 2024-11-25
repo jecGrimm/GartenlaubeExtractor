@@ -1,0 +1,94 @@
+[196] Auflösung des Quadraträthsels auf S. 164:Die fettgedruckten Buchstaben ergeben den Namen: „Friedrich Rückert.“
+
+
+Auflösung der Schachaufgabe Nr. 2 auf S. 164:
+
+
+1. L d 7 – e 8
+
+S g 3 – e 4 †
+
+1. .........
+
+K d 5 – c4, c5
+
+
+2. D h 7 – e 4: †
+
+K beliebig
+
+2. D h 7 – c 7 †
+
+K beliebig
+
+
+3. L e 8 – c 6 oder
+D d 4,
+c5 matt.
+
+3. D c 7 – c 6, e 3
+matt.
+
+
+
+0
+
+
+
+
+
+
+
+
+1. ........
+
+S g 3 – e 2 (f 5)
+
+1. .........
+
+beliebig
+
+
+2. D h 7 – f 5 (:) †
+
+K beliebig
+
+2. D h 7 – d 7 †
+
+beliebig
+
+
+3. D f 5 – e 5, b 5
+matt.
+
+
+3. D d 7 – d4, b 5,
+c 6
+matt.
+
+
+
+
+Auflösung der Skataufgabe Nr. 2 auf S. 164:
+Im Skat lag: gW, sD. Die Sitzung war so: 
+
+Mittelhand: eZ, e9, e8, rK, r9, sK, sO, s9, s8, s7.
+Hinterhand: rW, eD, gD, gZ, gK, gO, g9, g8, g7, r8
+und nimmt das Spiel folgenden Verlauf: 
+
+
+1. eW, c8, rW.[1]
+2. sW, cZ,[2] eD, 
+3. eK, e9, r8, 
+4. eO, s7, g7.
+5. rD, r9, g8.
+6. rZ, rK, g9.
+
+
+wonach der Spieler, da sD im Skat liegt, auch die übrigen Stiche bekommt und mit Schwarz gewinnt.
+
+
+1. ↑ Um Trumpfdaus zu retten, falls gW in Mittelhand steht.
+2. ↑ Mittelhand hofft, daß Hinterhand den gW hat, und nimmt an, daß die Trumpfzehn ohnehin fallen müßte, falls der Spieler noch gW oder 3D besitzt.
+3. ↑ Vorhand bringt blanke r7 an, weil Mittelhand bis Rothsolo gereizt hatte.
+4. ↑ Der Spieler hatte das Fallen von K und O in g und s bemerkt und erwartet, daß Mittelhand eD besetzt haben werde, weshalb er eZ behält. Die Sitzung ist aber so ungünstig, daß er sein Grand mit Schwarz verliert.
