@@ -11,7 +11,7 @@ The optional argument `-m (test|run)` specifies whether the texts and metadata s
 The packages needed to run the script are stored in the file `gartenlaube_environment.yml`. To create your own environment for this script, follow these steps:
 
 1. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
-2. Run `conda env create -f environment.yml` in your terminal to create the `gartenlaube` environment used to run this script.
+2. Run `conda env create -f gartenlaube_environment.yml` in your terminal to create the `gartenlaube` environment used to run this script.
 3. Run `conda activate gartenlaube` to activate the environment before running the script.
 
 ## Structure
