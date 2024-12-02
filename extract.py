@@ -3,8 +3,6 @@
 # Environment: gartenlaube
 # Befehl: python3 extract.py > test.txt
 
-# TODO: Publish on github
-# TODO: Test Julian
 from collections import defaultdict
 import requests
 from bs4 import BeautifulSoup
@@ -588,15 +586,7 @@ if __name__ == "__main__":
         with open("./test_dicts.json", "r", encoding = "utf-8") as param_file:
             scraper.text_dict, scraper.meta_dict = json.load(param_file)
         
-        for metas in tqdm(scraper.meta_dict.values(), desc= "Adding Kanon_Status"):
-            if metas["Vorname"] not in ["o.N.", "unbekannt"] or metas["Nachname"] not in ["o.N.", "unbekannt"]:
-                for item in scraper.corpus:
-                    if metas["Vorname"] == item["Vorname"] and metas["Nachname"] == item["Nachname"] and item["Kanon_Status"]!="":
-                        metas["Kanon_Status"] = item["Kanon_Status"]
-
-        # Whatever should be tested 
-        scraper.store_metadata()
-        scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
+        
         print("Done!")
 
 
