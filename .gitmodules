@@ -1,0 +1,3 @@
+[submodule "nschatz_deu"]
+	path = resources/nschatz_deu
+	url = https://github.com/deutschestextarchiv/nschatz_deu.git
