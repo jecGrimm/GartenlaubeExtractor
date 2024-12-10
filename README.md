@@ -1,8 +1,8 @@
 # Gartenlaube Extractor
 This script extracts the Gartenlaube articles from wikisource, splits them up into episodes and stores the episodes and whole texts in plain-txt files. The whole script is build to add new serial publications to the corpus on serial literature in the 19th century by [Prof. Dr. Julian Schröter at the LMU Munich](https://www.germanistik.uni-muenchen.de/personal/ndl/professoren/schroeter/index.html).
 
-The module deploys the following pipeline for the extraction:
-![Pipeline Gartenlaube Extractor](./visualizations/pipeline_GartenlaubeExtractor.png)
+The module deploys the following pipeline for the extraction:<br>
+![Pipeline Gartenlaube Extractor](./visualizations/pipeline_GartenlaubeExtractor.pdf)<br>
 ![Pipeline with questions](./visualizations/pipeline_questions.pdf)
 
 ## Installation
