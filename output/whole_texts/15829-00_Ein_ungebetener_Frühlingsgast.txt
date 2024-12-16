@@ -1,0 +1,42 @@
+[207] Ein ungebetener Frühlingsgast.
+Eine wohlbekannte und vielbesprochene Eigenthümlichkeit unsres Klimas
+bilden die Rückfälle der Kälte im Mai, die bösen Nachtfröste des
+Frühjahrs. Sie richten in Weinbergen und Gärten oft einen sehr
+empfindlichen Schaden an, der in vielen Fällen verhütet werden könnte,
+wenn der Weinbauer oder Gärtner am Abend wissen würde, daß in der
+Nacht ein Frost eintreten wird; denn man kann die zarteren Pflanzen durch
+Bedeckung mit Stroh, die Weinberge durch künstliche „Wolkenerzeugung“,
+durch Abbrennen raucherzeugender Stoffe schützen.
+Die Wetterprophezeiung ist nun eine schwierige Kunst. Man verspottet die Wetterpropheten der alten Zeit, aber auch die modernen
+wissenschaftlichen sind kein Muster der Vollkommenheit. Die Zahl der
+fehlerhaften „Prognosen“ oder Wettervorhersagen ist auch bei ihnen eine
+nicht unbeträchtliche. Wenn man außerdem noch die Zeit in Rechnung
+bringt, bis die Depeschen der meteorologischen Stationen dem Publikum
+bekannt werden, so muß man so ziemlich zu der Ueberzeugung gelangen,
+daß man aus diesen Wetterberichten zumeist erfährt, wie das Wetter beschaffen 
+ist oder beschaffen war, selten aber, wie es sein wird.
+Das ist nun ein Uebelstand, der voraussichtlich durch die künftigen
+Fortschritte der Wissenschaft gehoben werden wird. Glücklicherweise betrifft er aber nicht die Vorhersage derjenigen Naturerscheinung, mit der
+wir es hier zu thun haben, denn wir sind imstande, das Eintreten der
+Nachtfröste mit fast unfehlbarer Sicherheit vorherzusagen, ohne über den
+Wetterstand auf so und so viel meteorologischen Stationen Europas durch
+den Telegraphen unterrichtet zu sein.
+Um den Nachtfrost vorherzusagen, genügt eine Summe von Kenntnissen 
+und ein geringfügiger Apparat, den sich schließlich jeder, auch derjenige, 
+der auf dem Gebiete der Meteorologie Laie ist, beschaffen kann.
+Die wissenschaftlichen Untersuchungen haben festgestellt, daß der Nachtfrost von dem sogenannten „Thaupunkt“ abhängt.
+Die atmosphärische Luft hat die Eigenschaft, Wasserdampf in sich
+aufzunehmen, und zwar Wasserdampf, wie wir betonen wollen, in seiner
+gasigen, dem Auge unsichtbaren Form. Aber dieses Vermögen geht nicht
+ins Unbegrenzte, eine bestimmte Menge Luft kann nur eine bestimmte
+Menge Wasserdampf aufnehmen und zwar wird diese Aufnahmefähigkeit
+[208] noch durch die Temperatur der Luft beeinflußt. Kalte Luft kann nur wenig Wasserdampf aufnehmen, warme mehr. Ein Kubikmeter Luft von 0° C. Wärme vermag z. B. in Gestalt unsichtbaren Dampfes eine Menge Wasser in sich aufzulösen, die etwa 5 g wiegt. Ein Kubikmeter Luft von +10° C. ist schon imstande, 9½ g Wasser aufzulösen, und in einem Kubikmeter Luft von +15° C. finden etwa 13 g Wasserdampf Raum.
+Die atmosphärische Luft ist aber nicht immer mit Wasser völlig gesättigt; es herrscht ja bei uns abwechselnd feuchte und trockene Witterung.
+Nehmen wir nun an, daß an einem Tage die Temperatur der Luft +15° C. beträgt und daß die in einem Kubikmeter dieser Luft thatsächlich aufgelöste Wassermenge 9½ g beträgt. Gegen den Abend kühlt sich die Luft ab. Das Thermometer zeigt auf +10° C. In diesem Augenblick ist die Luft völlig mit Wasser gesättigt; sollte die Temperatur noch mehr sinken, so könnte die kühler gewordene Luft das Wasser nicht mehr in der Form von Wasserdampf festhalten; das Wasser müßte aus ihr in Gestalt von feinen Tröpfchen ausgeschieden werden, und dies geschieht in der That: kühlt sich die Luft noch weiter ab, so fällt Thau, und der Temperaturgrad, bei welchem die Luft völlig mit Wasser gesättigt erscheint, giebt uns den Thaupunkt an.
+Der Thau ist somit die Folge der Abkühlung der Luft – sobald er sich aber bildet, beginnt er gegen die Abkühlung anzukämpfen; denn wenn Stoffe aus gasigem in flüssigen Zustand übergehen, so wird Wärme frei. Die Thaubildung trägt also wieder zur Erwärmung der Luft bei.
+Nehmen wir nun wieder an, daß an einem Frühlingsabend die Luft derart mit Wasserdampf gesättigt sei, daß die Thaubilduug bei +5° C. eintritt. Der Himmel ist klar, in der Nacht wird sich die Erde durch Strahlung abkühlen: wird dann ein Nachtfrost eintreten? Nein, denn der Thau wird bei seiner Entstehung Wärme entwickeln, und dadurch die Abkühlung bis unter 0° verhindern. Wenn aber die Luft so wenig Wasser enthält, daß die Thaubildung erst bei –1° C. beginnen kann, dann ist Nachtfrost sicher zu erwarten, denn die Abkühlung der Luft wird ungehindert solange vor sich gehen, bis der in ihr vorhandene Wasserdampf erst unter dem Gefrierpunkt in Form von Reif aus ihr ausgeschieden wird. Daraus ergiebt sich die Regel: liegt bei ruhiger klarer Witterung am Abend nach Sonnenuntergang der Thaupunkt der Luft einige Grade über dem Gefrierpunkt, so ist Nachtfrost nicht zu befürchten, wohl aber, wenn derselbe unter dem Gefrierpunkt sich befindet. Es ist also nur nöthig, nach Sonnenuntergang den Thaupunkt zu bestimmen, um sofort beurtheilen zu können, ob Nachtfrost droht oder nicht.
+Der Thaupunkt wird mit Hilfe des „Psychrometers“ bestimmt. Dieser Apparat besteht aus zwei in ihrem Gange übereinstimmenden Thermometern, welche nebeneinander aufgehängt sind. Die Kugel des einen Thermometers ist mit Musselin umwickelt, welcher in ein unmittelbar darunter stehendes Gefäß mit destilliertem Wasser oder Regenwasser reicht, so daß die Kugel beständig feucht gehalten wird. Wenn nun die Luft nicht vollständig mit Wasserdampf gesättigt ist, so wird von dem feuchten Musselin Wasser verdunsten und dem Thermometer Wärme entziehen. Das feuchte Thermometer wird also niedriger stehen als das trockene. Aus den Temperaturangaben der beiden Thermometer läßt sich nun die jedesmalige Luftfeuchtigkeit und die Lage des Thaupunktes berechnen.
+Dazu sind allerdings kleine Tabellen nöthig, die wir hier aus Raumrücksichten nicht wiedergeben können. Wer solche Beobachtungen anstellen möchte, den verweisen wir auf eine kleine treffliche Schrift von Dr. C. Lang, Direktor der k. b. Meteorologischen Centralstation in München, „Die Vorausbestimmung des Nachtfrostes“, die im Verlag von Otto Salle in Braunschweig erschienen ist und nur 30 Pfennig kostet.
+Eine durch Ermittlung des Thaupunktes am Abend gestellte Vorhersage des Nachtfrostes läßt nur in äußerst seltenen Fällen im Stiche und ist für den Landwirth und Gärtner eine hinreichend sichere.
+Die Erfahrung hat indessen noch eine andre, allerdings nicht so sichere, aber doch immer noch brauchbare Methode gelehrt. Man hat beobachtet, daß die Temperatur, welche ein mit feuchtem Läppchen umwickeltes Thermometer in irgend einer Nachmittagsstunde zeigt und die niedrigste Temperatur der darauffolgenden Nacht stets in gewisser Wechselbeziehung zueinander stehen; und zwar ist das Temperaturminimum der Nacht während des ganzen Jahres 3 bis 4° C. niedriger als die am Nachmittag von einem feuchten Thermometer angegebene Temperatur. Demzufolge ist ein Nachtfrost wahrscheinlich, wenn das feuchte Thermometer nachmittags etwa 3° C. oder weniger über dem Gefrierpunkt zeigt.
+Die Sicherheit dieser Vorausbestimmungen wird noch wesentlich durch die Berücksichtigung der allgemeinen Wetterlage erhöht, wie sie aus den Berichten verschiedener Meteorologischer Stationen täglich entnommen werden kann. Wer sich über diese schwierigere Kunst orientieren und die Witterungsberichte in Zeitungen mit Verständniß und Nutzen lesen will, dem können wir ein „für alle Berufsarten“ bestimmtes Buch vom Abtheilungsvorstand der Deutschen Seewarte, Prof. Dr. J. van Bebber empfehlen: „Die Wettervorhersage“, das neuerdings im Verlage von Ferdinand Enke in Stuttgart erschienen ist. C. F.

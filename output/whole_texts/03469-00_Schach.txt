@@ -1,0 +1,8 @@
+[528] Schach.
+Aufgabe Nr. 4.
+Von einem italienischen Meister.Schwarz.Weiß.Matt in vier Zügen.
+
+Lösung von Aufgabe Nr. 2.
+In der Stellung von Weiß: K b 4. D g 5. S c 1, g 6. 
+Schwarz: K d 4. T d 1. S a 4. B e 4 wird das verlangte Matt in vier Zügen durch 
+1. D e 5 † K e 3. 2. D f 4 † K d 4. 3. D g 5 eingeleitet; Schwarz ist nun am Zuge, und was er auch ziehen mag, Weiß kann im nächsten Zuge Matt geben.

@@ -1,0 +1,3 @@
+[164] Schach-Aufgabe Nr. 4.
+Von Dr.  Fritz Hofmann in München.
+Weiß zieht an und setzt mit dem dritten Zuge matt.

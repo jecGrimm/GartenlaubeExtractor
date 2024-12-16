@@ -1,0 +1,5 @@
+[564] Domino-Patience.
+
+Man lege die 28 Steine eines gewöhnlichen Dominospiels in der Weise zu nebenstehender Figur zusammen, daß die Summe der Augen in jeder der acht wagerechten, in jeder der acht senkrechten und in jeder der beiden diagonalen Felderreihen 21 beträgt. Zur Erleichterung ist der Platz von 10 Steinen angegeben. A. Stabenow.
+
+Heft 37[Bearbeiten]

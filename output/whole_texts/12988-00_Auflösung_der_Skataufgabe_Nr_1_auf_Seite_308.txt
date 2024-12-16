@@ -1,0 +1,14 @@
+[360] Auflösung der Skataufgabe Nr. 1 auf Seite 308.[1]
+Die Vorhand, welche von Hinterhand bis Eichelsolo getrieben war, spielt Grand, und eD. und sD. liegen im Skat. Die Karten waren so vertheilt:
+
+
+0Vorhand: rW, sW, gD, gZ, gK, gO, g7, rD, sZ, s9,
+Mittelhand: eZ, g9, g8, gO, r9, r8, sK, sO, s8, s7,
+Hinterhand: eW, gW, eK, eO, e9, e8, e7, rZ, rK, r7.
+
+
+Nach den in der Aufgabe gegebenen 4 Stichen muß der Spieler alle übrigen Stiche bekommen.
+
+
+
+1. ↑ Abkürzungen: e., g., r., s. = Eicheln (tr.); Grün (p.); Roth (c.); Schellen (car.), W., D., Z., K., O.,, 9, 8, 7 = Wenzel (B.), Daus (As), Zehn, König, Ober (Dame) etc.

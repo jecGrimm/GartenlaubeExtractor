@@ -1,0 +1,476 @@
+Heft 1[Bearbeiten]
+[20] 
+
+Schach-Aufgabe Nr. 1.
+Von J. Berger in Graz.
+SCHWARZWEISSWeiß zieht an und setzt mit dem dritten Zuge matt.
+Heft 2[Bearbeiten]
+[36] 
+
+
+
+[36] 
+
+Skat-Aufgabe Nr. 1.
+Vom. Geh. Jzrth. M. … in Kassel.
+Die Mittelhand tournirt auf folgende Karte:
+
+
+ (tr. B.) 
+
+ (p. B.) 
+
+ (c. B.) 
+
+ (car. 8.) 
+
+ (car. 7.) 
+
+ (tr. Z.) 
+
+ (tr. 7.) 
+
+ (p. As) 
+
+ (p. 7.) 
+
+
+
+den
+
+ (car. B.) 
+
+sagt Schellen (car.)  an und findet noch das
+
+
+verliert
+
+
+
+
+      aber das Spiel, denn die Gegner erhalten 82 Augen – Wie saßen die Karten? Wie war der Gang des Spieles?*
+
+*Abkürzungen: e., g., r., s. = Eicheln (tr.); Grün (p.); Roth (c.); Schellen (car.); W., D., Z., K., O.,  9, 8, 7, = Wenzel (B.), Daus (As), Zehn, König, Ober (Dame) etc.
+
+
+
+Heft 3[Bearbeiten]
+[52] 
+
+Schach-Aufgabe Nr. 2.Von Otto Fuß in Hannover.Weiß zieht an und setzt mit dem dritten Zuge matt.
+[52] 
+
+
+Auflösung der Schach-Aufgabe Nr. 1 auf S. 20:
+
+
+ Weiß:
+
+Schwarz:
+
+ Weiß:
+
+Schwarz:
+
+
+1. L d  4 — e  5
+
+e  6 — d  5:
+
+1. . . . .
+
+K e 4 — f  5
+
+
+2. D g  3 — e  1 †
+
+K e  4 — f  5
+
+ 2. S d 5  — e 7 †
+
+K f 5 — e  4 
+
+
+3. L b  5 — d  7 matt.
+
+ 3. D g  3 — e  1 matt.
+
+
+1. . . . . . 
+
+d  6 — e  5 :
+
+1. . . . .
+
+K e 4 — d  5 :
+
+
+2. S d  5 — f  6 †
+
+ beliebig. 
+
+ L e  5 — d  6 :
+
+ beliebig. 
+
+
+3. D g  3 — f  2 matt.
+
+ 3. D g  3 — e  5 matt.
+
+Auf 1. . . . .  L b 1  und  b 4 — b 3 folgt 2. L d 6: etc.; sonstige Läuferzüge werden mit 2. S f 6 † etc. erledigt. Auf 1. . . . . g  4 folgt 2. L d 6: oder D f 4 † etc. — Diese reizende Komposition des Altmeisters Berger dürfte wohl allseitigen Beifall gefunden haben! 
+[52] 
+
+Auflösung des Bilder-Räthsels auf S. 36:„Die Wage gleicht der großen Welt: Das Leichte steigt, das Schwere fällt.“
+Heft 4[Bearbeiten]
+[68] 
+
+Kombinirte Damen- und Springer-Aufgabe.
+Beispiel mit 4 Damen und 2 Springern.SCHWARZWEISS
+Auf Seite 716 des Jahrgangs 1884 brachten wir eine Rössel-Aufgabe als Seitenstück zu dem bekannten Problem der Aufstellung von 8 Damen. Die Aufgabe, welche wir heute unseren Lesern vorlegen, verknüpft in gewisser Beziehung die beiden früheren Ideen: es sollen nämlich a) 4 Damen und 1 Springer, b) 4 Damen und 2 Springer, c) 4 Damen und 3 Springer, d) 4 Damen und 4 Springer, e) 4 Damen und 5 Springer, f) 4 Damen und 6 Springer, oder g) 4 Damen und 7 Springer derartig auf dem Schachbrette aufgestellt werden, daß 1. weder unter einander noch gegenseitig die Damen und Springer sich schlagen können, und daß 2. in keiner Position ein Feld frei bleibt, welches noch mit einem Springer besetzt werden könnte, ohne daß man dabei gegen die Bedingung zu 1) verstößt. (In obigem Beispiele darf z. B. auf c 3 kein weiterer Springer stehen, weil er einerseits sowohl vom S e 4 als auch von der D a 1 geschlagen werden kann, und weil er andererseits zugleich die D b 5 bedrohen würde) – 
+Auch mit diesem Problem hoffen wir unseren Lesern einen ansprechenden Unterhaltungsstoff für manches Musestündchen geboten zu haben.
+
+
+Heft 5[Bearbeiten]
+[84] Skat-Aufgabe Nr. 2.
+Von K. Buhle.
+Vorhand  und Hinterhand passen.  Mittelhand  meldet Eichelsolo an und nach dem ersten Stiche:
+
+
+
+
+Vorhand:
+
+
+
+
+
+Mittelhand:
+
+
+
+
+
+Hinterhand:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hat der Gegner in Hinterhand noch folgende Karten:
+
+
+
+
+
+
+
+
+
+
+
+Spielt derselbe jetzt gD (p. As) an, so wird der Spieler Schneider; denn die Gegner erhalten 90 Augen; spielt er dagegen das sD (car. As) an so gewinnt der Spieler und erhalten die Gegner höchstens 56 Augen. Wie sitzen die Karten? Wie ist der Gang des Spieles?
+[84] Auflösung der Skat-Aufgabe Nr. 1 auf S. 36:
+Der Spieler hatte g7 und e7 gedrückt, die übrigen Karten sind so vertheilt:
+Vorhand: sD, eK, eO, e9, e8, gZ, gK, gO, g9, g8.
+Hinterhand: sZ, sK, sO, s9, rZ, rK, rO, r9, r8, r7.
+Der Gang des Spieles war so:
+1. gZ, gD, sZ  (—31)
+2. rZ, sD, rD  (—32)
+3. eK, eD, sK  (—19.)
+[84] Auflösungen zu der kombinirten Damen- und Springer-Augabe auf S. 68:
+Mit Rücksicht auf den Raum können wir zu jeder der sub a) bis g) verlangten Positionen nur je 1 Beispiel geben:
+
+
+a)  D a 1, b 7, c 6, g 3. — S d 2.
+b) D a 1, b 3, f 8, h 2. — S c 6, e 4.
+c) D a 1, b 6, g 8, h 2. — S d 3, e 4, f 5.
+d) D c 1, d 4, e 2, g 3. — S a 8, b 7, f 7, f 8.
+e) D b 1, e 3, g 4, h 2. — S a 5, a 6, a 8, d 7, f 8.
+f) D b 2, d 1, f 4, h 3. — S a 5, a 6, a 7, a 8, e 7, e 8.
+g) D b 3, c 1, f 2, g 4. — S a 6, a 8, d 8, e 7, e 8, h 7, h 8.
+Heft 6[Bearbeiten]
+[100] Schach-Aufgabe Nr. 3.
+Von Karl Höppner in Königstein (Sachsen).
+
+[100] 
+
+
+Auflösung der Schach-Aufgabe Nr. 2 auf S. 52:
+
+
+ Weiß:
+
+Schwarz:
+
+ Weiß:
+
+Schwarz:
+
+
+1. S g  3 — e  2
+
+ K g  4 — h  5
+
+1. . . . .
+
+K g 4 — f  3
+
+
+2. S g  2 — e  3 †
+
+beliebig. 
+
+ 2. S g 2  — f 4 !
+
+beliebig. 
+
+
+3. S  resp. D  setzt matt.
+
+ 3. S resp.  D setzt matt.
+
+ a)   1. . . . .  K g 4 — h 5, 2. D g 1 — h 1 †, K h 5 — g 4, 3. S g 2 — e 3 matt.  — b) 1. . . . h 6 — h  5, 2. S g 2 — h 4  aufged. † nebst 3. D g 1 — g 3 matt. — c)   1. . . . . e  6 — f  5:,2. S g 2 — f 4  aufged. † nebst 3. D g 1 — g 3 matt. — Eine zierliche Zugzwangs-Aufgabe!
+Heft 7[Bearbeiten]
+[116] Bilder-Räthsel.
+Bilder-Räthsel.
+Heft 8[Bearbeiten]
+[132] Skat-Aufgabe Nr. 3.
+Von K. Buhle.
+Die ersten drei Stiche fallen so:
+
+
+
+1.
+
+ (tr. 9.) 
+
+ (tr. K.) 
+
+ (tr. As) 
+
+2.
+
+ (c. K.) 
+
+ (c. As) 
+
+
+3.
+
+ (p. K.) 
+
+ (tr. Z.) 
+
+ (p. Z.) 
+
+und nach drei weiteren Stichen hat der Spieler noch folgende Karten:
+
+
+
+
+ (c. B.) 
+
+ (car. B.) 
+
+ (tr. 7.) 
+
+ (car. As) 
+
+auf welche er keinen Stich mehr abgiebt; er hat aber, trotzdem noch 7 Augen im Skat liegen, das Spiel mit Schneider verloren, denn die Gegner haben 98 Augen hereinbekommen. – Welcher von den Dreien war der Spieler und was spielte er? Wie waren der 4., 5. und 6. Stich?
+
+[132] Auflösung der Skat-Aufgabe Nr. 2 auf S. 84:
+Der Spieler in Mittelhand hatte folgende Karten:
+eW, gW, rW, sW, eO, e9, gZ, gK, rD, rZ.
+Vorhand: eD, c8, e7, rK, rO, r9, r8, r7, sZ, s7
+Skat: sK, g7.
+Spielt nun nach dem angegebenen ersten Stich rK, rZ, eZ die Hinterhand weiter wie folgt: 2. gD, sZ, gK (−25), 3. gO, eD, gZ (−24), 4. rO, rD, eK (−18), so erhalten die Gegner 91 Augen und der Spieler ist Schneider. Wenn dagegen die Hinterhand, welche doch für ihr Spiel nach dem ersten Stiche einen festen Anhalt noch nicht hatte, im 2. Stich sD vorspielt, so sticht der Spieler mit eK ein, holt die Trümpfe heraus und giebt nur noch einen Stich in Grün (p) mit höchstens 31 Augen ab, so daß die Gegner im günstigsten Falle nur 56 Augen bekommen können.
+[132] Auflösung des Bilder-Räthsels auf S. 116.
+„Ueber allen Wipfeln ist Ruh’!“
+Heft 10[Bearbeiten]
+[164] Schach-Aufgabe Nr. 4.
+Von Dr.  Fritz Hofmann in München.
+[164] 
+
+
+Auflösung der Schach-Aufgabe Nr. 3 auf S. 100:
+
+
+ Weiß:
+
+Schwarz:
+
+ Weiß:
+
+Schwarz:
+
+
+1. S c  2 — e  3
+
+K e  5 — d  4
+
+1. . . . .
+
+d 6 — d  5
+
+
+2. D g  6 — g  3
+
+(K d  4 — c  3:)
+
+ 2. S e  — g 4 †
+
+K e 5 — f  4 (d 4)
+
+
+3. S e  3 — c  2 aufged. † matt.
+
+ 3. S c  3 — e  2 matt.
+
+Varianten. a) 1 . . . T c 2. S e 2 etc. — b)  1. . . . . T c 7 (K f 4), 2. S e d 5 (†) etc. — c)1. . . L e  7 2. D e  4 † etc. — d) 1.  . . . . beliebig anders. 2. S e 2 oder 2. S e d 5 etc. — Einfach und leicht, interessiert das Problem durch die Mannigfaltigkeit der Wendungen — die gute Konstruktion läßt es reizvoll erscheinen.
+Heft 13[Bearbeiten]
+[220] Skat-Aufgabe Nr. 4[1]
+Von Heinrich Mehnert in Dresden.
+Wenn die Vorhand folgende acht Karten hat:
+
+
+
+ (p. B.) 
+
+ (car. B.) 
+
+ (tr. 9.) 
+
+ (p. 9.) 
+
+ (c. Z.) 
+
+ (c. D.) 
+
+ (c. 9.) 
+
+ (car. D.) 
+
+welche zwei Karten müssen noch hinzukommen, damit sie damit bei ein und derselben Kartenvertheilung überhaupt jedes Spiel (Frage, Tourné, jedes Solo, Grand und auch Null ouvert) bei fehlerloser Spielführung gewinnen muß, und wie müssen die übrigen Karten vertheilt sein?
+
+[220]  Auflösung der Skat-Aufgabe Nr. 3 auf S. 132:
+Wie sich aus den ersten drei Stichen und den übrigen Bestimmungen der Aufgabe ergiebt, spielte die Vorhand Eichel (tr.) -Solo auf den folgenden Karten:
+rW, sW, c9, c8, c7, gD, gZ, rD, rO, sD. 
+bei folgender Kartenvertheilung: Skat: sK, sO. 
+Mittelhand: gW, eK, eO, gK, gO, g9, g8, g7, sZ, S8.
+Hinterhand: eW, eD, eZ, rZ, rK, r9, r8, r7, s9, s7.
+Nach den drei ersten Stichen, auf welche die Gegner  bereits 57 Augen erlangt haben. folgen nach: 
+4. rZ, r0, sZ, (-23) 5. r9, c8, gW (-2) 6. gO, eW, gD (-16)
+womit die Gegner trotz der gleichen Vertheilung der Trümpfe 98 Augen hereinbekommen, bevor der Spieler zum Stich gelangt ist. 
+
+Heft 14[Bearbeiten]
+[240] Schach-Aufgabe Nr. 5.
+Von R. Weinheimer in Wien.
+SCHWARZWEISS
+[240] 
+
+
+Auflösung der Schach-Aufgabe Nr. 4 auf S. 164:
+
+
+Weiß:
+
+ 
+
+Schwarz:
+
+
+1. D d 8 – e 7:
+
+
+
+a 7 – b 6:
+
+
+2. D e 5 – b 4 :
+
+
+
+Zugzwang.
+
+
+3. D setzt matt.
+
+
+
+
+
+ Varianten: a) Secondespiel. 1. . . .S : S, 2. D : S †, K : D (K g 4), 3. T b 5: (D f 4) matt. – b) 1. . . .S : T, 2. D : T etc. – c) 1.  . . a 6, 2. D d 4 (Drohvariante) etc. — Der Bauernraub im Einleitungszuge, eine kleine Konstruktionsschwäche, ist leider nicht zu vermeiden; die fein pointirte Zugzwangsidee, welche im zweiten Zuge auftritt, mag als Rechtfertigung dienen.
+Heft 15[Bearbeiten]
+[260] Skat-Aufgabe Nr. 5. Von K. Buhle.
+Die Vorhand gewinnt mit folgender Karte:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(car. Z.)
+
+
+
+
+
+(p. As.)
+
+
+
+Grün (p.)-Solo mit 85 Augen, obwohl die übrigen Trümpfe in einer Hand stehen und nur 7 Augen im Skat liegen. – Wie sitzen die Karten und wie ist der Gang des Spiels?
+
+
+
+[260] Auflösung der Skat-Aufgabe Nr. 4 auf S. 220:
+Die Vorhand muß, um jedes Spiel (Frage, Tourné, jedes Solo, Grand und auch Null ouvert) zu gewinnen, zu den angegebenen 8 Karten: gW, sW, e9, g9, rZ, rO, r9, sO noch r7 und einen Wenzel[2] (am besten eWhinzubekommen.   Die übrigen Karten sind dann so zu vertheilen: Skat: sZ und der dritte Wenzel (rW) und ferner:
+
+Mittelhand: eO, e8, e7, gO, g8, g7, rD, s9, s8, s7,
+Hinterhand: eD, eZ, eK, gD, gZ, gK, rK, r8, sD, sK.
+Für Frage und Tourné bedarf die Spielführung keiner Erläuterung. In den Solospielen fordert der Spieler zunächst dreimal mit W und spielt dann r9  vor. Im Grand wird mit W einmal gefordert und sodan r9, und im Null ouvert sofort die r9 vorgespielt. –
+
+
+1. ↑ Diese Aufgabe ist im Problemturnier des vorjährigen Skatkongresses mit dem ersten Preise ausgezeichnet worden.
+2. ↑ Der Verfasser der Aufgabe hatte nur die Karten r/ und rW angegeben und eW und sZ in den Skat gelegt. Es kann aber auch, was der Verfasser und die Preisrichter anscheinend übersehen haben, der eW hinzukommen und rW  in den Stat gelegt werden, womit für Grand sich überdies eine natürlichere Spielführung ergiebt.
+3. ↑ Diese Aufgabe ist im Problemturnier des vorjährigen Skatkongresses durch einen Preis ausgezeichnet worden
+4. ↑ Nimmt der Spieler sofort gD,  so wimmelt die Vorhand im 2. Stich zunächst rD und sticht erst im 3. Stich mit sW,  um dann gZ nachzubringen.
+5. ↑ Vorhand kann hier auch zuerst  rD  wimmeln, dann ergiebt sich durch Umstellung der Stiche dasselbe Resultat.
+6. ↑ Diese Aufgabe ist im Problemturnier des vorjährigen Skatkongresses durch einen Preis ausgezeichnet worden.
+7. ↑ Spielt Vorhand statt sZ Roth vor, so ergiebt sich dasselbe Resultat.

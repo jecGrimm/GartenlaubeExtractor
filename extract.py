@@ -470,7 +470,7 @@ class GartenlaubeExtractor:
             #writer.writeheader()
 
             for idx, row in tqdm(self.meta_dict.items(), desc="Adding metadata to the corpus"):
-                raw_id = row["Dokument ID"]
+                raw_id = row["Dokument ID"][:5]
                 all_pages = row["Seiten"]
 
                 num_episodes = len(self.text_dict[idx]["episodes"])
@@ -586,7 +586,7 @@ if __name__ == "__main__":
         with open("./test_dicts.json", "r", encoding = "utf-8") as param_file:
             scraper.text_dict, scraper.meta_dict = json.load(param_file)
         
-        
+        scraper.store_metadata()
         print("Done!")
 
 

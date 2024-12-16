@@ -1,0 +1,45 @@
+[708] Schach.
+Von J. Kotrč in Prag.
+SCHWARZWEISS
+Weiß zieht an und setzt mit dem dritten Zuge matt.
+Auflösung der Schach-Aufgabe auf S. 648.
+
+
+
+
+Weiß:
+
+Schwarz:
+
+
+1.
+
+L e 4 – a 8 !
+
+L g 2 – a 8 :
+
+
+2.
+
+S b 5 – c 3
+
+L a 8 – d 5 ! a)
+
+
+3.
+
+S c 3 – e 2 †
+
+K f 4 – e 4
+
+
+4.
+
+f 2 – f 3 matt.
+
+
+
+a) Weiß droht mit 3. f 2 – f 3 nebst 4. S c 3 – e 2 oder d 5 matt. Schwarz widerlegt jetzt diese Drohung mit 3. … L d 5 – c 4 ! –
+Spielt Schwarz 1. … L b 7 (c 6, d 5, e 4), so kann 2. S c 3 oder f 2 – f 3 etc. folgen. – Der Versuch von Weiß mit 1. L d 3 ! scheitert nur an L e 4 ! (2. S c 3, L : L, 3. f 3, L c 4 !). Der fein pointirte Einleitungszug 1. L a 8 ! bezweckt, den schwarzen Läufer im zweiten Zuge von der Diagonale f 1 – c 4 – a 6 abzubringen und erwirkt zugleich sein Betreten des Verderben bringenden Feldes d 5.
+
+Heft 43[Bearbeiten]

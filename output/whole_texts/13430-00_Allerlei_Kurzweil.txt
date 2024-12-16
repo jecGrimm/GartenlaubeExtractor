@@ -1,41 +1,60 @@
-[52] Schach.Von Karl Höppner in Königstein (Sachsen).SCHWARZWEISSWeiß zieht an und setzt mit dem dritten Zuge matt.
+[788] Schach.
+Von Konrad Erlin in Wien.SCHWARZWEISSWeiß zieht an und setzt mit dem vierten Zuge matt.
 
 
-Auflösung der Schach-Aufgabe auf Seite 20.
+Auflösung der Schach-Aufgabe auf S. 740:
 
 
-     Weiß:
+Weiß:
 
- Schwarz:
+Schwarz:
 
+Weiß:
 
-1. D h 3 – g 2
-
- d 5 – d 4 !
-
-
-2. S c 3 – a 4 ! A)
-
- K d 3 – c 4
+Schwarz:
 
 
-3. D g 2 – d 5 †
+1. S c 8 – d 6
 
- beliebig.
+T c 1 – c 3 :
 
+1. …
 
-4. S resp. D setzt matt.
-
-
-
-A) Weiß droht mit 3. T c 2 nebst 4. D c 2 matt. – Secondespiel. 1. … K : S (K c 4), 2. D d 5 :, K b 4 :, 3. T e 3, Zugzwang, 4. B resp. D setzt matt. Falls 2. … a 5 – b 4 : so 3. T d 2 etc. Oder 2. … beliebig anders, 3. D e 4 nebst 4. T c 2 matt. –
-Auf sonstige Züge folgt 2. D d 5 : † etc. oder auch 2. S d 5 : nebst 3. K b 6 : ! etc. – Der Versuch 1. D h 7 † scheitert nur an K c 4 ! Gegen 1. D h 5 oder 1. D h 1 schützt nur d 5 – d 4 ! Ohne schw. B b 7 wäre das beabsichtigte Hauptspiel (1. D g 2, d 4,) mit 2. S b 1 ! partiell zu umgehen. Die Aufstellung des Problems ist sehr gewagt und zeugt von des Verfassers bedeutender Technik.
+K c 5 – d 4
 
 
-Schach-Briefkasten.
-„Gartenlaube“-Leser in Berlin. Da Ihnen weder die Benennung der Schachfiguren noch die Bezeichnung der Schachbrettfelder geläufig ist, so möchten Sie sich doch wohl zunächst ein Lehrbuch und zwar am besten „Das Lehrbuch des Schachspiels von Jean Dufresne“ kaufen. Dasselbe ist im Verlage von Ph. Reclam jun. in Leipzig erschienen und kostet gebunden 1 Mark 50 Pf.
-Sofie Schlett in Unter-Waltersdorf. Nr. I. ist durch 1. D e 1 schon in 2 Zügen lösbar, außerdem vielfach nebenlösig: 1. T b 3 (b 5, b 7, b 8), 1. D c 1 (f 3, h 3) etc. Nr. II lösten wir mit 1. S d 3 † und ließen es dabei bewenden. Probleme, denen keine Lösungen beigefügt sind, können wir für die Folge keiner Durchsicht unterziehen.
+2. D c 2 – b 5 †
+
+K c 5 – d 4
+
+2. D e 2 – d 2 †
+
+K d 4 – c 5 a)
 
 
-[52] Auflösung der Domino-Aufgabe auf Seite 36.
-Die Anordnung ist folgende:
+3. S d 6 – f 5 matt.
+
+
+
+3. S c 3 – a 4 matt.
+
+
+
+a) Falls 2 …. K d 4 – c 5 so 3. S d 6 – e 4: aufged. matt. – Nach 1. … L g 2 – f 1 ergiebt sich die schöne Wendung: 2. L b 8 – a 7: †, K c 5 – d 6: (b 4), 3. D c 2 – h 2 (b 2) matt. – Weiß droht mit 2. D c 4 † etc.
+
+Ziffer-Räthsel.
+
+1 2 3 4 schafft Mensch’ und Thieren,
+Was ihnen thut am meisten noth,
+Wogegen Schutz vor dem Erfrieren
+1 2 3 3 schon Vielen bot.
+
+Wodurch sich aber unterscheiden
+2 3 1 2 und 1 2 2,
+Darüber ließe sich noch streiten,
+Ist beider Kunst doch Zauberei.
+
+2 4 2 3 heißt, dessen Streben
+Erzielt, was tugendhaft und brav,
+Und welchem nicht gilt für das Leben
+2 3 1 als Hauptparagraph.

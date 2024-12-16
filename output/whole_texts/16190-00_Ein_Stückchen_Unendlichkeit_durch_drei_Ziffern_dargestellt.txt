@@ -1,0 +1,63 @@
+[52] Ein Stückchen Unendlichkeit, durch drei Ziffern dargestellt. Wie
+groß ist die größte Zahl, die man durch drei einfache Ziffern ohne Zuhilfenahme 
+von Klammern oder andern graphischen Zeichen darstellen kann?
+Nun, was ist einfacher als das? werden unsere Leser denken. Die
+höchste derartige Zahl ist doch wohl 999, denn 9 ist der größte Zifferwerth 
+der Einheiten in unserm Zahlensystem, und dieser, dreimal nebeneinander 
+gestellt, wird naturgemäß den größten, mit drei Ziffern darstellbaren Werth ergeben.
+Weit gefehlt!
+Man könnte nämlich die Ziffern auch so schreiben: 999; das
+heißt in der mathematischen Ausdrucksweise „99 zur neunten Potenz“
+oder man soll 99 mit sich selbst multiplizieren, das Ergebnis wieder mit
+99 und so fort, bis 99 neun Mal als Faktor aufgetreten ist.
+Die Ausführung dieser Rechnung liefert die ganz respektable Zahl
+von rund 913574 Billionen.
+Schreiben wir aber 999, so heißt das, dem Gesagten entsprechend,
+man soll die Zahl 9 in derselben Weise 99 Mal als Faktor setzen. Das
+liefert aber eine Größe, die der menschlichen Vorstellung vollständig
+unzugänglich ist, denn in runder Zahl sind’s 29512 Quindecillionen, also
+rund die Zahl 29512 mit dahinter stehenden 90 Nullen, wobei wir der
+Einfachheit halber die Null an die Stelle der wirklichen Zahlen einführen.
+Worüber soll man sich mehr wundern, über die Große der Zahl oder
+über die Einfachheit ihrer Darstellung mit den drei Ziffern?
+Aber ein Versuch, sich die Größe der Zahl 999 vorzustellen wird ja doch gestattet sein.
+Ein Kubikmeter ist eine recht greifbare Größe, man reicht ganz
+bequem mit ausgestreckten Armen von einer Kante desselben zur andern,
+vom Boden bis zur obern Fläche; er ist nur einen Meter lang, einen
+Meter breit und einen Meter hoch; eine Packkiste von einem Kubikmeter
+Inhalt hat eine ganz geläufige Größe. Aber ein solcher Kubikmeter
+hat erstaunlich viele Kubikmillimeter. Wollte man aus Kubikmillimetern,
+von denen einer nach dem andern – in jeder Minute 60 Stück – eingezählt 
+und angeschoben würde, einen Kubikmeter aufbauen, so wäre das
+eine recht mühsame und langwierige Arbeit.
+Nehmen wir an, zwei Knaben von 14 Jahren machten sich an diese
+Aufgabe und beide arbeiteten Tag für Tag 10 Stunden und legten unverdrossen 
+in jeder Minute ihre 60 Kubikmillimeterchen zu, so werden sie
+ziemlich genau in ihrem sechzigsten Lebensjahre mit der Aufgabe fertig.
+Sie haben dann tausend Millionen Kubikmillimeter – eine Milliarde – 
+zusammengelegt.
+Aber nun noch einen Schritt weiter!
+Es ist ja heutigen Tages nicht mehr schwer, die Welt zu umreisen.
+Mit Hilfe der Lokomotive und des Dampfschiffes ist das schon in sieben
+bis acht Wochen zu ermöglichen. Allerdings bekommt man bei dieser Art zu
+reisen kaum eine Vorstellung, wie gar weit die Welt ist. Eher würde das
+einem Fußgänger zum Bewußtsein kommen der – einen glatten Fußweg
+um die Erde vorausgesetzt – sich auf die Wanderschaft macht, und der,
+wenn er täglich 40 Kilometer zurücklegt, von seiner Reise um die Welt nach
+drei Jahren und vier Monaten in seiner Heimath wieder anlangt.
+Eine kurze Rechnung ergiebt, daß die Erdkugel viele, viele Kubikmeter 
+faßt, in runder Summe 1083 Trillionen. Denken wir uns die
+ganze Erdkugel aus Kubikmillimeterchen zusammengesetzt, so würden von
+diesen rund eine Quintillion erforderlich sein. Das reicht aber noch lange
+nicht an den Werth 999.
+Wir wollen keine langen Umschweife machen und nur noch ein Beispiel anführen:
+Die Entfernung der Erde von der Sonne beträgt rund 148 670 000 000
+Meter. Stellen wir uns vor, die Bahn der Erde um die Sonne bilde
+die Grundlage für eine Kugel, die sich unendlich hoch über und unter
+diesem großen Kreise wölbt, so würde eine solche Kugel bei weitem noch
+nicht 999 Kubikmillimeter enthalten. Man müßte solcher Kugeln rund
+2170 Octillionen nehmen, um die angegebene Zahl von Kubikmillimetern
+zu erhalten. –
+Also kurz gesagt: eine für uns ganz unfaßbare Größe und dazu
+noch unfaßbar oft genommen – und das wird alles ausgedrückt durch
+die drei unscheinbaren Ziffern 999. H.

@@ -1,0 +1,32 @@
+[532] Skataufgabe.
+Von K. Buhle.
+Wenn ein Spieler folgende 9 Karten:
+
+
+
+
+
+
+(tr. B.) (p. B.) (c. B.) (tr. Z.) (tr. 9.) (tr. 8.) (p. As) (p. Z.) (p. K.)
+
+in der Hand und bezüglich der zehnten Karte zwischen
+
+
+
+
+
+und
+
+
+
+
+(car. B.)
+
+
+
+(tr. As)
+
+die Wahl hat, welche von den beiden Karten wird er wählen, um das danach sicherste und theuerste[1] Spiel ansagen zu können?
+
+
+1. ↑ Es gelten die Bestimmungen der „Allgemeinen Deutschen Skatordnung“ sowohl hinsichtlich der Gewinnstufen als auch der Werthberechnung.

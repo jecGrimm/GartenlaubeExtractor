@@ -1,0 +1,256 @@
+[765] Elektricität und Luftschiffahrt im Kriege der Zukunft.Von  Bernhard v. Graberg. Mit Zeichnungen von O. Gerlach.
+Die großen Erfindungen und Entdeckungen unseres Jahrhunderts haben selbstverständlich auch auf die Führung der Kriege einen bedeutenden Einfluß ausüben müssen. Dampf und Elektricität haben allen neueren Feldzügen ein ganz anderes Gepräge verliehen: die Schnelligkeit der Kriegsbereitschaft und die Truppenansammlung an den feindlichen Grenzen, die großartigen Nachschübe an Proviant, Munition und Ersatz waren allein das Werk der Eisenbahnen. Sie ermöglichten es, mit großen Heeren eine schnelle Entscheidung herbeizuführen, – sie verkürzten also naturgemäß auch die Dauer der Kriege. Die Anstrengungen der Großstaaten, alle waffenfähigen Männer zu Soldaten zu machen, wären ein Hirngespinst, wenn die vielen Schienenwege nicht auch gestatten würden, die Heeresmassen durch Zufuhren aus dem eigenen Lande zu ernähren, sie auszurüsten und zu ergänzen. Die Grenze für die Stärke der fechtenden Heere lag zu allen Zeiten in der Möglichkeit ihrer Ernährung und Erhaltung; auch Friedrich der Große und Napoleon durften die Truppenmassen nicht über die durch den voraussichtlichen Kriegsschauplatz gegebenen Verhältnisse hinaus steigern, und als der französische Kaiser 1812 im Kriege gegen Rußland sein Riesenheer nach Moskau führte, ohne durch genügende rückwärtige Verbindungen für einen gesicherten Unterhalt desselben gesorgt zu haben, ereilte ihn für diesen Fehler die fürchterlichste Strafe.
+Freilich konnten auch in den großen Kriegen im vorigen und zu Anfang dieses Jahrhunderts durch Aufstellung mehrerer Heere, welche in verschiedenen Gegenden nach einem gemeinsamen Plane zu operieren hatten, größere Streitkräfte gegen den Feind zur Verwendung gebracht werden. Aber ihnen fehlte der elektrische Funke des Telegraphen, welcher die getrennten Theile zu Gliedern eines Körpers macht und mit welchem unser Moltke 1870/71 so meisterlich zu rechnen verstanden hat. Vorhergehende Verabredungen mußten für alle Kriegsfälle getroffen werden, wie für den Feldzug 1813 die sogenannte Trachenberger Uebereinkunft; eine verlorene Schlacht brachte aber alles ins Stocken. So bedurfte es der hohen Feldherrnkunst eines Gneisenau, um die infolge der Schlacht bei Dresden nach Böhmen zurückgegangene Hauptarmee zum erneuten Vordringen zu bewegen und zwei Monate später bei Leipzig das gemeinsame Schlagen der getrennten Heere zu ermöglichen. Und ebenso bewies der Krieg von 1814, in welchem das Genie Napoleons seine letzten Triumphe feierte, die ungemeine Schwierigkeit der Leitung räumlich weit getrennter Heere. Drei Monate brauchten die den Franzosen um das Dreifache überlegenen Verbündeten, um vom Rhein bis zur feindlichen Hauptstadt zu gelangen. Vergleichen wir damit die Kriege der Neuzeit, so waren deutscherseits die größten Heeresmassen 1870/71 in Frankreich vereint; in den fünf, oft Hunderte von Kilometern voneinander getrennt fechtenden Armeen wirkte aber nur ein Gedanke, welcher, aus dem Haupte des großen Strategen entsprungen, ihnen durch den elektrischen Draht eingehaucht wurde.
+In künftigen Kriegen wird daher die Feldtelegraphie die wichtigste und vornehmste Anwendung der Elektricität für militärische Zwecke sein; sie auf den höchsten Grad der Vervollkommnung zu bringen, ist die Aufgabe jeder Kriegsverwaltung. Auch bei uns ist diesem so wichtigen Zweige des Nachrichtenwesens eine ganz besondere Aufmerksamkeit zugewendet worden; in Bezug auf das Material sind wir mit der Zeit fortgeschritten. Aber das wird bei den großen Anforderungen der Gegenwart allein nicht mehr genügen. Jeder andere zu militärischer Verwendung berufene Heerestheil geht vollständig vorbereitet in den Kampf, nur die Feldtelegraphie ist nicht in der Lage, sich durch unausgesetzte Friedensübungen vollkommen kriegsfertig auszubilden, weil für sie ein Friedensstamm nicht vorhanden ist. Erst bei der Mobilmachung wird das Personal für die Feldtelegraphie aus Ingenieuroffizieren, Mannschaften der Pionierbataillone und aus Beamten der Staatstelegraphen-Verwaltung zusammengesetzt. Nach den im letzten Feldzug gesammelten Erfahrungen und im Hinblick auf die Einrichtungen unserer muthmaßlichen Gegner ist auch bei uns die Errichtung eines Feldtelegraphencorps schon im Frieden eine dringende Forderung; dann erst werden die Telegraphenabtheilungen im Felde ihre schwierige Aufgabe voll zu lösen imstande sein.
+
+Mit Beginn eines Krieges müssen sofort die äußersten von Truppen besetzten Punkte telegraphisch mit den nächsten deutschen Stationen verbunden werden, damit die Heeresleitung jederzeit genau über alle Vorgänge an der Grenze unterrichtet werden kann. Nach beendetem Aufmarsch der Armee beginnt dann die Hauptaufgabe der Feldtelegraphie, die vormarschierenden Corps und Heerestheile stets in Verbindung unter sich und mit dem Hauptquartier zu erhalten. Dieser Dienst fällt den Etappen-Telegraphenabtheilungen zu, welche den sofortigen Anschluß der gemäß der Vorwärtsbewegung der Truppen errichteten Feldstationen an die heimathlichen oder die bereits eroberten Staats-Telegraphenlinien des Feindes herzustellen haben. Außer dem strategischen Dienste der schnellen Befehlsbeförderung soll der Etappentelegraph das Mittel sein, sowohl in richtiger Weise alle Anordnungen für die Verpflegung der Armee zu treffen als auch den rechtzeitigen Munitionsersatz zu veranlassen und für die schnelle Rückbeförderung der Verwundeten und Gefangenen zu sorgen.
+Während die Etappen-Telegraphenabtheilungen den einzelnen Oberkommandos zugetheilt sind, gehört zu jedem Corps für dessen inneren Telegraphendienst eine Feld-Telegraphenabtheilung. Diese hat die vormarschierenden Truppen mit den höheren Stäben in Verbindung zu erhalten, d. h. ihre flüchtigen Leitungen möglichst mit der Marschgeschwindigkeit der Truppen – das sind etwa
+[766] vier Kilometer in der Stunde – einzubauen, gleichzeitig aber  
+die überflüssig gewordenen Linien wieder abzubrechen und das 
+Geräth auf ihre Fahrzeuge zu verladen. In der Erfüllung 
+dieser Aufgaben werden sich bei einem künftigen Kriege die großen 
+Fortschritte zeigen, welche die Feldtelegraphie in den letzten zwanzig 
+Jahren gemacht hat. Ihr Material befähigt sie jetzt, allen 
+taktischen Bewegungen der Heerestheile zu folgen, ihre Fahrzeuge 
+sind leicht und so konstruiert, daß das Legen der Leitungen schnell 
+und sicher stattfinden kann, während die Wagen selbst als 
+Stationen dienen.
+Einen Bestandteil der Feldtelegraphie bilden die Vorpostentelephone, 
+welche sofort nach Aufstellung der dem Feinde am nächsten
+stehenden Vorposten diese mit ihren Unterstützungstruppen zu 
+verbinden haben. Von hier aus werden dann alle Meldungen 
+über Stellung und Bewegungen des Feindes durch die Leitung des 
+Feldtelegraphen weitergegeben. Der außerordentliche Vortheil, den die 
+Telephone vor den Telegraphenapparaten voraushaben, besteht einmal 
+darin, daß sie unmittelbar das gesprochene Wort selbst auf weite 
+Entfernungen übermitteln, dann aber in ihrer ungemein leichten 
+Handhabung. Man wird daher ohne Säumen alle weit vorgeschobenen Posten 
+durch solche Apparate nach rückwärts verbinden. Selbstverständlich ist 
+dies ganz besonders der Fall bei dem Standort des Fesselballons, dessen 
+Beobachtungen sofort weiterhin telegraphisch dem Hauptquartier des
+Armeekorps mitgetheilt werden müssen.
+Unsere großen Festungen sind bereits im Frieden sämmtlich mit
+einem Telegraphennetz versehen, welches alle vorgeschobenen Werke
+mit dem Mittelpunkt der Vertheidigung, der Kommandantur, und
+unter sich verbindet. Die Leitungskabel liegen unterirdisch und
+so tief, daß sie gegen zufällig einschlagende Geschosse und gegen
+Zerstörunngsversuche des Feindes soweit als möglich geschützt sind.
+Außerdem sind in allen Forts und in der Hauptbefestigung 
+Vorrichtungen für elektrische Signalapparate vorhanden, welche ähnlich
+wie die Signalscheiben der Eisenbahnen mit farbigem Lichte 
+Zeichen geben und für den Fall, daß die Kabel zerstört würden,
+eine Verständigung zwischen den einzelnen Festungswerken und
+selbst nach außen hin ermöglichen.
+
+Auch in dieser Eigenschaft als Lichtquelle hat die Eleltricität
+einen ausgedehnten Gebrauch für militärische Zwecke gefunden.
+Gerade im Festungskampf wird das elektrische Licht eine große
+Rolle spielen. Schon bei Beginn des Krieges sollen die an den
+bedrohten Grenzen liegenden Festungen vertheidigungsfähig 
+gemacht und gegen den gewaltsamen Angriff gerüstet sein; es werden
+also zwischen dem drohenden Auftauchen der Wolken am 
+politischen Himmel und der Entladung des Gewitters – der 
+Kriegserklärnug – nur wenige Tage bleiben, um diese umfassenden
+Arbeiten vorzunehmen, bevor der Feind heranrückt. In solchen
+Fällen ist das elektrische Bogenlicht, für welches die Werke jeder
+großen Festung eingerichtet sind, von unschätzbarem Werthe, da
+es die Armierungsarbeiten auch in der Nacht fortzusetzen erlaubt.
+Ein überraschendes Auftreten des Feindes wird durch die großen
+elektrischen Scheinwerfer von den Forts aus sehr erschwert, ja
+fast zur Unmöglichkeit gemacht werden. Hat der Feind eine
+Festung eingeschlossen und will er den Angriff beginnen, so wird
+eine wachsame Besatzung durch diese Scheinwerfer die nächtliche
+Aushebung der ersten Laufgräben und den Batteriebau, ebenso
+die Wiederherstellung der zusammengeschossenen Angriffsbatterien,
+wozu bisher die Nacht die Möglichkeit bot, wirksam verhindern
+können, während kräftige Ausfälle des Vertheidigers durch sein
+Licht unterstützt werden. Freilich wird die Besatzung die Wirkung 
+der feindlichen Scheinwerfer – denn auch der Angreifer stellt 
+natürlich solche auf – ebenfalls bitter empfinden, immerhin 
+wird sie aber, weil sie stärkere Maschinen und Reflektoren zu 
+verwenden imstande ist, dem Feinde in dieser Hinsicht überlegen sein.
+Die Apparate zur Lichterzeugung in Festungen sind starke 
+Dynamomaschinen mit Dampfmotoren, für deren Unterbringung 
+bombensichere Gewölbe auf allen Fronten vorbereitet sind. 
+Die elektrische Lampe mit Reflektor wird an einem möglichst 
+hohen Punkte der Umwallung 
+aufgerichtet; ihre Entfernung von der Lichtmaschine kann unter
+Umständen bis zu 1000 Metern betragen. Als Scheinwerfer 
+gelangen jetzt parabolisch geschliffene Glasspiegel zur Anwendung,
+die in Bezug auf Ausnutzung der Leuchtkraft einer elektrischen
+Lampe wirklich Erstaunliches leisten; vermag man doch mit diesem
+Parabolspiegel und den heutigen so vollkommenen Lampen und
+Kohlen auf 12 Kilometer weit zu leuchten.
+Ein weiteres Ziel ist die Verwendung des elektrischen Lichts auch
+im freien Felde. In dieser Richtung sind seit dem Kriege 1870/71
+sowohl bei uns wie bei den Franzosen vielfache Versuche gemacht
+worden, welche seit etwa fünf Jahren in der Einführung von
+Beleuchtungswagen – vorläufig bei den Belagerungsparks und
+in den großen Festungen – ein greifbares Ergebniß aufzuweisen 
+haben. Ein solcher Wagen trägt auf einem eisernen Gestell 
+einen Dampfkessel mit allem Zubehör, damit verbunden eine
+Dampfmaschine für eine Leistung von mindestens 14 Pferdekräften
+und, unmittelbar mit der Dampfmaschine gekuppelt, eine 
+Dynamomaschine zur Herstellung des Lichts. Im Wagengestell befindet
+sich der Werkzeugkasten, das Kohlen- und das Wasserreservoir;
+das ganze vollständig ausgerüstete Fahrzeug wiegt etwa 75 Centner.
+Zu jedem Beleuchtungswagen gehören zwei große und ein kleiner
+Scheinwerfer mit Metallspiegel, welche auf besonders dazu gebauten
+Wagen untergebracht sind. In den Festungen sollen sie den 
+sogenannten „ambulanten“, den beweglichen Dienst versehen. Es ist
+[767] zweifellos, daß das elektrische Licht auch im Feldkrieg eine große Rolle zu spielen
+bestimmt ist, und es dürfte daher nur eine Frage der Zeit sein, daß derartige 
+Fahrzeuge mit verbesserter Bauart, namentlich in Betreff ihrer Leichtigkeit, den 
+Telegraphenparks einverleibt werden. In erster Linie werden die Pioniere von dem großen
+Vortheil einer elektrischen Beleuchtung Gebrauch machen, zum
+nächtlichen Brückenschlagen, zur Wiederherstellung zerstörter 
+Eisenbahnen und Straßen und zu ähnlichen Arbeiten. Aber noch
+einen großen Vortheil bietet das elektrische Licht: es ermöglicht
+gründliches Absuchen der Schlachtfelder am Abend und in der
+Nacht nach einem Gefecht, und so mancher Schwerverwundete,
+welcher sonst hilflos und allen Unbilden der Witterung ausgesetzt
+bis zum Anbruch des Tages liegen bleiben müßte, wird noch
+glücklich geborgen und gerettet werden können.
+
+Die elektrischen Zündapparate haben sich in allen neueren
+Kriegen als nothwendig und zuverlässig bewährt. Im Feldkrieg
+beschränkt sich ihre Anwendung naturgemäß auf das Zünden von
+Minen zur nachhaltigen Zerstörung von Eisenbahnlinien, ferner
+zum Sprengen von Brücken, Wegübergängen u. dergl., wenn es
+den Rückzug zu decken und die Verfolgung des Feindes zu
+erschweren, eine Vertheidigungsstellung zu verstärken gilt –
+seltener gebraucht man sie zum Entzünden sogenannter 
+Fladderminen bei Annäherung des angreifenden Feindes. Die weit vorgeschobenen 
+Kavallerieabtheilungen, welche durch Unterbrechung der Schienenwege und Telegraphenverbindungen
+des Feindes dessen Mobilmachung und Aufmarsch zu erschweren haben, führen 
+Dynamitpatronen als Sprengmittel und entzünden diese mittels der Zündschnur, während sie die 
+Telegraphenleitungen durch Umwicklung der Kabel mit feinen, schwer sichtbaren Silberdrähten 
+unbrauchbar machen. Dieses letztere Mittel hat den wesentlichen Vortheil, daß man die Linie
+nöthigenfalls durch Abnahme dieser Drähte rasch  für den eigenen Gebrauch wieder in Betrieb
+setzen kann. Bei allen größeren Sprengungen erfolgt die Zündung durch galvanische 
+Batterien; diese ermöglichen es, mehrere Zünder in einem einzigen Stromkreis und auch auf
+größere Entfernung zu zünden, sind leicht beweglich und werden von den Pionierbataillonen
+auf deref Ausrüstungswagen ins Feld mitgeführt. Im Festungskrieg spielen sie infolge
+ihrer Zuverlässigkeit eine hervorragende Rolle.
+Wir wollen zum Schlusse noch erwähnen, daß auch die Benutzung der Brieftaubenpost
+für militärische Zwecke die Anwendung des elektrischen Stromes nothwendig macht. Da
+man den Brieftauben nur ein sehr geringes Gewicht anhängen darf, um sie in ihrem Fluge
+nicht zu behindern und vorzeitig zu ermüden, so
+galt es, ein Mittel zu finden, um auf einem kleinen Raume möglichst
+viel Depeschen unterbringen zu können. Zu diesem Behufe werden
+die abzusendenden Schriftsätze auf eine große Papierfläche mit 
+gewöhnlicher Schrift geschrieben und dann in sehr verkleinertem 
+Maßstab mittels eines hierfür eingerichteten Apparats photographiert.
+Die Abzüge dieser Aufnahme werden auf ein dünnes, durchsichtiges
+Kollodiumhäutchen übertragen, welches dann zusammengerollt und
+in einem Federkiel verwahrt der Brieftaube mitgegeben wird. Zum
+Lesen einer solchen Depesche bedient man sich des sogenannten 
+Sonnenmikroskops, welches die Schriftzüge wieder in stark vergrößertem
+Bilde auf eine weiße Fläche wirft und auf diese Weise vielen
+Personen zugleich sichtbar macht. Damit man hierbei von Tageszeiten
+und Witterungsverhältnissetn unabhängig ist, muß das elektrische
+Licht die Beleuchtung des mikroskopischen Sehfeldes übernehmen.
+
+
+Die Anwendung der Luftschiffahrt im Kriege ist fast hundert Jahre alt; denn schon im Jahre 1793 wurden im Parke von Meudon
+[768] bei Paris – der bis heute der Uebungsplatz der französischen 
+Aeronauten geblieben ist – durch den Ingenieurkapitän Coutelle mit
+dem erst zehn Jahre vorher erfundenen Luftballon Versuche  gemacht, 
+um seine Brauchbarkeit für das Rekognoscieren feindlicher 
+Stellungen zu erproben. Man benutzte hierzu einen neun Meter 
+im Durchmesser haltenden, mit Wasserstoff gefüllten Ballon, 
+welcher durch starke Seile am Erdboden befestigt war und eine 
+Gondel mit zwei Personen trug. Die Verständigung mit den 
+unten gebliebenen Personen erfolgte durch verabredete Zeichen
+mit bunten Flaggen. Die Ergebnisse fielen so glücklich aus, daß 
+alsbald eine Compagnie sogenannter „Aerostiers“ gebildet und 
+der Armee Jourdans zugetheilt wurde, bei deren Unternehmungen 
+dieser erste „Ballon captif“ oder „Fesselballon“ 
+denn auch gute Dienste gethan haben soll. Während der Schlacht bei 
+Fleurus am 26. Juni 1794 befand sich Coutelle mit einem General in der 
+Gondel, und er erzählt in seinem Bericht, daß der Oberfeldherr von 
+ihm über jede Bewegung der Oesterreicher rechtzeitig in Kenntniß gesetzt 
+worden sei. Aber bei der Expedition nach Aegypten ging das gesammte 
+Ballonmaterial durch Kaperung des Transportschiffes verloren, und 
+dieses Mißgeschick war nicht geeignet, Napoleons Interesse für die Sache 
+zu wecken; so schlief sie nach und nach wieder ein. Auch die 1802 
+aufs neue angestellten Versuche verliefen ergebnißlos, und nicht besser 
+ging es später in Oberitalien, bei der Potomacarmee, in Paraguay und an anderen 
+Orten. Erst die jüngste Belagerung von Paris brachte den Ballon als 
+Kriegshilfsmittel wieder zu Ehren. Von den Ballons, welche 
+zwischen dem 28. September 1870 und dem 22. Januar 1871 
+Paris verließen, wurden 91 Passagiere (darunter Gambetta), 363 
+Tauben und 2½ Millionen Briefe mitgenommen und meistens  
+auch wohlbehalten abgeliefert. Nur fünf Ballons geriethen in
+die Hände der deutschen Truppen. Dagegen scheiterten alle Versuche,
+Luftschiffer von außen nach Paris hinein gelangen zu lassen.
+
+Diese letztgenannte schlimme Erfahrung hatte zur Folge, daß
+man den schon zwanzig Jahre vorher von dem Luftschiffer Giffard
+angeregten Gedanken eines lenkbaren Luftschiffes wieder aufnahm 
+und den Marine-Ingenieur Dupuy de Lome mit dem Baue eines 
+solchen betraute. Die Belagerung von Paris hatte aber auch bei 
+einem deutschen Ingenieur die Idee erzeugt, ein lenkbares 
+Luftschiff herzustellen. Im Dezember 1870 führte der in Mainz 
+geborene Paul Hänlein in seiner Vaterstadt ein kleines Modell 
+vor, bei welchem er eine mit Leuchtgas aus dem Ballon selbst 
+gespeiste Gaskraftmaschine als treibende Kraft verwandte. Leider 
+scheiterte die weitere Ausführung an einer Menge widriger 
+Umstände, hauptsächlich am Geldmangel; es war aber jedenfalls ein 
+Deutscher, welcher die in vielen Stücken noch bei den heutigen 
+Konstruktionen übliche Form des Luftschiffs erfunden und zuerst 
+angewendet hat (vergl. „Gartenlaube“ 1882 S. 217). Das Modell, 
+welches 1881 Tissandier vorführte und das soviel von sich reden 
+machte, war in wesentlichen Theilen dem Hänleinschen Luftschiff
+nachgebildet. Dupuy de Lome’s Arbeit aber, die im Jahre 1872
+vollendet wurde, fiel so unglücklich aus, daß man vorläufig von
+weiteren, sehr kostspieligen Versuchen Abstand nahm. Erst auf
+Gambettas Betreiben, der den Ballons eine dankbare Zuneigung
+bewahrt hatte, entschloß sich die Regierung, trotz mancher Unfälle
+und schlechter Erfahrungen, die Verwendung der Aeronautik im
+Kriege aufs neue ins Auge zu fassen.
+Für die Pariser Ausstellung des Jahres 1878 hatte Henry
+Giffard einen Fesselballon hergestellt, in einer Größe, wie sie
+bisher noch nicht dagewesen war; bald darauf rief das bereits 
+erwähnte Tissandiersche Modell eines lenkbaren Luftschiffs, bei welchem 
+die Gaskraftmaschine Hänleins durch einen elektrischen
+Treibapparat ersetzt war, das größte Aufsehen hervor.
+Beide Konstruktionen trugen dazu bei, das Interesse
+für den Kriegsgebrauch der Luftschiffahrt bei allen
+Militärstaaten wieder zu beleben. Besonders war
+Tissandier von wesentlichem Einfluß auf die Arbeiten
+des französischen Geniehauptmanns Renard; diese
+wurden jedoch gänzlich geheim gehalten und drei
+Jahre, scheinbar ohne Erfolg, fortgesetzt. Um so 
+großartiger war die Wirkung, als am 9. August 1884
+Renard, dem inzwischen der Pompierhauptmann Krebs
+beigegeben worden war, ein lenkbares Luftschiff 
+„La France“ dem Kriegsminister vorzuführen vermochte.
+Er hob sich mit demselben etwa 400 Meter über den 
+Erdboden,  beschrieb in weiten Bogen eine 8 und kehrte ohne 
+Schwierigkeiten nach seinem Auffahrtsorte zurück. Sein 
+Luftschiff bestand aus einem etwa 50 Meter langen Ballon 
+in Cigarrenform von 8 Metern im größten Durchmesser 
+und einem Raumgehalt von 1860 Kubikmetern. Seine Hülle 
+war aus den feinsten Seidenfäden gewoben, die sehr schmale 
+Gondel 33 Meter lang, ihr Gestell aus Bambusrohr, ebenfalls mit 
+Seidenzeug überzogen. Durch eine Flügelschraube von acht Metern 
+Durchmesser wurde das Schiff vorwärtsgetrieben; diese war am
+Vordertheil der Gondel angebracht und drehte sich um einen
+eisernen Hohlcylinder, welcher mit dem elektrischen Motor einer
+Dynamomaschine verbunden war; am hinteren Ende befand sich
+das Steuer. Der bei den ersten Versuchen angewandte Motor
+wog kaum 100 Kilogramm, man hatte indessen mit ihm infolge
+seiner leichten Bauart allerlei Unfälle und sah sich genöthigt,
+eine kräftigere Maschine von neun Pferdekräften anzubringen.
+Obgleich die jetzt im Gebrauch befindliche Maschine, die etwa 600 Kilogramm wiegt, 3600 Umdrehungen der Schraube in einer Minute ermöglicht, beträgt die bisher erreichte Geschwindigkeit doch nur 6,4 Meter in der Sekunde; das ist noch zu wenig, um das Schiff zu jeder Jahreszeit und bei jeder Witterung verwendbar erscheinen zu lassen. Aber trotz dieses Mangels ist der lenkbare Ballon in Frankreich zur Einführung gelangt, und das große Anwesen der französischen Militär-Luftschifferabtheilung zu Meudon hat jetzt die Aufgabe, möglichst vollkommene Ballons zu bauen, eingehende Versuche mit gefesselten, frei schwebenden und lenkbaren Ballons anzustellen und den erforderlichen Bedarf an erfahrenen Militär-Luftschiffern heranzuschulen. Die ausgebildeten Leute werden in Abtheilungen zusammengestellt und mit je einem freischwebenden Ballon je einer Festung des Landes zugetheilt, um für den Fall einer Belagerung
+[769] in Verbindung mit den Brieftauben den Nachrichtendienst zu übernehmen.
+
+In allen Großstaaten sind diese Fortschritte unserer Nachbarn mit großer Aufmerksamkeit verfolgt worden, und man hat nicht verfehlt, sie sich bei den eigenen Bemühungen zu Nutze zu machen. Deutschland besitzt schon seit Jahren eine Luftschifferabtheilung, welche auf ihrem großen Uebungsplatz bei Berlin nicht allein ein tüchtiges Personal heranzubilden, sondern auch fortgesetzt in ausgedehntem Maße neue Versuche anzustellen hat. Selbstverständlich werden die letzteren sehr vorsichtig betrieben und die erreichten Verbesserungen in das tiefste Geheimniß gehüllt.
+Soviel ist sicher: in einem künftigen Kriege werden voraussichtlich alle Mächte Fesselballons mit ins Feld führen, um sie zur Erkundung feindlicher Stellungen und Truppenbewegungen zu verwenden. Die für diesen Zweck erforderlichen Ballonparks sind schon im Frieden ausgerüstet. Ein solcher Park besteht aus einem bedeckten Wagen zur Aufnahme der zusammengelegten Ballonhülle, der Taue, der Gondel und des sonstigen Zubehörs, aus einer fahrbaren Dampfwinde für das Stahldraht-Tau von 600 Metern Länge, an welchem der Ballon befestigt wird, und aus einer Anzahl Fahrzeuge zur Beförderung der Stahlcylinder, welche den Bedarf an komprimiertem Wasserstoffgas enthalten. Man ist nämlich in allen Staaten dazu übergegangen, dies Gas als das leichteste fertig ins Feld mitzunehmen. In England werden zu diesem Zwecke Stahlcylinder hergestellt, die einen Druck bis zu 250 Atmosphären aushalten und in die das Wasserstoffgas
+[770] mit besonderen Pumpen hineingepreßt wird. Die gebräuchlichste Art dieser Cylinder faßt bei gewöhnlichem Luftdruck (= 1 Atmosphäre) ungefähr 30 Liter, bei 100 Atmosphären Druck also 3000 Liter oder 3 Kubikmeter. Die Engländer sowohl wie die Italiener haben bei ihren Feldzügen in Afrika dieses Verfahren angewendet; die Stahlcylinder wurden im eigenen Lande gefüllt, zu Schiff über die See und dann auf dem Rücken von Kamelen oder Mauleseln ins Innere des Landes gebracht. Vermöge dieser Einrichtung kann man einen Ballon von 300 Kubikmetern Gas in längstens einer halben Stunde füllen. Bisher hatte man auf besonders erbauten Wagen das Gas erst an Ort und Stelle fabriziert; dazu mußte man sehr viel Rohmaterial (verdünnte Schwefelsäure und Zink) mitschleppen und brauchte sehr viel Wasser, das nicht immer bequem zu haben war.
+Zu den Ueberzügen der Ballons wird im allgemeinen chinesische Seide benutzt, welche sehr geschmeidig und haltbar ist. Die Engländer verwenden auch sogenannte „Goldschlägerhaut“. Es sind dies ganz feine Häutchen, die man von dem Blinddarm des Rindes abzieht; sie werden besonders zubereitet, hierauf in mehreren Lagen derartig übereinandergeklebt, daß der Rand einer Haut stets auf die Mitte der darunter liegenden kommt. Da man für eine Ballonhülle diese Häutchen in achtfacher Lage verwendet, so braucht man für einen Ballon von 300 Kubikmetern Inhalt ungefähr 35- bis 40000 Stück derselben. Diese Goldschlägerballons haben im Vergleich zu den aus Baumwolle oder Seide hergestellten und durch Firniß gasdicht gemachten den großen Vorzug der Leichtigkeit; sie sind aber dafür nicht sehr dauerhaft, bekommen sehr leicht Risse durch Anstoßen an Bäume etc., was ihre Verwendbarkeit stark beeinträchtigt.
+Die Größe eines Ballons ist bedingt durch den Anspruch an seine Tragfähigkeit. 1 Kubikmeter Wasserstoffgas trägt durchschnittlich 1 Kilogramm, 300 Kubikmeter tragen also 300 Kilogramm. Man rechnet nun auf das Gewicht eines solchen Ballons, des Netzes und Ventiles, der Gondel und der Ausrüstung etwa 100 Kilogramm, auf das Gewicht des Drahtseilkabels 50 Kilogramm, auf das des Luftschiffers 75 Kilogramm; es sind also immer noch 75 Kilogramm zum Auftrieb vorhanden, was vollständig genügt. Nach Berichten über die französischen Manöver haben die Ballons thatsächlich gute Dienste geleistet, namentlich nachdem eine Fernsprechverbindung zwischen dem Ballon und der Erde hergestellt war. Durch technische Vervollkommnungen ist man dahin gelangt, das Luftschiff in einer halben Stunde zum Aufsteigen bereit machen zu können. Ferner ist der Ballonpark so eingerichtet, daß man den Ballon mit großer Leichtigkeit fortbewegen kann, auch in gefülltem und schwebendem Zustande. Während eines Gefechts bei den französischen Manövern wurde Bar le duc mit einem schwebenden Ballon durchfahren, ohne daß dabei die geringsten Unordnungen vorkamen, und General Gallifet blieb einmal zweieinhalb Stunden im Fesselballon, von dem aus er durch Telephon alle Bewegungen leitete. Endlich wird hervorgehoben, daß der Ballon auch bei Nacht durch Leuchtsignale seine vielseitige Verwendbarkeit bewiesen hat.
+In belagerten Festungen, wo bereits im Frieden alle Vorbereitungen getroffen werden können, wird der Fesselballon von größtem Vortheil sein, da er dem Belagerten eine Uebersicht über sämmtliche Angriffsarbeiten des Feindes ermöglicht. Immerhin wird auch der Fesselballon trotz aller Verbesserungen im Felde wie im Festungskrieg vom Wetter abhängig bleiben. Der Wind, welcher die Gondel in schaukelnde Bewegung versetzt, erschwert die Beobachtung der feindlichen Stellung oder die Aufnahme derselben durch photographische Apparate bedeutend, Nebel macht sie überhaupt unmöglich. Es sind in unserem Klima nur wenige Monate, welche einer Rekognoscierung aus dem Fesselballon günstig sind; das lehrt uns die Kriegsgeschichte. Man denke nur an den sprichwörtlich gewordenen „Nebel von Chlum“ am 3. Juli 1866! Immerhin wird aber der Ballon zur Anwendung kommen können, und daher muß jedes Heer, will es nicht dem Feinde einen Vortheil über sich einräumen, solche luftige Gesellen ins Feld mitschleppen. Daneben aber wird eine schneidige Kavallerie, zu allen Jahreszeiten verwendbar, für eine Armee das beste Fühlhorn bleiben.
+Man denke sich ferner eine bei der heutigen Feuerwaffe rasch entschiedene Schlacht mit unglücklichem Ausgang! Wo bleibt der theure Ballon, der erst heruntergeholt werden muß, um von seiner Verbindung gelöst und an die Transporttaue befestigt werden zu können? Wo bleibt die schwere Dampfmaschine mit dem tief im Boden verankerten Rade? – –
+Das sind so Bilder aus dem Kriege der Zukunft, wie sie die Phantasie vor unserem geistigen Auge heraufbeschwören kann. Möge uns die praktische Probe auf ihre Wahrheit noch recht ferne liegen! Muß dieser Krieg der Zukunft überhaupt kommen? Viele verneinen’s, und es sind edle Menschen, die diesen Glauben in sich und anderen nähren. Aber andere bejahen es, und auch sie berufen sich dabei auf ideale Gründe. Ihnen ist der Krieg wie unsrem Moltke ein nothwendiges Mittel zur Erziehung des Menschengeschlechts; erst kürzlich hat der preußische General von Boguslawski diesen Gedanken aufs neue mit Eifer verfochten. Wie dem auch sei: möge der Krieg uns noch lange erspart bleiben! Schon der Gedanke an seine Möglichkeit übt ja eine erziehliche Wirkung: er mahnt uns, ein kräftiges männliches Geschlecht heranzuziehen, und unverwandt regt er mächtig an die Geister der Erfinder!

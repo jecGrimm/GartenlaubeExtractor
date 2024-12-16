@@ -1,0 +1,79 @@
+[534] „Zeit“ und „Zeitmesser.“
+Die großartige Thatsache der gelungenen Legung des transatlantischen 
+Telegraphentaues hat zugleich eine andere, bisher wohl 
+gekannte, aber wenig beachtete Thatsache zu allgemeinerer Bedeutung 
+gebracht, – die Thatsache des Zeitunterschiedes, der zwischen zwei 
+ost-westlich von einander liegenden Punkten der Erdoberfläche stattfindet. 
+Die Sache ist von Wichtigkeit bei dem nunmehr zwischen 
+der alten und neuen Welt eintretenden Telegraphenverkehr, denn es 
+handelt sich hierbei nicht allein um Stunden, nein, es kann der 
+merkwürdige Fall eintreten, daß eine in Europa am 1. September 
+z. B. aufgegebene Depesche Tags zuvor, also den 31. August 
+Abends noch in Amerika anlangt. Wie geht dies zu?
+Die Erde ist Kugel und bewegt sich täglich einmal in der 
+Richtung von Westen nach Osten um ihre Achse, eine von Pol zu 
+Pol gedachte Linie. Nicht alle Punkte der Kugeloberfläche können 
+zu derselben Zeit eine gleiche Stellung zur Sonne einnehmen, diese 
+vorläufig innerhalb eines Tages in unveränderter Stellung zur 
+Erde gedacht. Bei der fortschreitenden Achsendrehung werden nach 
+und nach andere Punkte in die Stellung früherer gelangen, die Stellung 
+eines Punktes zur Sonne aber bedingt die „Zeit.“ Der 
+natürlichste Anfangspunkt dieser gleichen Zeitabschnitte (denn gleich 
+sind sie, weil die Achsendrehung der Erde mit der größten Regelmäßigkeit 
+vor sich geht und stets 24 Stunden dauert) ist der Zeitpunkt, 
+in welchem sich für einen bestimmten Ort die Sonne am 
+höchsten über dem Horizonte befindet. Dieser Zeitpunkt ist der 
+Mittag für jeden Ort; für verschiedene Orte, die ost-westlich auseinander 
+liegen, wird es daher auch verschiedene Mittage geben 
+müssen, und natürlich muß ein Ort später Mittag haben, als ein 
+anderer, wenn ersterer westlich von dem zweiten liegt, denn da die 
+Achsendrehung der Erde von West nach Ost gerichtet ist, so muß 
+der Eintritt des Mittags an verschiedenen Orten in umgekehrter Ordnung 
+erfolgen. Zwei Punkte der Erdoberfläche, welche um den halben 
+Erdumfang von West nach Ost auseinander liegen, werden deshalb 
+einen Zeitunterschied von 12 Stunden haben, so daß, während 
+es an dem einen Mittags 12 Uhr ist, gleichzeitig der andere Mitternacht hat. 
+Nach dem Gesagten wird man daher leicht den Zeitunterschied zweier 
+Orte finden können, wenn man nur ihren Längenunterschied kennt, d. h. 
+wenn man weiß, wie viele Grade der geographischen Länge der eine westlicher 
+gelegen ist, als der andere.[1] Man multiplicirt alsdann 
+die Anzahl der Grade mit vier und erhält so den Zeitunterschied 
+in Minuten ausgedrückt, welche man von irgend einer gegebenen
+[535] Zeit entweder abzieht, wenn der Ort, dessen Zeit gesucht wird, westlicher liegt, dagegen addirt, wenn man die Zeit eines östlich gelegenen Ortes aufsuchen will. Ein Beispiel wird es uns noch deutlicher machen.
+Paris liegt unter dem 20. Grade östlicher Länge, von der Insel Ferro (einer der canarischen Inseln bei Nordafrika) aus gerechnet, Leipzig ungefähr unter dem 30. Grade, also zehn Grade östlicher als Paris, folglich wird Paris mit seinem Mittage und seiner Zeit überhaupt 40 Minuten hinter Leipzigs Zeit zurück sein.
+Wie verhält es sich aber mit den Zeitbestimmungen überhaupt, welchen astronomischen Verhältnissen verdanken sie ihre Begrenzung? Diese Frage steht mit der vorigen im genauesten Zusammenhange, wir wollen ihre Lösung versuchen.
+Jedermann weiß, daß die Uhren es sind, deren wir uns bedienen, um stets zu wissen, „welch’ Zeit es ist,“ weiß aber auch, daß die Zeit nicht nach den Uhren sich richtet, sondern diese nach jener gestellt werden müssen, dafern sie ihren Zweck der richtigen Zeitangabe wirklich erfüllen sollen. Die richtigst gehende Uhr wird daher diejenige sein,  welche uns das Fortschreiten der Zeit, wie die Vorgänge des Himmels es veranlassen, zu unmittelbarer Anschauung bringt, und das ist die Sonnenuhr. Wollen wir, daß unsere Taschen- oder Zimmeruhr mit der wirklichen Zeit fortwährend im Einklange steht, so ist eine Vergleichung derselben mit der Sonnenuhr unumgänglich nothwendig, denn auch der künstlichste, beste von Menschenhänden gefertigte Mechanismus erleidet Störungen, die Gesetze der Natur, nach denen das Rad der Zeit fortrollt, sind unabänderlich, ohne Störung und ohne Fehler. Sehen wir daher, wie eine richtige Sonnenuhr beschaffen sein muß, die sich Jeder selbst leicht herstellen kann.
+Die Sonne geht täglich am Morgenhimmel auf, steigt höher und höher, erreicht einen höchsten Stand (ihren Culminationspunkt, sie culminiert) und sinkt während der Nachmittagsstunden wieder allmählich hinab, um am Westhimmel zu verschwinden. Der höchste Sonnenstand bezeichnet den Mittag, er fällt genau in die Mitte des Bogens, den die Sonne während des Auf- und Niederganges am Himmel beschreibt. Dies sind bekannte Thatsachen, die Jeder selbst schon oft beobachtet hat, ebenso wie gewiß auch den Umstand, daß der Punkt, an welchem die Sonne früh über den Horizont auftaucht, an den verschiedenen Tagen des Jahres eben so wenig derselbe bleibt, als der Ort des Verschwindens, – dennoch müssen wir sie uns hier in’s Gedächtniß zurückrufen. Stellen wir auf einer ebenen Fläche einen Stab auf, so wirft derselbe, sobald sich die Sonne am Himmel zeigt, einen Schatten, welcher mit dem scheinbar sich bewegenden Tagesgestirn ebenfalls seinen Ort verändert, sich auch verkürzt, je höher sich jenes emporhebt. Beobachten wir die Richtungen dieses Schattens in verschiedenen Jahreszeiten bei Sonnenauf- und Untergang, so finden wir, daß sie sich nicht gleichbleiben, während dagegen die Richtungen, welche der Schatten bei den höchsten Sonnenständen hat, Jahr aus, Jahr ein in dieselbe Linie zusammenfallen. Diese Linie, welche genau von Nord nach Süd läuft, heißt die Mittagslinie, sie zu finden, ist nicht nur für den Astronomen, sondern überhaupt für Jeden, der sich eine richtig gehende Sonnenuhr darstellen will, von der größten Wichtigkeit. Man verführt bei ihrer Aufsuchung am leichtesten auf folgende Weise:
+Auf eine möglichst wasserrechte Fläche (eine Tischplatte z. B.) legt man ein Blatt Papier und befestigt es. Auf dasselbe zieht man um einen gemeinsamen Mittelpunkt mehrere (concentrische) Kreise und erreichtet im Mittelpunkte einen lothrechten Stift. An einem heitern Sonnentage beobachtet man darauf, sowohl des Vormittags als des Nachmittags, den Schatten, welchen der Stift auf das Papier wirft. Bei höher steigender Sonne wird die Spitze des Schattens zunächst in den Umfang des äußersten Kreises fallen, sodann des zweiten, dritten etc. Jedes Mal, wenn die Spitze genau mit der Kreislinie zusammentrifft, bezeichnet man diesen Punkt des Zusammentreffens auf dem Papiere. Dasselbe thut man auch Nachmittags; jetzt wird natürlich die Schattenspitze den innersten Kreis zuerst treffen, die weiter nach außen gelegene später und später. Auch diese Punkte des Zusammentreffens werden auf dem Papiere bemerkt. Hierauf halbirt man die Bogen, welche zwischen den zwei auf jedem Kreise bemerkten Punkten liegen, und zieht durch alle Halbierungspunkte eine Linie. Diese ist die gesuchte Mittagslinie (vorausgesetzt, daß man das Blatt Papier ganz genau in derselben Stellung auf dem Tische gelassen, in welcher es während der Beobachtung sich befand), in sie fällt alle Mal Mittags der Schatten.
+Hat man so die Mittagslinie gefunden, so ersetzt man den lothrechten Stift, dessen man sich vorhin bediente, durch den Sonnenzeiger (Gnomon) und zieht durch den Fußpunkt des Sonnenzeigers die Stundenlinien, d. h. diejenigen Linien, welche der Lage des Schattens zu den einzelnen Tagesstunden entsprechen. Der Sonnenzeiger darf nämlich auf der untergebreiteten Horizonalebene nicht lothrecht steht, muß vielmehr mit der selben einen Winkel bilden, welcher gleich ist mit der geographischen Breite des Ortes, also gleich der Anzahl der Grade, um welche der Beobachtungsort vom Aequator nach dem Nord- oder Südpol zu absteht. Die Winkel, welche die Stundenlinien einschließen, sind zwar nicht für alle geographischen Breiten einander gleich, indessen ist die Abweichung für die einzelnen Grade unter mittlerer Breite nur eine unbedeutende, so daß die unten für den 50. Breitengrad angegebenen auch noch für den 45.–55. ziemlich richtig angenommen werden können; sie werden jedesmal rechts und links von der Mittagslinie (natürlich nach Norden zu) aufgetragen, und an ihren Endpunkten die Stunden geschrieben.[2]
+Gewöhnlicher, weil bequemer als die horizontalen Sonnenuhren, sind die verticalen. Ist einmal die Mittagslinie auf der Horizontalfläche gefunden, so läßt sie sich leicht auch auf eine verticale oder lothrechte übertragen. Man verlängert nämlich die Mittagslinie bis zur aufrechtstehenden Fläche, welche so von jener in einem Punkte getroffen wird. Durch diesen Treffpunkt zieth man auf der lothrechten Fläche eine wagerechte Linie, welche natürlich mit der Mittagslinie zwei Winkel bildet. Sind die Winkel gleich, so ist das ein Zeichen, daß die lothrechte Fläche, also z. B. eine Mauer, ganz genau nach Süden gerichtet ist (von Ost nach West läuft); dann wird ein im Treffpunkte der horizontalen Mittagslinie, auf der wagerechten Seite der Mauer errichtetes Loth die Mittagslinie auf der lothrechten Fläche darstellen. Sind dagegen die beiden Winkel nicht von gleicher Größe, so weicht die Mauer um so viel von der genauen Richtung von West nach Ost ab, als der eine Winkel einen rechten an Größe übertrifft. Um denselben Winkel weicht dann die Mittagslinie auf der Mauer von der Richtung des im Treffpunkte auf der wagerechten Linie errichteten Lothes ab; um denselben Winkel muß dann auch die Tafel der Sonnenuhr, welche an der Mauer angebracht werden soll, gegen die Mauer selbst geneigt sein, damit erstere genau nach Süden gerichtet ist. Bei den verticalen Sonnenuhren wird nun in einem Punkte der lothrechten Fläche ebenfalls ein Sonnenzeiger oder Gnomon errichtet, von dessen Fußpunkte aus man die Stundenlinien zu ziehen hat. Hierbei hat man jedoch wieder zu beachten, daß der Sonnenzeiger mit der lothrechten Fläche keinen rechten Winkel bilde, sondern einen Winkel, welcher die geographische Breite zu einem rechten ergänzt, mit dieser zusammen 90 Grade ausmacht. Die Stundenwinkel sind ebenso wie bei der horizontalen Sonnenuhr je nach der geographischen Breite etwas verschieden, und eben so auch verschieden von denen der horizontalen Sonnenuhr[3]
+Eine so eingerichtete und mitt der nöthigen Genauigkeit beim Abmessen der Stundenwinkel hergestellte Sonnenuhr wird uns die Zeit bis auf wenige Minuten genau anzugeben im Stande sein. Wir erhalten auf diese Weise die rechte wahre Sonnenzeit. Abgesehen davon, daß eine solche Uhr allerdings oft gar nicht zu
+[536] gebrauchen ist, selbst Wochen lang uns im Stiche läßt, ohne uns 
+nur ein einziges Mal zu erlauben, die wirkliche Zeit von ihr abzulesen, 
+so hat sie doch wenigstens den großen Vortheil, daß ihre 
+Angaben mit der Wirklichkeit stets und unter allen Umständen übereinstimmen, 
+weil sie von der Wirklichkeit selbst nur ein treues Abbild 
+darstellt. Und doch wird unser Glaube an die Untrüglichkeit 
+der Sonnenuhren zu Gunsten eines Vorurtheiles oft erschüttert, 
+das wir für unsere theuer erkaufte, für ganz solid garantirte Taschenuhr 
+hegen, welche durchaus zu manchen Zeiten des Jahres, ja fast 
+niemals mit der Sonnenuhr gleichen Schritt hält. Freilich, wir 
+bedenken nicht, daß die Sonnenuhr sich nach den Ereignissen am 
+Himmel selbst richtet, die Taschenuhr den geregelten Gang beibehalten 
+muß, den der Künstler ihr einmal beigebracht. Beide, 
+Sonnenuhr und Taschenuhr, gehen richtig und weichen dennoch 
+ab, ja sie müssen abweichen, wenn wir nicht letztere einen Tag 
+um den andern corrigiren, zum schnellem oder langsamem Gange 
+stellen wollen. Worin aber der eigentliche Grund dieser Erscheinung, 
+dieses zeitweiligen Nichtübereinstimmens liege, wollen wir in 
+einem zweiten Artikel untersuchen, der von der mittleren Zeit 
+und deren Zeitmessern handelt.
+
+
+
+
+
+
+1. ↑ Da man den ganzen Erdumfang (Aequator) in 360 gleiche Theile 
+2. ↑ Bei einer Sonnenuhr auf horizontaler Fläche haben die Stundenwinkel (Winkel, welche die Stundenlinien mit der Mittagslinie bilden) folgende annähernde Werthe: zwischen 12–11½ und 12½ sind 6 Grade; zwischen 12–11 und 1 Uhr sind 11¾ Grade; zwischen 12–10½ und 1½ sind 17⅚ Grade; zwischen 12–10 und 2 sind 24⅙ Grade; zwischen 12–9½ und 2½ sind 30⅘ Grade; zwischen 12–9 und 3 sind 37⅚ Gr.; zwischen 12–8½ und 3½ sind 45⅖ Grade; zwischen 12–8 und 4 sind 53⅘ Grade; zwischen 12–7½ und 4½ sind 62 Grade; zwischen 12–7 und 5 sind 71 Grade; zwischen 12–6½ und 5½ sind 80⅖ Grade; zwischen 12–6 und 6 sind 90 Grade oder ein rechter Winkel. Grad ist nämlich der 360ste Theil des Kreisumfangs oder der 90ste Theil eines rechten Winkels.
+3. ↑ Bei der verticalen Sonnenuhr gelten für den 50sten Breitengrad annähernd folgende Werthe der Stundenwinkel: zwischen 12–11½ und 12½ sind 4¾ Grade; zwischen 12–11 und 1 Uhr sind 9½ Grade; zwischen 12–10½ und 1½ sind 14⅔ Grade; zwischen 12–10 und 2 sind 20 Gr.; zwischen 12–9½ und 2½ sind 25¾ Grade; zwischen 12–9 und 3 sind 32¼ Grade; zwischen 12–8½ und 3½ sind 39⅖ Grade; zwischen 12–8 und 4 sind 47½ Grade; zwischen 12–7½ und 4½ sind 53⅔ Grade; zwischen 12–7 und 5 sind 67 Grade; zwischen 12–6½ und 5½ sind 78¼ Grade; zwischen 12–6 und 6 sind 90 Grade.

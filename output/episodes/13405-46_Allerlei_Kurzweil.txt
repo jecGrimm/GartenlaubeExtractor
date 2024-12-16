@@ -1,0 +1,21 @@
+[880] Skat-Aufgabe Nr. 17.
+Von K. Buhle.
+Die Mittelhand gewinnt auf folgende Karte:
+
+Schellen ((car.)-Solo mit Schneider; denn die Gegner erhalten nur 29 Augen, obwohl keine Zehn blank sitzt, auch nur zwei Sieben im Skat liegen.
+Wie sitzen die Karten und wie ist der Gang des Spiels?
+
+
+Auflösung der Skat-Aufgabe Nr. 16 auf S. 772:
+Bei genauer Prüfung der ersten vier Stiche ergiebt sich, daß die Mittelhand der Spieler nicht sein kann, weil die Spielführung bei Grand oder Solo ganz unverständlich wäre, und weiter folgt daraus, daß es sich nur um ein Null handeln kann. Die Vorhand hat auf:
+
+eK, e8, gD, gK, gO, g9, g8, g7, r8, s7
+Null angesagt und in kühner Weise, um die Gegner zu täuschen, vom König ab gespielt; sie gewinnt bei folgender Kartenverteilung: Skat: eW, rO.
+
+Mittelhand: eD, eO, e9, gU, rU, r7, sK, sO, s9, s8;
+Hinterhand: eZ, e7, gZ, rD, rK, rZ, r9, sU, sZ, sD.
+
+
+Auflösung des Bilder-Räthsels auf S. 840.
+Wer den Kern will, muß die Nuß beißen.
+Heft 53[Bearbeiten]

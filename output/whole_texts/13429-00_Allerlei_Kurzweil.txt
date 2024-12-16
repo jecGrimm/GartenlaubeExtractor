@@ -1,64 +1,109 @@
-[36] Allerlei Kurzweil.
-Skataufgabe Nr. 1.
-Von S. und G. in Bremerhaven.
-Nach folgenden 4 ersten Stichen:
+[688] Allerlei Kurzweil.
+Skat-Aufgabe Nr. 14.
+Von K. Buhle.
+Die beiden ersten Stiche fallen so:
 
 
 
-1
+1.
 
+V.
 
+M.
 
-(−21)
-
- 
-
-3
-
-
-
-(−4)
-
-
-(c. 7) (c. Z.) (c. As)
-
-(c. 8) (p. B.) (car. B.)
-
-
-2
-
-
-
-(+15)
+H.
 
  
 
-4
+2.
+
+H.
+
+V.
+
+M.
 
 
 
-(+11)
-
-
-(car. As) (c. K.) (car. 7)
-
-(tr. 8) (tr. 9) (tr. As)
-
-gewinnt die Vorhand Roth- (coeur) Solo mit Schneider, da sie nur noch einen Stich mit 4 Augen abgiebt. Wie sitzen die Karten und wie ist der weitere Verlauf des Spiels?[1]
-
-
-Domino-Aufgabe.
-Man nimmt aus einem Dominospiel zwei Steine, von denen der
-eine die Points 1 und 6, der andere die Points 2 und 6 hat, ferner
-sämmtliche 7 Steine, auf denen sich 0 befindet. Die Gesammtheit dieser
-9 Steine soll in ein 9felderiges Quadrat so eingeordnet werden, daß die
-Summe der Ziffern jeder senkrechten, jeder wagerechten und auch der
-beiden diagonalen Felderreihen stets 12 beträgt.
-Auflösung des Kegel-Problems auf S. 20: Um die richtige Lösung zu finden,
-müssen auf den ersten Schub alle jene Kegel fallen, an deren Basis die Buchstaben stehen,
-dagegen beim zweiten Schub jene Kegel, wo die Buchstaben sich am Kopfe der Kegel befinden.
-Die Lösung heißt dann: „Kegel-Club“.
 
 
 
-1. ↑ Abkürzungen: e., g., r., s. = Eicheln (tr.); Grün (p.); Roth (c.); Schellen (car.). W., D., Z., O., 9, 8, 7 = Wenzel (B.), Daus (As), Zehn, König, Ober (Dame) etc.
+
+(tr. 9.)
+
+(tr. As)
+
+(tr. B.)
+
+(p. K.)
+
+(car. B.)
+
+(p. Z.)
+
+
+und die beiden letzten Stiche so:
+
+
+9.
+
+V.
+
+M.
+
+H.
+
+
+
+10.
+
+V.
+
+M.
+
+H.
+
+
+
+
+
+
+
+(car. D.)
+
+(p. As)
+
+(car. 8.)
+
+(car. 9.)
+
+(c. As)
+
+(c. 7.)
+
+Der Spieler, welcher 80 Augen in seiner Karte hatte, verliert das Spiel und muß dafür 96 bezahlen, weil er im 8. Stich einen Fehler gemacht hat. Hätte er diesen Fehler nicht begangen, so würde er 25 Augen mehr hereinbekommen und nur die Hälfte zu bezahlen gehabt haben.[1]
+Welcher von den Dreien ist der Spieler und was spielte er? Wie saßen die Karten und wie war der Gang des Spiels? Worin bestand der Fehler?
+
+Auflösung der Skat-Aufgabe Nr. 13 auf S. 628.
+Die Karten waren so vertheilt: Skat: g8, g7.
+
+Mittelhand: eW, gW, rW, sW, gO, rO, r8, r7, sO, s7.
+Hinterhand: g9, rD, rZ, rK, r9, sD, sZ, sK, s9, s8.
+Der Gang des Spieles ist dieser:
+
+1. e7, sW, sD. (−13)
+2. sO, sK, eD, (+18)
+3. e8, rW, rD. (−13)
+4. rO, rK, eZ. (+17)
+5. e9, gW, sZ. (−12)
+6. s7, s9, eK (+4)
+7. gD, gO, g9. (+14)
+8. gZ, eW, rZ. (−22)
+Die Hinterhand geht richtig im 2. und 4. Stich nur mit dem König auf, weil dies genügt, um eventuell den Spieler in die Mitte zu nehmen und weil sie hoffen kann, die Zehnen noch auf Trumpf wimmeln zu können. Spielt übrigens der Spieler schon im 3. oder 5. Stich das gD vor, so ändert dies, wie leicht zu sehen, am Resultat nichts. Auch wenn die Gegner ihre sämmtlichen Karten tauschen, geht das Spiel verloren, wenn der Gegner in Mittelhand, sobald der Spieler im 3. oder 5. Stich sofort gD anzieht und gZ nachbringt, auf die letztere eine Zehne wimmelt in der Erwartung, daß der Partner stechen kann.
+
+Auflösung des Problems: „Die Burgruine“ auf S. 668.
+Liest man (in der beim Lesen üblichen Weise der Reihe nach) zuerst die in lateinischer, dann die in deutscher Druckschrift und zuletzt die in verzierter Rundschrift verzeichneten Buchstaben von den Steinen ab, so erhält man die Worte: „Wo Menschen schweigen, werden Steine reden.“
+
+Auflösung des Buchstaben-Räthsels auf Seite 668.Badegast, Ladegast, Radegast.
+
+1. ↑ Für die Werthberechnung gelten die Bestimmungen der deutschen Skatordnung.

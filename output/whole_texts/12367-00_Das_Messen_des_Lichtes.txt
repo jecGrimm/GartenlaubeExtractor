@@ -1,0 +1,78 @@
+[70] Das Messen des Lichtes. Seit der Einführung des elektrischen
+Lichtes ist eine Maßeinheit populär geworden, von der in früherer Zeit
+das große Publicum nur wenig gehört hatte: die Kerze. Man liest und
+hört heute von elektrischen Lampen, deren Licht eine Stärke von so und
+so viel Tausenden Kerzen besitzt, und für die Meisten dürften diese Worte
+nur ein leerer Schall sein, da ihnen die Art und Weise, wie man das
+Licht zu messen pflegt, unbekannt ist.
+Versuchen wir heute in aller Kürze, diese schwierige Kunst, die Photometrie, 
+unseren Lesern verständlich zu machen!
+Sämmtliche Maße, mit welchen die Menschen operiren, sind willkürlich 
+gewählt worden, und so geschah es auch mit der Einheit für das
+Messen des Lichtes. Die ersten Gelehrten, die sich mit solchen Untersuchungen 
+befaßten, griffen selbstverständlich zu der ihnen am nächsten
+liegenden, leicht erreichbaren und herzustellenden Lichtquelle, und stellten
+das Licht einer Kerze als Maßeinheit auf. In Deutschland und England 
+bedient man sich derselben noch heutzutage. Doch die Kerze ist an
+und für sich ein sehr wechselnder Begriff, der für die genaueren wissenschaftlichen 
+Untersuchungen erst begrenzt werden mußte. Man ließ also
+zu diesem Zwecke besondere Lichter fabriciren, die man Normalkerzen
+nannte. In Deutschland benutzt man als solche eine Paraffinkerze von
+20 Millimeter Durchmesser, in England dagegen die Walrath- oder
+Spermacetikerze, die einen annähernd gleichen Lichteffect, wie die deutsche
+Normalkerze hervorbringt. Jeder weiß aber aus Erfahrung, daß das
+Licht unserer Kerzen sehr unbeständig ist, daß schon die Länge des Dochtes
+auf dasselbe einen bedeutenden Einfluß ausübt. Man einigte sich daher
+dahin, daß bei der Normalkerze auch die Höhe der Flamme genau bestimmt 
+werden muß, und beträgt dieselbe für die deutsche Normalkerze
+50 Millimeter, für die englische Walrathkerze 45 Millimeter. Bei allen
+Messungen muß man daher die Flammenhöhe der Normalkerze genau
+beobachten und durch Beschneiden des Dochtes reguliren.
+Dieses Lichtmaß ist jedoch trotz der genauesten Bestimmungen für die
+Fabrikation der Kerzen keineswegs sicher, denn ihre Leuchtkraft hängt noch
+von der chemischen Beschaffenheit des zu ihrer Herstellung verwandten
+Paraffins oder Walraths ab, wobei schon die geringsten Abweichungen in
+der Zusammensetzung des Rohmaterials von größter Bedeutung sind.
+Mall suchte daher nach anderen zuverlässigeren Lichtquellen und glaubte
+in Frankreich die Normalkerze durch die sogenannte Carcellampe ersetzen
+zu müssen. Dieselbe besteht aus einer besonders construirten Moderateurlampe 
+von 30 Millimeter Dochtweite, in welcher reines Rüböl mit einer
+Flammenhöhe von 40 Millimeter verbrannt wird. So herrscht jetzt auch
+auf diesem rein wissenschaftlichen Gebiete eine gerade nicht erfreuliche Verwirrung, 
+da wir nun deutsche, englische und französische Lichtmaße besitzen. 
+Um diese Werthe umzurechnen, bedarf man wenigstens keiner
+großen Tabelle: es genügt zu wissen, daß 1 Carcel = 7,6 deutschen und
+7,4 englischen Normalkerzen.
+Natürlich haben verschiedene Forscher andere Lichteinheiten vorgeschlagen, die sich aber bis jetzt nicht bewährten, und viele andere arbeiten rastlos an der Lösung dieser wichtigen Frage. Hoffentlich wird es ihnen bald gelingen, auch für das „himmlische Licht“ ein ebenso sicheres und praktisches Maß zu finden, wie wir ein solches für gröbere Dinge in dem Meterstabe, dem Kilo und dem Liter längst besitzen. Dann wird eine internationale Einigung auch auf diesem Gebiete erzielt werden, vorläufig müssen wir uns mit den nicht besonders zuverlässigen nationalen Lichtmaßen begnügen. Doch jetzt wollen wir unsere Lichteinheit anzünden und mit derselben eine bestimmte Lichtquelle, z. B. die Lichtstärke unserer Petroleumlampe messen. Zunächst sei es uns gestattet, den Leser an ein Naturgesetz zu erinnern, das er in der Schule sicher gelernt hat, an den Satz, daß die Stärke der Erleuchtung einer Fläche abnimmt im Verhältniß des Quadrats ihrer Entfernung von der Lichtquelle. Doch „Fläche“, „Quadrat der Entfernung“ etc. klingen zu gelehrt! Wir wollen den Satz an einem einfachen Beispiel erläutern.
+
+Wir haben eine deutsche Normalkerze angebrannt und wollen annehmen, daß wir die Druckschrift dieses Artikels bei dem Glanze derselben noch in der Entfernung von einem Meter lesen können. Wir rücken nun mit dieser „Gartenlauben“-Beilage jetzt noch um ein Meter von der Kerze fort, sodaß die Entfernung von der Lichtquelle bis zu dem Blatte zwei Meter beträgt. Hier können wir die kleine Schrift nicht mehr erkennen. Werden wir es im Stande sein, wenn wir noch eine Kerze anbrennen? Nein, wir müssen vier Kerzen brennen lassen, wenn wir dieselbe Beleuchtung auf zwei Meter Entfernung erzielen wollen, wie sie uns die eine Kerze im ersten Falle lieferte. Und wenn wir um drei und vier Meter fortrücken, so werden wir zu demselben Zwecke neun und sechszehn Kerzen brauchen.
+Die Kenntniß dieses Naturgesetzes genügt uns jetzt, um die Lichtstärke unserer Lampe zu messen, und wir wollen dies mit dem einfachsten Photometer (Lichtmesser) versuchen, das von dem bekannten Physiker Rumford construirt wurde.
+Wir befestigen an der Wand ein Stück weißes Papier (vergl. a b in
+Fig. 1) und stellen vor dasselbe ein undurchsichtiges Stäbchen c von der
+Dicke eines Bleistiftes. Nun setzen wir die Normalkerze und die Lampe in
+gleicher Entfernung von dem Stäbchen, die Kerze etwas nach links, die
+Lampe mehr nach der rechten Seite hin. Beide Lichtquellen werden auf dem
+Papierschirme je einen Schatten entwerfen. Aber der Schatten 
+e, den die Kerze bildet, wird schwächer sein, als der von
+dem Licht der Lampe herrührende Schatten d. Nun rücken
+wir die Lampe so lange ab, bis die beiden Schatten gleich
+stark erscheinen. Jetzt wissen wir, daß die beiden Lichtquellen
+das Stäbchen und den Papierschirm gleich stark beleuchten.
+Wir messen nun die Entfernung der Lichtkerze von dem Stäbchen, 
+und finden, daß sie gerade ein Meter beträgt, die Entfernung der Lampe macht dagegen 
+(wir wollen uns das Beispiel möglichst erleichtern) gerade zwei
+Meter aus. Nun erinnern wir uns des Beispiels mit den vier, neun und
+sechszehn Kerzen und schließen durchaus folgerichtig, daß die Lampe,
+welche in doppelter Entfernung denselben Lichteffect wie die Kerze hervorbringt, 
+nicht zweimal, sondern viermal so stark leuchtet wie die erste. Also beträgt die
+Lichtstärke der Lampe gerade vier deutsche Normalkerzen.
+
+Aber die Techniker und Männer der Wissenschaft arbeiten mit genaueren Photometern,
+von welchen wir nur das Bunsen’sche unsern Lesern vorführen, weil es am häufigsten
+benutzt wird. Dasselbe (Fig. 2) besteht zunächst aus einem Blatt
+Papier A B, in dessen Mitte sich ein geölter und darum durchscheinender Kreis m befindet. Zu beiden Seiten des Papiers sind unter gleichen Winkeln zwei Spiegel M N
+und M‘ N‘ angebracht, sodaß wir das Bild des kreisrunden Oelfleckes gleichzeitig in beiden Spiegeln sehen können. Stellen wir jetzt rechts von diesem einfachen Apparate unsere Lampe und links die Normalkerze in gleicher Entfernung auf, so wird das Spiegelbild M‘ N‘ heller als das Bild im Spiegel M N erscheinen, und erst wenn wir die Lampe in die doppelte Entfernung bringen, werden beide Spiegelbilder gleich hell sein. Auch in diesem Falle berechnet man die Lichtstärke der Lampe aus ihrer Entfernung von dem Papierblatte.
+
+Damit das Messen der Entfernungen nicht zu viel Zeit in Anspruch nimmt, ist in der Regel das Bunsen’sche Photometer in der Gestalt eines Wägelchens auf einer Scala bewegbar. Man braucht alsdann dasselbe nur so lange auf den Schienen der Scala hin und her zu schieben, bis die beiden Spiegelbilder des Oelfleckes gleich hell erscheinen, liest dann die durch einen Zeiger angedeutete 
+Entfernung des Papierblattes von den beiden Lichtquellen ab und berechnet die Lichtstärke in der bereits oben dargestellten Weise.
+So einfach auch die Grundsätze der Photometrie auf den ersten Blick erscheinen, so ist doch die praktische Ausführung derselben mit großen Schwierigkeiten verbunden, und die Lichtmeßkunde gehört zu den dankbaren Gebieten, auf welchen den strebsamen Forschern noch viele Lorbeerkränze winken.

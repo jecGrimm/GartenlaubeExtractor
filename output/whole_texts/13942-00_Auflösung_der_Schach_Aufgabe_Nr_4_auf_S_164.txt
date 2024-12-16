@@ -1,0 +1,34 @@
+[240] 
+
+
+Auflösung der Schach-Aufgabe Nr. 4 auf S. 164:
+
+
+Weiß:
+
+ 
+
+Schwarz:
+
+
+1. D d 8 – e 7:
+
+
+
+a 7 – b 6:
+
+
+2. D e 5 – b 4 :
+
+
+
+Zugzwang.
+
+
+3. D setzt matt.
+
+
+
+
+
+ Varianten: a) Secondespiel. 1. . . .S : S, 2. D : S †, K : D (K g 4), 3. T b 5: (D f 4) matt. – b) 1. . . .S : T, 2. D : T etc. – c) 1.  . . a 6, 2. D d 4 (Drohvariante) etc. — Der Bauernraub im Einleitungszuge, eine kleine Konstruktionsschwäche, ist leider nicht zu vermeiden; die fein pointirte Zugzwangsidee, welche im zweiten Zuge auftritt, mag als Rechtfertigung dienen.

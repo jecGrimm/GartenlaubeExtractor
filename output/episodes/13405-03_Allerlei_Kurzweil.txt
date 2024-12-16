@@ -1,0 +1,39 @@
+[52] Schach.Von Karl Höppner in Königstein (Sachsen).SCHWARZWEISSWeiß zieht an und setzt mit dem dritten Zuge matt.
+
+
+Auflösung der Schach-Aufgabe auf Seite 20.
+
+
+     Weiß:
+
+ Schwarz:
+
+
+1. D h 3 – g 2
+
+ d 5 – d 4 !
+
+
+2. S c 3 – a 4 ! A)
+
+ K d 3 – c 4
+
+
+3. D g 2 – d 5 †
+
+ beliebig.
+
+
+4. S resp. D setzt matt.
+
+
+
+A) Weiß droht mit 3. T c 2 nebst 4. D c 2 matt. – Secondespiel. 1. … K : S (K c 4), 2. D d 5 :, K b 4 :, 3. T e 3, Zugzwang, 4. B resp. D setzt matt. Falls 2. … a 5 – b 4 : so 3. T d 2 etc. Oder 2. … beliebig anders, 3. D e 4 nebst 4. T c 2 matt. –
+Auf sonstige Züge folgt 2. D d 5 : † etc. oder auch 2. S d 5 : nebst 3. K b 6 : ! etc. – Der Versuch 1. D h 7 † scheitert nur an K c 4 ! Gegen 1. D h 5 oder 1. D h 1 schützt nur d 5 – d 4 ! Ohne schw. B b 7 wäre das beabsichtigte Hauptspiel (1. D g 2, d 4,) mit 2. S b 1 ! partiell zu umgehen. Die Aufstellung des Problems ist sehr gewagt und zeugt von des Verfassers bedeutender Technik.
+
+
+Schach-Briefkasten.
+„Gartenlaube“-Leser in Berlin. Da Ihnen weder die Benennung der Schachfiguren noch die Bezeichnung der Schachbrettfelder geläufig ist, so möchten Sie sich doch wohl zunächst ein Lehrbuch und zwar am besten „Das Lehrbuch des Schachspiels von Jean Dufresne“ kaufen. Dasselbe ist im Verlage von Ph. Reclam jun. in Leipzig erschienen und kostet gebunden 1 Mark 50 Pf.
+Sofie Schlett in Unter-Waltersdorf. Nr. I. ist durch 1. D e 1 schon in 2 Zügen lösbar, außerdem vielfach nebenlösig: 1. T b 3 (b 5, b 7, b 8), 1. D c 1 (f 3, h 3) etc. Nr. II lösten wir mit 1. S d 3 † und ließen es dabei bewenden. Probleme, denen keine Lösungen beigefügt sind, können wir für die Folge keiner Durchsicht unterziehen.
+
+

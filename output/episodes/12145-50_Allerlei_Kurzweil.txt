@@ -1,0 +1,19 @@
+[716] Allerlei Kurzweil.
+
+Rössel-Aufgabe.
+Beispiel mit 8 Springern: SCHWARZWEISS
+Eine Anzahl Springer (Rössel) ist derartig auf dem Schachbrete aufzustellen, daß: 
+
+a) kein Springer einen anderen schlagen kann, und daß auch:
+b) kein Springer ein Feld bestreicht, welches bereits von einem anderen Rössel beherrscht wird,
+c) Nach Aufstellung der Springer darf jedoch kein Feld mehr frei sein, welches man noch – ohne gegen die sub a und b gedachten Regeln zu verstoßen – besetzen könnte.
+Wie stellt man unter diesen Bedingungen: 5 oder 6, 7, 8, 9, 10, 11, 12 Springer?
+Freunden analytischer Untersuchungen dürfte mit dieser Aufgabe ein angenehmer Stoff geboten sein. Die Anzahl der möglichen Stellungen dürfte eine größere sein, als das bekannte Problem der Aufstellung von 8 Damen ergiebt, von welchem der russische Schachmeister v. Jaenisch 92 Positionen nachgewiesen hat. – Selbstredend zählen analoge Stellungen (durch Versetzungen oder durch Drehung des Bretes entstanden) nicht mit.
+
+
+Der magische Schlüssel.Welches Reich erschließt dieser Schlüssel?
+
+Auflösung des Uhr-Arithmogryphs in Nr. 42: Setzt man statt der Zahlen der Uhr die Buchstaben a, b, c, d, e, f etc. bis m und verbindet die drei, auf welchen die Zeiger stehen (bei dem größten Zeiger beginnend), zu einem Worte, so heißt dieses: „Ade!“
+
+
+Heft 45[Bearbeiten]

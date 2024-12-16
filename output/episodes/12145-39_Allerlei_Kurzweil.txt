@@ -1,0 +1,36 @@
+[488] Auflösung der Schach-Aufgabe Nr. 6 in Nr. 27:
+
+
+
+Weiß:
+Schwarz:
+
+
+1. S b 2 – c 4
+b 7 : T c 6
+
+
+2. D b 1 – d 1 †
+beliebig
+
+
+3. D d 1 – d 4 resp. d 6 †
+beliebig
+
+
+4. S setzt matt.
+
+
+
+Varianten. a) 1. ..., K : T; 2. D e 4 : †, K d 7; 3. D b 7 : † etc. oder: 2. ..., K b 5; 3) S d 6 † etc. – 
+Varianten b) 1. ..., S f 2; 2. T b 6!, S d 3; 3. D b 3 : etc. oder: 2. ..., e 3; 3. S e 3 : † etc. – 
+Varianten c) 1. ..., b 5; 2. T d 6 †, K : S; 3. T d 4 † etc. – 
+Varianten d) 1. ..., a 4; 2. T d 6 †, K : S; 3. D c 1 † etc. 0 Die allgemeine Drohung ist: 2. T b 6 etc. 
+
+Auflösung des magischen Tableaus: „Der Hund und die Wespen“ in Nr. 27.  Man numerirt die Kreise und zwar von außen nach innen mit 1–5. Die Nummer des Kreises, in welcher die Wespe mit ihrem Buchstaben sich befindet, zeigt dann die Reihenfolge an, in der die Buchstaben zum Worte verbunden werden müssen. Der so gebildete Satz heißt: „Viel Feind, viel Ehr.“ 
+
+
+Auflösung des Rösselsprungs in Nr. 27:„Was ich vom Kunstwerk will? Daß es schön und sich selber genug sei.  In dem Einen Gesetz wohnen die übrigen all.“  Emanuel Geibel. Geboren in Lübeck den 18. October 1815,   gestorben in Lübeck den 6. April 1884.
+
+
+Heft 31[Bearbeiten]

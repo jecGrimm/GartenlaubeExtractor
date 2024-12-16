@@ -1,0 +1,28 @@
+[304] Auflösung der Schachaufgabe Nr. 2 in Nr. 17:
+
+
+
+     Weiß
+ 
+     Schwarz
+
+
+1. S g 7 – f 5
+ 
+K e 4 – f 5
+
+
+2. D e 8 – d 7
+ 
+     beliebig
+
+
+3. D oder S matt.
+ 
+
+
+
+Varianten: a) 1. ..., f 7 : S e 6;  2. L d 1 – c 2 †,  K e 4 – f 3 oder d 5; 3. D e 8 – h 5  resp. b 5 matt; b) 1. ...,  K e 4 – d 5  oder d 3; 2. D e 8 – b 5 † etc.
+
+
+Heft 20[Bearbeiten]

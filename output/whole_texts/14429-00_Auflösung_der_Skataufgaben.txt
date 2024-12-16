@@ -1,0 +1,23 @@
+[100] Auflösung der Skat-Aufgabe Nr. 1 auf S. 68:
+Da der Spieler nach Inhalt der Aufgabe schon in den ersten 4 Stichen sein Spiel mit Schneider verliert, so ist aus diesen 4 Stichen auch leicht zu ersehen, daß der Spieler in Mittelhand sitzt und Eichel-Solo spielt. Es folgt aber auch weiter daraus, daß Vorhand kein r, die Hinterhand aber kein s und die g7 blank hat, und außerdem 6 r und drei Trümpfe, also außer eD und sW noch ein kleines e besitzen muß. Hieraus ergiebt sich folgende Kartenvertheilung: Skat eK, g8.
+
+Spieler in Mittelhand: eW, gW, rW, eO, e8, e7, gD, rD, sD, s7.
+Vorhand: eZ, gZ, gK, gO, g9, sZ, sK, sO, s9, s8.
+Hinterhand: sW, eD, e9, rZ, rK, rO, r9, r8, r7, g7.
+Es war übrigens sehr richtig, daß Hinterhand im 2. Stich energisch mit rZ vorgeht und im 3. Stich, nachdem das Spiel bereits gewonnen war, nicht etwa eine Mittelkarte wimmelt, sondern durch das Werfen der g7 dem Genossen einen bedeutsamen Wink giebt, wodurch dann die Niederlage des Spielers mit Schneider herbeigeführt wird.
+
+
+
+[340] Auflösung der Skat-Aufgabe Nr. 2 auf S. 308:
+Die Hinterhand fängt den Ramsch mit zwei Jungfern, wenn die übrigen Karten so vertheilt sind:
+
+Vorhand: sW, eZ, e7, gZ, gO, g8, sD, sZ, s8, s7;
+Mittelhand: eD, eK, eO, e8, gD, g7, rD, rK, r9, rz,
+Skat: gW, sK, denn Vorhand wird am besten sW anziehen und Mittelhand gD darauf abwerfen. Hinterhand kann dann ausspielen, was sie will, die Mitspieler werden immer durch niedrigere Karten ausweichen können. Vorhand hat 46 Augen und Mittelhand 44 Augen in der Hand.
+
+[648] Auflösung der Skataufgabe auf S. 532:
+Es ist zu unterscheiden, ob der Spieler in Vorhand, oder ob er in Mittel- oder Hinterhand sitzt. In Vorhand würde er unzweifelhaft sW wählen und Eichelsolo Schwarz ansagen (9 × 12 = 108). Sitzt aber der Spieler in Mittel- oder Hinterhand, so ist zwar Eichelsolo Schneider angesagt mit sW unverlierbar, es kostet aber nur 7 × 12 = 84, und deshalb wird sich der Spieler nicht sW, sondern eD wählen, weil er dann Grand-Schneider ansagen kann, was 6 × 16 = 96 kostet und unverlierbar ist, da die Gegner, wie die Berechnung ergiebt, höchstens 30 Augen bekommen können. Hätte Spieler den sW gewählt und Grand angesagt, so könnte er sogar in Vorhand das Spiel verlieren, da z. B. bei folgender Kartenvertheilung:
+
+I. Gegner: eD, eK, eO, gO, g9, g8, g7, rK, r7 s7,
+II. Gegner: rD, rZ, rO, r9, sD, sZ, sK, sO, s9, s8
+die Gegner 60 Augen hereinbekommen.

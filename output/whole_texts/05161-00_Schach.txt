@@ -1,0 +1,216 @@
+[112]
+
+
+
+Schach.Auflösung der Aufgabe Nr. 1.
+
+
+  Weiß.
+      Schwarz.
+
+
+1)0 D A 4 – C 2
+0 L E 4 – H 1: oder A
+
+
+2)0 D C 2 – G 6
+0    G 5 – F 4:
+
+
+3)0    E 3 – E 4
+0 K E 5 – D 4: (am besten)
+
+
+4)0 D G 6 – D 6: 
+
+
+
++
+
+
+{\displaystyle +}
+
+     
+0 K beliebig.
+
+
+5)0 D D 6 – D 5 
+
+
+
+‡
+
+
+{\displaystyle \ddagger }
+
+
+
+
+
+A.
+
+
+1)0 .......
+0 D A 7 – B 7
+
+
+2)0 T D 4 – E 4: 
+
+
+
++
+
+
+{\displaystyle +}
+
+
+0 K E 5 – F 5
+
+
+3)0 T E 4 – E 6 
+
+
+
++
+
+
+{\displaystyle +}
+
+
+0 K F 5 – G 4
+
+
+4)0 D C 2 – F 5 
+
+
+
++
+
+
+{\displaystyle +}
+
+     
+0 Beliebig.
+
+
+5)0 D oder S H 6 
+
+
+
+‡
+
+
+{\displaystyle \ddagger }
+
+
+
+
+
+B.
+
+
+1)0 .......
+0 K E 5 – F 5
+
+
+2)0 L C 2 – E 4: 
+
+
+
++
+
+
+{\displaystyle +}
+
+
+0 K F 5 – G 4 oder C
+
+
+3)0 D C 2 – D 1 
+
+
+
++
+
+
+{\displaystyle +}
+
+
+0 K G 4 – H 4
+
+
+4)0 D D 1 – H 5 
+
+
+
++
+
+
+{\displaystyle +}
+
+     
+0 Beliebig.
+
+
+5)0 D H 6 - H 3 
+
+
+
+‡
+
+
+{\displaystyle \ddagger }
+
+
+
+
+
+C.
+
+
+2)0 .......
+0 T E 7 – E 4
+
+
+3)0 D C 2 – E 4: 
+
+
+
++
+
+
+{\displaystyle +}
+
+
+0 K F 5 – G 4 oder C
+
+
+4)0 D E 4 – E 6  
+
+
+
++
+
+
+{\displaystyle +}
+
+
+0 Beliebig.
+
+
+5)0 D 
+
+
+
+‡
+
+
+{\displaystyle \ddagger }
+
+
+
+
+
+
+Correspondenz.
+O. S. in B. 0 Falsch gel. Nr. 1 wegen 2) D A 7 – E 7:.

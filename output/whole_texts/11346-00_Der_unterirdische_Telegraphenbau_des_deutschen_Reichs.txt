@@ -1,0 +1,262 @@
+[46] Der unterirdische Telegraphenbau des deutschen Reichs.
+Am 20. November 1833 schrieb Karl Fr. Gauß aus Göttingen seinem Freunde Olbers über die von ihm und Weber zwischen der Sternwarte und dem physikalischen Cabinet hergestellte galvanische Kette, wobei er die Ueberzeugung aussprach, daß unter Anwendung von hinlänglich starken Drähten eine Verständigung zwischen Göttingen und Hannover oder zwischen Hannover und Bremen zu erzielen sei.[1] Seit diesem von der Geburt der elektromagnetischen Telegraphie Zeugniß ablegenden Briefe ist noch kein halbes Jahrhundert verstrichen, und schon sehen wir um den Erdball ein Netz telegraphischer Leitungsdrähte sich ziehen, das die kühnsten Hoffnungen damaliger Zeit bei Weitem übertrifft.
+Ueberall hin sind die Drähte gezogen, über der Erde und unter derselben, und selbst durch die Tiefen der Weltmeere fanden sie ihren Weg. Die Fernen sind überwunden; Welttheil ist an Welttheil gekettet, und in ununterbrochenem Fluge trägt der elektrische Strom in Minuten Nachrichten in eine Ferne, für deren Ueberwindung sonst Monate und Jahre nöthig wären.
+Anfangs folgte man dem Beispiele von Weber und Gauß, die zur Telegraphie nothwendigen Leitungen wurden oberirdisch gelegt. Bald machte sich aber das Bedürfniß geltend, den Continent mit dem handelswichtigen England telegraphisch zu verbinden, und mit ihm erwuchs der Wissenschaft eine neue Aufgabe, Telegraphenleitungen im Wasser anzulegen und hierdurch getrennte Continente mit dem europäischen Communicationsnetz zu verbinden. Ihre Lösung beschäftigte seit 1840 die Köpfe der Gelehrten, und die Frage schien ihre Erledigung gefunden zu haben, als man im Jahre 1847 in der Guttapercha eine im Wasser dauernde Substanz entdeckte, mit deren Hülfe man isolirte Drähte für die Zwecke der Telegraphie herzustellen vermochte. Aus kleinen Anfängen und Versuchen, welche man schon im Jahre 1848 mit der Anlage von Flußkabeln machte, entstanden schließlich die großen transatlantischen Linien, welche die alte und neue Welt mit einander verbinden und deren Herstellung eine Hauptepoche der modernen Culturgeschichte bedeutet.
+Diesen wichtigen Culturarbeiten schließt sich unmittelbar das jüngste Vorgehen der deutschen Reichspost- und Telegraphenverwaltung auf dem Gebiete der Telegraphie an. Ihr gebührt das Verdienst, den zweiten bahnbrechenden Schritt gethan und der unterseeischen Telegraphie die unterirdische hinzugefügt zu haben. Wie so vielen anderen Ruhm, den Deutschlands Post- und Telegraphenverwaltung durch die weit über seine Grenzen hinaus wirkenden gewaltigen Schöpfungen auf postalischem Gebiete sich erworben, verdankt sie auch diesen Ruhm ihrem genialen Leiter, dem jetzigen Staatssecretär Dr. Stephan.
+Der eine Theil dieses Werkes, wie ein zweites die Erde nicht aufzuweisen hat, ist zum Abschluß gebracht worden, und wie früher alle Augen auf die Ausführung der unterseeischen Kabellegungen gerichtet waren, so verfolgt auch jetzt das In- und Ausland mit hoher Spannung das dem unterirdischen Telegraphenwesen zugewandte Vorgehen der deutschen Reichspostverwaltung, und die kurze, aber ruhmreiche Geschichte dieses Vorgehens wollen wir unseren Lesern im Folgenden mitzutheilen versuchen.
+Die zahlreichen und erheblichen Störungen, denen die oberirdischen Leitungen ihrer Natur nach ausgesetzt sind, hatten schon früh die Nothwendigkeit der unterirdischen Anlegung der Telegraphenleitungen erkennen lassen, und schon 1837 hatte Morse vorgeschlagen neben den oberirdischen auch unterirdische, in Röhren eingeschlossene Leitungen zu legen. Bereits 1842 wurden vom Professor Jacobi in Petersburg Leitungen in Glasröhren gelegt. In den Jahren 1848 und 1849 wurde, nachdem die Guttapercha als ein zur Isolirung der Leitungsdrähte geeigneter Körper erkannt worden, in Preußen der erste Versuch gemacht, größere Linien unterirdisch herzustellen. Allein es traten bald Störungen auf und man mußte das unterirdische Leitungssystem verlassen. Die Einflüsse des Erdbodens auf die Guttapercha waren nicht bekannt gewesen, und die scharfen Zähne der Nagethiere bei der Legung nicht berücksichtigt worden. Ohne jeden mechanischen Schutz vertraute man die umhüllten Drähte der Erde an, und da die zur Isolation verwendete Guttapercha mit Schwefel gemischt, also vulcanisirt war, so wirkte das bald auftretende Schwefelkupfer vernichtend auf die Leitung. So wurde die 1849 in Angriff genommene Linie von Berlin nach Frankfurt am Main nur bis Eisenach gebaut.
+Die in Frankreich angestellten ersten Versuche ergaben dasselbe Resultat. Weder die mit Kautschuk noch die mit Guttapercha überzogenen, der Erde anvertrauten Kupferdrähte boten den äußeren Erdeinflüssen Widerstand, und selbst der im Jahre 1852 gemachte Versuch, die isolirten Drähte mit Bleiröhren zu umgeben, täuschte die gehegten Erwartungen. Seit etwa zwölf Jahren werden Leiter von Kupfer, aus sieben Litzen bestehend, die mit einer Lage Chatterton-Compound, mit einer Lage Guttapercha, wieder mit Compound und dann wieder mit einer zweiten Guttaperchaschicht umgeben und mit getheerten Hanffäden umwickelt sind, verwandt. Diese Adern werden zu einem Kabel verseilt und erhalten, wo sie in den ausgedehnten Abflußröhren der Stadt Paris aufgehängt werden, eine Schutzhülle von Bleiröhren, wo sie aber der Erde anvertraut werden müssen, einen Panzer von gußeisernen Röhren.
+Auch in England wurden Versuche angestellt, die größtentheils den obigen gleichkamen, in den letzten Jahren aber von befriedigendem Erfolg waren. Man hatte dort den von Dr. W. Siemens in einer zu Anfang der fünfziger Jahre erschienenen Schrift dargelegten Gründen des Mißglückens mehr Beachtung geschenkt und auf diese Weise Erfolg geerntet.
+Immerhin aber blieb die Anwendung von Kabeln noch lange auf Leitungen in größeren Städten, Eisenbahntunnels etc. beschränkt.
+Vor einigen Jahren ließ sich mit Sicherheit annehmen, daß die Wissenschäft und Technik jetzt soweit vorgeschritten seien, daß man mit Zuversicht die Herstellung brauchbarer größerer, unterirdischer Leitungen in Angriff nehmen könne. Es waren die Hauptursachen des ersten Mißglückens als überwunden zu betrachten. Die Eigenschaften der Guttapercha waren erforscht; die Vulcanisirung hatte man verworfen und die richtigen Mischverhältnisse, sowie die Entwässerung der Guttapercha herausgefunden. Das Eintreten der Bildung von Schwefelkupfer, welches die Isolirung zerstört, war nicht mehr zu befürchten.
+So war die Wissenschaft Herrin dieser früher widerstrebenden Elemente geworden, und in Verbindung mit der vervollkommneten Technik, welche die vorzüglichsten Maschinen erfunden hätte, um das isolirende Material concentrisch und nach allen Richtungen hin gleichmäßig um den Leiter herumzupressen, ohne den Draht zu beschädigen, durfte zu einem großen Versuch geschritten werden. Ferner hatte man durch die außerordentlich ausgedehnte Anwendung, welche die Kabeltelegraphie inzwischen gefunden hatte,
+[47] sowohl für die technische Herstellung und Verlegung der Kabel,
+wie für das Telegraphiren auf denselben Erfahrungen gesammelt.
+Die hauptsächlichsten Hindernisse mußten somit als überwunden
+betrachtet werden, und so reifte bei dem Leiter der Telegraphenverwaltung 
+des deutschen Reiches, Dr. Stephan, der Plan, auf
+den großen Verkehrs- und Militärstraßen Deutschlands ein unterirdisches 
+Telegraphennetz anzulegen um die erheblichen, stets wiederkehrenden 
+Störungen zu beseitigen.
+Eine im Sommer 1875 vom Staatssecretär Dr. Stephan
+nach England und Frankreich entsandte Commission, bestehend aus
+den Geheimen Räthen des Generalpostamtes, Elsasser und Huche,
+sowie dem Commerzienrath Guilleaume, die von den dortigen Erfolgen 
+Kennntniß zu nehmen hatte, sprach sich in ihrem Berichte so
+günstig aus, daß dem Reichstage eine Vorlage behufs Genehmigung
+einer Anleihe zum Zwecke der Herstellung einer unterirdischen
+Leitung zugehen konnte.
+Nicht ohne vorherigen schweren Kampf wurden dem damaligen
+Generalpostdirector Dr. Stephan die zur Ausführung des gefaßten
+Planes erforderlichen Mittel vom Reichstage bewilligt, und im
+Frühjahr 1876 konnte mit der Ausführung der Versuchslinie Berlin-Halle 
+begonnen werden; schon am Juni wurde das Kabel in
+das Berliner Haupttelegraphenamtsgebäude eingeführt. Es war
+somit eine Linie von circa 170 Kilometer im Laufe eines Vierteljahres 
+betriebsfähig hergestellt worden.
+Da diese Versuchslinie, ausgeführt von der Firma Fellen und
+Guilleaume in Köln, ein glänzendes Ergebniß geliefert hatte, wurde
+sofort die weitere Ausführung des Gesammtplanes mit Nachdruck
+betrieben. Im Anschluß an die Berlin-Halle'sche Linie sollte zunächst 
+über Kassel und Frankfurt am Main die Linie bis Mainz
+weiter ausgebaut und Leipzig mit Halle verbunden werden, demnächst 
+aber mit Legung einer neuen Linie von Berlin über Hamburg 
+und Altona nach Kiel, nach der Elbmündung, Kielerhafen etc.
+begonnen werden. Die diesbezüglichen Vorlagen wurden vom
+Reichstage genehmigt. Am 1. März 1877 wurde nach Beendigung
+der erforderlichen Vorbereitungen das Werk begonnen, und schon
+am Juli konnten, dank der Umsicht und Energie der bauleitenden 
+und ausführenden Beamten, die Arbeiten durch die Versenkung 
+des Rheinkabels bei Mainz vollendet werden Eine unterirdische 
+Telegraphenlinie, sieben Leitungen umfassend, jede von mehr
+als achtzig geographischen Meilen Länge, war damit geschaffen
+worden: die erste von dieser Ausdehnung auf der Erde.
+Die bei diesem Bau gesammelten Erfahrungen wurden sofort
+für die Vorbereitungen weiterer Linien verwerthet, und so konnte
+unaufgehalten der Ausbau des in Aussicht genommenen unterirdischen 
+Telegraphennetzes von Jahr zu Jahr weitergeführt werden.
+der nunmehr für die westliche Hälfte unseres Vaterlandes zum
+vorläufigen Abschluß gebracht worden ist.
+So erstrecken sich denn die seit 1876 geförderten Anlagen
+der unterirdischen Linien auf nahezu 4000. Kilometer in den
+Richtungen. 1) von Berlin über Halle und Kassel nach Frankfurt
+am Main und Mainz, 2) von Halle nach Leipzig, 3) von Berlin
+nach Hamburg, 4) von Hamburg nach Kiel, 5) von Berlin nach
+Köln über Magdeburg, Braunschweig, Hannover, Minden, Münster,
+Wesel und Düsseldorf, 6) von Köln nach Elberfeld und Barmen,
+7) von Frankfurt am Main nach Straßburg im Elsaß über Darmstadt, 
+Mannheim, Karlsruhe, Rastatt und Kehl, 8) von Hamburg
+nach Cuxhaven, 9) von Hamburg über Bremen nach Emden mit
+Abzweigungen nach Bremerhafen und Wilhelmshafen 10) von Köln 
+nach Coblenz, Mainz-Coblenz und Coblenz-Trier-Metz, 11) von
+Metz nach Straßburg und 12) von Berlin nach Dresden.
+Die meisten dieser Linien zählen sieben, einige vier Leitungen,
+und es beträgt die Gesammtlänge der unterirdischen Leitungen
+circa 30,000 Kilometer, wovon auf die längste Linie, von Kiel
+nach Straßburg, allein 8500 Kilometer Leitung entfallen.
+Im vorigen Jahre ist der Bau der Linien Berlin-Frankfurt
+an der Oder-Breslau, Berlin-Müncheberg (Theilstrecke der künftigen
+Linie Berlin-Küstrin-Posen-Thorn) und Berlin-Stettin in Angriff
+genommen, wovon bereits die Linien Stettin-Colberg-Danzig-Königsberg und Müncheberg-Küstrin-Posen-Thorn vor Kurzem
+vollendet wurden, demnächst ist aber die Weiterführung der Linien
+von Königsberg bis zur preußisch-russischen Grenze bei Eydtkuhnen
+und von Breslau bis zur preußisch-ästerreichischen Grenze bei
+Oderberg in Aussicht genommen.
+Voraussichtlich wird in diesem Sommer der Hauptplan zur
+Schaffung des unterirdischen Telegraphennetzes verwirklicht und
+damit ein ruhmvolles Blatt in der Telegraphengeschichte des
+deutschen Reiches gefüllt sein.
+Bevor wir uns der Schilderung der Arbeiten bei Verlegung
+des Kabels zuwenden, mag hier noch eine Beschreibung des zur
+Verwendung gelangenden Kabels einen Platz finden.
+Die fünfundzwanzigjährigen Erfahrungen der Reichstelegraphenverwaltung 
+mit den bei sehr verschiedenartigen Bodenverhältnissen verlegten 
+Erdkabeln, welche als Zwischenglieder oberirdischer Telegraphenlinien 
+dienen, waren von Haus aus bestimmend dafür gewesen, daß
+man sich entschloß, die mit Guttapercha isolirten und mit einer
+Armatur von eisernen Schutzdrähten zu einem Kabel geformten
+Leitungsdrähte als das allein geeignete Material zu wählen.
+Eine technische Commission entschied sich in ihrem Gutachten
+für Herstellung des kupfernen Leiters, bestehend aus einer Litze
+von sieben Kupferdrähten von 0,6 Millimeter Durchmesser. Das
+Kabel sollte sieben solcher durch Guttapercha isolirter Leitungen
+umfassen, die Litzen eine doppelte Guttaperchahülle erhalten und
+mit zwei Chatterton-Compound derart umpreßt sein, daß die erste
+Lage Chatterton-Compound zwischen der Kupferlitze und der diese
+zunächst umgebenden Guttaperchaschicht, die zweite zwischen den
+beiden Guttaperchaschichten aufzubringen sei. Die Stärke der
+einzelnen isolirten Drähte war auf fünf Millimeter, die Stärke
+der Umspannung mit getheertem Hanf auf siebenzehn Millimeter
+bestimmt, während die Schutzhülle der Kabel aus sechszehn verzinkten 
+Eisendrähten von je vier Millimeter Durchmesser zu bestehen, 
+auf je fünfundzwanzig bis sechsundzwanzig Centimeter
+Kabellänge einen Umgang um das Kabel zu bilden und vollständig 
+dicht zu schließen hatte. Außerdem sollte das Kabel einen
+Ueberzug aus eingedicktem, creosotfreiem Steinkohlentheer erhalten
+und hiermit unmittelbar nach dem Verlegen umgeben werden. Die
+Länge der einzelnen Kabelstränge sollte 800 Meter betragen, wovon
+jedoch später abgegangen wurde, indem die Lieferung der Kabel
+in Längen von 1000 Metern sowohl von den Liferanten Felten
+und Guilleaume, wie von Siemens und Halske ausgeführt wurde.
+Waren obige Punkte für das Kabel der Versuchslinie in
+Berlin-Halle maßgebend gewesen, so wurden auch für die neuen
+Kabel im Wesentlichen diese Grundsätze beibehalten; nur in einigen
+unwesentlichen Punkten gestattete man sich Abweichungen. Außerdem 
+wurden die Siemens’schen Kabel schon vor der Verlegung
+mit einer Asphaltcomposition versehen, deren nähere Beschreibung
+die Leser im „Archiv für Post und Telegraphie pro 1877 und
+1878“ finden
+Die verwendeten Kabel sind theils in deutschen, teils in
+englischen Fabriken gefertigt worden. Während die Unternehmer
+Felten und Guilleaume die fertigen Kabeladern aus England beziehen 
+und demnächst auf denselben Taue in ihrem großartigen
+Etablissement zu Mülheim am Rhein fertigen, fabriciren die Unternehmer 
+Siemens und Halske, nachdem sie anfangs die fertigen
+Kabel von dem Hause Siemens Brothers in Woolwich bezogen
+haben, dieselben in ihren eigenen Fabriken in Berlin.
+Wenden wir uns nunmehr der Kabellegung selbst zu! Zuerst
+sei erwähnt, daß die Frage, ob das zu erbauende unterirdische
+Telegraphennetz im allgemeinen den Eisenbahnen folgen solle oder
+im Zuge der großen Landstraßen herzustellen sei, zu Gunsten der
+letzteren Meinung entschieden wurde. Fast allenthalben wurde das
+Kabel in den Sommerweg dieser Straßen, in geringer Entfernung
+von der Steinbahn, verlegt. Auf den mit Sommerwegen nicht
+versehenen Straßenstrecken liegt das Kabel im Fußgänger-Bankett,
+in den Ortschaften mit gepflasterten Straßen im Straßendamm, etwa
+dreiviertel Meter vom Rinnstein entfernt.
+Der Vertrag mit den Unternehmern bedingte die Verlegung des
+Kabels in einer Tiefe von einem Meter unter der Erdoberfläche. Es
+ist also die Ausschachtung eines Grabens von dieser Tiefe und nach
+Einlegung des Kabels die Wiederfüllung desselben erforderlich,
+woraus sich die Notwendigkeit der Bildung zweier größerer Erdarbeiter-Colonnen 
+ergiebt, die durch eine kleinere, die Auslegung
+des Kabels etc. bewirkende Arbeiter-Abtheilung getrennt sind.
+Einige Vorarbeiter an der Spitze der vorderen Colonne bewirken 
+die nach vorheriger Anweisung erfolgende Absteckung des
+Kabelgrabens durch Einschneiden der beiden parallelen Kantenlinien
+desselben in die Oberfläche der Straße. In vorgeschriebener Tiefe
+heben dann die unmittelbar folgenden Arbeiter den Graben, bei
+thunlichst geringer Breite, aus.   Die Arbeit geht rasch vorwärts,
+[48] und es wird uns versichert, daß täglich bei gewöhnlicher Bodenbeschaffenheit 
+fünf bis sechs Kilometer Graben ausgeschossen werden.
+In einiger Entfernung hinter dieser Colonne vollzieht sich die 
+Versenkung des Kabels, indem dasselbe von dem tief zur Erde, 
+in einer gekröpften hintern Achse hangenden Verlegungswagen, 
+mittelst einer einfachen Vorrichtung während des Vorrückens des 
+Wagens abgewickelt und je nach der örtlichen Verschiedenheit entweder 
+zunächst neben dem Graben ausgelegt oder sogleich auf die 
+Sohle desselben versenkt wird. Um der beim Abrollen des Kabels 
+eintretenden ziemlich bedeutenden Spannung entgegenzuwirken, müssen 
+die Wagen sich in schlangenförmiger Bahn bewegen. Das abgerollte 
+asphaltirte Kabel wird zum Graben hinübergetragen und 
+ohne Spannung versenkt. Unmittelbar darauf erhält es zum Schutz 
+gegen Sonne etc. eine Decke von circa zehn Centimeter steinfreier 
+Erde oder Sand. Die Zuschüttung des Grabens und die Wiederherstellung 
+der Straße werden von der zweiten Erdarbeiter-Colonne bewirkt.
+Dort, wo Brückenmauerwerk durchschnitten ist, kann die Zufüllung 
+des Grabens selbstredend erst nach geschehener Wiederaufmauerung 
+des Bauwerkes erfolgen. Die hierzu erforderlichen 
+sachverständigen Arbeiter und die Materialien, als Kalk, Cement etc., 
+werden nach Maßgabe des Bedarfs mitgeführt.
+Eine zeitraubende, schwere Arbeit giebt es dort, wo der 
+Straßenkörper durch das Mauerwerk von Brücken, Wasserdurchlässen 
+und ähnlichen regelmäßig wiederkehrenden Baulichkeiten unterbrochen 
+wird. Hier muß das Kabel im oder unter diese Mauer 
+verlegt werden. Erhebliche Hindernisse bieten die zu überschreitenden 
+großen Wasserläufe. Wo Brücken vorhanden und diese es gestatten, 
+schließt sich das Kabel dem Mauerwerk an, ist dieses aber nicht 
+statthaft, so werden Flußkabel von einer der Stärke des Stromes, 
+seinem Eisgange und der auf ihm sich bewegenden Schifffahrt entsprechenden 
+Beschaffenheit verwandt. Mittelst Prahmen, Fähren oder 
+Dampfschiffen wird die Verlegung bewirkt.
+Von größter Wichtigkeit bei der Anlage unterirdischer Linien 
+ist die gute Verlöthung und Verbindung der einzelnen Kabeltaue 
+beziehentlich Kabeladern mit einander. Löthstellen, welche nicht auf 
+das Sorgfältigste hergestellt worden sind, verlieren mit der Zeit ihre 
+Isolationsfähigkeit und sind eine Quelle dauernder Uebelstände für 
+den Betrieb der Linie. Auch hier sind die Unternehmer den Aufgaben 
+gerecht geworden, und einige vortrefflich, geschulte Leute, bei 
+Felten und Guilleaume aus der englischen Guttapercha-Compagnie 
+führen diese schwierige Arbeit mit größter, gleichmäßiger Sorgfalt aus.
+Nach Fertigstellung jeder Löthstelle wird dieselbe auf Isolationsfähigkeit 
+untersucht und sowohl hierzu, wie zur Untersuchung 
+der Leitung auf Arbeitsfähigkeit wird ein Untersuchungswagen mitgeführt. 
+Ein Feldtelegraphenapparatsystem ermöglicht die unausgesetzte 
+telegraphische Verständigung mit dem nächsten Telegraphenamt, 
+dessen dauernde Mitwirkung bei den elektrischen Messungen 
+nicht entbehrt werden kann.
+Sind die Messungen vorgenommen, ist die Isolationsfähigkeit 
+geprüft und auch die bis dahin zum Zwecke der Ausführung 
+dieser Untersuchungen freigebliebene siebente Ader der Isolirschicht 
+umgeben, so wird das Ganze mit einer Muffe, der sogenannten 
+Löthmuffe, umhüllt, und damit ist die Herstellung der Löthstelle 
+beendet.
+Der Hauptgrund, weshalb man den oberirdischen Telegraphenbau 
+verlassen und zu dem unterirdischen übergehen zu müssen 
+glaubte, lag bekanntlich, in den vielfachen Störungen, die bei dem 
+oberirdischen System geradezu unvermeidlich waren. Drahtbrüche, 
+u. dergl., wodurch oft tagelang der Betrieb der Leitungen gestört 
+wird, waren unter der Erde nicht zu befürchten, und die Gefahr, 
+daß die Hauptcentren des Verkehrs, Städte wie Berlin, Wien 
+und Paris, mehrere Tage hinter einander vollständig von jedem 
+telegraphischen Verkehr ausgeschlossen waren, wurde beseitigt. Die 
+einzigen Bedenken gegen den Ersatz der oberirdischen Telegraphen 
+durch unterirdische bestanden darin, daß man befürchten mußte, 
+die Auffindung der schadhaften Stellen der unterirdischen Leitungen 
+würde viel längere Zeit in Anspruch nehmen, als dies bei den 
+oberirdischen der Fall ist. Doch seit man Meßinstrumente erfunden, 
+durch deren Anwendung man mit absoluter Bestimmtheit den Ort 
+finden kann, wo das Telegraphenkabel eine etwaige schadhafte Stelle 
+hat, schwanden auch diese Bedenken, und mit Ruhe konnte der Bau 
+in Angriff genommen werden. Einen sprechenden Beweis für die 
+Sicherheit der Meßinstrumente liefert ein in den ersten Tagen der 
+Inbetriebsetzung des Berlin-Kölner Kabels vorgekommener Störungsfall, 
+wo plötzlich der elektrische Strom den Dienst versagte. Man 
+ermittelte durch die zur Stelle befindlichen Meßinstrumente den schadhaften 
+Punkt, und auf telegraphische Anweisung, diesen Ort zu 
+untersuchen, wurde festgestellt, daß an dieser Stelle Kirmeßbuden 
+errichtet waren und zur Befestigung einer derselben ein eiserner Pfahl 
+in die Erde getrieben war, – der das Kabel so unglücklich traf, daß 
+der Strom unterbrochen werden mußte. Innerhalb weniger Stunden 
+hatte man also auf bedeutende Entfernungen die schadhafte Stelle 
+des Kabels festgestellt und den Schaden selbst gehoben. Die Erfahrungen, 
+die seitdem gesammelt worden sind, bestätigen die Zuverlässigkeit 
+des unterirdischen Telegraphenkabels.
+Wie schon gesagt, ist im verflossenen Jahre für den Westen 
+unseres Vaterlandes das Werk zum Abschluß gebracht worden, und 
+es bedarf wohl keines Nachweises über die große Bedeutung desselben 
+sowohl für die Interessen des Staates, wie für die der Völker. 
+Wir haben Störungen im Telegraphenbetriebe, wie sie noch bisher 
+sich jeden Winter wiederholten, nicht mehr zu befürchten. Die Nachrichten 
+werden keinen Augenblick mehr aufgehalten; unsichtbar, doch 
+rastlos, wirkend, durchfliegt der elektrische Funke den der Erde anvertrauten 
+Draht, hierhin frohe Nachrichten, dorthin Trübsal bringend, 
+doch zum Heil des Volkes und Vaterlandes nach jeder Richtung 
+hin seine Schuldigkeit verrichtend.
+
+W. Lülling.
+
+
+
+
+1. ↑ Veröffentlicht von Professor E. Schering in der Festrede zur Säcularfeier von Gauß in der königlichen Gesellschaft der Wissenschaft zu Göttingen.

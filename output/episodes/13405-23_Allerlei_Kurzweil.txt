@@ -1,0 +1,29 @@
+[416] Allerlei Kurzweil.
+Skat-Aufgabe Nr. 8.
+Von K. B.
+Die Mittelhand gewinnt Grand auf folgende Karte:
+
+ (p. B.) (car. B.) (tr. As) (p. As) (p. 9.) (c. As) (car. As) (car. 9.) (car. 8.) (car. 7.)
+mit 94 Augen, obwohl nur zwei Sieben im Skat liegen und die fehlenden Wenzel in einer Hand stehen. Wie sitzen und fallen die Karten?
+
+Auflösung der Skat-Aufgabe Nr. 7 auf S. 384.
+Vorhand hatte: rW, gD, g8, eZ, eO, r9, r7, s9, s7.
+Hinterhand hatte: sW, gK, g7, e7, rZ, rK, rO, sD, sZ, sK.
+Nach den in der Aufgabe angegebenen 3 Stichen:
+
+1) eO, eD, e7. (+14). 2) gW, g7, g8 (+2). 3) eW, gK, ?? gD (+17)
+nimmt das Spiel folgenden Verlauf:
+
+4) g9, sW, rW (−4).
+5) eZ, e8, sD (−21).
+6) eK, e9, sZ (−14)
+7) r9, r8, rZ (−10),
+und die übrigen Stiche bekommt der Spieler. Die Hinterhand hätte aber im 3. Stich anstatt gK den sW, auf welchen sie ohnehin keinen Stich machen konnte, falls der Spieler den rW hatte, zugeben sollen, wonach Vorhand durch Werfen des rW das gD retten konnte. Die Gegner hätten dann 11 Augen mehr, das heißt 60 statt 49 hereinbekommen und daher gewonnen.
+
+Charade.
+
+Mit seiner schweigenden Ersten und stets geschwätzigen Zweiten
+Ist dir das Ganze bekannt aus den Märchen geschwundener Zeiten.
+
+
+Heft 26[Bearbeiten]

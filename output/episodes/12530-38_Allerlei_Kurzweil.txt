@@ -1,0 +1,10 @@
+[596] Schach.Problem Nr. 4.0 Von R. Weinheimer in Wien.SCHWARZ WEISS Weiß zieht an und setzt mit dem dritten Zuge matt.
+
+Zum Kopfzerbrechen.
+Zwölf Geldstücke liegen in einer Reihe neben einander. Man soll ihre Lage so verändern, daß vier Gruppen gebildet werden, von denen jede aus drei auf einander liegenden Geldstücken besteht. Es dürfen jedoch nur acht Stücke von ihren Plätzen entfernt werden und zwar nur in der Weise, daß das einzelne Stück berechtigt ist, nach rechts oder links über drei hinweg auf ein viertes zu springen.
+
+
+Auflösung des magischen Tableaus „Die Unzertrennlichen“ in Nr. 35: Um die Buchstaben des Ringes zu Worten verbinden und lesen zu können, beginnt man bei dem Papagei links mit dem Buchstaben P und liest, immer dabei einen Buchstaben überspringend, alle Buchstaben des Kreises nach rechts herum bis zum Papagei rechts. Jetzt beginnt man bei diesem mit dem Buchstaben P und liest wie früher von rechts nach links herum, ebenfalls immer einen Buchstaben dabei überspringend. Die Lösung heißt: Papageno, Papagena. S. Atanas. 
+
+
+Heft 38[Bearbeiten]

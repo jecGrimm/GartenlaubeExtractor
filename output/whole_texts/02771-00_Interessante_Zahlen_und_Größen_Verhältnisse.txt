@@ -1,0 +1,230 @@
+[323] Interessante Zahlen- und Größen-Verhältnisse.
+Die Zusammensetzungen des Alphabets. – Was und wie viel man mit 25 Buchstaben füllen kann. – Die menschlichen Laute. – Die Tonverbindungen. 
+– Scat- und Whistspiel.
+
+Interessantes aus der Mathematik? werden die meisten Leser ausrufen 
+und ungläubig den Artikel bei Seite legen oder mißtrauisch einen
+zaghaften Blick hineinwerfen. Interessantes aus der trockensten und,
+wie Viele glauben, schwierigsten Wissenschaft, – das gehört zu den
+unmöglichen Dingen. Und doch sind viele Partien der Mathematik
+besonders geeignet, unser Interesse zu wecken, da sie uns eher wie
+jede andere Wissenschaft an sicherer Hand auf die Grenzen des vernünftigen, 
+menschlichen Denkens führt und von hier aus eine Rundschau 
+über ferne unbekannte Gebiete gestattet, die, in Nebeldunst gehüllt, 
+sich bis in’s Unendliche erstrecken. Denn das Unendliche und
+sein Gegensatz, das Nichts, beide für den Menschen unbegreifbar,
+in denen jede Speculation, jedes Denken sich verliert, und die doch
+eben wegen ihrer Unnahbarkeit immer von Neuem uns reizen, ihrem
+Wesen nachzugrübeln; diese läßt uns die Mathematik wenigstens
+ahnen, wenn auch nicht verstehen. Die Zahlenreihen, die so Mancher 
+als das Trockenste, Geistloseste mit verächtlichem Blick übersieht, 
+oder die Formeln, von den Meisten für todt gehalten, sie bergen 
+in sich die interessantesten Geheimnisse in Ursprungs Umfang
+und Bedeutung. Nirgends ist eine größere Harmonie zwischen den
+einzelnen Theilen, nirgends eine größere Gesetzmäßigkeit zu entdecken,
+und selbst das scheinbar Widersprechende steht in genauer Beziehung zu
+seinem Gegensatze. Vielleicht gelingt es mir in nachstehenden Artikeln,
+einige interessante Seiten der Mathematik darzustellen und Manchen von
+dem Vorurtheile zu befreien, das er gegen diese Wissenschaft hegt.
+
+I.
+Vielfältigkeit der Zusammensetzungen.
+Wenn ich von den fünfundzwanzig Buchstaben unseres Alphabets je zwei, drei u. s. w. bis zu fünfzehn zusammenstelle, so daß ich nicht nur auf die Anzahl der einzelnen Elemente, sondern auch auf ihre gegenseitige Stellung sehe und dieselben beliebig oft in einer Zusammensetzung wiederholen darf, so bekomme ich bei Berücksichtigung aller möglichen Fälle und Versetzungen die ungeheuere Menge von circa 970 Trillionen solcher Zusammenstellungen. Ist nämlich eine Reihe von Gegenständen gegeben, so kann mir die doppelte Aufgabe werden, entweder diese Gegenstände in alle nur möglichen Stellungen zueinander zu bringen, oder alle die verschiedenen Verbindungen aufzusuchen, welche sich mit je zwei, drei oder mehreren vornehmen lassen. Natürlich kann auch Beides zugleich verlangt werden. So lassen sich z. B. die vier Buchstaben e, i, l, s vierundzwanzig Mal[1] versetzen, permutiren, und die sechs Buchstaben e, i, l, n, s, t geben fünfzehn[2] verschiedene Combinationsformen, wenn jedes Mal vier dieser Zeichen, aber nie dieselben wieder, verbunden werden. Soll nun jede dieser Combinationsformen
+[324] auch wieder permutirt werden, so gibt es für jede einzelne
+wieder vierundzwanzig mögliche Versetzungsformen und man erhält
+mithin 360 Verbindungen von je vier Buchstaben aus den sechs
+gegebenen Elementen e, i, l, n, s, t. Ist es außerdem gestattet,
+die einzelnen Buchstaben beliebig oft zu wiederholen, so findet man
+sogar 1296 verschiedene Formen zu je vier Elementen. Hierdurch
+ist jedoch die Zahl der Zusammensetzungen noch keineswegs erschöpft,
+denn so gut ich von jenen sechs Elementen je vier zusammenstellte,
+kann ich es auch mit je zwei, drei, fünf oder sechs thun, so daß
+sich die Anzahl der Verbindungen aus diesen sechs Buchstaben auf
+die Hohe von 55 980 steigert. Man erkennt aus dem angeführten
+Beispiele leicht, daß mit der Vermehrung der gegebenen Elemente
+die Anzahl der möglichen Verbindungen wachsen muß, und es wird
+uns nun nicht mehr wundern, daß sich aus den fünfundzwanzig
+Buchstaben des Alphabets jene ungeheuere Menge von circa 970
+Trillionen [3] Zusammensetzungen ergibt, wenn auch nur je zwei,
+drei bis fünfzehn Buchstaben eine Zusammensetzung bilden.
+Doch untersuchen wir, was diese Zahl zu sagen hat. So
+wie sie da vor uns steht, erscheint sie eben als große Zahl, als
+weiter Nichts. Bei genauerer Betrachtung lernen wir sie erst verstehen. 
+Sie wird gebildet aus circa 14,512 Trillionen[4] Buchstaben. 
+Wenn wir alle diese Buchstaben hinter einander in eine
+Reihe schreiben wollten, so würde dies, 141/2 Buchstaben auf einen
+Zoll, 12 Zoll auf einen Fuß und 25 000 Fuß auf eine geographische 
+Meile gerechnet, eine Zeile geben von circa 3333 Billionen
+geographischen Meilen, also die Entfernung der Erde von der Sonne,
+welche circa 21 Millionen Meilen beträgt, ungefähr 160 Millionen
+Mal an Lange übertreffen. Nehmen wir ferner an, daß auf die
+Fläche eines Quadratzolles 20 Buchstaben geschrieben werden können, 
+so sind zur Aufnahme aller jener Buchstabenverbindungen
+(144 Quadratzoll auf einen Quadratfuß, 625’000 000 Quadratfuß 
+auf eine Quadratmeile gerechnet) nicht weniger als 928 Millionen 
+Quadratmeilen erforderlich, oder, mit andern Worten, 100
+Kugeln von der Größe der Erdkugel würden eben ausreichen, wollte
+man alle jene Worte aufzeichnen. Wäre das Material, auf welches 
+man schreibt, Papier von 32 Zoll Länge und 18 Zoll Breite
+der Bogen und betrüge die Dicke von 50 übereinander liegenden
+Bogen, deren 600 zu einem Foliobande vereinigt sind, einen Zoll,
+so würde man doch, obwohl jedes Blatt von oben bis unten, von
+rechts nach links dergestalt mit Buchstaben überdeckt ist, daß nicht
+der geringste freie Raum übrig gelassen wäre, die artige Bibliothek
+von 104 Billionen Folianten bekommen. Um diese unterzubringen,
+sind circa 80 Millionen großer Säle nothwendig, deren jeder 512
+Fuß lang, 216 Fuß breit und 48 Fuß hoch und so voller Folianten 
+gepfropft ist, daß kein Messerrücken Raum zwischen den einzelnen 
+Bänden sich befindet. Denken wir uns diese Bibliotheksäle
+alle in einer Reihe gebaut, so würden sie eine Länge von 1´600 000
+deutschen Meilen erreichen oder ziemlich 300 Mal einen Gürtel um
+die Erde bilden, da, wo deren Durchmesser am größten ist. – Und 
+in diesen Sälen nichts als Bücher, und in den Büchern nichts als 
+Buchstaben, und – alle diese Buchstaben nur die verschiedenen 
+Zusammensetzungsformen bildend der fünfundzwanzig Zeichen des 
+Alphabets.
+Noch größer ist die Anzahl aller Zusammensetzungen der Laute,
+deren die menschliche Stimme fähig ist und die sich zur Wortbildung 
+eignen. Alle Sprachen, seien sie auch noch so verschiedenen
+Stammes und Reichthums, haben doch gewisse primitive Laute des
+menschlichen Sprachorgans zum Ausgangspunkt. Das „A“ und
+das „O“ klingt uns eben so gut aus der Arie der deutschen Opernsängerinnen, 
+als aus den wilden Schlachtgesängen der Irokesen oder
+den einförmigen Gebeten der Mandarinen entgegen. Und doch,
+welcher Unterschied zwischen diesen und den hundert andern Sprachen! 
+Kaum ließe es sich begreifen, wie die Menschen, doch so weniger 
+Stimmlaute fähig, so verschiedene Sprachen und Dialekte erfinden 
+konnten, wenn uns nicht die Betrachtungen über die Mannichfaltigkeit 
+der Combinationen Aufschluß darüber ertheilten. Nehmen 
+wir nur 70 verschiedene Stimmlaute an und suchen die Summe
+der Combinationen und deren Versetzungen von je zwei, drei bis
+zwanzig Lauten, so resultirt doch schon eine Riesenzahl von 37 Ziffern 
+oder circa 8 Sextillionen.[5]
+Gewiß wird die Voraussetzung, daß davon nur etwa der billionte 
+Theil von der Beschaffenheit ist, daß ihn eine menschliche
+Zunge aussprechen kann, nicht zu hoch gegriffen erscheinen, und
+dennoch erhält man dadurch einen solchen Wörterschatz, daß jeder
+der Tausend Millionen auf Erden lebenden Menschen seine eigene
+Sprache mit einem Vorrath von 8 Tausend Billionen Wörtern
+haben könnte. Welch´ eine Aussicht für Sprachforscher! Wenn nur
+alle diese Lautverbindungen aufgezeichnet wären! Da würde neben
+einem gälischen Worte eins aus dem Sanskrit stehen, neben dem
+französischen ein Wort aus der Sprache der Buschmänner. Da
+könnte man Stammverwandtschaften und Etymologie studiren, denn
+von Allem läge die gemeinsame Wurzel klar und wahr vor Augen.
+Leider muß es indeß beim frommen Wunsche bleiben, da wir mit
+Hinblick auf die Betrachtungen, welche wir über die Größe der
+Zahlen vorhin anstellten, nicht in Zweifel sein können, daß diese
+Aufzeichnung zu den unmöglichen Dingen gehört. Was dort die
+Einheit war, sind hier 500 Billionen, so daß z.B. die Masse des
+Papiers, auf welches alle diese Lautcombinationen geschrieben werden
+könnten, 31/2 Millionen solcher Kugeln ausmachen würde, wie unsere
+Mutter Erde ist.
+Auf der ungeheuren Menge der Combinationen und deren Versetzungen, 
+welche mit einer bestimmten Menge von Zeichen möglich
+sind, beruht ferner die Mannichfaltigkeit der Tonverbindungen. Schon
+beim Pianoforte allein (dasselbe zu 6 Octaven, die Octave zu 12
+halben [6] Tönen angenommen) 
+findet man über eine halbe Billion[7]
+zwei- bis zehnstimmige Accorde, wobei man jedoch von den Regeln
+des Generalbasses und den Gesetzen der Harmonielehre absehen muß.
+Vielleicht wird der millionte Theil wirkliche Consonanzen geben.
+Diese nun, als einzelne Elemente betrachtet, lassen sich auf dieselbe
+Weise combiniren und variiren, wie wir es mit den Buchstaben
+vorhin gethan haben. Diese Zusammenstellungen geben aber die
+eigentlichen Musikstücke. Wollte Jemand sich an’s Werk machen,
+alle diese Zusammensetzungen oder Versetzungen aller consonirender
+Accorde auf Noten zu bringen, so würde er ohne alle musikalische
+Schöpfergabe die schönsten Opern, Kirchenmusiken und Oratorien
+componiren können. Es würde dann nicht mehr die Rede sein von
+guten Componisten, sondern nur von guten musikalischen Combinatoren; 
+ebenso wie die geistreichste Autorschaft eine illusorische werden
+müßte, sobald die sämmtlichen Worte einer Sprache zu Millionen
+combinirt würden. Doch deshalb brauchen weder Componisten noch
+Autoren irgend eine Besorgniß zu hegen, daß ihnen ihr Ruhm werde
+wegcombinirt werden. Wenn schon die paar Buchstaben des Alphabets 
+oder die 70 Stimmlaute des menschlichen Sprachorgans, zu
+fünfzehn oder zwanzig verbunden, Zahlen ergaben, die erst zergliedert 
+werden mußten, um einen Maßstab an sie legen zu können,
+so fehlt uns ein solcher Maßstab hier schon aus der untersten Verbindungsstufe 
+völlig. Vergebens sehen wir uns nach einer Vergleichungszahl 
+um, welche unser Geist in seiner Größe und Ausdehnung 
+zu umfassen vermag, wir glauben an den Pforten der
+Unendlichkeit zu stehen, obwohl wir uns fortwährend im Endlichen
+bewegen. Höchstens kann die Geschwindigkeit des Lichtes, das doch
+in der Secunde circa 40,000 Meilen zurücklegt, wenn es Hunderte
+von Jahren braucht, um von einem der größten Fixsterne zu uns
+zu gelangen, uns ahnen lassen, was ein paar hundert Billionen
+Meilen für eine Entfernung ist. Weiter hinaus hilft auch dieser
+Maßstab nichts mehr, denn selbst eine solche Fixsternenweite als
+Einheit gesetzt, kommen wir auf die unbegreiflichsten Zahlen, wenn
+wir versuchen wollten, eine einzige Walzerclausel zu combiniren.
+Wir finden, daß die Anzahl der Fälle durch eine Zahl von 121
+Ziffern dargestellt wird. Keine Raum- oder Zeitgröße ist hier im
+Stande, unserm staunenden Geist zu Hülfe zu kommen, der schon
+bei 13 Ziffern an der Ungeheuerlichkeit der dargestellten Größe erbebt,
+[325] und doch ist selbst diese Größe etwas Verschwindendes gegen das Unendliche.
+Das Kartenspiel verdankt seine Abwechselung und deshalb sein
+Interesse ebenfalls der Mannichfaltigkeit der möglichen Verbindungen
+und Versetzungen, die sich mit den Karten eben so gut vornehmen
+lassen, wie mit den Buchstaben oder Tönen. Wir erfahren bei
+der Berechnung der Summe der Variationen, denen ein bestimmtes
+Spiel unterliegt, nicht nur, wie viel verschiedene Spiele überhaupt
+in der Karte enthalten sind, sondern auch, wie oft ein und dasselbe
+Spiel der Wahrscheinlichkeit nach wiederkehren wird. Der Scat
+wird mit der deutschen Karte, also mit 32 Blättern, unter 3 Betheiligten
+gespielt, so daß jeder Mitspielende 10 Karten erhält, die
+übrig bleibenden 2 für den Spieler in Reserve in den Scat gelegt
+werden. Die Verbindungen je zweier Elemente von 32 gegebenen
+ist eine 496 fache, es kann also 496 Mal ein anderer Scat liegen,
+und nach 496 Spielen werden der Wahrscheinlichkeit nach wieder
+einmal dieselben zwei Blätter liegen. Von den übrigen 30 Blättern
+kann nun der erste der Mitspielenden bei einem und demselben
+Scate 30´045 015 Mal verschiedene Karte bekommen, während sich
+die letzten zwanzig Karten auf den zweiten und dritten Mitspielenden
+dergestalt vertheilen, daß sie unter sich wieder die Karte 184 756
+Mal umwechseln können. Auf jede zwei Blätter des Scates kommen
+also 30´045 015 mögliche Spiele der Vorhand und auf jedes
+dieser Spiele wieder 184 756 verschiedene Spiele in der zweiten
+und dritten Hand. Hieraus ergibt sich, daß die Zahl der möglichen
+Fälle überhaupt 1 376´´645 204 252 320 beträgt. Soviel Spiele
+werden gemacht werden müssen, wenn alle überhaupt denkbaren Spiele
+durchgespielt werden sollen. Es ist daher auch die Wahrscheinlichkeit,
+daß erst nach jener Anzahl von Spielen jeder Mitspielende
+bei denselben zwei Blättern des Scates dieselbe Karte erhält. Was
+wäre das aber für ein Stückchen Arbeit, alle diese Spiele durchzuspielen!
+Gesetzt, drei echte Scatbrüder machten sich daran mit
+dem Vorsätze, nicht eher wieder aufzuhören, bevor das große Werk
+geschehen, wie lange müßten sie wohl sitzen? Als tüchtige Spieler
+sind sie wohl im Stande, in der Stunde zwanzig Spiele zu absolviren,
+sie spielen Tag und Nacht und müssen sitzen – über 7850
+Millionen Jahre. Wenn seit Christi Geburt vier Millionen Spieltische
+unaufhörlich Tag und Nacht fortgespielt hätten, sie würden
+noch nicht mit allen diesen Spielen fertig sein.
+Eine noch größere Abwechselung in Folge der größeren Kartenzahl
+bietet das Whistspiel dar. Bei diesem wird der einzelne Spieler
+erst nach 635 013´559 600 Spielen wieder einmal dieselbe Karte bekommen
+und es sind im Ganzen circa 178 815 Quadrillion Spiele
+möglich, eine Anzahl, welche so groß ist, daß keck behauptet werden
+kann, daß die ganze Whist spielende Gesellschaft von Erfindung dieses
+Spieles ab bis jetzt noch nicht den Billiontentheil aller im Whist
+überhaupt möglichen Touren durchgespielt hat. Denn wollten auch
+alle tausend Millionen Erdbewohner Tag und Nacht fortspielen
+und jede Stunde zwanzig Partien machen, sie würden demungeachtet
+vierzig Billionen Jahre brauchen, einen Zeitraum, während dessen
+eine Schnecke, die stündlich zwei Fuß zurücklegt, 1½ Millionen
+Mal den Weg von der Erde nach der Sonne durchkriechen könnte,
+obwohl sie zu dem einmaligen Wege schon achtundzwanzig Millionen Jahre brauchen würde.
+
+
+
+
+
+
+1. ↑ 
+2. ↑ 
+3. ↑ Genauer: 97´´´127 681´´891 I23’453 0750, und zwar 625 zu zwei,
+4. ↑ Genau aus: 14 511´´´583 241´´621 388’129 375.
+5. ↑ Genau:
+6. ↑ c, cis, d, dis, e, f, fis, g, gis, a, b, h.
+7. ↑

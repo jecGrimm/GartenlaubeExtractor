@@ -1,0 +1,63 @@
+[788] Schach.
+Von Konrad Erlin in Wien.SCHWARZWEISSWeiß zieht an und setzt mit dem vierten Zuge matt.
+
+
+Auflösung der Schach-Aufgabe auf S. 740:
+
+
+Weiß:
+
+Schwarz:
+
+Weiß:
+
+Schwarz:
+
+
+1. S c 8 – d 6
+
+T c 1 – c 3 :
+
+1. …
+
+K c 5 – d 4
+
+
+2. D c 2 – b 5 †
+
+K c 5 – d 4
+
+2. D e 2 – d 2 †
+
+K d 4 – c 5 a)
+
+
+3. S d 6 – f 5 matt.
+
+
+
+3. S c 3 – a 4 matt.
+
+
+
+a) Falls 2 …. K d 4 – c 5 so 3. S d 6 – e 4: aufged. matt. – Nach 1. … L g 2 – f 1 ergiebt sich die schöne Wendung: 2. L b 8 – a 7: †, K c 5 – d 6: (b 4), 3. D c 2 – h 2 (b 2) matt. – Weiß droht mit 2. D c 4 † etc.
+
+Ziffer-Räthsel.
+
+1 2 3 4 schafft Mensch’ und Thieren,
+Was ihnen thut am meisten noth,
+Wogegen Schutz vor dem Erfrieren
+1 2 3 3 schon Vielen bot.
+
+Wodurch sich aber unterscheiden
+2 3 1 2 und 1 2 2,
+Darüber ließe sich noch streiten,
+Ist beider Kunst doch Zauberei.
+
+2 4 2 3 heißt, dessen Streben
+Erzielt, was tugendhaft und brav,
+Und welchem nicht gilt für das Leben
+2 3 1 als Hauptparagraph.
+
+
+Heft 48[Bearbeiten]

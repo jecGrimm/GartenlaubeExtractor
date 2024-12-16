@@ -1,0 +1,272 @@
+[630] Die elektrische Eisenbahn der Berliner Gewerbe-Ausstellung,
+als Beispiel der elektrischen Kraft-Uebertragung.
+Von den mancherlei Sehenswürdigkeiten der Berliner Gewerbe-Ausstellung des Jahres 1879 wird keine vom großen Publicum mehr bewundert, als die sogenannte elektrische Eisenbahn von Siemens und Halske, die ohne sichtbare Zugkraft den ungefähr dreihundert Meter langen, in sich selbst zurückkehrenden, schmalspurigen Schienenweg mit gewöhnlich neunzehn Personen in zwei Minuten – der Schnelligkeit gewöhnlicher Pferdebahnwagen – zurücklegt. Sie fährt nämlich regelmäßig nur an bestimmten Tagesstunden, und da ist dann der Andrang groß genug, um gewöhnlich alle Plätze auszuverkaufen, da jeder Besucher sich gern einmal von der unsichtbaren Macht befördern läßt, welche die Meisten anstaunen, ohne ihr Wirken zu begreifen. Das allgemeine Staunen wird besonders durch den Umstand erregt, daß die Locomotive, welche den Zugführer trägt, außer dem Hebel zum beliebigen Anhalten des Zuges keinerlei Bewegungsmechanismus sehen läßt, sodaß sie nicht viel anders aussieht, als die drei an einandergeketteten Personenwagen, die mit ihren im Rücken zusammenstoßenden Bänken aus einiger Entfernung in ihrer Gesammtheit genau den Eindruck machen, als ob die Plattform eines gewöhnlichen Omnibus oder Pferdebahnwagens auf niedrige Räder
+[631] gesetzt worden wäre. Fahrer und Zuschauer lächeln sich halb verlegen 
+an, weil man erstens keinen vernünftigen Zweck für die
+Fahrt angeben, zweitens von einem besonderen Vergnügen dabei
+nicht sprechen kann, und drittens durch das Mitfahren ebenso
+wenig klüger wird, wie durch das Zuschauen. Aber nicht für
+alle Menschen wächst das Interesse an einer Sache mit dem
+Verständniß derselben. Die Meisten finden nur das ihnen Unbegreifliche 
+interessant.
+Am stärksten irren übrigens Diejenigen – und das ist die
+große Mehrzahl – welche glauben, die berühmte Firma habe
+hierin eine neue Erfindung vorgeführt. Es handelt sich dabei
+höchstens um die Anwendung untergeordneter neuer Constructionen,
+und was der Sache ein größeres Interesse verleiht, ist lediglich
+die Vorführung eines neuen Principes, dem einsichtsvolle Ingenieure
+eine große Zukunft zuschreiben, nämlich des Principes der elektrischen 
+Kraftübertragung. Die Dampfmaschine, welche unsere Locomotive 
+treibt, steht in der allgemeinen Maschinenhalle, und die von
+ihr erzeugte mechanische Kraft wird durch eine sogenannte dynamoelektrische 
+Maschine in Elektricität verwandelt, die man ohne
+erheblichen Verlust beliebig weit fortleiten kann. Sie tritt durch
+die Schienen und die Laufräder in die Locomotive und kehrt von
+da durch eine aufrechte Mittelschiene, in einem mithin auf jedem
+Punkte der Bahn durch die Locomotive selbst geschlossenen Kreislaufe 
+zu ihrem Ausgangspunkte zurück. Dieser Strom wird nun
+in der Locomotive durch Erzeugung starker Elektro-Magnete, welche
+die Räder bewegen, in mechanische Kraft zurückverwandelt und
+treibt das Gefährt auf diese Weise. Sobald der Strom unterbrochen 
+wird, steht die Maschine oder kann durch Vermehrung der
+Reibung alsbald zum Stehen gebracht werden. Da man seit
+dreißig Jahren Hunderte von Maschinen erbaut hat, welche das
+Problem der Rückverwandelung elektrischer Kraft in mechanische
+mehr oder weniger vollkommen, das heißt mit dem mindesten
+Kraftverlust lösen, so interessirt uns auch das Wie dieser Rückverwandelung 
+hier gar nicht – das Princip ist Alles, die Ausführung 
+nichts; sie giebt in ihrer gesuchten Einfachheit nicht
+einmal dem Zeichner Stoff zu einem dankbaren Bilde.
+Was ist es nun, was diese elektrische Eisenbahn zu einem
+dennoch höchst interessanten Schaustücke macht? Glaubt man vielleicht, 
+später den Eisenbahnbetrieb in dieser Weise zu vereinfachen?
+Man erzählte allerdings, ein begeisterter Ingenieur habe sofort
+in der verschiedensten Herren Ländern Patente zur Erbauung elektrischer 
+Eisenbahnen nachgesucht, allein ein solches Gesuch beruhte
+jedenfalls auf Selbsttäuschung; bei der vielfachen Kraftverwandelung, 
+erstens der Hitze in mechanische Kraft, der mechanischen in
+elektrische und der Rückverwandelung, geht so viele Kraft verloren,
+daß ein solcher Betrieb nicht sehr vortheilhaft sein würde, obgleich
+eine Locomotive weniger vortheilhaft arbeitet, als eine stehende
+Dampfmaschine. Es giebt aber Arbeiten, bei denen eine nur
+einigermaßen zweckmäßige Kraftübertragung von außerordentlichem
+Werthe ist. So z. B. würde bei der Bohrung (und vielleicht 
+selbst beim Durchfahren) langer Eisenbahntunnels der
+Locomotivendampf sehr lästig werden und die ohnehin schlechte Luft
+noch mehr verderben. Man hat deshalb bei den Tunnelbohrungen
+und bei manchen Bergwerksarbeiten die außen erzeugte mechanische
+Kraft in Form zusammengepreßter Luft durch Röhren in das
+Erdinnere geleitet und dadurch den vierfachen Vortheil erzielt,
+erstens billige Wasserkraft verwenden zu können, zweitens die Luft
+durch den Betrieb einer innen aufgestellten Maschine nicht zu verschlechtern,
+im Gegentheil drittens mit frischer Luft versorgt zu
+werden und viertens Abkühlung zu erhalten, denn die Luft, deren
+Hervortreten die Bohrer treibt, kühlt sich durch ihre Ausdehnung
+bedeutend ab; sie bindet Wärme. In ähnlicher Weise wie hier
+die Luft, benutzt man das Wasser als Kraftübertragungsmittel in
+den sogenannten Wassermotoren für das Kleingewerbe, indem man
+den Druck in den Wasserleitungen großer Städte dazu verwendet,
+kleine Maschinen, gleichsam Familienwassermühlen, treiben zu
+lassen. Ein sehr schlechtes Kraftübertragungsmittel auf größere
+Entfernungen ist der Dampf, weil er auch bei der besten Einhüllung 
+unterwegs zu viel Wärme verliert, und nur bei gleichzeitiger 
+Centralheizung einer Stadt, wie z. B. zu Lockport in
+Nordamerika („Gartenlaube“ 1878, Seite 472), kann eine solche
+Uebertragungsweise vortheilhaft sein.
+Wir haben bisher der gewöhnlichsten Uebertragungsmethode
+nicht erwähnt, weil sie in der Regel nur auf kürzeren Entfernungen
+oder für ganz specielle Verhältnisse, wie z. B. bei Drahtseilbahnen
+in Bergwerken etc., verwendet wird, derjenigen durch Riemen, Ketten
+oder Drahtseile. Indessen hat man dieselbe in der Neuzeit doch
+in oft staunenswürdiger Weise zur Anwendung gebracht, an Orten,
+wo bedeutende Naturkraft nutzbar gemacht werden soll. So hat
+man oberhalb des Rheinfalles bei Schaffhausen das dort schon
+starke Gefälle des Flusses dazu benutzt, um durch einen abgeleiteten
+Arm kolossale Turbinen treiben zu lassen, welche die unzähligen
+Werkstätten dieser gewerbthätigen Stadt und Umgegend mit
+mechanischer Kraft versehen. Viertelstundenlang laufen die Drahtseil-Uebertragungen 
+an dem Ufer des Rheines her, um in kurzen
+Entfernungen immer wieder kleine Räder zu treiben, die durch
+eine Welle der danebenstehenden Fabrik ihre zehn oder hundert
+Pferdekraft von dem Maschinenhause her übermitteln. Bei Bellegarde 
+im Departement Ain gewinnt man durch Benutzung der
+Stromschnellen der Rhone und eines Nebenflusses mittelst sechs
+Turbinen viertausend Pferdekraft, die man über tausend Meter
+weit durch Drahtseile leitet, um jede Pferdekraft für nicht ganz
+hundert Thaler jährlich zu vermiethen. Dabei ist vorläufig nicht
+viel mehr als der dritte Theil der Kraft ausgenützt; man könnte,
+wenn sie verlangt würden, zwölftausend Pferdekraft an dieser
+Stelle gewinnen. Da man indessen bei solchen Drahtseilfortführungen
+ungefähr alle hundert Meter eine Uebertragungsstation für ein
+neues Seil einschalten muß, so werden solche Uebertragungen für
+größere Entfernungen unvortheilhaft, und nur die Fabrikstadt, die
+sich in unmittelbarer Nähe eines solchen Gefälles ansiedelt, kann
+davon Nutzen ziehen. In solchen Fällen nun wäre es vielleicht
+möglich, durch den elektrischen Strom die halb umsonst dargebotene
+Naturkraft noch weiter fortzuleiten, zumal man hierzu keiner Röhren
+sondern nur genügend starker Drähte oder Metallstäbe bedarf.
+Seit einem Vierteljahrhundert, das heißt so lange man die
+Verwandlung der Naturkräfte in einander studirt hat, ist es ein
+Lieblingstraum der Ingenieure, die immense, ungenützt verspritzende 
+Naturkraft der Wasserfälle den menschlichen Zwecken
+dienstbar zu machen, das wilde Element völlig zu zähmen und
+ihm womöglich alle menschliche Arbeit aufzubürden. Jeder
+Ingenieur beinahe, der seitdem den Niagara-Fall besucht hat,
+rechnete uns in irgend einem Feuilleton-Artikel irgend eines
+technischen oder populären Journals vor, daß hier mindestens so
+viel Kraft ungenutzt verloren geht, wie ganz Nordamerika brauchte,
+um völlig die Hände in den Schooß legen zu können. Als der
+Bruder des Berliner Siemens, Dr. C. William Siemens aus
+London, im Herbst 1876 den Niagara besuchte, prüfte er das
+unvermeidliche Rechenexempel nochmals durch und fand, daß der
+Fall dieser gewaltigen Wassermasse eine Kraftmenge erzeugte, die
+derjenigen von siebenzehn Millionen Pferdekräften gleichkommt,
+das heißt eine Kraftmenge, zu deren Erzeugung auf dem gewöhnlichen 
+Wege circa zweihundertsechszig Millionen Tonnen Kohlen
+im Jahre nöthig wären, nämlich also die gesammte Kohlenmenge,
+die überhaupt auf der Erde producirt wird.
+Ein so ungeheuerer Kraftverlust an einem einzigen Orte, der
+sich, wenn auch in minderem Grade, an hundert Orten der Welt
+wiederholt, kann einen rechtschaffenen Ingenieur zur Verzweiflung
+bringen, und es tröstet ihn kaum, daß solche den Naturfreunden
+äußerst liebe Kraftverluste meist im Hochgebirge oder an solchen
+Orten stattfinden, wo man die freiwerdende Kraft doch nicht
+verwerten könnte. Ja, wenn man sie ohne erheblichen Verlust
+in weite Fernen leiten könnte, bis in die Mittelpunkte der
+Industrie oder in die Hauptstädte des Landes! An Uebertragungen 
+durch Drahtseile ist dabei nicht zu denken. Bei den
+doch nur kurzen Uebertragungen bei Schaffhausen gehen auf sechshundert 
+Pferdekräfte bereits hundertzwanzig durch die Reibung
+der Drahtseile verloren, und diese nutzen sich obendrein stark ab;
+eine Uebertragung durch Luft- oder Wasserdruck würde beträchtliche
+Anlagekosten erfordern; ein Anderes wäre es, könnte man die
+mechanische Kraft an Ort und Stelle in Elektricität verwandeln
+und als solche in dicken Metallleitungen fortleiten und vertheilen.
+Dr. Siemens machte sich an die Rechnung und fand, daß
+eine auf isolirenden Trägern ruhende Kupferstange von drei Zoll
+Durchmesser genügen würde, um eine tausend Pferdekräften entsprechende 
+Elektricitätsmenge pro Stunde 48 Kilometer weit zu
+leiten um damit dort elektrodynamische Maschinen in Bewegung
+zu setzen, die eine ganze Stadt mit einem 250,000 Kerzen gleichkommenden 
+Lichte erleuchten könnten. Ja, diese Rechnung, welche
+[632] Dr. Siemens im März 1877 bekannt machte, hat sich noch vielzu bescheiden erwiesen; die erwähnte Leitung würde sogar die drei-bis vierfache Elektricitätsmenge befördern und letztere einen noch bedeutend höheren als den vierfachen Lichteffect ausüben können. Die Anlagekosten der Leitung würden hoch sein, aber nur einmalige, da die Abnutzung sehr gering sein würde.
+Bei der weiteren Ueberlegung dieses Planes boten die Maschinen,
+welche die Kraft an Ort und Stelle in Elektricität zu verwandeln
+hätten, keine Schwierigkeiten, wohl aber die richtige Vertheilung
+der Kraft auf die zahlreichen Abonnenten der Elektricität, von
+denen jeder eine bestimmte meßbare Menge von dem Hauptstrom
+müßte abgezapft erhalten können, wenn die Idee ausführbar sein
+soll. Auch diese Schwierigkeiten glaubt Siemens durch Vorrichtungen,
+die er vor einigen Monaten genau in einem wissenschaftlichen
+Journal beschrieben hat, überwinden zu können, sodaß eine dem
+Miethpreise jedes Stromzweiges entsprechende Leistung verbürgt
+werde könnte. Er hat am 12. Juni vorigen Jahres der königlichen 
+Akademie zu London seinen Regulator vorgeführt, der darauf
+beruht, daß ein dünner, wagerechter Kupfer- oder Silberstreifen,
+der in seiner Mitte durch eine Feder oder ein Gewicht herabgezogen 
+wird, den Zweigstrom ableitet. Dieser Streifen erwärmt
+sich genau der durchfließenden Elektricitätsmege entsprechend, und
+senkt sich, wenn mehr als beabsichtigt durchfließt, weil er heißer
+wird. Dadurch werden dann auf einfache Weise Nebenleitungen
+geschlossen, welche nicht nur das Zuviel wegführen, sondern auch
+automatisch den Strom regeln. Das vielbesprochene Problem der
+Vertheilung eines starken elektrischen Stromes z. B. auf viele
+einzelne Laternen oder Maschinen wäre sowohl auf diese wie wohl
+auch in mancher anderen Weise lösbar. Dieser oder ein ähnlicher
+Apparat würde bei einer allgemeinen elektrischen Versorgung der
+Zukunft die Dienste unserer Wasser- und Gasuhren vertreten, jedoch
+so, daß es keineswegs in der Macht des Einzelnen liegen würde,
+etwa so viel Elektricität zu verschwenden, wie er will, vielmehr
+würde ihm gegen die entsprechende Miethe nur so viel zugemessen,
+wie er braucht und bezahlen will.
+Im Spätsommer vorigen Jahres, mehr als anderthalb Jahr
+nach Veröffentlichung der Siemens’schen Rechnungen, erstand zu
+Ansonia in den Vereinigten Staaten in der Person eines Herrn
+Wallace ein großer Wohlthäter der Menschheit, von dem die
+Zeitungen meldeten, er habe vermittelst einer von ihm erfundenen
+Maschine, die er Telemachon nannte, das Problem gelöst, die
+Kraft der Wasserfälle in die Hauptstädte zu leiten und die gesammte 
+Stadt New-York für anderthalb Dollar pro Stunde
+prachtvoll mit elektrischem Lichte zu erleuchten. Das Telemachon
+habe bereits die Probe bestanden, und die Kraft des Naugatuckflusses, 
+der eine Viertelstunde von Wallace’s Etablissement vorbeifließt, 
+spende dort Licht und mechanische Kraft in einem Grade,
+daß Edison, der berühmte Entdecker, bei einem Besuche die Hände
+über dem Kopfe zusammengeschlagen und Wallace zur Lösung eines
+Problems beglückwünscht habe, mit dem er sich lange Jahre vergeblich 
+beschäftigt habe.
+Alle europäischen Tageszeitungen druckten pflichtschuldigst die
+glückverheißende amerikanische Ente schleunigst nach, und ich glaube
+nicht, daß irgend ein kleines verlassenes Wochenblättchen dieses
+Evangelium seinen Lesern schuldig geblieben ist. Leider gehört
+von der großen Entdeckung dem Herr Wallace gar nichts; sein
+Telemachon ist ein winziges Abbild der Maschinen von Schaffhausen 
+und Bellegarde, und schon im Jahrgange 1876 erzählte
+die „Gartenlaube“ (S. 713) ihren Lesern, daß der ehemalige
+französische Finanzminister Pouyer-Quertier seine mechanischen
+Webereien durch elektrisches Licht erleuchte, welches von der daselbst 
+vorhandenen überschüssigen Wasserkraft erzeugt werde.
+Die Anwendung dieser kleinen Versuchsmodelle auf den
+Niagarafall kann Jeder in Gedanken machen, allein mit der Ausführung 
+wird es – die Möglichkeit völlig zugegeben – noch
+seine Schwierigkeiten haben, und die größte dürfte immerhin
+bleiben, in der Nähe großer Wasserfälle die großen Städte zu
+entdecken, welche den Segen verwenden könnten, ohne ihn durch
+allzu lange Leitungen zu vermindern. Wenn sich diese Probleme
+verwirklichen sollen, dürfte es immerhin günstiger sein, die Fabriken
+in der Nähe der Wasserfälle anzulegen, statt deren Kraft weit
+in’s Land zu leiten, und vielleicht kommt einmal die Zeit, wo
+sich die Industrie, wie das im Kleinen bei Schaffhausen bereits
+der Fall ist, an den Lieblingszielen der Touristen sammelt.
+Vorläufig wird man die elektrische Uebertragungsfähigkeit
+kleinerer und selbsterzeugter Kraftmengen ausnützen. So hat man
+z. B. in den letzten Wochen im Umkreise einer Zuckerfabrik zu Sermaize
+(Marne) landwirthschaftliche Arbeiten statt durch Locomobile
+durch eine feststehende Dampfmaschine zu verrichten gesucht, deren
+in Elektricität verwandelte Kraft vermittelst eines Kupferdrahtkabels 
+650 Meter in die Runde geführt werden konnte, um einen
+Pflug in Thätigkeit zu setzen, der eine Furche zog, wie sie sonst
+drei Pferdekräfte erforderte. Es handelte sich hier nur um vorläufige 
+Versuche, und das Originellste war dabei, daß man eine
+Maschine gleicher Construction, wie diejenige, welche die Dampfkraft 
+in Elektricität verwandelt, dazu verwendete, den Strom
+wieder in mechanische Kraft zurückzuverwandeln, nämlich die
+dynamo-elektrische Maschine von Gramme, welche indeß weniger
+vortheilhaft arbeitet, als die obenerwähnte Siemens’sche Maschine.
+Die elektrische Eisenbahn, zu der wir nunmehr zurückkehren,
+hat vor manchen anderen Anlagen den Vortheil, daß sie gar
+keiner besonderen Leitung bedürfen würde, wenn man die beiden
+Schienen zur Hin- und Herleitung benutzte, wie sie andererseits
+das große Interesse bietet, an jeder Stelle die Leitung selbst zu
+schließen. Man hat sich daher gefragt, ob es wohl vortheilhaft
+sein würde, diese Maschine dem Straßenbahnbetrieb anzupassen.
+Jedenfalls hätte sie vor den Dampfstraßenwagen den Vortheil
+voraus, Niemand mit Dampf zu belästigen, keine Pferde scheu zu
+machen, unnützes Geräusch zu vermeiden, kein Wasser oder Brennmaterial 
+aufnehmen zu müssen und leicht anhaltbar zu sein. Es
+fragt sich, ob diese Vortheile genügen, die etwas größeren Betriebskosten 
+aufzuwiegen.
+Bei der bisherigen Construction werden nur dreißig bis
+vierzig Procent der Dampfmaschinenkraft wiedererhalten. Wahrscheinlich 
+aber würde sich dies günstiger gestalten, wenn die
+Schienen isolirt werden könnten, während vorläufig nur die
+Mittelschiene durch das Holz, auf dem sie liegt, nothdürftig isolirt
+ist. Dennoch functionirt die Maschine selbst bei Regenwetter.
+Auch ist bei der soviel besseren Leitung, die das Metall dem Strome
+bietet, das Berühren der Schienen nicht weiter bedenklich; man
+sieht beständig Erwachsene und Kinder die Schienen berühren, um
+sich zu elektrisiren. Dennoch geraten dünne Drähte, durch welche
+man die Mittelschiene mit der äußeren verbindet, in’s Glühen
+und können durch die Ableitung die Geschwindigkeit des Zuges
+erheblich vermindern. Der Umstand, daß immer nur eine einzige
+Locomotive die von einer dynamo-elektrischen Maschine versorgte
+Strecke befahren kann, würde sich durch Aufstellung mehrerer
+Maschinen für ebenso viele Theilstrecken heben lassen. Gleichwohl
+würde sich diese Art von Bahnen in der Praxis wohl nur bewähren, 
+wenn man einen besonderen, wohl isolirbaren, ober- oder
+unterirdischen Schienenweg benutzen könnte. So ist sie für
+Kohlenförderung in manchen Bergwerken wahrscheinlich sehr
+brauchbar, und die elektrische Eisenbahn der Berliner Gewerbe-Ausstellung 
+ist eigentlich für solche Zwecke construirt worden.
+
+Carus Sterne.

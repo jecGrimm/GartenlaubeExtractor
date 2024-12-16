@@ -1,0 +1,4 @@
+[240] Schach-Aufgabe Nr. 5.
+Von R. Weinheimer in Wien.
+SCHWARZWEISS
+Weiß zieht an und setzt mit dem vierten Zuge matt.

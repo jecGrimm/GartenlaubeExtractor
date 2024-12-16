@@ -1,0 +1,6 @@
+[68] 
+
+Kombinirte Damen- und Springer-Aufgabe.
+Beispiel mit 4 Damen und 2 Springern.SCHWARZWEISS
+Auf Seite 716 des Jahrgangs 1884 brachten wir eine Rössel-Aufgabe als Seitenstück zu dem bekannten Problem der Aufstellung von 8 Damen. Die Aufgabe, welche wir heute unseren Lesern vorlegen, verknüpft in gewisser Beziehung die beiden früheren Ideen: es sollen nämlich a) 4 Damen und 1 Springer, b) 4 Damen und 2 Springer, c) 4 Damen und 3 Springer, d) 4 Damen und 4 Springer, e) 4 Damen und 5 Springer, f) 4 Damen und 6 Springer, oder g) 4 Damen und 7 Springer derartig auf dem Schachbrette aufgestellt werden, daß 1. weder unter einander noch gegenseitig die Damen und Springer sich schlagen können, und daß 2. in keiner Position ein Feld frei bleibt, welches noch mit einem Springer besetzt werden könnte, ohne daß man dabei gegen die Bedingung zu 1) verstößt. (In obigem Beispiele darf z. B. auf c 3 kein weiterer Springer stehen, weil er einerseits sowohl vom S e 4 als auch von der D a 1 geschlagen werden kann, und weil er andererseits zugleich die D b 5 bedrohen würde) – 
+Auch mit diesem Problem hoffen wir unseren Lesern einen ansprechenden Unterhaltungsstoff für manches Musestündchen geboten zu haben.

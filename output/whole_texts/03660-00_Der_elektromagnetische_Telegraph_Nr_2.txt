@@ -1,0 +1,356 @@
+[475] Der elektromagnetische Telegraph.
+Nr. 2.
+
+Wir haben unsern Lesern im vorigen Artikel (Nr. 4) das Bild 
+einer Batterie mit ihren Elementen vorgelegt und damit den Lauf 
+des elektrischen Stromes zur Anschauung gebracht.
+Je mehr man nun solche Elemente zu einer Batterie vereinigt, 
+desto stärker wird der Strom und desto deutlichere und bestimmtere 
+Zeichen wird er an den entfernteren Orten hervorbringen. Doch 
+hat die Erfahrung gelehrt, daß eine solche Batterie aus einfachen 
+Plattenpaaren zusammengesetzt wenig zweckentsprechend ist, indem 
+nämlich der Strom rasch an seiner Stärke abnimmt und immer 
+schwächer wird, und man hatte auch bald den Grund dieser raschen 
+Abnahme entdeckt. Derselbe liegt nämlich in der chemischen Veränderung, 
+welche die Metalle und Flüssigkeiten durch den Strom 
+selbst erleiden, indem nämlich derselbe die Fähigkeit besitzt, Wasser 
+zu zerlegen und in seine Bestandtheile Sauerstoff und Wasserstoff 
+zu scheiden. Ersterer tritt alsdann an die Zinkplatte und bildet 
+mit derselben Zinkoxyd, während letzterer sich in Form kleiner Bläschen 
+an der Oberfläche der Kupferplatte ansammelt und diese fast 
+ganz bedeckt, also eine innige Berührung der Feuchtigkeit mit der 
+Kupferplatte verhindert, wodurch alsdann die Wirkungen der Batterie 
+nachlassen und endlich ganz aufhören. Daß dieses von 
+großer Störung für den Betrieb des elektromagnetischen Telegraphen 
+sein würde, bedarf wohl keiner Erläuterung; es ist vielmehr 
+unbedingt nothwendig, daß die verwendeten Batterien einen lange 
+andauernden, gleichmäßigen Strom liefern, indem nur dann ein 
+sicheres Telegraphiren möglich ist. Dieses einsehend, machten es 
+sich berühmte Physiker zur Aufgabe, solche Batterien herzustellen, 
+welche diesen Anforderungen entsprächen, und es ist ihnen auch, 
+theils mehr, theils weniger, gelungen. Diese Batterien werden auch 
+constante Batterien genannt und sie liefern mehrere Monate 
+lang einen fast gleichmäßigen Strom, worauf man nur die alten 
+unbrauchbar gewordenen Elemente herauszunehmen und durch neue 
+zu ersetzen nöthig hat. Von diesen constanten Batterien ist es 
+besonders: 
+1) Die Daniell’sche, welche in Preußen, Hannover und Sachsen, 
+2) die Bunsen’sche, welche in Baiern, und 
+3) die Smee’sche, welche in Oesterreich vielfache Anwendung findet.
+Außer denselben ist noch 
+4) die sogenannte Sandbatterie in England vielfach in Anwendung, 
+während 
+5) der Wollaston'sche Trogapparat,
+6) die Bequerel’sche Batterie, 
+7) die Grav’sche Batterie und
+8) die von Stöhrer in Leipzig aus Zink, Kohle und einer 
+gesättigten Alaunauflösung construirte Batterie theils weniger, 
+theils gar nicht im Gebrauche sind.
+Wir halten es für überflüssig, alle diese Batterien einer genauen 
+Beschreibung zu unterwerfen, und wollen dieses nur mit 
+den zwei gebräuchlichsten, nämlich der Daniell'schen und Bunsen'schen, 
+thun.
+Von ersterer sind in nachstehender Fig. 8, I und II zwei 
+Elemente abgebildet und zwar ist Fig. I der Durchschnitt und Fig. II 
+die Ansicht eines solchen Elementes. 
+
+
+
+Dieselben 
+bestehen aus einem Kupfergefäße 
+abcd, welches durch 
+eine mit Löchern versehene 
+Scheibe op 
+in zwei Theile geschieden 
+ist. Auf 
+letzterer ist ein zweiter 
+Kupfercylinder 
+efgh, der ebenfalls 
+mit lauter Löchern 
+versehen ist, festgelöthet,
+[476] welcher zur Aufnahme von grobgestoßenem Kupfervitriol 
+dient. Er umschließt zugleich einen hohlen Thoncylinder iklm, der, 
+durch die Scheibe op gebend, bis auf den Boden be des äußeren 
+Kupfercylinders reicht, und der in seinem innern hohlen Raume 
+einen massiven Zinkblock n n aufnimmt. Der noch übrige innere 
+Raum dieses Thoncylinders wird mit verdünnter Schwefelsäure 
+angefüllt, während in den äußeren Kupfercylinder abcd Kupfervitriolauflösung 
+gebracht wird, und damit dieselbe, indem sie fortwährend 
+durch den elektrischen Strom zersetzt und verdünnt wird, 
+sich immer wieder sättigen könne, so löst sie den in den Behälter 
+efgh gebrachten Kupfervitriol, zu welchem sie durch die in dessen 
+Seitenwand angebrachten Löcher leicht gelangen kann, fortwährend 
+auf. An diesen äußeren Kupfercylinder ist bei d ein Stück Draht 
+mit einer Schraube angelöthet, in welcher der diesen Kupfercylinder 
+mit dem Zinkblock des nächsten Elementes verbindende Draht 
+festgeklemmt wird. Der Zinkblock des ersten Elementes bildet alsdann 
+den positiven Pol der Batterie, während der an den Kupfercylinder 
+des letzten Elementes gelöthete Draht nebst Schraube den 
+negativen Pol derselben darstellt, sodaß also, wenn man beide mit 
+einander verbindet, die Batterie geschlossen ist. Es ist also ganz 
+dasselbe wie in Fig. 7 (Nr. 4) dargestellt, nur sind hier statt der Platten 
+Cylinder und Becher genommen. Was den Thoncylinder iklm 
+anbelangt, so hat derselbe keinen anderen Zweck, als die verdünnte 
+Schwefelsäure in seinem Innern von der Kupfervitriolauflösung 
+im äußeren Cylinder abzuhalten, er darf jedoch nicht so fest und 
+dicht sein, daß er selbst dem Strome den Durchgang wehren könnte, 
+sondern muß so porös sein, daß er von der Feuchtigkeit durchdrungen
+wird, dieselbe aber nicht durchrinnen läßt. Damit nun diese 
+Elemente, bei ihrer Vereinigung zu einer Batterie, einander nicht 
+berühren, sondern vollkommen von einander isolirt sind, so werden 
+sie einzeln in Glasgefäße gestellt. Der Lauf des Stromes ist wie 
+bei Fig. 7 angegeben, nämlich der vom Kupfercylinder des ersten 
+Elementes ausgehende positive Strom gelangt zum Zinkblock des 
+zweiten Elementes und von diesem durch die verdünnte Schwefelsäure 
+und die Poren des Thoncylinders, sowie durch die Kupfervitriolauflösung, 
+zum Kupfercylinder dieses Elementes, verstärkt sich 
+hier mit der positiven Elektricität und geht dann zum Zinkblock 
+des dritten Elementes und so durch alle Elemente, bis er, bei dem 
+Kupfercylinder des letzten Elementes angelangt, in den Schließungsbogen 
+übergeht, der ihn wieder zum Zinkblock des ersten Elementes führt.
+Man vereinigt 12, 18, 24, 30 und noch mehr solcher Elemente 
+zu einer Batterie, je nachdem der Schließungsbogen, d. h.
+die Drahtleitung, lang ober kurz ist.
+Wie bereits erwähnt, so bewirkt der elektrische Strom eine 
+chemische Veränderung der Flüssigkeiten und der verwendeten Metalle, 
+und diese Veränderungen kommen namentlich bei der soeben 
+beschriebenen Batterie sehr stark vor. Er zersetzt besonders sehr rasch 
+die Kupfervitriollösung und scheidet das in derselben enthaltene Kupfer 
+rein metallisch aus, welches sich an dem Kupfercylinder niederschlägt.
+Auf diese Eigenschaft gründet sich die Galvanoplastik, von 
+welcher der Leser gewiß schon gehört und deren prachtvolle Erzeugnisse 
+er gewiß schon bewundert hat.
+Die galvanoplastischen Apparate sind auch weiter nichts Anderes 
+als ein solches in großem Maßstabe ausgeführtes Element, 
+und der Leser wird uns gewiß hier eine kleine Abschweifung verzeihen, 
+wenn wir ihn mit einem solchen Apparat bekannt machen.
+
+
+
+Ein solcher ist in Fig. 9 abgebildet und besteht aus einem Troge 
+abcd, in welchem nahe am Boden 
+ein Kupferdrahtgeflechte ef angebracht 
+ist. Auf dasselbe werden alsdann 
+die aus einer Mischung von Guttapercha 
+und Graphit oder auch aus 
+Schwefel gefertigten Formen der galvanisch 
+herzustellenden Gegenstände, 
+wie Münzen, Metaillen, Ringe, Bracelettes, 
+Verzierungen etc. gelegt und 
+nun dieser Trog mit Kupfervitriollösung 
+angefüllt. Von einer über 
+den Trog gelegten Stange hängt nun 
+ein Zinkblock Z in diese Lösung, und 
+sobald man denselben durch einen Draht xvy mit dem Kupferdrahtgeflechte 
+ef in Verbindung bringt, so ist der galvanoplastische 
+Apparat fertig, der also eigentlich weiter nichts als ein solches 
+Daniell’sches Element ist. Der von dem Kupferdrahtgeflechte ausgehende 
+positive Strom gelangt durch den Schließungsbogen yvx 
+zum Zinkblock Z und von diesem durch die Flüssigkeit wieder nach 
+ersterem zurück. Hierbei wird die Kupfervitriollösung zersetzt und 
+reines metallisches Kupfer ausgeschieden, welches sich alsdann in 
+feinen dünnen Schichten auf die aus dem Drahtgeflechte angebrachten 
+Gegenstände niederschlägt. Je nachdem man nun dieselben 
+längere oder kürzere Zeit in dieser Lösung läßt, so wird auch dieser 
+Kupferniederschlag dünner oder dicker, sodaß er nur wie ein 
+Hauch, ein Anflug erscheint, oder auch eine oder mehrere Linien 
+dick wird. Da dieses ausgeschiedene Kupfer so fein zertheilt ist,
+daß es wie ein Staub ist, so legt es sich auch in die feinsten 
+Schattirungen und Gravirungen der Formen nieder und liefert 
+deren getreuestes Ebenbild, nur erhöht, wo jene vertieft, und vertieft, 
+wo jene erhöht waren.
+Ganz ähnlich sind die Apparate zur galvanischen Vergoldung 
+und Versilberung, und man hat nur nöthig, den Trog statt mit 
+Kupfervitriollösung mit einer Gold- oder Silberlösung zu füllen.
+Sehr häufig werden auf diese Weise die galvanoplastisch hergestellten 
+Kupfergegenstände vergoldet und versilbert, indem man sie vorher 
+von allem Schmutz und Oxyd reinigt und eine kurze Zeit 
+lang in diese Apparate bringt, worauf sich an ihnen das ausgeschiedene 
+Gold oder Silber niederschlägt.
+Kehren wir jedoch wieder zu den galvanischen Batterien und 
+zwar zur Bunsen’schen zurück, nach deren Beschreibung wir den 
+Leser mit den Erscheinungen und Wirkungen des elektrischen Stromes 
+und den Telegraphen Apparaten bekannt machen wollen. 
+
+
+
+Bei 
+der Bunsen’schen Batterie, wovon Fig. 10 in I der Durchschnitt 
+eines Elementes und 
+in II die Ansicht desselben
+dargestellt ist, sind die Kupfercylinder 
+durch Kohlencylinder 
+ersetzt, welche entweder gar 
+keinen Boden oder eine Oeffnung 
+in demselben haben.
+In dem hohlen Raume derselben 
+befindet sich ein ähnlicher 
+Thoncylinder wie bei 
+der Daniell’schen Batterie, 
+dessen Durchmesser so groß 
+ist, daß er ziemlich genau 
+den hohlen Raum des Kohlencylinders 
+ausfüllt. Dieser 
+Thoncylinder nimmt 
+alsdann den Zinkblock auf.
+Ein jedes aus diesen drei 
+Theilen zusammengesetzte 
+Element wird wieder in 
+ein Glasgefäß gestellt, welches 
+mit Salpetersäure oder, 
+da diese beständig salpetrigsaure Dämpfe entwickelt, welche die Luft
+verunreinigen, Metalle angreifen und zerstören, sowie das Athmen 
+erschweren, mit verdünnter Schwefelsäure gefüllt ist. Der aus diesem 
+Glasgefäße hervorstehende Rand des Kohlencylinders ist mit 
+einem Ringe von Kupfer oder auch von Blei versehen, an welchem 
+zugleich ein Blechstreifen oder ein Drahtstück mit einer Schraube 
+festgelöthet ist, mittelst welcher jeder Kohlencylinder mit dem Zinkblock 
+des nächsten Elementes (wie in III dargestellt ist) verbunden 
+werden kann. Der innere Raum des Thoncylinders wird mit verdünnter 
+Schwefelsäure angefüllt, wie dieses auch mit dem Raume 
+zwischen dem Thon- und Kohlencylinder, sowie zwischen letzterem 
+und dem Glasgefäße geschieht. Der Stromlauf ist bei einer solchen 
+Batterie ganz derselbe wie oben bei der Daniell’schen, wenn nämlich 
+die Vereinigung der einzelnen Elemente, wie in Fig. 11 dargestellt 
+ist, 
+
+
+
+geschieht, 
+daß nämlich immer 
+der Kohlencylinder 
+des vorhergehenden 
+Elementes mit dem 
+Zinkblock des folgenden 
+verbunden 
+wird, sodaß also der 
+Zinkblock des ersten 
+Elementes den positiven 
+Pol der Batterie
+[477] bildet, während Kohlencylinder des letzten Elementes den negativen 
+Pol derselben darstellt. Wird dagegen die Vereinigung der Elemente 
+zu einer Batterie (wie in Fig. 12 dargestellt ist) vorgenommen, 
+
+
+
+d. h.
+daß alle Kohlencylinder 
+unter sich, sowie 
+auch alle Zinkcylinder 
+verbunden 
+werden, so bildet 
+der Zinkcylinder des 
+letzten Elementes den 
+positiven, und der 
+Kohlencylinder desselben 
+den negativen 
+Pol der Batterie.
+Der von Kohlencylinder 
+des ersten Elementes ausgehende positive Strom läuft zum 
+Kohlencylinder des zweiten, dritten, vierten und aller folgenden 
+Elemente, bis er, bei jenem des letzten Elementes angelangt, in den 
+Schließungsbogen übergeht, durch welchen er zum Zinkblock des 
+letzten Elementes zurückkehrt, und da dieser mit den Zinkcylindern 
+der Elemente wieder in Verbindung steht, so vertheilt er sich auch
+wieder auf die einzelnen Elemente und geht bei jedem durch die 
+Feuchtigkeit wieder zum Kohlencylinder.
+So wäre denn der Leser mit dem ersten Theile der elektromagnetischen 
+Telegraphie, nämlich mit den elektrischen Batterien 
+und mit der Erzeugung des galvanischen Stromes vertraut und 
+bekannt geworden, und wenn ihm auch noch Manches unklar und 
+räthselhaft erscheint, so möge er nur bedenken, daß ja das Wesen 
+und Agens der Elektricität selbst noch ein ungelöstes, vielleicht nie 
+zu lösendes Räthsel ist. Er weiß doch nun die Erzeugung des 
+galvanischen Stromes und kennt dessen Vorhandensein, sowie dessen 
+Benutzung und Verwendung zur Telegraphie; er kennt mit einem 
+Worte die Seele, die bewegende, wunderbare Kraft des elektromagnetischen 
+Telegraphen, und wir können ihn nun auch, mit dem zweiten 
+Theile desselben bekannt machen, nämlich: 
+
+mit den eigentlichen Vorrichtungen, Apparaten und Maschinen, durch welche der galvanische Strom gezwungen wird, die ihm vorgezeichneten Wege zu durchlaufen und auf diese oder jene Art und Weise seine Wirkungen zu äußern.
+Vor Allem ist es hier nothwendig, daß wir den Leser mit 
+den Erscheinungen, Fähigkeiten und Eigenschaften des elektrischen 
+Stromes vertraut machen, da er dann um so leichter die sich auf 
+dieselben stützenden Apparate verstehen und begreifen wird. Eine 
+Eigenschaft desselben hat der Leser bereits im Vorhergehenden kennen 
+gelernt, nämlich die Fähigkeit chemische Verbindungen herzustellen 
+und zu trennen. Die bei Weitem wichtigere ist jedoch 
+folgende, daß er vorhandene Magneten aus ihrer Ruhelage abzulenken 
+vermag, was zuerst von Oerstedt, Professor in Kopenhagen, 
+im Jahre 1820 beobachtet wurde. Er bemerkte nämlich, daß eine 
+freischwebende Magnetnadel ihre Richtung von Süden nach Norden 
+verläßt, wenn ein galvanischer Strom an ihr vorbeigeht, und 
+zwar ist diese Ablenkung der Nadel bald rechts, bald links, je 
+nachdem der Strom oberhalb, unterhalb oder seitwärts an ihr 
+vorübergeht. Doch nicht allein auf vorhandene Magnete äußert 
+der Strom seine Wirkung, sondern er besitzt auch die Fähigkeit, im 
+weichen, unmagnetischen Eisen, sobald er um dasselbe herumgeleitet 
+wird, einen sehr kräftigen Magnetismus zu erzeugen. 
+Was ist nun Magnetismus? Diese Frage wurde von den 
+Gelehrten bisher ebenso wenig wie jene, was Elektricität ist, beantwortet, 
+und man bezeichnet mit dem Worte Magnetismus im 
+Allgemeinen die Eigenschaft und Fähigkeit des Eisens, andere Eisentheile 
+anzuziehen und festzuhalten, und erklärt sich dieses, ebenso wie 
+bei der Elektricität, von einer fein zertheilten, unsichtbaren und gewichtslosen 
+Materie herrührend, die in jedem Eisentheilchen vorhanden 
+ist, aber nur dann erst zum Vorschein kommt, vielmehr sich 
+durch ihre Wirkungen kennbar macht, wenn das Eisen dem Einflusse 
+eines bereits vorhandenen constanten Magnets ausgesetzt 
+wird. Bei weichem Eisen verschwindet alsdann sofort der Magnetismus 
+wieder, wenn dieser Einfluß eines anderen aufhört, während 
+in hartem Eisen, d. h. im Stahle, der erregte Magnetismus 
+lange bleibt und vorhanden ist.
+Denkt man sich einen gewöhnlichen Eisenstab ab, (siehe Fig. 13)
+
+
+
+von einigen Zoll Länge und umwindet 
+denselben mit feinem Draht, 
+welcher selbst wieder mit Seide oder 
+Wolle übersponnen ist, damit sich 
+der durch denselben laufende Strom 
+nicht seitwärts von einer Drahtwindung 
+auf die andere fortpflanzen kann, sondern denselben seiner 
+ganzen Länge nach durchlaufen muß, so wird dieser Eisenstab so 
+lange magnetisch, als ein Strom diese Drahtwindungen durchläuft.
+Gewöhnlich giebt man solchen Eisenstäben eine hufeisenartige 
+Form, 
+
+
+
+wie Fig. 14 zeigt, nur umwickelt 
+denselben in schraubenförmigen Windungen 
+mit übersponnenem feinem 
+Kupferdraht, so daß alle Windungen 
+nach einer Richtung laufen, wenn 
+man das Hufeisen sich gerade gestreckt 
+denkt. Sind nun a und b die Enden 
+des Umwindungsdrahtes und man 
+bringt dieselben mit den Polen einer 
+Batterie in Verbindung, so ist letztere 
+dadurch geschlossen und der Strom 
+derselben läuft nun durch diese Drahtwindungen. 
+Je nach der Stärke des Stromes wird alsdann auch 
+dieser Eisenstab stärker oder schwächer magnetisch, so daß er im 
+Stande ist, einen Eisenanker c anzuziehen und so lange fest zu 
+halten, bis eine Unterbrechung des Stromes stattfindet, worauf der 
+Magnetismus im Eisen wieder verschwindet und dieser Anker c 
+von selbst wieder abfällt. Eine derartige Vorrichtung wird ein 
+Elektromagnet, sowie die durch den Strom hervorgerufene 
+Kraft Elektromagnetismus genannt, woher auch der Name 
+der elektromagnetische Telegraph kommt, da derselbe auf 
+diese Eigenschaft und Fähigkeit des galvanischen Stromes gegründet 
+ist.
+Es beruhen aus derselben: 
+
+a) die Signal-, Glocken- und Weckapparate, bei welchen man einestheils von dem Grundsatze ausging, daß die Mittheilung auf das Gehör die beste sei, da ja der Ton selbst das einfachste von der Natur zur Mittheilung bestimmte Mittel ist, während es andererseits wieder als nothwendig erschien, daß, bevor man mit entfernten Personen eine Correspondenz beginnen könne, man dieselben erst noch durch vernehmbare, auf das Gehör wirkende Zeichen aufmerksam mache;
+b) die Zeigerapparate, welche schon vorhandene Buchstaben oder Zahlen auf den entfernten Stationen mittelst eines Zeigers momentan vorweisen;
+c) die Schreibapparate, welche gewisse Zeichen als Punkte und Striche bleibend hervorbringen und dadurch ein selbst nach Jahren noch lesbares, bleibendes Document der Correspondenz liefern;
+d) die eigentlichen Druckapparate, welche die Buchstaben des Alphabets hervorbringen und fixiren.
+Wir werden den Leser mit vielen dieser Apparate vertraut 
+und bekannt machen, und er wird nun, wenn er die im Vorstehenden 
+ausgeführten Eigenschaften des elektrischen Stromes vollkommen 
+aufgefaßt und verstanden hat, mit Leichtigkeit die Bestimmung derselben, 
+ihre Anordnungen, sowie das Ineinandergreifen der einzelnen 
+Theile einsehen und sich eine genaue und gründliche Kenntniß 
+derselben verschaffen können.

@@ -1,0 +1,194 @@
+[169] Sprechmaschinen.
+(Edison’s Phonograph.)
+Die neueste aus dem Telephon hervorgewachsene Erfindung,
+der Phonograph des amerikanischen Physikers Thomas A. Edison 
+ist eine kleine Maschine, die jeden ihr einmal vorgesagten
+Redesatz, jedes ihr vorgesungene Lied getreulich in ihrer walzenförmigen 
+Gedächtnißtafel bewahrt und nach Belieben sogleich oder
+später mit vollkommenster Stimmennachahmung wiederholt. Eine
+solche Maschine könnte, wie man sieht, der Stimme einer berühmten 
+Sängerin über deren Grab hinaus Dauer verleihen; sie
+könnte den Dialog einiger ausgezeichneten Schauspieler fixiren
+und das Sprüchwort. „Die Nachwelt flicht den Mimen keine
+Kränze“ für einen gegebenen Fall in Frage stellen. Damit sieht
+sich wieder einmal ein alter Herzenswunsch der Menschheit erfüllt, 
+denn die Bemühungen, eine sprechende oder singende Maschine
+zu Stande zu bringen, sind so alt, wie die Geschichte.
+Alte Schriftsteller erzählen uns bereits von sprechenden und
+singenden Figuren aus Gold, die an den Decken der babylonischen
+und griechischen Paläste und Tempel angebracht waren, von
+sprechenden Köpfen, welche den Menschen die Zukunft und den
+Willen der Götter verkündeten, ärmliche Abschlagszahlungen des
+Problems, bei denen die menschliche Sprache durch versteckte
+Röhren in die Figuren und Köpfe geleitet wurde, zur Täuschung
+leichtgläubiger Personen. Endlich im dreizehnten Jahrhundert
+soll Albert von Bollstädt, der Bischof von Regensburg, den
+man wegen seiner außerordentlichen Kenntnisse den Großen nannte,
+jene Aufgabe der mechanischen Stimmennachbildung völlig gelöst
+und eine Figur angefertigt haben, die seinen Besuchern nicht nur
+die Thür öffnete, sondern sie auch mit verständlicher Stimme
+begrüßte. Aber als ihn der (trotz seines Unglaubens in Sachen
+der unbefleckten Empfängniß) unter die Heiligen versetzte Thomas
+von Aquino eines Tages besuchte, entsetzte er sich dermaßen vor
+dem sprechenden Automaten, daß er das Teufelswerk mit seinem
+Stocke in Stücke schlug und dadurch, wie die Sage berichtet,
+dem Künstler die schmerzliche Klage auspreßte. „Da geht die
+Arbeit von dreißig Jahren zu Grunde.“
+Wie es sich hiermit nun auch verhalten haben mag, die
+Ansicht, daß die menschlichen Stimmwerkzeuge auch nur ein
+Instrument, wie eine Flöte oder Orgel seien, machte sich früh
+geltend, und ebenso früh erschien Mechanikern und Naturforschern
+der Gedanke verführerisch, ein solches Instrument zu erbauen.
+In jenem astronomischen Märchen, von welchem die „Gartenlaube“
+im vorigen Jahrgang (Nr. 14) Näheres mittheilte, in der
+Mondreise, sprach der große Kepler seine Ueberzeugung aus,
+daß es der Mechanik einst sicher gelingen werde, die menschliche
+Stimme nachzubilden nur fürchtete er, daß der Kunststimme die
+[170] musikalische Geschmeidigkeit der Menschenstimme fehlen möchte,
+daß sie jenen hohlen, unmelodischen Klang behalten würden, den
+man ehemals den Geisterstimmen beilegte, und in dem Kepler den
+Dämon seiner Mondreise sprechen läßt.
+Mehr als hundert Jahre später war das Problem noch
+nicht gelöst, aber die Zuversicht der Physiker war darum nicht
+schwächer geworden. Im Juni 1761 schrieb der berühmte
+Mathematiker Euler, damals Professor in Berlin, in seinen
+zur Einführung in die Physik noch heute geschätzten „Briefen
+an eine deutsche Prinzessin“: „Es wäre wohl eine der wichtigsten
+Entdeckungen, wenn man eine Maschine bauen könnte, welche im
+Stande wäre, alle Klänge unserer Worte mit allen Articulationen
+nachzuahmen. Wenn man es je dahin bringe würde, eine
+solche Maschine auszuführen, und man im Stande wäre, sie
+durch Tasten, wie bei einer Orgel oder dem Claviere, alle
+Worte aussprechen zu lassen, dann dürfte wohl alle Welt mit
+Erstaunen zuhören, wie eine Maschine ganze Sätze oder Reden
+vorträgt, die man mit dem schönsten Ausdrucke begleiten könnte.
+Prediger und Redner, deren Stimme nicht gerade angenehm ist,
+könnten dann ihre Reden auf einer solche Maschine abspielen,
+gerade wie ein Organist Musikstücke spielt. Die Sache scheint
+mir nicht unmöglich.“
+Euler wies in demselben Briefe zugleich den Weg, den
+man bei diesen Versuchen einschlagen müßte. Er erinnerte
+daran, daß sich an manchen Orgeln ein Register befindet, welches
+man die menschliche Stimme (Vox humana) nennt, weil der
+Zusammenklang der dabei wirkenden Pfeifen sich so anhört, als
+ob ein Mensch die Melodie auf ä singe. Er hatte vorher gesagt,
+daß der Klang der verschiedenen Vocale, wie man sich leicht
+durch Selbstbeobachtung überzeugen kann, hauptsächlich von der
+Gestalt abhängt, die man der Mundhöhle giebt, und er meinte
+deshalb, daß man durch verschiedene Gestaltnachahmungen in
+den Pfeifen ohne besondere Schwierigkeit auch die übrigen
+Vocale würde hervorbringen können. Die Hauptschwierigkeit
+erkannte er bereits in der Nachbildung der Consonanten.
+Wie es in der Ordnung ist, versuchte man sich zuerst in
+der Nachahmung von Thierstimmen. In den siebenziger Jahren
+des vorigen Jahrhunderts verfertigten die Gebrüder Le Droz
+in Chaux de Fonds zuerst für den König Ferdinand den
+Sechsten von Spanien einige Thierfiguren, die ihre Stimme
+täuschend erschallen ließen. Da war ein Schaf, welches vollkommen 
+naturgetreu blökte, ein Hund, der einen Korb mit
+Früchten bewachte und, sobald eine Frucht hinweggenommen
+wurde, heftig zu bellen anfing und damit nicht eher nachließ,
+bis sie wieder an dieselbe Stelle zurückgelegt worden war, ein
+singender Vogel und dergleichen noch heute vielfach nachgeahmte
+automatische Kunstwerke, die jetzt namentlich von den Uhrmachern
+in Genf und Neuenburg angefertigt werden.
+Im Jahre 1779 stellte die Petersburger Akademie, wahrscheinlich 
+auf Veranlassung des inzwischen an dieselbe zurückberufenen, 
+leider erblindeten Professor Euler, die Erforschung
+der Vocalbildung und die Herstellung einer Maschine, um dieselbe
+nachzuahmen, als akademische Preisaufgabe. Die Vocale entstehen, 
+wie die dadurch veranlaßte und besonders die später von
+Chladni angestellten Vesuche ergaben, erst durch Modulation
+des Stimmritzentons an den Wandungen der Mundhöhle. Wenn
+der in der Stimmritze erzeugte, höhere oder tiefere musikalische
+Ton frei in diese Höhlung hinein- und ebenso frei wieder heraustreten 
+kann, so nimmt der Klang die Färbung des Vocals a an.
+Wird jedoch während des Tönens die vordere Oeffnung mehr
+und mehr geschlossen, während die Eintrittspforte unverengert
+bleibt, so geht der Klang (wie man leicht an sich selbst beobachten
+kann) allmählich aus a in o und endlich in u über. Bleibt der
+Mund umgekehrt vorne offen, während der hintere Eingang
+stufenweise verengert wird, so entsteht die Vocalfolge a, ä, e, i.
+Wird der Mund hinten und vorn zugleich verenget, so entstehen
+die Vocale ö und ü. Ohne nun diese Bewegungen nachzuahmen,
+versah der Physiker Kratzenstein fünf Zungenpfeifen mit durch
+Probiren hergestellten, unbeweglichen, hölzernen Mundhöhlen, bei
+denen das Verhältniß der vorderen und hinteren Mundöffnung
+zu einander so regulirt war, daß durch bloßes Anblasen dieser
+Pfeifen die fünf Vocale entstanden, wodurch er den erwähnten
+akademischen Preis gewann.
+Um dieselbe Zeit nahm auch der Wiener Hofrath
+von Kempelen diese Versuche auf und bestrebte sich, indem er
+Vorrichtungen zur Erzeugung der Consonanten erdachte, eine
+wirkliche Sprechmaschine herzustellen. Er pflegte zu sagen, daß
+er zu diesem Zwecke die Mundöffnungen der Thiere studirt habe,
+in deren Stimme bestimmte Consonante vorherrschen, und daß
+er das b den Schafen und das m den Kühen abgelernt habe.
+Sein größter Fortschritt war, daß er mit den Pfeifen einen
+wirklichen, beweglichen Mund nebst einer Nase verband. Im
+Uebrigen machte seine Maschine im Sprechen fast dieselben langsamen 
+Fortschritte, wie ein kleines Kind. Zuerst gelang es ihr
+nur, so einfache und leichte Worte mechanisch nachzubilden, wie
+sie die ganz kleinen Kinder hervorbringen, nämlich: Mama, Papa,
+Aula, Lama und ähnliche. Durch höchst anerkennenswerthe Bemühungen, 
+die ihm leider nicht so viel Ruhm eintrugen, wie sein
+auf einer bloßen geschickten Täuschung beruhender Schachspieler,
+kam Kempelen allmählich immer weiter. Seine Versuche richteten
+sich, wie gesagt, zunächst auf eine Analyse der Consonanten. Er
+hatte wohl erkannt, daß dieselben nur Geräusche sind, welche den
+Vocallaut, so zu sagen, umkleiden, wenn derselbe nämlich auf
+seinem Wege Hindernissen, Vorsprüngen etc. begegnet, oder sich
+durch schmale Spalten, längere Röhren etc. hinausdrängen muß.
+Das m kam gleich zu Anfang ausgezeichnet schön aus der Kunstnase, 
+dagegen machte das durch plötzliche Oeffnung des Mundes
+hervorgebrachte b und p anfangs Schwierigkeiten, und das
+Maschinenkind nannte seinen Vater ursprünglich mit der größten
+Hartnäckigkeit „Pha–Pha“, wie es den alle Vocale stark aspirirte.
+Dem entspreched kam das h bei jedem plötzlichen Luftstoß sehr
+deutlich aus den Vocalpfeifen, und es mußte sogar alle Sorgfalt 
+darauf verwendet werden, daß es nicht an unrechter Stelle
+auftrat.
+Die Consonanten, welche durch Verengerung der Lippen und
+Hindernisse im vordern Mundtheile gebildet werden, wie w, f,
+s, j, sch und ähnliche, ließen sich deutlich nachbilden, und selbst
+das r, welches einzelnen kleine Kindern so viele Schwierigkeiten
+bereitet, wurde mit große Virtuosität hervorgebracht. Dagegen 
+begegnete die Nachbildung derjenigen Consonanten, welche kurz
+nach einander Verengerung und plötzliche Erweiterung der vordern
+oder hinteren Mundtheile erfordern, wie d, t, g, k, den größten
+Schwierigkeiten. Schließlich brachte Kempelen eine Maschine zu
+Stande, deren in einem drei Fuß langen Kasten enthaltenen und
+von einem mit der Hand bewegten Blasebalge angeblasene
+Pfeifewerke mittelst einer Claviatur, deren Tasten den Buchstaben 
+entsprachen, gespielt werden konnte, und welche auf Verlangen 
+einfache Worte und Sätze ungefähr mit der Stimme eines
+zwölfjährigen Mädchens nachsprach. Am besten gab die Maschine
+lateinische Worte wieder, excellirte aber auch in kurzen französischen
+Phrasen, wie z. B.: Vous êtes mon ami oder Venez avec
+moi à Paris! etc., wobei der fremde Accent zuweilen überraschend 
+treu gelang. Ueberhaupt erklang die Sprache oft so
+täuschend menschlich aus dem Kasten, daß viele Personen, denen
+die Maschine gezeigt wurde, mit Unrecht eine Täuschung, wie
+bei dem Schachspieler, argwöhnten und die Meisten unwillkürlich
+das Gesicht der Maschine zuwenden mußten, sobald sie ihr Geplauder 
+begann.
+Gleichwohl versagten die Fähigkeiten der Maschine einzelnen
+Worten gegenüber gänzlich; andere verlangten eine so sorgfältige
+Behandlung des Blasebalges, der Tasten und sogar der Pfeifenmundstücke 
+mit der Hand, daß kein Anderer als der Erfinder
+selbst sie hervorbringen konnte, und endlich gab er alle weitere
+Vervollkommnungsversuche mißmuthig auf. Seine Maschine ist
+später durch die Physiker Willis in Cambridge und Posch in
+Berlin vereinfacht worden, und auch der englische Physiker
+Wheatstone hat den Versuch, durch bewegliche Zungenpfeifen die
+menschliche Sprache nachzuahmen, noch einmal aufgenommen.
+Wheatstone’s Maschine sprach geläufig lateinisch, italienisch und
+französisch, aber das Deutsche wurde ihr sehr schwer, und bei
+einzelnen Buchstaben mußte, gerade wie bei der Kempelen’schen
+Maschine, die Hand nachhelfen, um den Laut glücklich zur Welt
+zu bringen.
+Alle diese Versuche sind weit übertroffen worden durch die
+von dem Wiener Mechaniker Faber vor circa dreißig Jahren
+angefertigte Sprechmaschine, die, in dem Körper einer meschlichen 
+Figur verborgen, allgemeine Bewunderung erregte, da sie
+ebensowohl leise flüstern wie laut und ausdrucksvoll sprechen, wie
