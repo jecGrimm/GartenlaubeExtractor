@@ -17,7 +17,9 @@ to add the submodules afterwards. Without this command, the directory `resources
 ### CLI
 `python3 extract.py`
 
-The optional argument `-m (test|run)` specifies whether the texts and metadata should be extracted from wikisource from scratch (modus `run`). If the modus `test` is activated, the already extracted texts and metadata are drawn from the file `test_dicts.json` (if available). In this case, please specify which functions should be tested.
+The optional argument `-m (test|run)` specifies whether the texts and metadata should be extracted from wikisource from scratch (modus `run`). If the modus `test` is activated, the already extracted texts and metadata can be drawn from the file `test_dicts.json` (if available). In this case, please define which functions should be tested.
+
+The optional argument `-p (fast|safe)` decides whether the text and metadata is stored after every subcategory (processing `safe`) or once after extracting the whole Gartenlaube (processing `fast`). The second option is faster but all information is lost if an error occurs. 
 
 ### Environment
 The packages needed to run the script are stored in the file `gartenlaube_environment.yml`. To create your own environment for this script, follow these steps:
@@ -57,7 +59,7 @@ Directory containing the xml-files for the texts in the corpus Deutscher Novelle
 ## Coding decisions
 ### Text
 #### Splitting episodes
-A whole text is split episodes every time the page number is not continous.
+The whole text is split into episodes every time the page number is not continous.
 
 Epsiode text files are created only when a text consists of more than one episode.
 
@@ -91,6 +93,12 @@ The field `Nummer im Heft (ab 00797: 1 erste Position. 0 nicht erste Position)` 
 #### Pages
 The field `Seiten` marks the pages of the text in the journal. Unfortunately, wikisource does not always provide the page numbers for each episode. In these cases, the field is filled with the page numbers for the whole article. 
 
+#### Gattungslabel_ED
+The field `Gattungslabel_ED` defines the historical genre label of the text. Here, the genre label is set as "E_N_Rubrik" if the text appears in the category "Erzählungen und Novellen.". If the category name contains the string "Novelle" but is not equal to "Erzählungen und Novellen.", the category name is set as `Gattungslabel_ED`. The field stays empty in all other cases.
+
+### Filter
+The medium studied in this project are novellas. Therefore, all texts marked as poem or ballade on the [journal pages](https://de.wikisource.org/wiki/Die_Gartenlaube_(1853)) are excluded. Furthermore, we exclude all texts that are not listed as part of the genre "Erzählungen und Novellen." on the [index pages](https://de.wikisource.org/wiki/Seite:Die_Gartenlaube_(1853)_p_004.jpg). As the titles in the index lists are not always exact matches with the article titles, we align them via exact matches and overlapping words. 
+
 ## Limitations
 ### Text
 #### Quality
@@ -104,7 +112,6 @@ The following fields are not automatically filled in the metadata table:
 - `Pseudonym`
 - `Untertitel im Text`
 - `Untertitel im Inhaltsverzeichnis`
-- `Gattungslabel_ED`
 - `Gattungslabel_ED_normalisiert`
 - `Medium_Zweitdruck`
 - `Jahr_Zweitdruck`
@@ -122,8 +129,6 @@ The following fields are not automatically filled in the metadata table:
 - `ist_spätere_Fassung_von`
 
 ### Future Work
-- Extract missing fields in the metadata. 
+- Extract missing fields in the metadata.
 - Make position in the journal, author name, and gender detection more robust.
-- Collect more novellas via the category "Novelle" in wikisource.
-- Collect more texts of the authors.
-- Filter the texts accurately for novellas.
+- Refine the novella filter.

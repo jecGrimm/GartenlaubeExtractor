@@ -1,1 +1,0 @@
-[480] Schach. Aufgabe Nr. 2. Weiß am Zuge setzt in vier Zügen matt. Stellung: Weiß. K. b 4. D. g 5. S. c 1, g 6. Schwarz. K. d 4. T. d 1. S. a 4. B. c 4.

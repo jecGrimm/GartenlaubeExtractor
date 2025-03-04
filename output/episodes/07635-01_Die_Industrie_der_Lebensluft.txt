@@ -1,0 +1,225 @@
+[195] Die Industrie der Lebensluft.Skizze aus der modernen Technik. Von W. Berdrow.
+Unsere Kenntnisse vom Wesen des Sauerstoffes als des eigentlichen 
+Trägers der meisten chemischen und organischen Lebensvorgänge 
+hat Menschenalter hindurch zu denjenigen theoretischen
+Thatsachen gehört, die sich in der Schule von Geschlecht zu Geschlecht 
+vererben, ohne daß das Leben erklecklichen Gewinn aus
+ihnen zieht. Daß von dem uns umgebenden Luftmeer nur der
+fünfte Teil, nämlich der darin enthaltene Sauerstoff, uns eigentlich
+von Nutzen ist, während der weit überwiegende Stickstoffgehalt nur
+als unnützer Ballast sowohl in unseren Lungen als bei allen
+chemischen und technischen Prozessen, bei denen wir der Luft bedürfen, 
+funktioniert, das haben wir alles längst gewußt; aber erst
+in den letzten Jahren hat man begonnen, aus diesem Wissen Nutzen
+zu ziehen. Natürlich können wir den alltäglichsten Lebensvorgang,
+bei dem die atmosphärische Luft die Hauptrolle spielt, die Atmung,
+nicht verändern; die Lunge ist einmal für die Verarbeitung des
+Sauerstoffs in der fünffachen Verdünnung, wie die Atmosphäre
+ihn uns bietet, eingerichtet und vermag ihre Verbrennungsarbeit
+auch so zu bewältigen. Bisweilen aber treten auch hier Fälle ein,
+in denen eine Atmosphäre aus reinem Sauerstoff uns von weit
+größerem Nutzen sein würde und jetzt, nachdem man sie herzustellen
+gelernt hat, auch ist. So z. B. auf hohen Bergen, wo dem Besucher 
+leicht der Atem zu kurz wird. In 5500 m Höhe z. B., wo
+der Kubikmeter Luft bloß noch halb soviel Sauerstoff enthält als
+in der Tiefebene, muß die Lunge mit verdoppelter Kraft arbeiten,
+um die Lebensvorgänge zu unterhalten, und je höher man kommt,
+desto schwieriger wird das. In 7000 bis 8000 m Höhe hört die
+Möglichkeit, mittels der Lunge der Atmosphäre hinreichend Sauerstoff 
+zu entziehen, überhaupt auf, und die darüber hinausliegenden
+Höhen, die mehrfach auf wissenschaftlichen Ballonfahrten erreicht
+worden sind, wurden dem Menschen erst zugänglich durch die Mitnahme 
+von aufgespeichertem reinen Sauerstoff, den man in den
+stark verdünnten Luftschichten zum Atmen benutzte.
+Unverhältnismäßig größer ist das Wirkungsfeld, welches sich
+dem reinen Sauerstoff in der Verbrennung von Kohle oder irgendwelchen 
+anderen Feuerungsmitteln zu gewerblichen Zwecken öffnet.
+In jeder Feuerungsanlage, vom Stubenofen bis zum Eisenschmelzwerk 
+und ebenso in jedem Petroleum-, Gas- oder Spiritusbrenner,
+der zum Kochen oder Heizen dient, findet eine große Verschwendung 
+statt, indem jede Flamme nur durch unausgesetzte Luftzufuhr
+unterhalten werden kann, aber stets nur ein Fünftel der zugeführten
+Luft wirklich ausnutzt, während vier Fünftel, der ganze Stickstoffgehalt 
+der Atmosphäre, als unnützer Ballast miterhitzt und alsdann
+ausgestoßen wird. Es wäre ein Irrtum, zu glauben, daß diese
+Erhitzung der überflüssigen atmosphärischen Bestandteile keine erhebliche 
+Rolle beim Verbrennungsprozeß spielen könne. Die durch
+sie bewirkten Verluste sind jedenfalls größer als diejenigen der so
+oft beklagten unvollkommenen Aufzehrung der Kohle, von welcher
+die Ruß- und Rauchentwicklung zeugt. Ein Hochofen gebraucht
+in 24 Stunden an eingeblasenem Wind ein größeres Gewicht, als
+Erze und Kohlen zusammen ausmachen, und vier Fünftel dieses
+Gewichtes müssen nutzlos auf dieselbe Temperatur erhitzt werden,
+welche das schmelzende Erz besitzt. Viel Kosten würden sich ersparen 
+lassen, wenn man anstatt Luft reinen Sauerstoff in die
+Oefen blasen könnte, um so mehr, als im reinen Sauerstoff alle
+Brennmaterialien sich unter weit höherer Glut zersetzen und mit
+wenig Kohle derselbe Effekt erreicht wird wie unter bloßem
+Luftzutritt mit sehr viel mehr Brennstoff. Im kleinen beobachtet
+man schon an einer Flamme von Leuchtgas oder Wasserstoff dasselbe: 
+unter reiner Sauerstoffzufuhr entwickeln diese Heizstoffe
+eine Temperatur, bei der die am schwersten schmelzbaren Metalle
+sich verflüssigen und Kalk, Zirkon und ähnliche Erden zu einer
+Glut gebracht werden, die an Helligkeit dem elektrischen Bogenlicht 
+nichts nachgiebt.
+Daß alle diese und andere Vorteile sich mit Hilfe des Sauerstoffes 
+erreichen lassen würden, sah man nun, wie erwähnt, schon
+vor Menschenaltern ein, aber erst in den letzten Jahren ist man
+der Verwirklichung des alten Gedankens näher gekommen, und
+jetzt giebt es bereits eine ganze Zahl von Fabriken, welche die Herstellung 
+von Sauerstoff zu ihrer Aufgabe gemacht haben, wie es
+schon seit langer Zeit Leuchtgasfabriken und neuerdings solche zur
+Erzeugung von Kohlensäure und zahlreichen anderen Gasen giebt.
+Der Sauerstoff, den früher nur die Laboratorien jeweilig in
+kleinen Mengen für ihren eigenen Gebrauch erzeugten, wird heute
+in diesen Anstalten im großen durch Retorten und Maschinen
+fabriziert, und zwar meist nach einer Methode, die von Boussingault
+schon vor mehr als 40 Jahren angegeben wurde, ohne indes
+damals wegen der ihr noch anhaftenden Mängel eine praktische
+Bedeutung erlangen zu können. Das Verfahren besteht darin,
+[196] daß man den in der Luft vorhandenen Sauerstoff von den ihm 
+beigemengten Stickstoffmassen befreit. Das Mittel dazu bildet 
+das Baryumoxyd, d. h. eine kalkartige Sauerstoffverbindung des 
+Metalles Baryum, welche die wunderbare Eigenschaft hat, bei 
+einem bestimmten Wärmegrade, etwa 600 °, mit großer Begier 
+Sauerstoff aus der Atmosphäre einzuschlucken, den es bei nur 
+wenig höherer Glühhitze ebenso energisch wieder von sich giebt.
+Weiter als diese Thatsache braucht man von chemischen Prozessen 
+nichts zu verstehen, um die Vorgänge in einer Sauerstofffabrik 
+zu begreifen. Wir erblicken beim Besuch einer solchen im 
+Maschinenraum vor allem eine oder mehrere große Luftpumpen, 
+einige Oefen mit darin aufgehängten, in schwacher Glut stehenden 
+Retorten aus Schmiedeeisen und mehrere sehr einfache Reinigungsapparate. 
+Die Seele des ganzen Betriebes ist die von Dr. Elkan, 
+dem Gründer der ersten derartigen Fabrik in Deutschland, ersonnene 
+Pumpmaschine, welche fast ohne Bedienung, automatisch 
+und mit der Regelmäßigkeit einer Uhr, Tag und Nacht in stetigem 
+Wechsel ihren unausgesetzt sich verändernden Dienst versieht. Einmal 
+preßt sie nämlich Luft in die glühenden, mit Baryumoxyd 
+gefüllten Retorten hinein, dann saugt sie solche daraus auf und befördert 
+sie weiter, und diese Verrichtungen wechseln von fünf zu 
+fünf Minuten ab, ohne daß jemand einen Hahn an der Maschine 
+zu drehen brauchte. Verfolgen wir einmal den Vorgang, um zu 
+beobachten, wie dabei das eigentliche Produkt der ganzen Arbeit, 
+der Sauerstoff, gewonnen wird.
+Die Retorten mit ihrer vollen Ladung von Baryumoxyd 
+schwitzen in der Glut der darunter züngelnden Gasfeuerung und 
+haben eine genau abgestimmte Temperatur, etwa 800° C. Sie 
+sind nicht nur unfähig, Sauerstoff aufzunehmen, sondern haben
+sogar, wie das Baryumoxyd bei dieser Temperatur gezwungen ist, 
+soeben allen Ueberschuß davon ausgestoßen. Jetzt beginnt die 
+Maschine zu arbeiten und preßt einen Luftstrom durch die Retorten,
+der vorher in den chemisch wirkenden Reinigungskästen von allen 
+anhaftenden Unreinigkeiten befreit ist, so daß nur eine tadellose 
+Mischung von Sauerstoff und Stickstoff in die Retorten gelangt 
+und durch die hohe Schicht körnigen Baryumoxyds, wie Wasser 
+durch ein Filter, hindurchstreicht. Der Luftstrom ist eisig kalt und 
+unter seinem Einfluß sinkt die Temperatur des Baryumsalzes in 
+wenigen Sekunden um etwa 200 °, so daß letzteres nun gerade den 
+kritischen Punkt erreicht, in dem es begierig Sauerstoff in sich aufsaugt. 
+Dieser Prozeß geht denn auch vor sich: die Pumpe drückt 
+nach wie vor ihren kalten Luftstrom unten in die Retorten hinein, 
+aber was oben entweicht, ist bloß noch Stickstoff, den Sauerstoff hat 
+das Baryumoxyd in sich geschluckt, dabei gleichzeitig in Baryumsuperoxyd 
+übergehend. Die Sauerstoffaufnahme kann nun aber 
+nicht immer in gleichem Maße fortgehen: das Salz ist in wenigen
+Minuten damit gesättigt, und der Prozeß muß unterbrochen werden. 
+Hier greift nun die sinnreichste Vorkehrung des Elkanschen Verfahrens 
+ein und bewirkt, daß im gebotenen Augenblick eine Umkehrung 
+der Luftströmung in allen Röhren stattfindet. Der Inhalt
+der Retorten nämlich, der anfangs durch die eingepreßte Luft auf 
+600 ° abgekühlt wurde, wird in derselben Zeit, in der die Sauerstoffaufnahme 
+stattgefunden hat, vom darumspielenden Feuer auf 
+800 ° wieder erhitzt, und das Baryumsalz hat jetzt nur noch das 
+Bestreben, seinen Sauerstoff möglichst rasch loszuwerden. In 
+demselben Augenblick nun steuert die Luftpumpe, die übrigens hier 
+aus einer großen Dampfmaschine besteht, ihre Ventile um, ohne 
+dazu der Handreichung eines Wärters zu bedürfen, und beginnt 
+nun zu saugen, anstatt zu drücken. In den ersten Sekunden 
+saugt sie noch stickstoffhaltige Gase aus den Retorten, dann aber 
+stoßen die letzteren mit großer Energie ihren aufgespeicherten 
+Sauerstoff aus; die Pumpen saugen ihn auf und pressen ihn in
+den Gasbehälter, wo er sich abkühlen kann.
+Auch dieser Prozeß dauert nur einige Minuten, dann ist der 
+Sauerstoffüberschuß des Salzes erschöpft; die Pumpen beginnen
+wieder, kalte Luft in die Retortenbatterie zu pressen; deren Inhalt
+kühlt sich ab, erlangt bei 600° wieder die Fähigkeit, begierig Sauerstoff 
+aufzusaugen, und die ganze Geschichte wiederholt sich in einem 
+festgesetzten Rhythmus von etwa fünf zu fünf Minuten ohne Aufhören, 
+Tag und Nacht, gleich wie die Oefen der Gasanstalten 
+wochen– und monatelang unter Glut liegen, bevor sie einmal 
+außer Dienst gesetzt werden. Der so erhaltene Sauerstoff ist so 
+rein, daß er nur noch etwa 2 % Stickstoff enthält, welche in der 
+Praxis keine Rolle mehr spielen, und dabei verhältnismäßig billig 
+herzustellen, nämlich für einen Pfennig das Liter oder 10 Mark 
+der Kubikmeter. Allerdings ist das vorläufig nur in dem Sinne 
+billig, daß diejenigen Prozesse, bei denen man bis jetzt den reinen 
+Sauerstoff gebraucht, ihn in so geringen Mengen benutzen, daß 
+er auch bei einem höheren Preise noch seine Abnehmer finden 
+würde. Um die Verwendung im großen, etwa für Hüttenwerke, 
+Oefen u. dergl., zu ermöglichen, müßte man den Sauerstoff so 
+billig herstellen können wie etwa das Leuchtgas, d. h. 50 bis 60 mal 
+wohlfeiler als jetzt. Indessen kann man nicht in Abrede stellen, 
+daß künftige bessere Arbeitsmethoden nicht auch dies Ziel noch einmal 
+erreichen könnten, denn schon jetzt rivalisieren mit dem vorbeschriebenen 
+Verfahren mehrere andere Methoden, die alle eine 
+billigere Herstellung zum Zweck haben. Der berühmte Erfinder vieler 
+Kältemaschinen, Prof. Linde in München, hat sich ebenfalls der
+Sauerstofffabrikation zugewandt; das von ihm erdachte Verfahren, 
+welches er vor kurzem dem deutschen Kaiser in Berlin vorführte, 
+verdient schon seiner Kühnheit und Originalität wegen Erwähnung.
+Bekanntlich ist es den letzten Jahren gelungen, die meisten 
+Gase, die sonst am hartnäckigsten in ihrem luftförmigen Zustande beharrten, 
+flüssig zu machen, so auch den Sauerstoff und den Stickstoff,
+die Hauptbestandteile der atmosphärischen Luft; von den beiden 
+Gasen läßt sich aber der Stickstoff schwerer verflüssigen. Linde stellt 
+nun große Massen flüssiger Luft her, die dann der Destillation unterworfen, 
+d. h. auf ihren Siedepunkt gebracht wird. Um die Neuheit 
+und Schwierigkeit dieses Verfahrens zu verstehen, muß man wissen, 
+daß das Sieden der flüssigen Luft sich etwa bei 200° unter Null 
+vollzieht, während die Verflüssigung selbst so schwierig ist, daß es 
+bisher in den Laboratorien nur gelang, ganz geringe Mengen 
+dieser blauen, aus verdichteter Atmosphäre bestehenden Flüssigkeit 
+herzustellen. Wie Linde diesen Prozeß im großen auf maschinellem 
+Wege ins Werk setzt, konnte man im vorigen Sommer an dem 
+auf der bayrischen Landesausstellung zu Nürnberg vorgeführten 
+Modell zum erstenmal öffentlich sehen. Die Wirkung der
+Lindeschen Maschine beruht vor allem auf dem Prinzip der sogenannten 
+Expansionskälte, d. h. der plötzlichen starken Abkühlung, 
+welche ein Gas oder Gasgemisch erleidet, wenn es
+ebenso plötzlich einer starken Expansion oder Ausdehnung unterworfen 
+wird. Im wesentlichen besteht die Maschinerie aus einer 
+starken Dampfluftpumpe zum Komprimieren großer Luftmengen,
+einer Expansionskammer zur plötzlichen Ausdehnung und Abkühlung 
+der Luft und einem sogenannten Gegenstromapparat,
+dessen Aufgabe es ist, die einmalige, in der Expansionskammer
+erzielte Abkühlung der Luft nach Möglichkeit auszunutzen und in
+einem eigentümlichen Kreisprozeß weiter zu übertragen. Nach
+diesen Andeutungen wird eine kurze Schilderung der Wirkungsweise 
+des Lindeschen Apparates verständlicher sein. Die in der
+Kompressionspumpe auf etwa 175 Atmosphären verdichtete Luft
+strömt durch ein langes kupfernes Schlangenrohr in den Expansionsraum, 
+wo sie sich plötzlich auf 40 Atmosphären ausdehnen 
+kann und dabei eine sehr niedrige Temperatur annimmt.
+So kehrt sie zu dem Kompressor zurück, um aufs neue auf
+175 Atmosphären verdichtet zu werden, aber auf dem Wege
+dahin muß sie ein zweites Schlangenrohr durchlaufen, welches
+derart in das erstere verflochten ist, daß sich die Kälte der zurückkehrenden 
+auf die in den Expansionsraum einströmende Luft
+überträgt. So tritt die letztere bereits in kaltem Zustande in die
+Kammer ein, in noch viel kälterem wieder aus, und bei dem fortlaufenden 
+Kreisprozeß von Verdichtung und Ausdehnung steigert
+sich die Expansionskälte schließlich so hoch, daß die Luft im
+Augenblicke ihres Eintretens in die Expansionskammer flüssig
+wird. Nun setzt sich der Verflüssigungsprozeß, der bei 40 Atmosphären 
+Druck und 140° Kälte, wie sie jetzt in der Expansionskammer 
+herrschen, unter allen Umständen stattfinden muß, stetig
+fort, und zwar so ausgiebig, daß die flüssige Luft bald eimerweise
+aus der Maschine abgezapft werden kann.
+Verfügt man nun über größere Mengen flüssiger Luft, so ist
+es leicht, aus ihr Sauerstoff zu gewinnen. Man läßt sie lediglich
+sieden, was sofort geschieht, wenn die Temperatur der Umgebung
+Zutritt erhält. Alsdann verflüchtigt sich der Stickstoff zuerst, da
+er bei weitem schwerer in die flüssige Form zu bannen ist als
+der Sauerstoff, und letzterer bleibt zurück. Man braucht dann
+also nur das letzte Viertel der Flüssigkeit für sich verdampfen zu

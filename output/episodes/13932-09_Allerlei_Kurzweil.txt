@@ -1,8 +1,0 @@
-[84] Auflösung der Skat-Aufgabe Nr. 1 auf S. 36:
-Der Spieler hatte g7 und e7 gedrückt, die übrigen Karten sind so vertheilt:
-Vorhand: sD, eK, eO, e9, e8, gZ, gK, gO, g9, g8.
-Hinterhand: sZ, sK, sO, s9, rZ, rK, rO, r9, r8, r7.
-Der Gang des Spieles war so:
-1. gZ, gD, sZ  (—31)
-2. rZ, sD, rD  (—32)
-3. eK, eD, sK  (—19.)

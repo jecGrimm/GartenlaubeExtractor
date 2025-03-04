@@ -1,6 +1,0 @@
-[132] Auflösung der Skat-Aufgabe Nr. 2 auf S. 84:
-Der Spieler in Mittelhand hatte folgende Karten:
-eW, gW, rW, sW, eO, e9, gZ, gK, rD, rZ.
-Vorhand: eD, c8, e7, rK, rO, r9, r8, r7, sZ, s7
-Skat: sK, g7.
-Spielt nun nach dem angegebenen ersten Stich rK, rZ, eZ die Hinterhand weiter wie folgt: 2. gD, sZ, gK (−25), 3. gO, eD, gZ (−24), 4. rO, rD, eK (−18), so erhalten die Gegner 91 Augen und der Spieler ist Schneider. Wenn dagegen die Hinterhand, welche doch für ihr Spiel nach dem ersten Stiche einen festen Anhalt noch nicht hatte, im 2. Stich sD vorspielt, so sticht der Spieler mit eK ein, holt die Trümpfe heraus und giebt nur noch einen Stich in Grün (p) mit höchstens 31 Augen ab, so daß die Gegner im günstigsten Falle nur 56 Augen bekommen können.
