@@ -1,9 +1,0 @@
-[84] Skat-Aufgabe Nr. 2.
-Von K. Buhle.
-Die Hinterhand gewinnt mit folgender Karte:
-
-ein Eichel-(Treff)Solo mit Schneider, obwohl nur 3 Augen im Skat liegen, denn die Gegner erhalten nur 29 Augen. Der Spieler würde dagegen sein Solo mit Schneider verlieren, wenn die Gegner je zwei leere Blätter in einer Nebenfarbe mit einander tauschen dürften, denn sie würden 90 Augen hereinbekommen.
-Wie sitzen die übrigen Karten? Welche Karten würden zu tauschen sein, und wie ist in beiden Fällen der Gang des Spieles?[1]
-
-
-1. ↑ Abkürzungen: e., g., r., s. = Eicheln (tr.); Grün (p.); Roth (c.); Schellen (car.). W., D., Z., K., O., 9, 8, 7 = Wenzel (B.), Daus (As), Zehn, König, Ober (Dame) etc.

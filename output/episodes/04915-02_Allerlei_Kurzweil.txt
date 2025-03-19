@@ -1,8 +1,0 @@
-[36] Rösselsprung.
-Dem berühmten Mathematiker Euler wurde in einer Gesellschaft beim Schachspiel die Frage vorgelegt, ob es möglich sei, den Springer das ganze Schachfeld so durchlaufen zu lassen, daß er, vom beliebigen Felde ausgehend, alle Felder berühre, aber auf keins zweimal gesetzt werde. Diese „Rösselsprung“-Aufgabe war Euler neu und gab ihm Veranlassung zu interessanten mathematischen Studien, welche er im Jahre 1759 in einer Abhandlung verdeutlichte. Wir werden später Einiges daraus unsern Lesern mittheilen.
-Der Rösselsprung war, wie man behauptet, schon seit sehr alten Zeiten in Indien bekannt, und auch in der europäischen Literatur finden sich ältere Abhandlungen über die Grundidee dieses jetzt so allgemein beliebten Unterhaltungsspiels. Die oben erwähnte Aufgabe hat schon vor Euler Chevalier Montmort im Anfange des vorigen Jahrhunderts gelöst. Diese von einem französischen Forscher neuerdings veröffentlichte Lösung ist unserer heutigen Rösselsprung-Aufgabe zu Grunde gelegt worden.
-
-
-
-
-

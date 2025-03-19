@@ -113,7 +113,7 @@ class GartenlaubeExtractor:
 
                 title = WHOLE_DATA["parse"]["title"] 
 
-                if self.match_blacklist_titles(title):
+                if self.match_blacklist_titles(title) and self.get_category(title) != "":
                     self.max_id += 1
                     # get whole text and episode splits
                     text = self.get_page_text_html(WHOLE_DATA["parse"]["text"]["*"])
@@ -739,26 +739,6 @@ if __name__ == "__main__":
 
     scraper = GartenlaubeExtractor(S, URL)
 
-    # TODO: subcat 44 
-    # During handling of the above exception, another exception occurred:
-
-# Traceback (most recent call last):
-#   File "extract.py", line 755, in <module>
-#     scraper.get_text_metadata(subcat)
-#   File "extract.py", line 112, in get_text_metadata
-#     WHOLE_DATA = self.scrape_API(WHOLE_PARAMS)
-#   File "extract.py", line 80, in scrape_API
-#     R = self.S.get(url=self.URL, params=params)
-#   File "/home/jana/.local/lib/python3.8/site-packages/requests/sessions.py", line 602, in get
-#     return self.request("GET", url, **kwargs)
-#   File "/home/jana/.local/lib/python3.8/site-packages/requests/sessions.py", line 589, in request
-#     resp = self.send(prep, **send_kwargs)
-#   File "/home/jana/.local/lib/python3.8/site-packages/requests/sessions.py", line 703, in send
-#     r = adapter.send(request, **kwargs)
-#   File "/home/jana/.local/lib/python3.8/site-packages/requests/adapters.py", line 682, in send
-#     raise ConnectionError(err, request=request)
-# requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(110, 'Connection timed out'))
-
     if modus == "run":
         # Programm ausführen
         scraper.get_subcats()
@@ -798,11 +778,12 @@ if __name__ == "__main__":
             #scraper.text_dict, scraper.meta_dict = json.load(param_file)
         
         #scraper.store_metadata()
+        # Programm ausführen
         scraper.get_subcats()
         all_text_dicts = dict()
         all_metadata = dict()
         
-        for subcat in tqdm(scraper.subcats[43:], desc="Processing journals"):
+        for subcat in tqdm(scraper.subcats[:5], desc="Processing journals"):
             # add poems and ballades to black_list
             scraper.filter_poems(subcat)
             # add all texts (except novellas) to black_list
@@ -829,7 +810,6 @@ if __name__ == "__main__":
         else:
             # store text and metadata in files
             scraper.store_dicts(all_text_dicts, all_metadata)
-
 
 
 
