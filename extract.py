@@ -318,6 +318,9 @@ class GartenlaubeExtractor:
         metas["Medium_ED"] = "Die Gartenlaube"
         metas["Medientyp_ED"] = "Familienblatt"
         metas["Hg."] = self.metadata_list[self.metadata_list.index("Herausgeber:")+1].strip()
+        metas["in_Pantheon"] = "FALSE"
+        metas["Verantwortlich_Erfassung"] = "GartenlaubeExtractor"
+        metas["falls andere Quelle"] = f"wikisource | https://de.wikisource.org/wiki/{'_'.join(metas['Titel'].split(' '))}"
 
         if metas["Titel"] in self.nschatz:
             metas["in_Deutscher_Novellenschatz_(Heyse)"] = "TRUE"
