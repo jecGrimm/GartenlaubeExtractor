@@ -30,7 +30,7 @@ The packages needed to run the script are stored in the file `gartenlaube_enviro
 
 ## Structure
 ### extract.py
-Script with the class GartenlaubeExtractor containing all of the needed methods to extract texts and save them.
+Script with the class GartenlaubeExtractor which extracts, filters and saves the text and metadata.
 
 ### test_dicts.json
 List containing the last extracted text_dicts and meta_dicts. This file can be used for testing purposes.
@@ -39,12 +39,12 @@ List containing the last extracted text_dicts and meta_dicts. This file can be u
 The output is stored in the `output`-directory. This directory contains to sub-directories `episodes` and `whole_texts`.<br> 
 
 #### texts
-`episodes` contains the split up text files for serial publications. The filename has the following structure:<br> <document_raw_id>-<episode_id>\_\<title>\_\<year>\_\<journal><br> 
+`episodes` contains the split up text files for serial publications. The filename has the following structure:<br> <document_raw_id>-<episode_id>\_\<title><br> 
 
-`whole_texts` contains the whole text files for all publications regardeless of their seriality. The filename has the following structure:<br> <document_raw_id>-00\_\<title>\_\<year>\_\<journal><br>
+`whole_texts` contains the whole text files for all publications regardeless of their seriality. The filename has the following structure:<br> <document_raw_id>-00\_\<title><br>
 
 #### metadata
-The metadata is appended at the end of to the existing file `Bibliographie.csv`.
+The metadata is appended at the end of to the existing file `Bibliographie.csv` in the folder `resources`.
 
 ### resources
 #### black_list
@@ -96,6 +96,12 @@ The field `Seiten` marks the pages of the text in the journal. Unfortunately, wi
 #### Gattungslabel_ED
 The field `Gattungslabel_ED` defines the historical genre label of the text. Here, the genre label is set as "E_N_Rubrik" if the text appears in the category "Erzählungen und Novellen.". If the category name contains the string "Novelle" but is not equal to "Erzählungen und Novellen.", the category name is set as `Gattungslabel_ED`. The field stays empty in all other cases.
 
+#### Responsible Person
+The field `Verantwortlich_Erfassung` marks which person is responsible for the collection of the text. The GartenlaubeExtractor is assigned as responsible in this case.
+
+#### Other sources
+The field `falls andere Quelle` provides the source of the text if it has not been digitalized in the scope of the project. Here, the source is always `wikisource` together with the link to the articel page. The url of the page is created automatically following the structure of the wikisource urls. The format is `https://de.wikisource.org/wiki/` followed by the title. The spaces in the title are replaced by underscores.  
+
 ### Filter
 The medium studied in this project are novellas. Therefore, all texts marked as poem or ballade on the [journal pages](https://de.wikisource.org/wiki/Die_Gartenlaube_(1853)) are excluded. Furthermore, we exclude all texts that are not listed as part of the genre "Erzählungen und Novellen." on the [index pages](https://de.wikisource.org/wiki/Seite:Die_Gartenlaube_(1853)_p_004.jpg). As the titles in the index lists are not always exact matches with the article titles, we align them via exact matches and overlapping words. 
 
@@ -119,11 +125,8 @@ The following fields are not automatically filled in the metadata table:
 - `Medium_Drittdruck`
 - `Jahr_Drittdruck`
 - `Label_Drittdruck`
-- `in_Pantheon`
 - `in_RUB_Sammlung`
 - `in_B-v-Wiese`
-- `Verantwortlich_Erfassung`
-- `falls_andere_Quelle`
 - `Herkunft_Prätext_lt_Paratext`
 - `Wahrheitsbeglaubigung_lt_Paratext`
 - `ist_spätere_Fassung_von`
@@ -131,4 +134,3 @@ The following fields are not automatically filled in the metadata table:
 ### Future Work
 - Extract missing fields in the metadata.
 - Make position in the journal, author name, and gender detection more robust.
-- Refine the novella filter.
