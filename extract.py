@@ -113,7 +113,17 @@ class GartenlaubeExtractor:
 
                 title = WHOLE_DATA["parse"]["title"] 
 
-                if self.match_blacklist_titles(title) and self.get_category(title) != "":
+                # Split check for Blacklist and section
+                extract_text = False
+                category = self.get_category(title) 
+                if category != "":
+                    extract_text = True
+
+                # splitted because of high complexity
+                if extract_text:
+                    extract_text = self.match_blacklist_titles(title)
+
+                if extract_text:
                     self.max_id += 1
                     # get whole text and episode splits
                     text = self.get_page_text_html(WHOLE_DATA["parse"]["text"]["*"])
@@ -128,7 +138,7 @@ class GartenlaubeExtractor:
                         serial = False
                         if len(self.text_dict[self.max_id]["episodes"]) > 1:
                             serial = True
-                        self.meta_dict[self.max_id] = self.extract_metadata(serial)
+                        self.meta_dict[self.max_id] = self.extract_metadata(serial, category)
 
     def get_page_text_html(self, html):
         """
@@ -253,7 +263,7 @@ class GartenlaubeExtractor:
         return footnotes
     
     # Metadata 
-    def extract_metadata(self, serial = False):
+    def extract_metadata(self, serial = False, category = ''):
         """
         This method stores the metadata in a dictionary that represents the corpus.
 
@@ -327,7 +337,7 @@ class GartenlaubeExtractor:
         else:
             metas["in_Deutscher_Novellenschatz_(Heyse)"] = "FALSE"
 
-        metas["Gattungslabel_ED"] = self.get_category(metas["Titel"])
+        metas["Gattungslabel_ED"] = category
 
         return metas
     
@@ -446,7 +456,10 @@ class GartenlaubeExtractor:
                         tables = index_soup.find_all('table')
                         
                         if tables:
-                            table = tables[-1]
+                            if "1870" in INDEXPARAMS["page"]:
+                                table = tables[1]
+                            else:
+                                table = tables[-1] 
 
                             # go through each row in the table
                             for tr in table.tbody.find_all("tr"):
@@ -459,8 +472,9 @@ class GartenlaubeExtractor:
                                         bl_candidate = True
                                 else:
                                     # Parse article titles
+                                    # Gartenlaube 1868, p. 4 is structured as a list and not as a table
                                     tds = tr.find_all("td")  
-                                    if len(tds) >= 2:
+                                    if len(tds) >= 2 and "align" not in tds[0].attrs:
                                         # Das zweite Element in tds ist die Seitenzahl für diesen Jahrgang. Kann auch für die Blacklistzuordnung genutzt werden.
                                         number_pattern = r"^\d+\."
                                         title = re.sub(number_pattern, "", tds[0].text.strip()).strip().lower()
@@ -471,9 +485,16 @@ class GartenlaubeExtractor:
                                                 self.black_list.add(title)
                                                 self.reordered_titles.add(reordered_title)
                                             else:
-                                                self.categories[(title, reordered_title)] = category
+                                                if category != "":
+                                                    self.categories[(title, reordered_title)] = category
+                                    else:
+                                        if ("colspan" in tds[0].attrs or "align" in tds[0].attrs) and tds[0].text.strip() != '':
+                                            if "Novelle" in tds[0].text:
+                                                bl_candidate = False
+                                                category = tds[0].text.strip()
+                                            else:
+                                                bl_candidate = True
                         else:
-                            # Gartenlaube 1863, p. 4 is structured as a list and not as a table
                             head_elem = index_soup.find('b')
                             for elem in head_elem.find_all_next(["li", 'b']):
                                 if elem.name == 'b':
@@ -583,7 +604,7 @@ class GartenlaubeExtractor:
                 intersected_toks = title_tokens.intersection(index_tokens)
 
                 # more than half of the tokens should match
-                if len(intersected_toks) > len(index_tokens) * 0.9 and len(intersected_toks) > len(title_tokens) * 0.9:
+                if len(intersected_toks) > len(index_tokens) * 0.9 or len(intersected_toks) > len(title_tokens) * 0.9:
                     if category == "Erzählungen und Novellen.":
                         return "E_N_Rubrik"
                     else: 
@@ -720,9 +741,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(prog='gartenlaube extractor')
     parser.add_argument('--modus', '-m', help='enable test modus with calling -m test', default="run")
     parser.add_argument('--processing', '-p', help='process code fast or safe', default="fast")
+    parser.add_argument('--index', '-i', help='run code only for the journals after the index (inclusive)', default=0)
 
     modus = parser.parse_args().modus
     processing = parser.parse_args().processing
+    index = int(parser.parse_args().index)
 
 
     if modus != "run" and not os.path.exists("./test_dicts.json"):
@@ -785,34 +808,43 @@ if __name__ == "__main__":
         scraper.get_subcats()
         all_text_dicts = dict()
         all_metadata = dict()
+        saved_idx = 0 
         
-        for subcat in tqdm(scraper.subcats[:5], desc="Processing journals"):
-            # add poems and ballades to black_list
-            scraper.filter_poems(subcat)
-            # add all texts (except novellas) to black_list
-            scraper.filter_genre(subcat)
+        try: 
+            for subcat in tqdm(scraper.subcats[index:], desc="Processing journals"): # 31: 1881
+                # add poems and ballades to black_list
+                scraper.filter_poems(subcat)
+                # add all texts (except novellas) to black_list
+                scraper.filter_genre(subcat)
 
-            # extract texts and metadata
-            scraper.get_text_metadata(subcat)
-            
-            if processing == "safe":
-                all_text_dicts.update(scraper.text_dict)
-                all_metadata.update(scraper.meta_dict)
+                # extract texts and metadata
+                try:
+                    # 1889, 39: Ueberraschungen übernommen, aber keine Rubrik 
+                    scraper.get_text_metadata(subcat)
 
-                # Calling here to store information in case of errors that would make it necessary to run everything again.
+                    if processing == "safe":
+                        all_text_dicts.update(scraper.text_dict)
+                        all_metadata.update(scraper.meta_dict)
+
+                        # Calling here to store information in case of errors that would make it necessary to run everything again.
+                        scraper.store_text()
+                        scraper.store_metadata()
+                        
+                        scraper.text_dict = defaultdict(dict)
+                        scraper.meta_dict = defaultdict(dict)
+
+                    saved_idx += 1
+                except:
+                    # 37: {'pageid': 146037, 'ns': 14, 'title': 'Kategorie:Die Gartenlaube (1887)'}
+                    print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the script again with the following command:\n\tpython3 extract.py -i {saved_idx}\n")
+        finally:
+            if processing == "fast":
                 scraper.store_text()
                 scraper.store_metadata()
-                
-                scraper.text_dict = defaultdict(dict)
-                scraper.meta_dict = defaultdict(dict)
-
-        if processing == "fast":
-            scraper.store_text()
-            scraper.store_metadata()
-            scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
-        else:
-            # store text and metadata in files
-            scraper.store_dicts(all_text_dicts, all_metadata)
+                scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
+            else:
+                # store text and metadata in files
+                scraper.store_dicts(all_text_dicts, all_metadata)
 
 
 
