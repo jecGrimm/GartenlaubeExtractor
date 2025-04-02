@@ -21,6 +21,10 @@ The optional argument `-m (test|run)` specifies whether the texts and metadata s
 
 The optional argument `-p (fast|safe)` decides whether the text and metadata is stored after every subcategory (processing `safe`) or once after extracting the whole Gartenlaube (processing `fast`). The second option is faster but all information is lost if an error occurs. 
 
+The optional argument `-s (int)` specifies the (inclusive) start index the script should run from. The default value is 0, i.e. the script start with the first journal (1853). 
+
+The optional argument `-e (int|None)` specifies the (exclusive) end index at which the script should stop. The default value is None, i.e. the script stops at the last journal.
+
 ### Environment
 The packages needed to run the script are stored in the file `gartenlaube_environment.yml`. To create your own environment for this script, follow these steps:
 
