@@ -398,10 +398,12 @@ class GartenlaubeExtractor:
                             for row in table.tbody.find_all('tr'):  
                                 # Find all data for each column
                                 columns = row.find_all('td')
-                                
+                                                                
                                 if columns != [] and columns[-1].text.strip() in ["Gedicht", "Ballade"]:
                                     if columns[1].a:
                                         self.black_list.add(columns[0].a["title"].strip().lower())
+                                else:
+                                    print(columns)
 
     def filter_genre(self, subcat):
         FILTERPARAMS = {
@@ -741,11 +743,15 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(prog='gartenlaube extractor')
     parser.add_argument('--modus', '-m', help='enable test modus with calling -m test', default="run")
     parser.add_argument('--processing', '-p', help='process code fast or safe', default="fast")
-    parser.add_argument('--index', '-i', help='run code only for the journals after the index (inclusive)', default=0)
+    parser.add_argument('--start', '-s', help='run code only for the journals after the start index (inclusive); start at 0', default=0)
+    parser.add_argument('--end', '-e', help='run code only until the journal with the end index (exclusive)', default=None)
 
     modus = parser.parse_args().modus
     processing = parser.parse_args().processing
-    index = int(parser.parse_args().index)
+    start = int(parser.parse_args().start)
+    end = parser.parse_args().end
+    if end:
+        end = int(end)
 
 
     if modus != "run" and not os.path.exists("./test_dicts.json"):
@@ -770,48 +776,10 @@ if __name__ == "__main__":
         scraper.get_subcats()
         all_text_dicts = dict()
         all_metadata = dict()
-        
-        for subcat in tqdm(scraper.subcats, desc="Processing journals"):
-            # add poems and ballades to black_list
-            scraper.filter_poems(subcat)
-            # add all texts (except novellas) to black_list
-            scraper.filter_genre(subcat)
-
-            # extract texts and metadata
-            scraper.get_text_metadata(subcat)
-            
-            if processing == "safe":
-                all_text_dicts.update(scraper.text_dict)
-                all_metadata.update(scraper.meta_dict)
-
-                # Calling here to store information in case of errors that would make it necessary to run everything again.
-                scraper.store_text()
-                scraper.store_metadata()
-                
-                scraper.text_dict = defaultdict(dict)
-                scraper.meta_dict = defaultdict(dict)
-
-        if processing == "fast":
-            scraper.store_text()
-            scraper.store_metadata()
-            scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
-        else:
-            # store text and metadata in files
-            scraper.store_dicts(all_text_dicts, all_metadata)
-    else:
-        # Use the collected texts and metadata for test purposes
-        #with open("./test_dicts.json", "r", encoding = "utf-8") as param_file:
-            #scraper.text_dict, scraper.meta_dict = json.load(param_file)
-        
-        #scraper.store_metadata()
-        # Programm ausführen
-        scraper.get_subcats()
-        all_text_dicts = dict()
-        all_metadata = dict()
         saved_idx = 0 
         
         try: 
-            for subcat in tqdm(scraper.subcats[index:], desc="Processing journals"): # 31: 1881
+            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"): # 31: 1881
                 # add poems and ballades to black_list
                 scraper.filter_poems(subcat)
                 # add all texts (except novellas) to black_list
@@ -836,7 +804,54 @@ if __name__ == "__main__":
                     saved_idx += 1
                 except:
                     # 37: {'pageid': 146037, 'ns': 14, 'title': 'Kategorie:Die Gartenlaube (1887)'}
-                    print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the script again with the following command:\n\tpython3 extract.py -i {saved_idx}\n")
+                    print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the script again with the following command:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
+        finally:
+            if processing == "fast":
+                scraper.store_text()
+                scraper.store_metadata()
+                scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
+            else:
+                # store text and metadata in files
+                scraper.store_dicts(all_text_dicts, all_metadata)
+    else:
+        # Use the collected texts and metadata for test purposes
+        #with open("./test_dicts.json", "r", encoding = "utf-8") as param_file:
+            #scraper.text_dict, scraper.meta_dict = json.load(param_file)
+        
+        #scraper.store_metadata()
+        # Programm ausführen
+        scraper.get_subcats()
+        all_text_dicts = dict()
+        all_metadata = dict()
+        saved_idx = 0 
+        
+        try: 
+            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"): # 31: 1881
+                # add poems and ballades to black_list
+                scraper.filter_poems(subcat)
+                # add all texts (except novellas) to black_list
+                scraper.filter_genre(subcat)
+
+                # extract texts and metadata
+                try:
+                    # 1889, 39: Ueberraschungen übernommen, aber keine Rubrik 
+                    scraper.get_text_metadata(subcat)
+
+                    if processing == "safe":
+                        all_text_dicts.update(scraper.text_dict)
+                        all_metadata.update(scraper.meta_dict)
+
+                        # Calling here to store information in case of errors that would make it necessary to run everything again.
+                        scraper.store_text()
+                        scraper.store_metadata()
+                        
+                        scraper.text_dict = defaultdict(dict)
+                        scraper.meta_dict = defaultdict(dict)
+
+                    saved_idx += 1
+                except:
+                    # 37: {'pageid': 146037, 'ns': 14, 'title': 'Kategorie:Die Gartenlaube (1887)'}
+                    print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the script again with the following command:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
         finally:
             if processing == "fast":
                 scraper.store_text()
