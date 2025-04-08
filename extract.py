@@ -870,14 +870,11 @@ if __name__ == "__main__":
         
         try: 
             for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"): # 31: 1881
-                # add poems and ballades to black_list
-                scraper.filter_index_type(subcat)
-                # add all texts (except novellas) to black_list
                 scraper.filter_bookindex_genre(subcat)
+                scraper.filter_index_type(subcat)
 
                 # extract texts and metadata
                 try:
-                    # 1889, 39: Ueberraschungen übernommen, aber keine Rubrik 
                     scraper.get_text_metadata(subcat)
 
                     if processing == "safe":
@@ -893,7 +890,6 @@ if __name__ == "__main__":
 
                     saved_idx += 1
                 except:
-                    # 37: {'pageid': 146037, 'ns': 14, 'title': 'Kategorie:Die Gartenlaube (1887)'}
                     print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
         finally:
             if processing == "fast":
@@ -910,8 +906,6 @@ if __name__ == "__main__":
         
         #scraper.store_metadata()
         # Programm ausführen
-        # TODO: Test 49-50 1899 metadata correct?
-        # TODO: Test erste 10 journals
         scraper.get_subcats()
         all_text_dicts = dict()
         all_metadata = dict()
@@ -919,14 +913,11 @@ if __name__ == "__main__":
         
         try: 
             for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"): # 31: 1881
-                # add poems and ballades to black_list
                 scraper.filter_bookindex_genre(subcat)
                 scraper.filter_index_type(subcat)
-                # add all texts (except novellas) to black_list
 
                 # extract texts and metadata
                 try:
-                    # 1889, 39: Ueberraschungen übernommen, aber keine Rubrik 
                     scraper.get_text_metadata(subcat)
 
                     if processing == "safe":
@@ -942,7 +933,6 @@ if __name__ == "__main__":
 
                     saved_idx += 1
                 except:
-                    # 37: {'pageid': 146037, 'ns': 14, 'title': 'Kategorie:Die Gartenlaube (1887)'}
                     print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
         finally:
             if processing == "fast":
