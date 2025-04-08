@@ -138,3 +138,4 @@ The following fields are not automatically filled in the metadata table:
 ### Future Work
 - Extract missing fields in the metadata.
 - Make position in the journal, author name, and gender detection more robust.
+- match texts by page numbers (avoid new orthography, changing titles, etc.)
