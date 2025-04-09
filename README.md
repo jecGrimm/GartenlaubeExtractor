@@ -7,7 +7,7 @@ The module deploys the following pipeline for the extraction:<br>
 
 ## Installation
 Clone and add submodules:<br> 
-`git clone --recurse-submodules git@github.com:jecGrimm/GartenlaubeExtractor.git`
+`git clone --recurse-submodules https://github.com/jecGrimm/GartenlaubeExtractor.git`
 
 If the repository has already been cloned without initializing the submodules, please run <br>
 `git submodule update --init --recursive` <br>

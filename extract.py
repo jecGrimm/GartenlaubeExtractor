@@ -402,6 +402,8 @@ class GartenlaubeExtractor:
         FILTERDATA = self.scrape_API(FILTERPARAMS)
 
         filter_pages = FILTERDATA["query"]["categorymembers"]
+
+        other_genres = set()
         
         if filter_pages != []:
 
@@ -432,7 +434,7 @@ class GartenlaubeExtractor:
                                 # Roman: R
                                 # Märchen: M
                                 # TODO: Link zur Seite gleich mit aufnehmen
-                                titles = [td.a["title"] for td in columns if td.a and (("class" in td.a.attrs and not td.a["class"][0].startswith("prp")) or "class" not in td.a.attrs)]
+                                titles = [td.a["title"] for td in columns if td.a and "title" in td.a.attrs and (("class" in td.a.attrs and not td.a["class"][0].startswith("prp")) or "class" not in td.a.attrs)]
                                 genre_type = ''  
                                 title = ''                         
                                 if len(columns) > 1 and titles != []:
@@ -441,7 +443,6 @@ class GartenlaubeExtractor:
                                 
                                 if genre_type != '' and title != '': # TODO: Fix Historische Erzählung wird nicht erkannt
                                     if genre_type in ["Gedicht", "Ballade"]:
-                                        #print("poem", columns)
                                         self.black_list.add(title) 
                                     else:
                                         # for testing
@@ -455,8 +456,10 @@ class GartenlaubeExtractor:
                                                 i = len(genres)
                                             i += 1
 
-                                        if found == False and genre_type not in ["Schluß", "Sechster BriefDas Wasser", "Illustrirte Reiseskizze", "Illustirte Reiseskizze", "M. R."]:
-                                            print(genre_type) #for testing purposes 
+                                        if found == False:
+                                            other_genres.add(genre_type) #for testing purposes 
+        if other_genres != {}:
+            print("Other found genres: ", other_genres)
 
     def filter_bookindex_genre(self, subcat):
         FILTERPARAMS = {
@@ -912,7 +915,7 @@ if __name__ == "__main__":
         saved_idx = 0 
         
         try: 
-            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"): # 31: 1881
+            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"):
                 scraper.filter_bookindex_genre(subcat)
                 scraper.filter_index_type(subcat)
 
