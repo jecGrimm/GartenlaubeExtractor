@@ -48,7 +48,7 @@ The output is stored in the `output`-directory. This directory contains to sub-d
 `whole_texts` contains the whole text files for all publications regardeless of their seriality. The filename has the following structure:<br> <document_raw_id>-00\_\<title><br>
 
 #### metadata
-The metadata is appended at the end of to the existing file `Bibliographie.csv` in the folder `resources`.
+The metadata is appended at the end of to the existing file `Bibliographie.csv` in the folder `resources`. The separator is ";".
 
 ### resources
 #### black_list
