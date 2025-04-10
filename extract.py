@@ -458,7 +458,7 @@ class GartenlaubeExtractor:
 
                                         if found == False:
                                             other_genres.add(genre_type) #for testing purposes 
-        if other_genres != {}:
+        if other_genres != set():
             print("Other found genres: ", other_genres)
 
     def filter_bookindex_genre(self, subcat):
