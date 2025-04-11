@@ -1,8 +1,0 @@
-[772] Auflösung der Skat-Aufgabe Nr. 15 auf S. 724.
-Die Hinterhand spielte Eichelsolo auf folgende Karte:
-
-rW, sW, eD, eO, e9, gD, gZ, gO, sD
-und hat das Spiel schon in den in der Aufgabe angegebenen ersten 4 Stichen verloren bei folgender Kartenvertheilung: Skat rD, sZ.
-
-Vorhand: eZ, eK, e7, rZ, rO, sK, sO, s9, s8, s7.
-Mittelhand: eW, gW, gK, g9, g8, g7, rK, r9, r8, r7.

@@ -1,8 +1,0 @@
-[648] Auflösung der Skataufgabe auf S. 532:
-Es ist zu unterscheiden, ob der Spieler in Vorhand, oder ob er in Mittel- oder Hinterhand sitzt. In Vorhand würde er unzweifelhaft sW wählen und Eichelsolo Schwarz ansagen (9 × 12 = 108). Sitzt aber der Spieler in Mittel- oder Hinterhand, so ist zwar Eichelsolo Schneider angesagt mit sW unverlierbar, es kostet aber nur 7 × 12 = 84, und deshalb wird sich der Spieler nicht sW, sondern eD wählen, weil er dann Grand-Schneider ansagen kann, was 6 × 16 = 96 kostet und unverlierbar ist, da die Gegner, wie die Berechnung ergiebt, höchstens 30 Augen bekommen können. Hätte Spieler den sW gewählt und Grand angesagt, so könnte er sogar in Vorhand das Spiel verlieren, da z. B. bei folgender Kartenvertheilung:
-
-I. Gegner: eD, eK, eO, gO, g9, g8, g7, rK, r7 s7,
-II. Gegner: rD, rZ, rO, r9, sD, sZ, sK, sO, s9, s8
-die Gegner 60 Augen hereinbekommen.
-
-Heft 40[Bearbeiten]

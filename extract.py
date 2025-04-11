@@ -12,6 +12,8 @@ import csv
 import json
 from tqdm import tqdm
 import argparse
+import nltk
+from nltk.tokenize import word_tokenize
 
 class GartenlaubeExtractor:
     def __init__(self, S, URL, black_list = set()):
@@ -26,6 +28,8 @@ class GartenlaubeExtractor:
         self.S = S
         self.URL = URL
         self.black_list = black_list
+        self.reordered_titles = set()
+        self.genre = dict()
         self.text_dict = defaultdict(dict)
         self.corpus = []
         self.subcat = []
@@ -109,7 +113,18 @@ class GartenlaubeExtractor:
                 WHOLE_DATA = self.scrape_API(WHOLE_PARAMS)
 
                 title = WHOLE_DATA["parse"]["title"] 
-                if title not in self.black_list:
+
+                # Split check for Blacklist and section
+                extract_text = False
+                genre = self.get_genre(title) 
+                if genre != "":
+                    extract_text = True
+
+                # splitted because of high complexity
+                if extract_text:
+                    extract_text = self.match_blacklist_titles(title)
+
+                if extract_text:
                     self.max_id += 1
                     # get whole text and episode splits
                     text = self.get_page_text_html(WHOLE_DATA["parse"]["text"]["*"])
@@ -124,7 +139,7 @@ class GartenlaubeExtractor:
                         serial = False
                         if len(self.text_dict[self.max_id]["episodes"]) > 1:
                             serial = True
-                        self.meta_dict[self.max_id] = self.extract_metadata(serial)
+                        self.meta_dict[self.max_id] = self.extract_metadata(serial, genre)
 
     def get_page_text_html(self, html):
         """
@@ -137,7 +152,8 @@ class GartenlaubeExtractor:
 
         all_text = soup.get_text().strip().split("\n")
         text = ""
-        if all_text[all_text.index("Titel:")+1] not in self.black_list:
+        if self.match_blacklist_titles(all_text[all_text.index("Titel:")+1]):
+        #if all_text[all_text.index("Titel:")+1] not in self.black_list:
 
             if "Indexseite" in all_text:
 
@@ -248,7 +264,7 @@ class GartenlaubeExtractor:
         return footnotes
     
     # Metadata 
-    def extract_metadata(self, serial = False):
+    def extract_metadata(self, serial = False, genre = ''):
         """
         This method stores the metadata in a dictionary that represents the corpus.
 
@@ -313,14 +329,43 @@ class GartenlaubeExtractor:
         metas["Medium_ED"] = "Die Gartenlaube"
         metas["Medientyp_ED"] = "Familienblatt"
         metas["Hg."] = self.metadata_list[self.metadata_list.index("Herausgeber:")+1].strip()
+        metas["in_Pantheon"] = "FALSE"
+        metas["Verantwortlich_Erfassung"] = "GartenlaubeExtractor"
+        metas["falls andere Quelle"] = f"wikisource | https://de.wikisource.org/wiki/{'_'.join(metas['Titel'].split(' '))}"
 
         if metas["Titel"] in self.nschatz:
             metas["in_Deutscher_Novellenschatz_(Heyse)"] = "TRUE"
         else:
             metas["in_Deutscher_Novellenschatz_(Heyse)"] = "FALSE"
 
+        metas["Gattungslabel_ED"] = genre 
+
+        metas["Gattungslabel_ED_normalisiert"] = self.get_normalized_genre(genre) 
+
         return metas
     
+    def get_normalized_genre(self, genre: str):
+        """
+        This method returns the normalized label for the extracted genre.
+
+        @param genre: string containing the extracted genre
+        @returns v: normalized genre label
+        """
+        normalized_genre = {
+            "Geschichte": "XE",
+            "Begebenheit": "XE",
+            "Novelle": "N",
+            "Erzählung": "E",
+            "Roman": "R",
+            "Märchen": "M",
+            "E_N_Rubrik": "E_N_Rubrik"
+        }
+        
+        for k,v in normalized_genre.items():
+            if k.lower() in genre.lower():
+                return v
+        return ''
+
     def novellenschatz(self):
         """
         This method extracts the titles in the Deutsche Novellenschatz to check whether the text is contained in it.
@@ -335,25 +380,30 @@ class GartenlaubeExtractor:
         return titles
 
     # Black list
-    def filter_poems(self, subcat):
+    def filter_index_type(self, subcat):
         """
         This function gets every index page and collects the names of the poems and ballades.
 
         @param subcat: current edition of the Gartenlaube
         """
+        # Genres that should be extracted
+        genres = ["Geschichte", "Begebenheit", "Novelle", "Erzählung", "Roman", "Märchen"]
+
         # Get all pages related to the subcategories (= pages for each year)
         FILTERPARAMS = {
             "action": "query",
             "cmtitle": subcat["title"],
             "list": "categorymembers", # allpage ausprobieren
             "format": "json",
-            "cmlimit": "1000",
+            "cmlimit": "500",
             "cmnamespace": "0"
         }
 
         FILTERDATA = self.scrape_API(FILTERPARAMS)
 
-        filter_pages = [page for page in FILTERDATA["query"]["categorymembers"]]
+        filter_pages = FILTERDATA["query"]["categorymembers"]
+
+        other_genres = set()
         
         if filter_pages != []:
 
@@ -378,10 +428,162 @@ class GartenlaubeExtractor:
                             for row in table.tbody.find_all('tr'):  
                                 # Find all data for each column
                                 columns = row.find_all('td')
+                                # Geschichte, Begebenheit: XE
+                                # Novelle: N
+                                # Erzählung: E
+                                # Roman: R
+                                # Märchen: M
+                                # TODO: Link zur Seite gleich mit aufnehmen
+                                titles = [td.a["title"] for td in columns if td.a and "title" in td.a.attrs and (("class" in td.a.attrs and not td.a["class"][0].startswith("prp")) or "class" not in td.a.attrs)]
+                                genre_type = ''  
+                                title = ''                         
+                                if len(columns) > 1 and titles != []:
+                                    title = titles[0]
+                                    genre_type = columns[-1].text.strip()
                                 
-                                if columns != [] and columns[-1].text.strip() in ["Gedicht", "Ballade"]:
-                                    if columns[1].a:
-                                        self.black_list.add(columns[0].a["title"].strip())
+                                if genre_type != '' and title != '': # TODO: Fix Historische Erzählung wird nicht erkannt
+                                    if genre_type in ["Gedicht", "Ballade"]:
+                                        self.black_list.add(title) 
+                                    else:
+                                        # for testing
+                                        i = 0
+                                        found = False
+                                        while i < len(genres):
+                                            genre = genres[i]
+                                            if genre.lower() in genre_type.lower():
+                                                self.add_genre(title, genre_type)
+                                                found = True
+                                                i = len(genres)
+                                            i += 1
+
+                                        if found == False:
+                                            other_genres.add(genre_type) #for testing purposes 
+        if other_genres != set():
+            print("Other found genres: ", other_genres)
+
+    def filter_bookindex_genre(self, subcat):
+        FILTERPARAMS = {
+            "action": "query",
+            "cmtitle": subcat["title"],
+            "list": "categorymembers", # allpage ausprobieren
+            "format": "json",
+            "cmlimit": "500",
+            "cmnamespace": "104" # 14: Artikel und Heftkategorien, 0: pages, 102: Seiten, 104: Index
+        }
+
+        FILTERDATA = self.scrape_API(FILTERPARAMS)
+
+        filter_pages = FILTERDATA["query"]["categorymembers"]
+        genre = ""
+        if filter_pages != []:
+            for page in filter_pages:
+                RAWPARAMS = {
+                    "action": "parse",
+                    "pageid": page["pageid"] ,
+                    "prop": "text|wikitext",
+                    "format": "json",
+                }
+                RAWDATA = self.scrape_API(RAWPARAMS)
+
+                #<p>Buchinhaltsverzeichnis:\n<a href="/wiki/Seite:Die_Gartenlaube_(1853)_p_003.jpg" class="prp-pagequality-4 quality4" title="Seite:Die Gartenlaube (1853) p 003.jpg">III</a>\n<a href="/wiki/Seite:Die_Gartenlaube_(1853)_p_004.jpg" class="prp-pagequality-4 quality4" title="Seite:Die Gartenlaube (1853) p 004.jpg">IV</a>\n</p>
+                html = RAWDATA["parse"]["text"]["*"]
+
+                soup = BeautifulSoup(html, 'html.parser')
+                index_p = None
+                i = 0
+
+                index_pointers = ["Buchinhaltsverzeichnis", "Inhaltsverzeichnis"]
+                while not index_p and i < len(index_pointers):
+                    index_p = soup.find(lambda tag: tag.name == "p" and index_pointers[i] in tag.text)
+                    i += 1
+
+                if index_p:
+                    bl_candidate = False
+
+                    index_titles = [a["title"] for a in index_p.find_all("a")]
+                    for title in index_titles: 
+                        INDEXPARAMS = {
+                            "action": "parse",
+                            "page": title,
+                            "prop": "text",
+                            "format": "json",
+                        }
+
+                        INDEXDATA = self.scrape_API(INDEXPARAMS)
+                        index_soup = BeautifulSoup(INDEXDATA['parse']['text']['*'], 'html.parser')
+                        tables = index_soup.find_all('table')
+                        
+                        if tables:
+                            if "1870" in INDEXPARAMS["page"]:
+                                table = tables[1]
+                            else:
+                                table = tables[-1] 
+
+                            # go through each row in the table
+                            for tr in table.tbody.find_all("tr"):
+                                if tr.find("th"):
+                                    # Parse Section titles
+                                    if tr.find("th").text.strip() != "" and "Novelle" in tr.find("th").text:
+                                        bl_candidate = False
+
+                                        if tr.find("th").text.strip() == "Erzählungen und Novellen.":
+                                            genre = "E_N_Rubrik"
+                                        else:
+                                            genre = tr.find("th").text.strip() + "_Rubrik"
+                                    else:
+                                        bl_candidate = True
+                                else:
+                                    # Parse article titles
+                                    # Gartenlaube 1868, p. 4 is structured as a list and not as a table
+                                    tds = tr.find_all("td")  
+                                    if len(tds) >= 2 and "align" not in tds[0].attrs:
+                                        # Das zweite Element in tds ist die Seitenzahl für diesen Jahrgang. Kann auch für die Blacklistzuordnung genutzt werden.
+                                        number_pattern = r"^\d+\."
+                                        title = re.sub(number_pattern, "", tds[0].text.strip()).strip().lower()
+                                        
+                                        if title != "":  
+                                            reordered_title = self.reorder_title(title)
+                                            if bl_candidate and self.get_genre(title) == '':
+                                                self.black_list.add(title)
+                                                self.reordered_titles.add(reordered_title)
+                                            else:
+                                                if genre != "":
+                                                    self.add_genre(title, genre, reordered_title) 
+                                    else:
+                                        if ("colspan" in tds[0].attrs or "align" in tds[0].attrs) and tds[0].text.strip() != '':
+                                            if "Novelle" in tds[0].text:
+                                                bl_candidate = False
+                                                if tds[0].text.strip() == "Erzählungen und Novellen.":
+                                                    genre = "E_N_Rubrik"
+                                                else:
+                                                    genre = tds[0].text.strip() + "_Rubrik"
+                                            else:
+                                                bl_candidate = True
+                        else:
+                            head_elem = index_soup.find('b')
+                            for elem in head_elem.find_all_next(["li", 'b']):
+                                if elem.name == 'b':
+                                    if "Novelle" in elem.text:
+                                        bl_candidate = False
+                                        genre = elem.text.strip()
+                                        if elem.text.strip() == "Erzählungen und Novellen.":
+                                            genre = "E_N_Rubrik"
+                                        else:
+                                            genre = elem.text.strip() + "_Rubrik"
+                                    else:
+                                        bl_candidate = True
+                                elif elem.name == "li":
+                                    # Page numbers are added to the list item in this case
+                                    number_pattern = r"(^\d+\.|\d+\.?$)"
+                                    title = re.sub(number_pattern, "", elem.text.strip()).strip().lower()
+
+                                    if title != "":
+                                        reordered_title = self.reorder_title(title)
+                                        if bl_candidate and self.get_genre(title) == '':
+                                            self.black_list.add(title)
+                                            self.reordered_titles.add(reordered_title)
+                                        else:
+                                            self.add_genre(title, genre, reordered_title)   
 
     def filter_blacklist(self, filename):
         """
@@ -394,7 +596,8 @@ class GartenlaubeExtractor:
 
             for row in corpus_reader:
                 # Add Title to Black list
-                self.black_list.add(row["Titel"])
+                if row["Titel"] != '':
+                    self.black_list.add(row["Titel"].lower())
                 
                 # Extract important corpus information
                 if filename == "./resources/black_list/Bibliographie.csv":
@@ -407,6 +610,99 @@ class GartenlaubeExtractor:
                     curr_id = int(re.match(r"0*(\d{1,})-\d+", row["Dokument ID"]).group(1))
                     if curr_id > self.max_id:
                         self.max_id = curr_id
+
+    def reorder_title(self, bl_title):
+        """
+        This method fixes the order of the titles in the blacklist.
+
+        @param bl_title: a title from the blacklist
+        """
+        # the titles in the wikisource genre list are reordered -> "Herr, der alte" instead of "Der alte Herr"
+        order_match = re.search(r"([ \-’\w]+), ([\w ]+)([,\.] (.*)|)", bl_title)
+        reordered_title = ""
+        if order_match:
+            reordered_title = order_match.group(2) + " " + order_match.group(1)
+            if order_match.group(4):
+                reordered_title += " " + order_match.group(4)
+        return reordered_title
+
+    def match_blacklist_titles(self, title):
+        '''
+        This method checks if a title is contained in the black list by exact match and word overlap.
+
+        @param title: title of the page
+        @returns False if the title is contained in the black_list.
+        '''
+        # exact match with the title and reordered titles
+        title = title.lower()
+        clean_title = re.sub(r" \(.*gartenlaube.*\)", "", title)
+        if clean_title not in self.black_list and clean_title not in self.reordered_titles:
+            title_tokens = set(word_tokenize(clean_title))
+
+            for bl_title in self.black_list:
+                bl_title = re.sub(r" \(.*gartenlaube.*\)", "", bl_title)
+                bl_tokens = set(word_tokenize(bl_title))
+                intersected_toks = title_tokens.intersection(bl_tokens)
+
+                # min_len = 3
+                # if len(title_tokens) < min_len:
+                #     min_len = len(title_tokens)
+
+                # if len(bl_tokens) < min_len and len(bl_tokens) > 0:
+                #     min_len = len(bl_tokens)
+
+                # if len(intersected_toks) >= min_len:
+                #     return False
+                if len(intersected_toks) > len(bl_tokens) * 0.9 or len(intersected_toks) > len(title_tokens) * 0.9:
+                    return False
+        else:
+            return False
+
+        return True
+    
+    def get_genre(self, title):
+        '''
+        This method checks if a title is contained in the category dictionary by exact matches and word overlap.
+
+        @param title: title of the article
+        @returns category of the article or empty string
+        '''
+        # exact match with the title and reordered titles
+        title = title.lower()
+        clean_title = re.sub(r" \(die gartenlaube \d+.*\)", "", title)
+        found_genre = ""
+
+        for (index_title, reordered_title), genre in self.genre.items():
+            if clean_title == index_title or clean_title == reordered_title:
+                return genre
+            else:
+                #word overlap
+                title_tokens = set(word_tokenize(clean_title))
+                index_tokens = set(word_tokenize(index_title))
+                intersected_toks = title_tokens.intersection(index_tokens)
+
+
+                if len(intersected_toks) > len(index_tokens) * 0.9 or len(intersected_toks) > len(title_tokens) * 0.9:
+                    found_genre = genre
+        return found_genre
+
+    def add_genre(self, title: str, new_genre: str, reordered_title: str = ''):
+        """
+        This method adds title and genre to the genre list.
+
+        @params
+            title: title of the text
+            new_genre: genre that should be added
+            reordered_title: title with the corrected word order
+        """
+        title = title.strip().lower()
+        genre = self.get_genre(title)
+
+        if genre == "":
+            self.genre[(title, reordered_title)] = new_genre
+        elif genre != new_genre:
+            if ("Novelle" in new_genre or "Erzählung" in new_genre) and genre == "E_N_Rubrik":
+                self.genre[(title, reordered_title)] = new_genre     
 
     # Output
     def store_text(self):
@@ -534,11 +830,22 @@ class GartenlaubeExtractor:
 
 
 if __name__ == "__main__":
+    nltk.download("punkt")
+    nltk.download('punkt_tab')
     # CLI
     parser = argparse.ArgumentParser(prog='gartenlaube extractor')
     parser.add_argument('--modus', '-m', help='enable test modus with calling -m test', default="run")
+    parser.add_argument('--processing', '-p', help='process code fast or safe', default="fast")
+    parser.add_argument('--start', '-s', help='run code only for the journals after the start index (inclusive); start at 0', default=0)
+    parser.add_argument('--end', '-e', help='run code only until the journal with the end index (exclusive)', default=None)
 
     modus = parser.parse_args().modus
+    processing = parser.parse_args().processing
+    start = int(parser.parse_args().start)
+    end = parser.parse_args().end
+    if end:
+        end = int(end)
+
 
     if modus != "run" and not os.path.exists("./test_dicts.json"):
         modus = "run"
@@ -562,33 +869,82 @@ if __name__ == "__main__":
         scraper.get_subcats()
         all_text_dicts = dict()
         all_metadata = dict()
+        saved_idx = 0 
+        
+        try: 
+            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"): # 31: 1881
+                scraper.filter_bookindex_genre(subcat)
+                scraper.filter_index_type(subcat)
 
-        for subcat in tqdm(scraper.subcats, desc="Processing journals"):
-            # add poems and ballades to black_list
-            scraper.filter_poems(subcat)
-            # extract texts and metadata
-            scraper.get_text_metadata(subcat)
+                # extract texts and metadata
+                try:
+                    scraper.get_text_metadata(subcat)
 
-            all_text_dicts.update(scraper.text_dict)
-            all_metadata.update(scraper.meta_dict)
+                    if processing == "safe":
+                        all_text_dicts.update(scraper.text_dict)
+                        all_metadata.update(scraper.meta_dict)
 
-            # Calling here to store information in case of errors that would make it necessary to run everything again.
-            scraper.store_text()
-            scraper.store_metadata()
-            
-            scraper.text_dict = defaultdict(dict)
-            scraper.meta_dict = defaultdict(dict)
+                        # Calling here to store information in case of errors that would make it necessary to run everything again.
+                        scraper.store_text()
+                        scraper.store_metadata()
+                        
+                        scraper.text_dict = defaultdict(dict)
+                        scraper.meta_dict = defaultdict(dict)
 
-        # store text and metadata in files
-        scraper.store_dicts(all_text_dicts, all_metadata)
+                    saved_idx += 1
+                except:
+                    print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
+        finally:
+            if processing == "fast":
+                scraper.store_text()
+                scraper.store_metadata()
+                scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
+            else:
+                # store text and metadata in files
+                scraper.store_dicts(all_text_dicts, all_metadata)
     else:
         # Use the collected texts and metadata for test purposes
-        with open("./test_dicts.json", "r", encoding = "utf-8") as param_file:
-            scraper.text_dict, scraper.meta_dict = json.load(param_file)
+        #with open("./test_dicts.json", "r", encoding = "utf-8") as param_file:
+            #scraper.text_dict, scraper.meta_dict = json.load(param_file)
         
-        scraper.store_metadata()
-        print("Done!")
+        #scraper.store_metadata()
+        # Programm ausführen
+        scraper.get_subcats()
+        all_text_dicts = dict()
+        all_metadata = dict()
+        saved_idx = 0 
+        
+        try: 
+            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"):
+                scraper.filter_bookindex_genre(subcat)
+                scraper.filter_index_type(subcat)
 
+                # extract texts and metadata
+                try:
+                    scraper.get_text_metadata(subcat)
+
+                    if processing == "safe":
+                        all_text_dicts.update(scraper.text_dict)
+                        all_metadata.update(scraper.meta_dict)
+
+                        # Calling here to store information in case of errors that would make it necessary to run everything again.
+                        scraper.store_text()
+                        scraper.store_metadata()
+                        
+                        scraper.text_dict = defaultdict(dict)
+                        scraper.meta_dict = defaultdict(dict)
+
+                    saved_idx += 1
+                except:
+                    print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
+        finally:
+            if processing == "fast":
+                scraper.store_text()
+                scraper.store_metadata()
+                scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
+            else:
+                # store text and metadata in files
+                scraper.store_dicts(all_text_dicts, all_metadata)
 
 
 

@@ -1,9 +1,0 @@
-[220]  Auflösung der Skat-Aufgabe Nr. 3 auf S. 132:
-Wie sich aus den ersten drei Stichen und den übrigen Bestimmungen der Aufgabe ergiebt, spielte die Vorhand Eichel (tr.) -Solo auf den folgenden Karten:
-rW, sW, c9, c8, c7, gD, gZ, rD, rO, sD. 
-bei folgender Kartenvertheilung: Skat: sK, sO. 
-Mittelhand: gW, eK, eO, gK, gO, g9, g8, g7, sZ, S8.
-Hinterhand: eW, eD, eZ, rZ, rK, r9, r8, r7, s9, s7.
-Nach den drei ersten Stichen, auf welche die Gegner  bereits 57 Augen erlangt haben. folgen nach: 
-4. rZ, r0, sZ, (-23) 5. r9, c8, gW (-2) 6. gO, eW, gD (-16)
-womit die Gegner trotz der gleichen Vertheilung der Trümpfe 98 Augen hereinbekommen, bevor der Spieler zum Stich gelangt ist.

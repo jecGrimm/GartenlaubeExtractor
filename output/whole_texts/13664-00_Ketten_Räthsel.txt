@@ -1,4 +1,0 @@
-[288] Ketten-Räthsel.
-
-An die Stelle der Kreuzchen sind folgende Buchstaben: 3a, 1c, 4d, 9e, 1g, 2h, 4i, 2k, 3l, 1m, 8n, 1o, 3r, 4s, 4u so zu setzen, daß in der Reihenfolge der Ziffern 1 bis 8 zu lesen ist, im: 1. Ring: ein Held der griechischen Mythe, 2. Ring: ein Zustand, in dem man nicht die Ursache eines Vergehens ist, 3. Ring: eine Bezeichnung für Wappenkunde, 4. Ring: eine Stadt am Genfer See, 5. Ring: ein Gebirge in Frankreich, 6. Ring: ein Land des Alterthums in Afrika, 7. Ring: ein berühmter griechischer Philosoph aus der Zeit Alexander’s des Großen.
-Die Buchstaben an den Verknotungspunkten der Ringe nennen einen deutschen Dichter.
