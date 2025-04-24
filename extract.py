@@ -115,7 +115,7 @@ class GartenlaubeExtractor:
                 title = WHOLE_DATA["parse"]["title"] 
 
                 # Split check for Blacklist and section
-                extract_text = False
+                extract_text = False 
                 genre = self.get_genre(title) 
                 if genre != "":
                     extract_text = True
@@ -125,11 +125,11 @@ class GartenlaubeExtractor:
                     extract_text = self.match_blacklist_titles(title)
 
                 if extract_text:
-                    self.max_id += 1
                     # get whole text and episode splits
                     text = self.get_page_text_html(WHOLE_DATA["parse"]["text"]["*"])
 
                     if text != "":
+                        self.max_id += 1
                         self.text_dict[self.max_id] = {\
                             "whole": text,\
                             "episodes": self.split_episodes(text)\
@@ -403,7 +403,7 @@ class GartenlaubeExtractor:
 
         filter_pages = FILTERDATA["query"]["categorymembers"]
 
-        other_genres = set()
+        #other_genres = set()
         
         if filter_pages != []:
 
@@ -441,7 +441,7 @@ class GartenlaubeExtractor:
                                     title = titles[0]
                                     genre_type = columns[-1].text.strip()
                                 
-                                if genre_type != '' and title != '': # TODO: Fix Historische Erzählung wird nicht erkannt
+                                if genre_type != '' and title != '': 
                                     if genre_type in ["Gedicht", "Ballade"]:
                                         self.black_list.add(title) 
                                     else:
@@ -456,10 +456,10 @@ class GartenlaubeExtractor:
                                                 i = len(genres)
                                             i += 1
 
-                                        if found == False:
-                                            other_genres.add(genre_type) #for testing purposes 
-        if other_genres != set():
-            print("Other found genres: ", other_genres)
+                                        # if found == False:
+                                        #     other_genres.add(genre_type) #for testing purposes 
+        # if other_genres != set():
+        #     print("Other found genres: ", other_genres)
 
     def filter_bookindex_genre(self, subcat):
         FILTERPARAMS = {
@@ -760,10 +760,7 @@ class GartenlaubeExtractor:
         This method appends the extracted metadata to the corpus.
         """        
         with open("./resources/black_list/Bibliographie.csv", "a", encoding = "utf-8") as csv_file:
-        #with open("./resources/black_list/Bibliographie_TEST.csv", "w", encoding = "utf-8") as csv_file:
             writer = csv.DictWriter(csv_file, fieldnames=self.fieldnames, delimiter=";")
-            # Remove comment when testing 
-            #writer.writeheader()
 
             for idx, row in tqdm(self.meta_dict.items(), desc="Adding metadata to the corpus"):
                 raw_id = row["Dokument ID"][:5]
@@ -872,7 +869,7 @@ if __name__ == "__main__":
         saved_idx = 0 
         
         try: 
-            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"): # 31: 1881
+            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"):
                 scraper.filter_bookindex_genre(subcat)
                 scraper.filter_index_type(subcat)
 
@@ -892,6 +889,7 @@ if __name__ == "__main__":
                         scraper.meta_dict = defaultdict(dict)
 
                     saved_idx += 1
+                    scraper.genre = dict() 
                 except:
                     print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
         finally:
@@ -935,6 +933,7 @@ if __name__ == "__main__":
                         scraper.meta_dict = defaultdict(dict)
 
                     saved_idx += 1
+                    scraper.genre = dict() 
                 except:
                     print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
         finally:
