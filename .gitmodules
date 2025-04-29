@@ -1,3 +1,6 @@
 [submodule "nschatz_deu"]
 	path = resources/nschatz_deu
 	url = https://github.com/deutschestextarchiv/nschatz_deu.git
+[submodule "full_name_splitter"]
+	path = full_name_splitter
+	url = https://github.com/jecGrimm/full_name_splitter.git

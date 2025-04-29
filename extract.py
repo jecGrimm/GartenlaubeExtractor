@@ -14,6 +14,7 @@ from tqdm import tqdm
 import argparse
 import nltk
 from nltk.tokenize import word_tokenize
+from full_name_splitter.full_name_splitter import Splitter
 
 class GartenlaubeExtractor:
     def __init__(self, S, URL, black_list = set()):
@@ -278,29 +279,47 @@ class GartenlaubeExtractor:
         metas["Dokument ID"] = self.add_zeros(self.max_id, 5)
 
         # author
-        author_names = self.metadata_list[self.metadata_list.index("Autor:")+1].strip().split(" ")
-        if author_names != [""]:
-            for name in author_names:
+        author_names = self.metadata_list[self.metadata_list.index("Autor:")+1].strip()
+        name_splitter = Splitter(self.cleaned(author_names))
+
+        if name_splitter.first_names != "": # TODO: fix A.P. = August Peters
+            metas["Vorname"] = name_splitter.first_names
+
+            for name in name_splitter._first_names:
                 if name in self.names["vornamen_w"]:
-                    metas["Vorname"] += name+" "
                     metas["Gender"] = "f"
                 elif name in self.names["vornamen_m"]:
-                    metas["Vorname"] += name+" "
                     metas["Gender"] = "m"
-                elif name in self.names["nachnamen"]:
-                    metas["Nachname"] += name+" "
-                else:
-                    # Defaultsplit: Last name in the list is stored as last name, the rest as first name 
-                    if author_names.index(name) != len(author_names)-1:
-                        metas["Vorname"] += name
-                        metas["Vorname"] += " "
-                    else:
-                        metas["Nachname"] += name
-            metas["Vorname"] = metas["Vorname"].strip()
-            metas["Nachname"] = metas["Nachname"].strip()
         else:
             metas["Vorname"] = "o.N."
+
+        if name_splitter.last_names != "":
+            metas["Nachname"] = name_splitter.last_names
+        else:
             metas["Nachname"] = "o.N."
+
+        # if author_names != [""]:
+        #     for name in author_names:
+        #         if name in self.names["vornamen_w"]:
+        #             metas["Vorname"] += name+" "
+        #             metas["Gender"] = "f"
+        #         elif name in self.names["vornamen_m"]:
+        #             metas["Vorname"] += name+" "
+        #             metas["Gender"] = "m"
+        #         elif name in self.names["nachnamen"]:
+        #             metas["Nachname"] += name+" "
+        #         else:
+        #             # Defaultsplit: Last name in the list is stored as last name, the rest as first name 
+        #             if author_names.index(name) != len(author_names)-1:
+        #                 metas["Vorname"] += name
+        #                 metas["Vorname"] += " "
+        #             else:
+        #                 metas["Nachname"] += name
+        #     metas["Vorname"] = metas["Vorname"].strip()
+        #     metas["Nachname"] = metas["Nachname"].strip()
+        # else:
+        #     metas["Vorname"] = "o.N."
+        #     metas["Nachname"] = "o.N."
 
         if metas["Vorname"] not in ["o.N.", "unbekannt"] or metas["Nachname"] not in ["o.N.", "unbekannt"]:
             for item in scraper.corpus:
@@ -343,6 +362,15 @@ class GartenlaubeExtractor:
         metas["Gattungslabel_ED_normalisiert"] = self.get_normalized_genre(genre) 
 
         return metas
+
+    def clean_author_name(self, name: str):
+        """
+        This method cleans the author name.
+
+        @param name: name of the author
+        """
+        cleaned = re.sub(r"(.*= )(.*)", r"\2", name)
+        return cleaned
     
     def get_normalized_genre(self, genre: str):
         """
@@ -912,38 +940,38 @@ if __name__ == "__main__":
         all_metadata = dict()
         saved_idx = 0 
         
-        try: 
-            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"):
-                scraper.filter_bookindex_genre(subcat)
-                scraper.filter_index_type(subcat)
+        # try: 
+        for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"):
+            scraper.filter_bookindex_genre(subcat)
+            scraper.filter_index_type(subcat)
 
-                # extract texts and metadata
-                try:
-                    scraper.get_text_metadata(subcat)
+            # extract texts and metadata
+            try:
+                scraper.get_text_metadata(subcat)
 
-                    if processing == "safe":
-                        all_text_dicts.update(scraper.text_dict)
-                        all_metadata.update(scraper.meta_dict)
+                if processing == "safe":
+                    # all_text_dicts.update(scraper.text_dict)
+                    # all_metadata.update(scraper.meta_dict)
 
-                        # Calling here to store information in case of errors that would make it necessary to run everything again.
-                        scraper.store_text()
-                        scraper.store_metadata()
-                        
-                        scraper.text_dict = defaultdict(dict)
-                        scraper.meta_dict = defaultdict(dict)
+                    # # Calling here to store information in case of errors that would make it necessary to run everything again.
+                    # scraper.store_text()
+                    # scraper.store_metadata()
+                    
+                    scraper.text_dict = defaultdict(dict)
+                    scraper.meta_dict = defaultdict(dict)
 
-                    saved_idx += 1
-                    scraper.genre = dict() 
-                except:
-                    print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
-        finally:
-            if processing == "fast":
-                scraper.store_text()
-                scraper.store_metadata()
-                scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
-            else:
-                # store text and metadata in files
-                scraper.store_dicts(all_text_dicts, all_metadata)
+                saved_idx += 1
+                scraper.genre = dict() 
+            except:
+                print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
+        #finally:
+        #     if processing == "fast":
+        #         scraper.store_text()
+                #scraper.store_metadata()
+        #         scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
+        #     else:
+        #         # store text and metadata in files
+        #         scraper.store_dicts(all_text_dicts, all_metadata)
 
 
 
