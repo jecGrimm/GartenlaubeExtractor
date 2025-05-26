@@ -13,6 +13,13 @@ If the repository has already been cloned without initializing the submodules, p
 `git submodule update --init --recursive` <br>
 to add the submodules afterwards. Without this command, the directory `resources/nschatz_deu` is empty.
 
+**Environment**<br>
+The packages needed to run the script are stored in the file `gartenlaube_environment.yml`. To create your own environment for this script, follow these steps:
+
+1. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
+2. Run `conda env create -f gartenlaube_environment.yml` in your terminal to create the `gartenlaube` environment used to run this script.
+3. Run `conda activate gartenlaube` to activate the environment before running the script.
+
 ## Usage
 ### CLI
 `python3 extract.py`
@@ -24,13 +31,6 @@ The optional argument `-p (fast|safe)` decides whether the text and metadata is 
 The optional argument `-s (int)` specifies the (inclusive) start index the script should run from. The default value is 0, i.e. the script start with the first journal (1853). 
 
 The optional argument `-e (int|None)` specifies the (exclusive) end index at which the script should stop. The default value is None, i.e. the script stops at the last journal.
-
-### Environment
-The packages needed to run the script are stored in the file `gartenlaube_environment.yml`. To create your own environment for this script, follow these steps:
-
-1. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
-2. Run `conda env create -f gartenlaube_environment.yml` in your terminal to create the `gartenlaube` environment used to run this script.
-3. Run `conda activate gartenlaube` to activate the environment before running the script.
 
 ## Structure
 ### extract.py
@@ -48,17 +48,17 @@ The output is stored in the `output`-directory. This directory contains to sub-d
 `whole_texts` contains the whole text files for all publications regardeless of their seriality. The filename has the following structure:<br> <document_raw_id>-00\_\<title><br>
 
 #### metadata
-The metadata is appended at the end of to the existing file `Bibliographie.csv` in the folder `resources`. The separator is ";".
+The metadata is stored in the file `Bibliographie.tsv`. The separator is `tab`.
 
 ### resources
 #### black_list
-Directory containing csv-files that list text titles that should not be extracted from wikidata.
+Directory containing csv or tsv-files that list text titles that should not be extracted from wikidata. The file `Bibliographie.tsv` is furthermore used as a reference for the author names, their pseudonym, assumed gender and canon status.
 
 #### names
 Directory containing json-files with lists of popular german names to split the author names into first names and last names.
 
 #### nschatz_deu
-Directory containing the xml-files for the texts in the corpus Deutscher Novellenschatz. The titles of these publications are used to mark them in "Bibliographie.csv".
+Directory containing the xml-files for the texts in the corpus Deutscher Novellenschatz. The titles of these publications are used to mark them in `Bibliographie.tsv`.
 
 ## Coding decisions
 ### Text
@@ -84,12 +84,12 @@ Words and characters that are emphasized on wikisource are not emphasized in the
 
 ### Metadata
 #### Splitting author names 
-The author names are split into first names and last names by checking their occurence in the `names` directory retrieved from [github](https://github.com/Jonas0204/Oilrig/tree/master/json).
+The author names are split into first names and last names by the library [full_name_splitter](https://github.com/npujol/full_name_splitter.git). If this library fails, we check the occurence of the name in the `names` directory retrieved from [github](https://github.com/Jonas0204/Oilrig/tree/master/json).
 
 If the name does not exist in one of the lists of names, the last name-part is saved as lastname and the rest as firstnames.
 
 #### Gender
-The gender is assumed by checking in which list of firstnames (male or female) the first name appears. Please note that we only include binary gender labels and that our assumptions might be incorrect. The assumptions are used to approximate the percentage of possibly female authors compared to possibly male authors.  
+The gender is assumed either by checking in which list of firstnames (male or female) the first name appears or by the prediction of [https://api.genderize.io](https://api.genderize.io). Please note that we only include binary gender labels and that the assumptions might be incorrect. The assumptions are used to approximate the percentage of possibly female authors compared to possibly male authors.  
 
 #### Position in the journal
 The field `Nummer im Heft (ab 00797: 1 erste Position. 0 nicht erste Position)` is true if the text occurs at the first position of the journal. However, this script only returns true if the text is printed on the first page of the journal.
@@ -119,7 +119,6 @@ The Gartenlaube is a journal containing texts from the 19th century. Many of the
 
 ### Metadata
 The following fields are not automatically filled in the metadata table:
-- `Pseudonym`
 - `Untertitel im Text`
 - `Untertitel im Inhaltsverzeichnis`
 - `Gattungslabel_ED_normalisiert`
@@ -137,5 +136,5 @@ The following fields are not automatically filled in the metadata table:
 
 ### Future Work
 - Extract missing fields in the metadata.
-- Make position in the journal, author name, and gender detection more robust.
+- Make position in the journal more robust.
 - match texts by page numbers (avoid new orthography, changing titles, etc.)

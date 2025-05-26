@@ -14,6 +14,8 @@ from tqdm import tqdm
 import argparse
 import nltk
 from nltk.tokenize import word_tokenize
+from full_name_splitter.full_name_splitter import Splitter
+from Levenshtein import ratio
 
 class GartenlaubeExtractor:
     def __init__(self, S, URL, black_list = set()):
@@ -39,6 +41,7 @@ class GartenlaubeExtractor:
         self.names = defaultdict(list)
         self.nschatz = self.novellenschatz()
         self.fieldnames = []
+        self.api_counter = 0
         
         # lists of names to split author names in first- and lastname
         for file in tqdm(os.listdir("./resources/names"), desc="Processing name lists"):
@@ -71,14 +74,16 @@ class GartenlaubeExtractor:
         # List of the subcat directories
         self.subcats = DATA["query"]["categorymembers"]
     
-    def scrape_API(self, params):
+    def scrape_API(self, params, url = None):
         """
         This method is a helpers-function to scrape the wiki-API.
 
         @params params: dictionary with parameters that should be used to scrape the API
         @returns DATA: a json-object with the results of the API-search
         """
-        R = self.S.get(url=self.URL, params=params)
+        if url == None:
+            url = self.URL
+        R = self.S.get(url=url, params=params)
         DATA = R.json()
         return DATA
     
@@ -275,37 +280,60 @@ class GartenlaubeExtractor:
         metas = {field: "" for field in self.fieldnames}
 
         # raw document id without episode index
-        metas["Dokument ID"] = self.add_zeros(self.max_id, 5)
+        metas["Dokument_ID"] = self.add_zeros(self.max_id, 5)
 
         # author
-        author_names = self.metadata_list[self.metadata_list.index("Autor:")+1].strip().split(" ")
-        if author_names != [""]:
-            for name in author_names:
-                if name in self.names["vornamen_w"]:
-                    metas["Vorname"] += name+" "
-                    metas["Gender"] = "f"
-                elif name in self.names["vornamen_m"]:
-                    metas["Vorname"] += name+" "
-                    metas["Gender"] = "m"
-                elif name in self.names["nachnamen"]:
-                    metas["Nachname"] += name+" "
+        author_name = self.metadata_list[self.metadata_list.index("Autor:")+1].strip() # TODO: von Mecklenburg-Strelitz;J. E. Mand i.e.: Karl Friedrich August, 1862
+        
+        if author_name not in ["", "unbekannt"]:
+            author_name, pseudonym = self.extract_pseudonym(author_name)
+
+            uniform_author_name = self.get_similar_name(author_name, pseudonym)
+            if uniform_author_name != None:
+                metas["Vorname"], metas["Nachname"], metas["Pseudonym"], metas["Gender"], metas["Kanon_Status"] = uniform_author_name
+            else:
+                name_splitter = Splitter(self.clean_author_name(author_name))
+
+                if name_splitter.first_names != "":
+                    metas["Vorname"] = name_splitter.first_names
+
+                    for name in name_splitter._first_names:
+                        if name in self.names["vornamen_w"]:
+                            metas["Gender"] = "f"
+                        elif name in self.names["vornamen_m"]:
+                            metas["Gender"] = "m"
+
+                if name_splitter.last_names != "":
+                    metas["Nachname"] = name_splitter.last_names
+
+                    if name_splitter.first_names == "":
+                        # only first name empty
+                        metas["Vorname"] = name_splitter._full_name.replace(name_splitter.last_names, '').strip()
                 else:
-                    # Defaultsplit: Last name in the list is stored as last name, the rest as first name 
-                    if author_names.index(name) != len(author_names)-1:
-                        metas["Vorname"] += name
-                        metas["Vorname"] += " "
+                    if name_splitter.first_names != "":
+                        # only last name empty
+                        metas["Vorname"] = ' '.join(name_splitter._first_names[:-1])
+                        metas["Nachname"] = name_splitter._first_names[-1]
                     else:
-                        metas["Nachname"] += name
-            metas["Vorname"] = metas["Vorname"].strip()
-            metas["Nachname"] = metas["Nachname"].strip()
+                        # both empty
+                        metas["Vorname"] = "o.N."
+                        metas["Nachname"] = "o.N."
+                
+                metas["Pseudonym"] = pseudonym if pseudonym else ''
+
+                self.corpus.append({
+                    "Vorname": metas["Vorname"],
+                    "Nachname": metas["Nachname"],
+                    "Pseudonym": metas["Pseudonym"],
+                    "Gender": metas["Gender"],
+                    "Kanon_Status": ""
+                    }) 
         else:
             metas["Vorname"] = "o.N."
             metas["Nachname"] = "o.N."
-
-        if metas["Vorname"] not in ["o.N.", "unbekannt"] or metas["Nachname"] not in ["o.N.", "unbekannt"]:
-            for item in scraper.corpus:
-                if metas["Vorname"] == item["Vorname"] and metas["Nachname"] == item["Nachname"] and item["Kanon_Status"]!="":
-                    metas["Kanon_Status"] = item["Kanon_Status"]
+        
+        if metas["Gender"] == '' and metas["Vorname"] != "o.N.":
+            metas["Gender"] = self.assume_gender(metas["Vorname"])
 
         # pages
         number_pages = re.sub(r"\xa0", "", self.metadata_list[self.metadata_list.index("aus:")+1].strip())
@@ -343,6 +371,90 @@ class GartenlaubeExtractor:
         metas["Gattungslabel_ED_normalisiert"] = self.get_normalized_genre(genre) 
 
         return metas
+
+    def get_similar_name(self, name: str, pseudonym = None):
+        """
+        This method searches for a similar author name in der existing bibliography to keep the author names uniform.
+
+        @param name: name of the author
+        @returns uniform: uniform author name, pseudonym: pseudonym of the author, canon_status: canon status of the author
+        """        
+        for item in self.corpus:
+            name_score = ratio(name, f"{item['Vorname']} {item['Nachname']}")
+
+            if name_score >= 0.9:
+                if pseudonym != None:
+                    if (item["Pseudonym"] == "") or (item['Pseudonym'] == pseudonym):
+                        return item["Vorname"], item["Nachname"], pseudonym, item["Gender"], item["Kanon_Status"]
+                    else:
+                        return item["Vorname"], item["Nachname"], f"{item['Pseudonym']} | {pseudonym}", item["Gender"], item["Kanon_Status"]
+                else:
+                    return item["Vorname"], item["Nachname"], item["Pseudonym"], item["Gender"], item["Kanon_Status"]
+
+            if item["Pseudonym"] != "":
+                for pseudo in item["Pseudonym"].split('|'):
+                    pseudo_score = ratio(name, pseudo)
+                    if pseudo_score >= 0.9:
+                        return item["Vorname"], item["Nachname"], item["Pseudonym"], item["Gender"], item["Kanon_Status"]
+        return None
+
+    def extract_pseudonym(self, name: str):
+        """
+        This method extracts the pseudonym from the author name.
+        
+        @param name: name of the author
+        @returns name: name of the author, pseudonym: pseudonym of the author
+        """
+        # TODO: Hans Warring;d.i.: Emma Meier, 1877
+        ie_match = re.match(r"(.*) i\.e\.:? (.*)", name)
+        equal_match = re.match(r"(.*\.) = (.*)", name)
+        spelt_out_match = re.match(r"(.*) unter dem Pseudonym (.*)", name)
+        di_match = re.match(r"(.*)[;,] ?d.i.: (.*)", name)
+        bracket_match = re.match(r"(.*) \[[= ]*(.*)\]", name)
+        if ie_match:
+            return ie_match.group(1), ie_match.group(2)
+        elif spelt_out_match:
+            return spelt_out_match.group(1), spelt_out_match.group(2)
+        elif di_match:
+            return di_match.group(2), di_match.group(1)
+        elif equal_match:
+            return equal_match.group(2), equal_match.group(1)
+        elif bracket_match:
+            return bracket_match.group(2), bracket_match.group(1)
+        else:
+            return name, None
+
+
+    def clean_author_name(self, name: str):
+        """
+        This method cleans the author name.
+
+        @param name: name of the author
+        @returns cleaned: cleaned author name
+        """
+        # TODO: i.e. abspalten und als Pseudonym zurückgeben
+        cleaned = re.sub(r"(.*= )(.*)", r"\2", name)
+        cleaned = re.sub(r"v\.", "von", name)
+        return cleaned
+
+    def assume_gender(self, name:str):
+        """
+        This method calls the ML-system genderize.io to predict the gender based on the name.
+
+        @param name: string of the first author name
+        @returns char that marks the gender, empty char if no prediction is possible
+        """
+        if self.api_counter < 100:
+            json = self.scrape_API(params = {"name": name}, url = "https://api.genderize.io")
+            self.api_counter += 1
+            if json["gender"] == "male":
+                return 'm'
+            elif json["gender"] == "female":
+                return 'f'
+            else:
+                return ''
+        else:
+            return ''
     
     def get_normalized_genre(self, genre: str):
         """
@@ -462,6 +574,11 @@ class GartenlaubeExtractor:
         #     print("Other found genres: ", other_genres)
 
     def filter_bookindex_genre(self, subcat):
+        """
+        This method fills the blacklist with titles from the bookindex pages that are not part of the rubric "Erzählungen und Novellen".
+
+        @param subcat: year of the journal
+        """
         FILTERPARAMS = {
             "action": "query",
             "cmtitle": subcat["title"],
@@ -534,7 +651,6 @@ class GartenlaubeExtractor:
                                         bl_candidate = True
                                 else:
                                     # Parse article titles
-                                    # Gartenlaube 1868, p. 4 is structured as a list and not as a table
                                     tds = tr.find_all("td")  
                                     if len(tds) >= 2 and "align" not in tds[0].attrs:
                                         # Das zweite Element in tds ist die Seitenzahl für diesen Jahrgang. Kann auch für die Blacklistzuordnung genutzt werden.
@@ -592,7 +708,10 @@ class GartenlaubeExtractor:
         @param filename: name of the black_list csv file
         """
         with open(filename, "r", encoding = "utf-8") as csv_file:
-            corpus_reader = csv.DictReader(csv_file, delimiter = ";")
+            if filename.endswith("csv"):
+                corpus_reader = csv.DictReader(csv_file, delimiter = ";")
+            else:
+                corpus_reader = csv.DictReader(csv_file, delimiter = "\t")
 
             for row in corpus_reader:
                 # Add Title to Black list
@@ -600,14 +719,15 @@ class GartenlaubeExtractor:
                     self.black_list.add(row["Titel"].lower())
                 
                 # Extract important corpus information
-                if filename == "./resources/black_list/Bibliographie.csv":
+                if "./resources/black_list/Bibliographie." in filename:
                     if self.fieldnames == []:
                         self.fieldnames = row.keys()
 
-                    self.corpus.append({"Vorname": row["Vorname"], "Nachname": row["Nachname"], "Kanon_Status": row["Kanon_Status"]})
+                    if "o.n" not in row["Vorname"].lower() or "unbekannt" not in row["Vorname"].lower() or "o.n" not in row["Nachname"].lower() or "unbekannt" not in row["Nachname"].lower():
+                        self.corpus.append({"Vorname": row["Vorname"], "Nachname": row["Nachname"], "Pseudonym": row["Pseudonym"], "Gender": row["Gender"], "Kanon_Status": row["Kanon_Status"]})
 
                     # Store max idx while we are here
-                    curr_id = int(re.match(r"0*(\d{1,})-\d+", row["Dokument ID"]).group(1))
+                    curr_id = int(re.match(r"0*(\d{1,})-\d+", row["Dokument_ID"]).group(1))
                     if curr_id > self.max_id:
                         self.max_id = curr_id
 
@@ -729,7 +849,7 @@ class GartenlaubeExtractor:
             file_title = re.sub(r"_{2,}", "_", file_title)
             file_title = re.sub(r"^_", "", file_title)
 
-            raw_id = self.meta_dict[idx]["Dokument ID"]
+            raw_id = self.meta_dict[idx]["Dokument_ID"]
 
             # get number of episodes
             num_episodes = len(texts["episodes"])
@@ -759,11 +879,11 @@ class GartenlaubeExtractor:
         """
         This method appends the extracted metadata to the corpus.
         """        
-        with open("./resources/black_list/Bibliographie.csv", "a", encoding = "utf-8") as csv_file:
-            writer = csv.DictWriter(csv_file, fieldnames=self.fieldnames, delimiter=";")
+        with open("./output/Bibliographie.tsv", "a", encoding = "utf-8") as csv_file:
+            writer = csv.DictWriter(csv_file, fieldnames=self.fieldnames, delimiter="\t")
 
             for idx, row in tqdm(self.meta_dict.items(), desc="Adding metadata to the corpus"):
-                raw_id = row["Dokument ID"][:5]
+                raw_id = row["Dokument_ID"][:5]
                 all_pages = row["Seiten"]
 
                 num_episodes = len(self.text_dict[idx]["episodes"])
@@ -775,7 +895,7 @@ class GartenlaubeExtractor:
                     id_len = len(str(num_episodes))
 
                 # whole text row
-                row["Dokument ID"] = f"{raw_id}-{self.add_zeros(0, id_len)}"
+                row["Dokument_ID"] = f"{raw_id}-{self.add_zeros(0, id_len)}"
                 writer.writerow(row)
                 
                 # episode rows
@@ -792,7 +912,7 @@ class GartenlaubeExtractor:
                             pages = page_match.group(2).split("und")
 
                     for i in range(num_episodes):
-                        row["Dokument ID"] = f"{raw_id}-{self.add_zeros(i+1, id_len)}"
+                        row["Dokument_ID"] = f"{raw_id}-{self.add_zeros(i+1, id_len)}"
 
                         if i < len(pages):
                             row["Seiten"] = pages[i].strip()
@@ -912,38 +1032,38 @@ if __name__ == "__main__":
         all_metadata = dict()
         saved_idx = 0 
         
-        try: 
-            for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"):
-                scraper.filter_bookindex_genre(subcat)
-                scraper.filter_index_type(subcat)
+        # try: 
+        for subcat in tqdm(scraper.subcats[start:end], desc="Processing journals"):
+            scraper.filter_bookindex_genre(subcat)
+            scraper.filter_index_type(subcat)
 
-                # extract texts and metadata
-                try:
-                    scraper.get_text_metadata(subcat)
+            # extract texts and metadata
+            try:
+                scraper.get_text_metadata(subcat)
 
-                    if processing == "safe":
-                        all_text_dicts.update(scraper.text_dict)
-                        all_metadata.update(scraper.meta_dict)
+                if processing == "safe":
+                    # all_text_dicts.update(scraper.text_dict)
+                    # all_metadata.update(scraper.meta_dict)
 
-                        # Calling here to store information in case of errors that would make it necessary to run everything again.
-                        scraper.store_text()
-                        scraper.store_metadata()
-                        
-                        scraper.text_dict = defaultdict(dict)
-                        scraper.meta_dict = defaultdict(dict)
+                    # # Calling here to store information in case of errors that would make it necessary to run everything again.
+                    # scraper.store_text()
+                    scraper.store_metadata()
+                    
+                    scraper.text_dict = defaultdict(dict)
+                    scraper.meta_dict = defaultdict(dict)
 
-                    saved_idx += 1
-                    scraper.genre = dict() 
-                except:
-                    print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
-        finally:
-            if processing == "fast":
-                scraper.store_text()
-                scraper.store_metadata()
-                scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
-            else:
-                # store text and metadata in files
-                scraper.store_dicts(all_text_dicts, all_metadata)
+                saved_idx += 1
+                scraper.genre = dict() 
+            except:
+                print(f"\nThe Wiki API raised an error on {scraper.subcats[saved_idx]} (index {saved_idx}). Please run the following command after finishing:\n\tpython3 extract.py -s {saved_idx} -e {saved_idx+1}\n")
+        #finally:
+        #     if processing == "fast":
+        #         scraper.store_text()
+                #scraper.store_metadata()
+        #         scraper.store_dicts(scraper.text_dict, scraper.meta_dict)
+        #     else:
+        #         # store text and metadata in files
+        #         scraper.store_dicts(all_text_dicts, all_metadata)
 
 
 
