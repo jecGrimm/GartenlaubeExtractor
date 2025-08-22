@@ -83,7 +83,9 @@ class GartenlaubeExtractor:
         """
         if url == None:
             url = self.URL
-        R = self.S.get(url=url, params=params)
+        
+        HEADERS = {'User-Agent': 'GartenlaubeExtractorBot/0.0 (j.grimm@campus.lmu.de) python-request/0.0'}
+        R = self.S.get(url=url, params=params, headers = HEADERS)
         DATA = R.json()
         return DATA
     
